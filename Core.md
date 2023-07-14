@@ -1,6 +1,8 @@
 # Mage Cortex Conversion
 
 
+# Testing Shit
+
 Unofficial rules to play Mage: the Ascension using Cortex Prime
 
 Written by Rhinemann with great thanks to Jeremy.Forbing and joshroby (they/them) on Cortex Prime discord for the input.
