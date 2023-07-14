@@ -74,6 +74,8 @@ Each of your distinctions benefits from the Hinder SFX:
 
 ### Step 2: Assign Attributes
 
+#### Step 2: Assign Attributes
+
 Each attribute defaults to d8 and can be stepped up at the expense of another. The attributes are: Physical, Social and Mental, as in default rules
 Step 3: Assign Skills
 15 points to step up skills, which are the ones listed in the main Cortex Prime handbook, maximum skill at character creation is d10.
