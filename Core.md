@@ -301,7 +301,7 @@ Despite its ability to warp space and distance, Correspondence deals only with w
 
 Mages who specialize in Correspondence tend to have a faraway look. To them, the separations of space and form are meaningless illusions that disappear when you understand how the universe truly fits together.
 
-### 4 Immediate Spatial Perceptions / Landscape of the Mind
+### d4 Immediate Spatial Perceptions / Landscape of the Mind
 
 Basic spatial understanding allows a magus to sense things in her immediate vicinity even if she cannot perceive them with her normal senses. Using that perception, she can estimate the distances between objects; intuitively find a direction (North, South, East, West); notice hidden objects or characters; and spot spatial instabilities – warps, anomalies, wormholes, etc. – especially the ones caused by other Correspondence Effects. 
 
