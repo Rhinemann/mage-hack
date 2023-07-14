@@ -1,7 +1,7 @@
 # Mage Cortex Conversion
 
 
-# Testing Shit
+# Testing
 
 Unofficial rules to play Mage: the Ascension using Cortex Prime
 
