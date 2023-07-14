@@ -199,6 +199,7 @@ Recovering Stress. Magi step down all except Paradoxed and Unraveled stress as p
 All kinds of stress can be recovered using appropriate recovery rolls, but Unraveled or Paradoxed stress may require high Prime Sphere ratings to recover.
 
 Dropping Assets
+
 At any point during the scene a player can choose to lose a Signature Asset narratively justifying it. In that case you gain XP equal to the price of the Signature Asset lost.
 Character Advancement
 In The Adept character advancement is handled with milestones. Between scenes you can spend XP to increase your traits or unlock other benefits.
