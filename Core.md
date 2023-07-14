@@ -198,49 +198,75 @@ Recovering Stress. Magi step down all except Paradoxed and Unraveled stress as p
 
 All kinds of stress can be recovered using appropriate recovery rolls, but Unraveled or Paradoxed stress may require high Prime Sphere ratings to recover.
 
-Dropping Assets
+## Dropping Assets
 
 At any point during the scene a player can choose to lose a Signature Asset narratively justifying it. In that case you gain XP equal to the price of the Signature Asset lost.
-Character Advancement
+
+## Character Advancement
+
 In The Adept character advancement is handled with milestones. Between scenes you can spend XP to increase your traits or unlock other benefits.
+
 Spend 5 XP to:
-Unlock an SFX.
-Raise a d4 Skill to d6.
-Add a d6 Signature Asset or Specialty.
-Rewrite a distinction.
+
+- Unlock an SFX.
+- Raise a d4 Skill to d6.
+- Add a d6 Signature Asset or Specialty.
+- Rewrite a distinction.
+
 Spend 10 XP to:
-Add a new SFX.
-Raise a d6 Skill or Signature Asset to d8.
-Raise a d4 Attribute to d6.
-Add a d4 Sphere.
+
+- Add a new SFX.
+- Raise a d6 Skill or Signature Asset to d8.
+- Raise a d4 Attribute to d6.
+- Add a d4 Sphere.
+
 Spend 15 XP to:
-Raise a d8 Skill or Signature Asset to d10.
-Raise a d6 Attribute to d8.
-Raise a d4 Sphere to d6
+
+- Raise a d8 Skill or Signature Asset to d10.
+- Raise a d6 Attribute to d8.
+- Raise a d4 Sphere to d6.
+
 Spend 20 XP to:
-Raise an existing d10 specialty to d12.
-Raise a d10 Skill or Signature Asset to d12.
-Raise a d8 Attribute to d10.
-Raise a d6 Sphere to d8.
-Add a d6 to your Quintessence pool.
+
+- Raise an existing d10 specialty to d12.
+- Raise a d10 Skill or Signature Asset to d12.
+- Raise a d8 Attribute to d10.
+- Raise a d6 Sphere to d8.
+- Add a d6 to your Quintessence pool.
+
 Spend 25 XP to:
-Raise a d10 Attribute to d12.
-Raise a d8 Sphere to d10.
-Spend 30 XP to:
-Raise a d10 Sphere to d12.
-Sphere Rating
+
+- Raise a d10 Attribute to d12.
+- Raise a d8 Sphere to d10.
+- Spend 30 XP to:
+- Raise a d10 Sphere to d12.
+
+## Sphere Rating
+
 All magick is codified into practices based on practitioners mastery over a Sphere, the Practices are:
-Initiate  d4
-Perception: An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. The mage can’t alter anything just yet, but she can put her observations to good use. 
-Apprentice d6
-Manipulation:  The mage begins to use the Sphere to make small alterations in her local reality.  The mage begins to use the Sphere to make small alterations in her local reality.
-Disciple d8
-Control:  Achieving a greater level of accomplishment, the mage can make notable changes to elements connected with the Sphere. Remarkable feats become possible, and the mage approaches the realm of true wizardry.
-Adept d10
- Command:  An impressive command of the Sphere in question allows the mage to perform dramatic feats.
-Master d12
-Mastery:  Magnificent feats become possible with such dominion within the Sphere.  Literally godlike miracles greet the master of a Sphere, and Reality literally shapes itself to her whim.
-Paradox
+
+**Initiate  d4**
+
+> **Perception:** An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. The mage can’t alter anything just yet, but she can put her observations to good use. 
+
+**Apprentice d6**
+
+> **Manipulation:** The mage begins to use the Sphere to make small alterations in her local reality.  The mage begins to use the Sphere to make small alterations in her local reality.
+
+**Disciple d8**
+
+> **Control:** Achieving a greater level of accomplishment, the mage can make notable changes to elements connected with the Sphere. Remarkable feats become possible, and the mage approaches the realm of true wizardry.
+
+**Adept d10**
+
+> **Command:** An impressive command of the Sphere in question allows the mage to perform dramatic feats.
+
+**Master d12**
+
+> **Mastery:** Magnificent feats become possible with such dominion within the Sphere.  Literally godlike miracles greet the master of a Sphere, and Reality literally shapes itself to her whim.
+
+## Paradox
+
 Paradox is the collective force of consensual reality fighting back against the enlightened will of the mage.
 A useful analogy is to imagine the Tellurian as a huge body of water. Most people move with the currents of reality, floating along on a cushion of their own belief. Some of these sleepers, Hedge magicians or simply the heroically lucky, learn to dip their hands in and alter the flow, but they cannot redirect the river. Vampires and werewolves are predators, fast and agile in the waters of reality, but still confined by the flow of belief. The Mage, however, sees the river for what it is, and can push the water around as they choose.
 Paradox is the inertia of 6 million gallons of belief. Mages who change reality with vulgar magic are pushing the river in ways it does not want to go, and risk being drowned by the current. Coincidental magic uses the flow of reality, rather than fighting against it, and can easily avoid Paradox, but even coincidence can risk paradox if it is unbelievable to the local sleepers.
