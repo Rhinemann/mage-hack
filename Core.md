@@ -70,70 +70,121 @@ You can use this one, this Role template, this Fari template, or create one your
 
 Each of your distinctions benefits from the Hinder SFX:
 
-*Hinder*: Roll a d4 instead of a d8 for a distinction to earn 1 PP.
+> *Hinder:* Roll a d4 instead of a d8 for a distinction to earn 1 PP.
 
 ### Step 2: Assign Attributes
 
-#### Step 2: Assign Attributes
-
 Each attribute defaults to d8 and can be stepped up at the expense of another. The attributes are: Physical, Social and Mental, as in default rules
-Step 3: Assign Skills
+
+### Step 3: Assign Skills
+
 15 points to step up skills, which are the ones listed in the main Cortex Prime handbook, maximum skill at character creation is d10.
+
 As a general guide, 9 points represent what you learned from your Sleeper Life and 6 represent what you’ve learned since Awakening.
-Step 4: Powers
+
+### Step 4: Powers
+
 All Magi Possess True Magick power set, though alternative names are possible (Spheres, Enlightened Science, Ars Magia). You have 6 points to spend on sphere rating, starting on d4, maximum Sphere rating at character creation is d8. At least one point must be assigned to Tradition’s affinity Sphere, to reflect your training in Tradition’s specialty.
-Step 5: Assign Specialties, Signature Assets, and additional Powers
+
+### Step 5: Assign Specialties, Signature Assets, and additional Powers
+
 Players have 9 points to spend on these options:
-One point to buy a Signature Asset;
-One point to step up a Signature Asset;
-One point to buy a Specialty;
-Two points to buy a new Power;
-Two points to step your Power up;
-Two points for a new SFX;
-In Mage, Signature Assets represent your social connections, special equipment, status in Sleeper or Awakened society, special arcane knowledge, Sancta etc, so almost anything that is not innate to your character but is important to him.
-Step 6: Assign universal SFX, Limits and Quintessence Pool
-Write down universal SFX. Assign 2d6 to Quintessence pool.
-Universal SFX
-All Magi have these SFX.
-SFX: Affinity Sphere. Spend a PP to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
-SFX: Quintessential Scouring. Take d6 Unraveled stress to add a d6 to your Quintessence pool.
-SFX: Spend Willpower. Take d6 Unsound stress to gain a PP or add a third die to your total on a roll.
-Limit: Necessary Tools. Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 PP.
-Limit: The Weight of Consensus. Whenever a Sleeper witnesses you using Magick in obvious ways, you take d6 Paradoxed stress and gain 1 PP.
-Other SFX
+
+- One point to buy a Signature Asset;
+- One point to step up a Signature Asset;
+- One point to buy a Specialty;
+- Two points to buy a new Power;
+- Two points to step your Power up;
+- Two points for a new SFX;
+
+In Mage, Signature Assets represent your social connections, special equipment, status in Sleeper or Awakened society, special arcane knowledge, Sancta etc, so almost anything that is not innate to your character but is important to them.
+
+### Step 6: Assign universal SFX, Limits and Quintessence Pool
+
+Write down universal SFX. Assign 2d6 to the Quintessence pool.
+
+## Universal SFX
+
+All Magi posess these SFX:
+
+> *Affinity Sphere:* Spend a PP to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
+>
+> ~~*Quintessential Scouring:* Take d6 Unraveled stress to add a d6 to your Quintessence pool.~~
+>
+> *Spend Willpower:* Take d6 Unsound stress to gain a PP or add a third die to your total on a roll.
+>
+> *Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 PP.
+>
+> *The Weight of Consensus:* Whenever a Sleeper witnesses you using Magick in obvious ways, you take d6 Paradoxed stress and gain 1 PP.
+
+## Other SFX
+
 You can spend points to take one or more of these SFX on character creation or later
-Attribute SFX
-Choose one of the following. The SFX you choose cannot be one that steps up the attribute to which you assigned a d10.
-SFX: Appearance. When making a roll related to sheer physical beauty or distinctive unattractiveness, step up Social.
-SFX: Charisma. When making a roll related to presence, appeal, bearing, or social graces, step up Social.
-SFX: Composure. When making a roll related to keeping your cool, remaining calm, or putting others at ease despite anxiety, step up Social.
-SFX: Dexterity. When making a roll related to agility, coordination, physical reflexes, or graceful movement, step up Physical.
-SFX: Intelligence. When making a roll related to recollection, study, processing complex information, or envisioning concepts or possibilities, step up Mental.
-SFX: Manipulation. When making a roll related to social cunning, psychological insight, or playing someone, step up Social.
-SFX: Perception. When making a roll related to attention to detail, spatial awareness, sensory acuity, or noticing things by instinct, step up Mental.
-SFX: Stamina. When making a roll related to toughness or endurance, step up Physical.
-SFX: Strength. When making a roll related to sheer physical might, step up Physical.
-SFX: Wits. When making a roll related to mental reflexes, quick-thinking, reacting to sudden peril, or untangling twisted logic, step up Mental.
-Magick SFX (Supernatural SFX)
-SFX: Advanced Necromancy. Spend 1 PP to use both Matter and Life when your action is related to animating the dead.
-SFX: Animate Dead. When you have Matter and Life at d6 and your action includes any of these two you can create different assets related to corpse animation.
-SFX: Area Effect.When your action includes a Sphere, spend 1 PP to add a d6 and keep an additional effect die for each additional target past the first.
-SFX: Conjunctional Effects Mastery. Use two or more Spheres in a single dice pool and step each Sphere down by one for each additional Sphere beyond the first.
-SFX: Discard Instruments. When unlocking this SFX choose a Sphere rated d8 or higher Necessary Tools SFX doesn't apply for effects unlocked at rating two steps down.
-You can unlock this SFX multiple times choosing a new Sphere each time.
-SFX: Enchant Patterns. When your action includes Prime d6 you can take d6 Quintessence stress to inflict d6 Health stress.
-SFX: Extra Attacks. Spend 1 PP to add d6 and keep a second effect die as a complication or Health stress against an extra target. If you have Time d8 or higher, you can act against more than two targets,  adding d6 and keeping an extra effect die for each target beyond the first.
-SFX: Fast Casting. When your action includes a Sphere, you can gain a d6 complication to inflict d6 Health stress.
-SFX: Instrument Arsenal. Spend a PP to create a d8 Instrument asset for a particular type of Magick.
-SFX: Paradox Contaminating. When your action includes Prime d12 or higher, you can inflict Paradox stress on a target besides yourself.
-SFX: Paradox Transmitting. When your action includes Prime d12 or higher and you have the Paradox Contaminating SFX you can recover one Paradox stress level for each Paradox stress inflicted.
-SFX: Primal Channeling. When your action includes Prime d10 or higher and you have the Primal Fraying SFX you can recover one Quintessence stress level for each Quintessence stress inflicted.
-SFX: Primal Fraying. When your action includes Prime d10 or higher, you can inflict Quintessence stress on a target besides yourself.
-SFX: Quick Curse. When your action includes a Sphere, you can gain a d6 to keep a second effect die as a complication on a nearby character.
-SFX: Reckless Casting. Step up or double any Sphere for one roll. If the roll fails, you take Paradox stress equal in size to your Sphere die.
-SFX: Rote. When you use a specific magical effect, specified when unlocking a rote you add a d6 to your pool.
-SFX: Swift Warding. When your action includes a Sphere, you can gain a d6 Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
-Stress & Trauma
+
+### Attribute SFX
+
+Choose one of the following. ~~The SFX you choose cannot be one that steps up the attribute to which you assigned a d10.~~
+
+> *Appearance:* When making a roll related to sheer physical beauty or distinctive unattractiveness, step up Social.
+> 
+> *Charisma:* When making a roll related to presence, appeal, bearing, or social graces, step up Social.
+> 
+> *Composure:* When making a roll related to keeping your cool, remaining calm, or putting others at ease despite anxiety, step up Social.
+> 
+> *Dexterity:* When making a roll related to agility, coordination, physical reflexes, or graceful movement, step up Physical.
+> 
+> *Intelligence:* When making a roll related to recollection, study, processing complex information, or envisioning concepts or possibilities, step up Mental.
+> 
+> *Manipulation:* When making a roll related to social cunning, psychological insight, or playing someone, step up Social.
+> 
+> *Perception:* When making a roll related to attention to detail, spatial awareness, sensory acuity, or noticing things by instinct, step up Mental.
+> 
+> *Stamina:* When making a roll related to toughness or endurance, step up Physical.
+> 
+> *Strength:* When making a roll related to sheer physical might, step up Physical.
+> 
+> *Wits:* When making a roll related to mental reflexes, quick-thinking, reacting to sudden peril, or untangling twisted logic, step up Mental.
+
+### Magick SFX (Supernatural SFX)
+
+> *Advanced Necromancy:* Spend 1 PP to use both Matter and Life when your action is related to animating the dead.
+> 
+> *Animate Dead:* When you have Matter and Life at d6 and your action includes any of these two you can create different assets related to corpse animation.
+> 
+> *Area Effect:* When your action includes a Sphere, spend 1 PP to add a d6 and keep an additional effect die for each additional target past the first.
+> 
+> *Conjunctional Effects Mastery:* Use two or more Spheres in a single dice pool and step each Sphere down by one for each additional Sphere beyond the first.
+> 
+> *Discard Instruments:* When unlocking this SFX choose a Sphere rated d8 or higher Necessary Tools SFX doesn't apply for effects unlocked at rating two steps down.
+> You can buy this SFX multiple times choosing a new Sphere each time.
+> 
+> *Enchant Patterns:* When your action includes Prime d6 you can take d6 Quintessence stress to inflict d6 Health stress.
+> 
+> *Extra Attacks:* Spend 1 PP to add d6 and keep a second effect die as a complication or Health stress against an extra target. If you have Time d8 or higher, you can act against more than two targets,  adding d6 and keeping an extra effect die for each target beyond the first.
+> 
+> *Fast Casting:* When your action includes a Sphere, you can gain a d6 complication to inflict d6 Health stress.
+> 
+> *Instrument Arsenal:* Spend a PP to create a d8 Instrument asset for a particular type of Magick.
+> 
+> *Paradox Contaminating:* When your action includes Prime d12 or higher, you can inflict Paradox stress on a target besides yourself.
+> 
+> *Paradox Transmitting:* When your action includes Prime d12 or higher and you have the Paradox Contaminating SFX you can recover one Paradox stress level for each Paradox stress inflicted.
+> 
+> *Primal Channeling:* When your action includes Prime d10 or higher and you have the Primal Fraying SFX you can recover one Quintessence stress level for each Quintessence stress inflicted.
+> 
+> *Primal Fraying:* When your action includes Prime d10 or higher, you can inflict Quintessence stress on a target besides yourself.
+> 
+> *Quick Curse:* When your action includes a Sphere, you can gain a d6 to keep a second effect die as a complication on a nearby character.
+> 
+> *Reckless Casting:* Step up or double any Sphere for one roll. If the roll fails, you take Paradox stress equal in size to your Sphere die.
+> 
+> *Rote:* Describe a magickal Effect when buying this SFX, whenever you  add a d6 to your pool.
+> You can buy this SFX multiple times specifying a new Effect each time.
+> 
+> *Swift Warding:* When your action includes a Sphere, you can gain a d6 Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
+
+## Stress & Trauma
+
 Stress and trauma are a measure of your damage. There are five types of stress and trauma:
 Harmed: Pain and injury.
 Paradoxed: Paradox.
