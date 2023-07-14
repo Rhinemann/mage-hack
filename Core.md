@@ -246,8 +246,7 @@ Spend 25 XP to:
 All magick is codified into practices based on practitioners mastery over a Sphere, the Practices are:
 
 **Initiate  d4**
-
-> **Perception:** An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. The mage can’t alter anything just yet, but she can put her observations to good use. 
+: **Perception:** An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. The mage can’t alter anything just yet, but she can put her observations to good use. 
 
 **Apprentice d6**
 
@@ -268,40 +267,68 @@ All magick is codified into practices based on practitioners mastery over a Sphe
 ## Paradox
 
 Paradox is the collective force of consensual reality fighting back against the enlightened will of the mage.
+
 A useful analogy is to imagine the Tellurian as a huge body of water. Most people move with the currents of reality, floating along on a cushion of their own belief. Some of these sleepers, Hedge magicians or simply the heroically lucky, learn to dip their hands in and alter the flow, but they cannot redirect the river. Vampires and werewolves are predators, fast and agile in the waters of reality, but still confined by the flow of belief. The Mage, however, sees the river for what it is, and can push the water around as they choose.
+
 Paradox is the inertia of 6 million gallons of belief. Mages who change reality with vulgar magic are pushing the river in ways it does not want to go, and risk being drowned by the current. Coincidental magic uses the flow of reality, rather than fighting against it, and can easily avoid Paradox, but even coincidence can risk paradox if it is unbelievable to the local sleepers.
+
 Paradox can take a variety of forms. Backlash, reality directly attacking the offensive mage, can cause temporary, long term, or even permanent wounds, flaws, or oddities. Quiet, a magical form of madness, forces the offending mage to resolve their guilt over disjointing reality. Exceptionally offensive mages can be catapulted into Paradox Realms, or hounded by Paradox spirits.
+
 Paradox flaw rating is applied to all rolls in line with the nature of flaws, as determined by GM.
-Quintessence
+
+## Quintessence
+
 Quintessence is the raw material of reality. Technocrats refer to it as Primal Energy. It is what flows through the patterns of reality and what makes magic possible. The primal force, quintessence can not truly be divided, measured or contained. The patterns of all supernaturals, mortals, inanimate objects, and the whole of the Tellurian is woven from Quintessence. The term literally translates to "Fifth Essence".
+
 Quintessence is the same thing as Chi, Sekhem, and Gnosis. Glamour is a form of quintessence, just as diamonds are a form of carbon. Vitae is theorized by mages to be fused with Quintessence, thus explaining its supernatural properties.
+
 Mages have a Quintessence pool. Your Quintessence pool is the free flowing Quintessence that your Avatar can accumulate and safely use, it acts as a Recourse, which means you can expend any amount of dice to roll separately, adding to the result. You can get a maximum of 10 dice in your Quintessence pool through Character Advancement
 
+# Spheres
 
-Spheres
-Correspondence
-Connections and Dimensions
+
+## Correspondence
+
+> *Connections and Dimensions*
+
 By manipulating the ties between places, objects, and people, the Correspondence Sphere allows a magus to sidestep distances, sense things that would normally be out of range, pull objects out of thin air, levitate or fly, or connect an Effect to some other place or character. Some magi proclaim this Sphere is proof that distance is an illusion, whereas others view it as the Art of pulling strings between different places and people. 
+
 Most Effects require touch or close contact, but Correspondence lets the magus reach across distances and affect hidden or faraway targets. Tenuous connections require several successes, but spanning close connections is easy for a magus who understands this Art.
+
 On its own, Correspondence allows the magus to reach across distances, even to places she cannot see or touch. At Rank d6 or higher, she can grasp items and work with them from a distance. To manipulate other objects or beings in ways other than physical contact, however, that magus must combine Correspondence with another Sphere – typically a Pattern Sphere (Forces, Life, or Matter). 
+
 Despite its ability to warp space and distance, Correspondence deals only with whole Patterns, unless a target has been altered by another Pattern Sphere; Correspondence alone, for example, cannot teleport someone’s head off – the magus would need to use Life magick to separate the head from its body. A gun, on the other hand, could be snatched away by a Correspondence/ Matter Effect. 
+
 Mages who specialize in Correspondence tend to have a faraway look. To them, the separations of space and form are meaningless illusions that disappear when you understand how the universe truly fits together.
-d4 Immediate Spatial Perceptions/ Landscape of the Mind
+
+### 4 Immediate Spatial Perceptions/ Landscape of the Mind
+
 Basic spatial understanding allows a magus to sense things in her immediate vicinity even if she cannot perceive them with her normal senses. Using that perception, she can estimate the distances between objects; intuitively find a direction (North, South, East, West); notice hidden objects or characters; and spot spatial instabilities – warps, anomalies, wormholes, etc. – especially the ones caused by other Correspondence Effects. 
-d6 Sense, Touch, Thicken & Reach Through Space/ Correspondence Sensing
+
+### d6 Sense, Touch, Thicken & Reach Through Space/ Correspondence Sensing
+
 That magus can now extend her senses across intervening space, sensing things in other locations. Such extensions, however, leave minor ripples in space… the kind noticed by Rank d4 Correspondence. Fortunately, she can also thicken space to cover her tracks.
 By adding Life or Matter to Rank d6 Correspondence, the magus can grasp small items or organisms (housecat-sized or smaller) and then pull them through tiny holes in space. This lets her snatch business cards, guns, rabbits, and such from another location, apparently pulling them out of nowhere. 
-d8 Pierce Space/ Open or Close Gates/ Co-locality Perceptions
+
+### d8 Pierce Space/ Open or Close Gates/ Co-locality Perceptions
+
 Now the magus can tear holes in space, large enough for her to step through. These minor gates are small and temporary, but they allow that character to step from one place to another, so long as she is alone and is lightly encumbered. (Teleporting large items, or while carrying heavy loads, demands Correspondence d10.) Scoping out the new location is a good idea, of course. A close, familiar destination is easier than a distant, unfamiliar one.
 Using the Co-locality Perceptions Effect, the magus can also perceive several places at once. Those locations all appear as ghosts overlapping each other, as if they had been layered on top of the closest location. 
 In addition, by combining Correspondence d8 with Forces, Life, or Matter, the magus can move things around from a distance, levitating, manipulating or teleporting them without physical contact. 
-d10 Rend Space/ Ward/ Co-locate Self
+
+### d10 Rend Space/ Ward/ Co-locate Self
+
 Creating larger holes in space, the magus can now open permanent gates between locations; isolate forces, spaces, objects, or people into their own tiny realms (by combining Correspondence d10 with Forces, Life, Mind, or Matter); and ward certain locations against specific Patterns (again, combining Forces, Life, Mind, or Matter with Correspondence) or Resonance energies (combining this Sphere with Prime d10). This warding effect can impede or even block the forbidden elements from crossing into, or out of, the protected space. (For extensive details about wards, see the sourcebook How Do You DO That?)
 Using the Co-location Effect, magus can also appear in several different places at once. To function, however, she must add Mind d4 to that Effect. Each self mirrors the original’s actions unless she also adds Life d6 to that Effect, granting independence to every self. 
-d12 Spatial Mutation / Co-Location
+
+### d12 Spatial Mutation / Co-Location
+
 Distance and dimensions become child’s play to a magus at this Rank. She can distort space; alter sizes and stretch or compress objects (Matter), bodies (Life), or forces (Forces); connect different Patterns to one another across intervening space; or even superimpose places or objects on top of one another (extremely vulgar). Combining this Rank with Life d8, the magus may also expand her senses to perceive many different places at once. 
-Entropy
-Chance and Mortality
+
+## Entropy
+
+> *Chance and Mortality*
+
 Controlling the energies of probability and decay, an Entropy-schooled magus can manipulate random factors, observe and influence flaws within a system, tap into the energies of the Low Umbra, induce or remove corruption, and otherwise exert his Will through the unpredictable process of chaos.
 Entropy describes what should or must happen, but not precisely when or how that result will come about (those are the province of Time). Fate governs blessings, curses, destiny, fortune, oaths, probability, luck, and intent.
 This is no easy discipline. The Entropic magus assumes some of the Resonance of decay within his own Pattern, and bears the weight of mortality within his mind and soul. Still, the powers of this Sphere – though less obviously destructive than those of other Arts – give that magus subtle but pervasive control over Creation as a whole.
