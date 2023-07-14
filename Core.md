@@ -197,6 +197,7 @@ Stress and trauma are a measure of your damage. There are five types of stress a
 Recovering Stress. Magi step down all except Paradoxed and Unraveled stress as per normal Cortex Prime rules. To step Paradoxed stress down a mage needs to spend a scene without using vulgar Magicks. Unraveled stress is stepped down when a Mage channels Quintessence from a Node.
 
 All kinds of stress can be recovered using appropriate recovery rolls, but Unraveled or Paradoxed stress may require high Prime Sphere ratings to recover.
+
 Dropping Assets
 At any point during the scene a player can choose to lose a Signature Asset narratively justifying it. In that case you gain XP equal to the price of the Signature Asset lost.
 Character Advancement
