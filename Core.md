@@ -31,69 +31,21 @@ Although the Council did not technically exist until 1466, many Traditions count
 
 The traditions are:
 
-- **Akashayana/Akashic Brotherhood** – Masters of mind, body, and spirit through the Arts of personal discipline. Affinity Spheres: Mind or Life;
-- **Celestial Chorus** – Sacred singers who give a human Voice to the Divine Song. Affinity Spheres: Prime, Forces, or Spirit;
-- **Cult of Ecstasy/Sahajiya** – Visionary seers who transcend limitations through sacred experience. Affinity Spheres: Time, Life, or Mind;
-- **Dreamspeakers/Kha’vadi** – Preservers and protectors of both the Spirit Ways and the Earthly cultures that have been looted, abandoned, and oppressed. Affinity Spheres: Spirit, Force, Life, or Matter;
-- **Euthanatoi/Chakravanti** – Disciples of mortality who purge corruption and bring merciful release from suffering. Affinity Spheres: Entropy, Life, or Spirit;
-- **Order of Hermes** – Rigorous masters of High Magick and the Elemental Arts. Affinity Spheres: Forces;
-- **Society of Ether/Sons of Ether** – Graceful saviors of scientific potential. Affinity Spheres: Matter, Forces, or Prime;
-- **Verbena** – Primal devotees of rough Nature and mystic blood. Affinity Spheres: Life or Forces;
-- **Virtual Adepts** – Reality-hackers devoted to rebooting their world. Affinity Spheres: Correspondence/Data or Forces;
+- **Akashayana/Akashic Brotherhood:** Masters of mind, body, and spirit through the Arts of personal discipline. Affinity Spheres: Mind or Life;
+- **Celestial Chorus:** Sacred singers who give a human Voice to the Divine Song. Affinity Spheres: Prime, Forces, or Spirit;
+- **Cult of Ecstasy/Sahajiya:** Visionary seers who transcend limitations through sacred experience. Affinity Spheres: Time, Life, or Mind;
+- **Dreamspeakers/Kha’vadi:** Preservers and protectors of both the Spirit Ways and the Earthly cultures that have been looted, abandoned, and oppressed. Affinity Spheres: Spirit, Force, Life, or Matter;
+- **Euthanatoi/Chakravanti:** Disciples of mortality who purge corruption and bring merciful release from suffering. Affinity Spheres: Entropy, Life, or Spirit;
+- **Order of Hermes:** Rigorous masters of High Magick and the Elemental Arts. Affinity Spheres: Forces;
+- **Society of Ether/Sons of Ether:** Graceful saviors of scientific potential. Affinity Spheres: Matter, Forces, or Prime;
+- **Verbena:** Primal devotees of rough Nature and mystic blood. Affinity Spheres: Life or Forces;
+- **Virtual Adepts:** Reality-hackers devoted to rebooting their world. Affinity Spheres: Correspondence/Data or Forces;
 
 ## Awareness
 
-As an awakened Mage you possess a special sense called  Awareness. Awareness allows you to feel different supernatural phenomena even without a corresponding Sphere, these feelings are however vague and subconscious not giving you any concrete information.
+As an awakened Mage you possess a special sense called Awareness. Awareness allows you to feel different supernatural phenomena even without a corresponding Sphere, these feelings are however vague and subconscious not giving you any concrete information.
 
 # Rules
-
-## Character Creation
-
-### Step 0: Get a character sheet
-
-Todo.
-
-### Step 1: Choose Distinctions
-
-- One for your personality, or motivation;
-- One for your Sleeper life;
-- One for your affiliation with a Group of Magi.
-> Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent…;
-
-Each of your distinctions benefits from the Hinder SFX:
-
-> *Hinder:* Roll a d4 instead of a d8 for a distinction to earn 1 PP.
-
-### Step 2: Assign Attributes
-
-Each attribute defaults to d8 and can be stepped up at the expense of another.
-
-### Step 3: Assign Skills
-
-15 points to step up skills, which are the ones listed in the main Cortex Prime handbook, maximum skill at character creation is d10.
-
-As a general guide, 9 points represent what you learned from your Sleeper Life and 6 represent what you’ve learned since Awakening.
-
-### Step 4: Powers
-
-All Magi Possess True Magick power set, though alternative names are possible (Spheres, Enlightened Science, Ars Magia). You have 6 points to spend on sphere rating, starting on d4, maximum Sphere rating at character creation is d8. At least one point must be assigned to Tradition’s affinity Sphere, to reflect your training in Tradition’s specialty.
-
-### Step 5: Assign Specialties, Signature Assets, and additional Powers
-
-Players have 9 points to spend on these options:
-
-- One point to buy a Signature Asset;
-- One point to step up a Signature Asset;
-- One point to buy a Specialty;
-- Two points to buy a new Power;
-- Two points to step your Power up;
-- Two points for a new SFX;
-
-In Mage, Signature Assets represent your social connections, special equipment, status in Sleeper or Awakened society, special arcane knowledge, Sancta etc, so almost anything that is not innate to your character but is important to them.
-
-### Step 6: Assign universal SFX, Limits and Quintessence Pool
-
-Write down universal SFX. Assign 2d6 to the Quintessence pool.
 
 ## Distinctions
 
@@ -329,37 +281,36 @@ Ability to change minds and influence behaviors through logic, fast-talking, or 
 
 #### Socialize
 
+Ability to present themselves well and interact with groups of people. It reflects proper (and setting-appropriate) etiquette, customs, sensitivity, and warmth. A character with a high Socialize is the life of the party.
 
-
-*Suggested Specialties:* 
+*Suggested Specialties:* Bar Hopping, Church Lock-in, Dress Balls, Formal Events, Frat Parties, Political Fundraisers, The Club.
 
 #### Streetwise
 
+Knowledge of life on the streets. It tells her how to navigate the city, how to get information from unlikely sources, and where they’ll be (relatively) safe. If they
+wants to get something on the black market, Streetwise is how.
 
-
-*Suggested Specialties:* 
+*Suggested Specialties:* Black Market, Gangs, Navigation, Rumors, Undercover.
 
 #### Subterfuge
 
+Ability to deceive. With Subterfuge, your character can lie convincingly, project hidden messages in what she says, hide motivations, and notice deception in others.
 
+*Suggested Specialties:* Detecting Lies, Doublespeak, Hiding Emotion, Little White Lies, Misdirection.
 
-*Suggested Specialties:* 
+## SFX
 
-## Universal SFX
+### Universal SFX
 
-All Magi posess these SFX:
+All Magi benefit from these SFX:
 
 > *Affinity Sphere:* Spend a PP to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
->
-> ~~*Quintessential Scouring:* Take d6 Unraveled stress to add a d6 to your Quintessence pool.~~
 >
 > *Spend Willpower:* Take d6 Unsound stress to gain a PP or add a third die to your total on a roll.
 >
 > *Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 PP.
 >
 > *The Weight of Consensus:* Whenever a Sleeper witnesses you using Magick in obvious ways, you take d6 Paradoxed stress and gain 1 PP.
-
-## Other SFX
 
 You can spend points to take one or more of these SFX on character creation or later
 
@@ -400,6 +351,54 @@ You can spend points to take one or more of these SFX on character creation or l
 > You can buy this SFX multiple times specifying a new Effect each time.
 > 
 > *Swift Warding:* When your action includes a Sphere, you can gain a d6 Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
+
+## Character Creation
+
+### Step 0: Get a character sheet
+
+Todo.
+
+### Step 1: Choose Distinctions
+
+- One for your personality, or motivation;
+- One for your Sleeper life;
+- One for your affiliation with a Group of Magi.
+> Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent…;
+
+Each of your distinctions benefits from the Hinder SFX:
+
+> *Hinder:* Roll a d4 instead of a d8 for a distinction to earn 1 PP.
+
+### Step 2: Assign Attributes
+
+Each attribute defaults to d8 and can be stepped up at the expense of another.
+
+### Step 3: Assign Skills
+
+15 points to step up skills, which are the ones listed in the main Cortex Prime handbook, maximum skill at character creation is d10.
+
+As a general guide, 9 points represent what you learned from your Sleeper Life and 6 represent what you’ve learned since Awakening.
+
+### Step 4: Powers
+
+All Magi Possess True Magick power set, though alternative names are possible (Spheres, Enlightened Science, Ars Magia). You have 6 points to spend on sphere rating, starting on d4, maximum Sphere rating at character creation is d8. At least one point must be assigned to Tradition’s affinity Sphere, to reflect your training in Tradition’s specialty.
+
+### Step 5: Assign Specialties, Signature Assets, and additional Powers
+
+Players have 9 points to spend on these options:
+
+- One point to buy a Signature Asset;
+- One point to step up a Signature Asset;
+- One point to buy a Specialty;
+- Two points to buy a new Power;
+- Two points to step your Power up;
+- Two points for a new SFX;
+
+In Mage, Signature Assets represent your social connections, special equipment, status in Sleeper or Awakened society, special arcane knowledge, Sancta etc, so almost anything that is not innate to your character but is important to them.
+
+### Step 6: Assign universal SFX, Limits and Quintessence Pool
+
+Write down universal SFX. Assign 2d6 to the Quintessence pool.
 
 ## Stress & Trauma
 
