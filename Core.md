@@ -21,12 +21,6 @@ The specifics of their own belief, called a Paradigm, guides them into joining e
 
 The central theme of Mage is the search for Ascension, not only for the individual but for all of mankind. What Ascension is, and how it is achieved is purposely left undefined.
 
-## Mods and Trait Sets used
-
-**Mods**: *Action based resolution* (p.24), *Stress* (p.39), *Trauma* (p.41), *Power sets* (p.52), *Specialties* (p.59), *Milestones* (p.84), *Taking Initiative* (p.99).
-
-**Trait Sets**: *Attributes*, *Distinctions*, *Powers*, *Skills*, *Signature Assets*.
-
 ## Traditions
 
 A Tradition is a group of mystically-oriented mages allied with the Council of Nine Mystic Traditions. That is, they believe in magic and understand that they manipulate magic to create desired effects. This contrasts with scientifically-oriented mages, who believe that they use Enlightened Science rather than magic, and this Science is manipulated to create desired effects. The Traditions' counterparts among the Scientists of the Technocratic Union (and in an earlier age, the Order of Reason) are called Conventions.
@@ -53,19 +47,18 @@ As an awakened Mage you possess a special sense called  Awareness. Awareness all
 
 # Rules
 
-
 ## Character Creation
-
 
 ### Step 0: Get a character sheet
 
-You can use this one, this Role template, this Fari template, or create one yourself.
+Todo.
 
 ### Step 1: Choose Distinctions
 
 - One for your personality, or motivation;
 - One for your Sleeper life;
-- One for your affiliation with a Group of Magi. Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent…;
+- One for your affiliation with a Group of Magi.
+> Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent…;
 
 Each of your distinctions benefits from the Hinder SFX:
 
@@ -73,7 +66,7 @@ Each of your distinctions benefits from the Hinder SFX:
 
 ### Step 2: Assign Attributes
 
-Each attribute defaults to d8 and can be stepped up at the expense of another. The attributes are: Physical, Social and Mental, as in default rules
+Each attribute defaults to d8 and can be stepped up at the expense of another.
 
 ### Step 3: Assign Skills
 
@@ -102,6 +95,256 @@ In Mage, Signature Assets represent your social connections, special equipment, 
 
 Write down universal SFX. Assign 2d6 to the Quintessence pool.
 
+## Distinctions
+
+## Attributes
+
+Attributes represent raw ability and essential traits every character possesses. 
+
+Attributes serve as the second of the three Prime Sets used in every roll.
+
+The nine Attributes are split into three categories: Physical, Social, Mental.
+
+### Mental Attributes
+
+Mental Attributes reflect your character’s acuity, intellect, and strength of mind.
+
+#### Intelligence
+
+Raw knowledge, memory, and capacity for solving difficult problems. This may be book smarts, or a wealth of trivia.
+
+#### Wits
+
+Ability to think quickly and improvise solutions. It reflects your character’s perception, and ability to pick up on details.
+
+#### Resolve
+
+Determination, patience, and sense of commitment. It allows your character to concentrate in the face of distraction and danger, or continue doing something in spite of insurmountable odds.
+
+### Physical Attributes
+
+Physical Attributes reflect your character’s bodily fitness and acumen.
+
+#### Strength
+
+Muscular definition and capacity to deliver force. It affects many physical tasks, including most actions in a fight.
+
+#### Dexterity
+
+Speed, agility, and coordination. It provides balance, reactions, and aim.
+
+#### Stamina
+
+General health and sturdiness. It determines how much punishment your character’s body can handle before it gives up.
+
+### Social Attributes
+
+Social Attributes reflect your character’s ability to deal with others.
+
+#### Presence
+
+Assertiveness, gravitas, and raw appeal. It gives your character a strong bearing that changes moods and minds.
+
+#### Manipulation
+
+Ability to make others cooperate. It’s how  smoothly she speaks, and how much people can read into her intentions.
+
+#### Composure
+
+Poise and grace under fire. It’s his dignity, and ability to remain unfazed when harrowed.
+
+## Skills
+
+Whereas Attributes represent innate ability, Skills reflect behaviors learned and honed over a lifetime. These are things that could be practiced or learned from a book.
+
+Skills serve as the second of the three Prime Sets used in every roll.
+
+Similarly to Attributes, Skills are divided into Mental, Physical, and Social categories.
+
+### Mental Skills
+
+#### Academics
+
+Higher education and knowledge of the arts and humanities. It covers language, history, law, economics, and related fields. Many magi develop aptitude in Academics to further their research into the Mysteries.
+
+*Suggested Specialties:* Anthropology, Art History, English, History, Law, Literature, Religion, Research, Translation.
+
+#### Computer
+
+Advanced ability with computing. While most characters in the World of Darkness are expected to know the basics, the Computer Skill allows your character to program computers, to crack into systems, to diagnose major problems, and to investigate data. This Skill reflects advanced techniques and tricks; most people in the modern world can operate a computer for email and basic Internet searches.
+
+*Suggested Specialties:* Data Retrieval, Graphics, Hacking, Internet, Programming, Security, Social Media.
+
+#### Crafts
+
+Knack with creating and repairing things. From creating works of art, to fixing an automobile, Crafts is the Skill to use.
+
+*Suggested Specialties:* Automotive, Cosmetics, Fashion, Forging, Graffiti, Jury-Rigging, Painting, Perfumery, Repair, Sculpting.
+
+#### Investigation
+
+Skill with solving mysteries and putting together puzzles. It reflects the ability to draw conclusions, to find meaning out of confusion, and to use lateral thinking to find information where others could not.
+
+*Suggested Specialties:* Artifacts, Autopsy, Body Language, Crime Scenes, Cryptography, Dreams, Lab Work, Riddles.
+
+#### Medicine
+
+Knowledge of the human body, and of how to bring it to and keep it in working order. Characters with Medicine can make efforts to stem life-threatening wounds and illnesses.
+
+*Suggested Specialties:* First Aid, Pathology, Pharmaceuticals, Physical Therapy, Surgery.
+
+#### Occult
+
+Knowledge of things hidden in the dark, legends, and lore. While the supernatural is unpredictable and often unique, the Occult Skill allows your character to pick out facts from rumor. Almost all magi develop at least some  aptitude in Occult, to further their studies of the Mysteries.
+
+*Suggested Specialties:* (all of Specialties of Esoterica and Occult in M20).
+
+#### Politics
+
+General knowledge of political structures and methodologies, but more practically shows your character’s ability to navigate those systems and make them work the way she intends. With Politics, she knows the right person to ask to get something done.
+
+*Suggested Specialties:* Bureaucracy, Church, Consilium, Democratic, Local, Order, Organized Crime, Scandals.
+
+#### Science
+
+Knowledge and understanding of the physical and natural sciences, such as biology, chemistry, geology, meteorology, and physics.
+
+*Suggested Specialties:* Almost any hard scientific field.
+
+##### Scientific Specialties
+
+Common “respectable” Science variations practiced by Awakened characters include, but are not limited to, the following potential specialties:
+
+- **Aeronautics:** Design, construction, and operation of aircraft and other flying machines.
+- **Astronomy:** Study of stellar bodies, celestial mechanics, and outer space.
+- **Biology:** Research into the mysteries within Earth’s organic life forms.
+- **Biopsychology:** Tracing (and often altering) the interplay between a living being’s physical state and its psychological state.
+- **Chemistry:** Deciphering and manipulating the chemical codes within Earthly substances.
+- **Computer Science:** IT system languages, logistics, theory, advancement, and implementation.
+- **Cybernetics:** Research, development, and implementation of interconnected organic matter and machines.
+- **Electronics:** Harnessing and exploring the potential of electronic energies and devices.
+- **Engineering:** Design, research, and construction of essential structures. Engineering has many variations; if there’s a structure involved in a project, then there’s an engineering discipline involved in creating and maintaining that structure.
+- **Forensic Pathology:** Reconstructing evidence from scattered and fragmented clues.
+- **Genetics:** Research, analysis, and manipulation involving the literal “building blocks of life.”consider this a soft science, those who manipulate identity, memory, and behavior find it extremely useful.
+- **Geology:** Study of earthly formations, materials, and phenomena.• Psychology: Study of human consciousness and behavior, and their related therapies.
+- **Hypermathematics:** Esoteric, arcane, theoretical, and sometimes absurd applications of advanced mathematical principles, often tied to the links between science, faith, and magick.
+- **Psychopharmacology:** Research, development, and applications dealing with the interplay between psychoactive substances and human/ humanoid consciousness, perceptions, and behavior.
+- **Mathematics:** Study of equations, numbers, patterns, and the interplay between them.
+- **Psychoprojection:** Research into the multiple disciplines and effects of extraphysical consciousness co- and re-location. In plain English, the study of astral projection, multiple selves, and travel into the Digital Web.
+- **Metallurgy:** Research, refinement, and implementation involving the properties and functions of various metallic substances, alloys, and compounds... though not, unfortunately, musicians.
+- **Paraphysics:** “Proper” name for Dimensional Science, also known as the interrelationship between Earthly reality and the Otherworlds.
+- **Phylogeny:** Study of transition and transformation, their effects, and the potential uses of both.
+- **Physics:** Observations and research regarding the interrelationships between matter and energy. Theoretical physics deals with potential but currently unproven models of physics, whereas practical physics deals with known applications of established physics.
+- **Psychodynamics:** Study and application of human and humanoid mental processes – specifically the relationships between emotional responses, mental health, physical state, and outward behavior. Although some Technocrats
+- **Sociobiology:** Observation and manipulation of societies as extended organisms – composed of individual beings – that nurture, protect, and reproduce themselves.
+  By researching the tendencies of such organisms, sociobiologists strive to understand and influence societies... and the individuals within them.
+- **Xenobiology:** Study, analysis and understanding of alien organisms: monsters, spirits, mythic beasts, and other things conventional science does not currently accept as real.
+
+Radical scientists – Etherites, Ecstatics, Virtual Adepts, and even some maverick Technocrats, among others – have dozens, perhaps hundreds, of other disciplines, ranging from Etherdynamics to Chaos Math to Coprophrenology (don’t ask...). Naturally, such sciences are not generally accepted by the community at large; this, of course, just inspires their proponents to prove how true their theories really are...
+
+### Physical
+
+#### Athletics
+
+A broad category of physical training and ability. It covers sports, and basic physical tasks such as running, jumping, dodging threats, and climbing. It also determines a character’s ability with thrown weapons.
+
+*Suggested Specialties:* Acrobatics, Archery, Climbing, Jumping, Parkour, Swimming, Throwing.
+
+#### Brawl
+
+Ability to tussle and fight without weapons. This includes old-fashioned bar brawls as
+well as complex martial arts. Almost every member of the Akashiana, and many other magi, train in at least basic self-defense.
+
+*Suggested Specialties:* Biting, Boxing, Claws, Dirty Fighting, Grappling, Martial Arts, Threats, Throws.
+
+#### Drive
+
+Skill to control and maneuver automobiles, motorcycles, boats, and even airplanes. The Skill relates to moments of high stress, such as a high-speed chase or trying to elude a tail. As well, Drive can reflect your character’s skill with horseback riding, if appropriate to their history.
+
+*Suggested Specialties:* Defensive Driving, Evasion, Off-Road Driving, Motorcycles, Pursuit, Stunts.
+
+#### Firearms
+
+Ability to identify, maintain, and otherwise use guns. This Skill covers everything from small pistols, to shotguns, to assault rifles, and anything else related.
+
+*Suggested Specialties:* Handguns, Rifles, Shotguns, Trick Shots.
+
+#### Larceny
+
+Intrusion, lockpicking, theft, pickpocketing, and other (generally considered) criminal activities. This Skill is typically learned on the streets, outside of formal methods. However, stage magicians and other entertainers learn these skills as
+part of their repertoire.
+
+*Suggested Specialties:* Breaking and Entering, Concealment, Lockpicking, Pickpocketing, Safecracking, Security Systems, Sleight of Hand.
+
+#### Stealth
+
+Ability to move unnoticed and unheard, or to blend into a crowd. Every character approaches Stealth differently; some use distraction, some disguise, some
+are just hard to keep an eye on.
+
+*Suggested Specialties:* Camouflage, Crowds, In Plain Sight, Rural, Shadowing, Stakeout, Staying Motionless.
+
+#### Survival
+
+Ability to “live off the land.” This means finding shelter, finding food, and otherwise procuring the necessities for existence. This could be in a rural or urban environment. This skill also covers the ability to hunt for animals.
+
+*Suggested Specialties:* Foraging, Hunting, Navigation, Shelter, Weather.
+
+#### Weaponry
+
+Ability to fight with hand-to-hand weapons: from swords, to knives, to baseball bats, to chainsaws. If the intent is to strike another and harm them, Weaponry is the Skill.
+
+*Suggested Specialties:* Chains, Clubs, Improvised Weapons, Spears, Swords.
+
+### Social
+
+#### Animal Ken
+
+Ability to train and understand animals. With Animal Ken, your character can cow beasts or rile them to violence under the right circumstances.
+
+*Suggested Specialties:* Canines, Felines, Reptiles, Soothing, Threatening, Training.
+
+#### Empathy
+
+Ability to read and understand others’ feelings and motivations. This helps discern moods, or read deceptive behavior in discussion. It is not inherently sympathetic; one can understand another’s positions without agreeing with them.
+
+*Suggested Specialties:* Calming, Emotion, Lies, Motives, Personalities.
+
+#### Expression
+
+Ability to communicate. This Skill covers written and spoken forms of communication, journalism, acting, music, and dance.
+
+*Suggested Specialties:* Dance, Drama, Journalism, Musical Instrument, Performance Art, Singing, Speeches.
+
+#### Intimidation
+
+Ability to influence others’ behavior through threats and fear. It could mean direct physical threats, interrogation, or veiled implications of things to come.
+
+*Suggested Specialties:* Direct Threats, Interrogation, Stare Down, Torture, Veiled Threats.
+
+#### Persuasion
+
+Ability to change minds and influence behaviors through logic, fast-talking, or appealing to desire. It relies on the force of your character’s personality to sway the listener.
+
+*Suggested Specialties:* Confidence Scam, Fast Talking, Inspiring, Sales Pitch, Seduction, Sermon.
+
+#### Socialize
+
+
+
+*Suggested Specialties:* 
+
+#### Streetwise
+
+
+
+*Suggested Specialties:* 
+
+#### Subterfuge
+
+
+
+*Suggested Specialties:* 
+
 ## Universal SFX
 
 All Magi posess these SFX:
@@ -119,30 +362,6 @@ All Magi posess these SFX:
 ## Other SFX
 
 You can spend points to take one or more of these SFX on character creation or later
-
-### Attribute SFX
-
-Choose one of the following. ~~The SFX you choose cannot be one that steps up the attribute to which you assigned a d10.~~
-
-> *Appearance:* When making a roll related to sheer physical beauty or distinctive unattractiveness, step up Social.
-> 
-> *Charisma:* When making a roll related to presence, appeal, bearing, or social graces, step up Social.
-> 
-> *Composure:* When making a roll related to keeping your cool, remaining calm, or putting others at ease despite anxiety, step up Social.
-> 
-> *Dexterity:* When making a roll related to agility, coordination, physical reflexes, or graceful movement, step up Physical.
-> 
-> *Intelligence:* When making a roll related to recollection, study, processing complex information, or envisioning concepts or possibilities, step up Mental.
-> 
-> *Manipulation:* When making a roll related to social cunning, psychological insight, or playing someone, step up Social.
-> 
-> *Perception:* When making a roll related to attention to detail, spatial awareness, sensory acuity, or noticing things by instinct, step up Mental.
-> 
-> *Stamina:* When making a roll related to toughness or endurance, step up Physical.
-> 
-> *Strength:* When making a roll related to sheer physical might, step up Physical.
-> 
-> *Wits:* When making a roll related to mental reflexes, quick-thinking, reacting to sudden peril, or untangling twisted logic, step up Mental.
 
 ### Magick SFX (Supernatural SFX)
 
@@ -342,11 +561,11 @@ For obvious reasons, Entropy-schooled magi tend to be fatalistic, disassociated,
 
 ### d4 Sense Flaws, Fate & Fortune / Ring of Truth
 
-Basic Entropic understanding allows a magus to see the currents of probability, spot flaws in Patterns, and note the subtle yet telling details in a person’s speech and behavior that suggest whether or not she’s telling what she believes to be the truth. Although he cannot yet control such phenomena, the magus can predict dice throws, card draws, and other apparently random events; spot weak spots in objects, people, or arguments; and use those imperfect yet profound insights to his advantage. 
+Basic Entropic understanding allows a magus to see the currents of probability, spot flaws in Patterns, and note the subtle yet telling details in a person’s speech and behavior that suggest whether or not she’s telling what she believes to be the truth. Although they cannot yet control such phenomena, the magus can predict dice throws, card draws, and other apparently random events; spot weak spots in objects, people, or arguments; and use those imperfect yet profound insights to his advantage. 
 
 ### d6 Control Probability
 
-Now the magus can control the factors he could only sense before. Pulling the strings of apparently random events, he can influence activities and results – directing the fall of dice or cards, repeatedly hitting weak spots, and directing people and things toward a conclusion of his choice. Of course, it is easier to control small events (the winner of a horse race) than large ones (causing a six-car pileup). In game terms, large alterations have higher difficulty than small ones do.
+Now the magus can control the factors they could only sense before. Pulling the strings of apparently random events, they can influence activities and results – directing the fall of dice or cards, repeatedly hitting weak spots, and directing people and things toward a conclusion of his choice. Of course, it is easier to control small events (the winner of a horse race) than large ones (causing a six-car pileup). In game terms, large alterations have higher difficulty than small ones do.
 
 ### d8 Affect Predictable Patterns
 
@@ -571,7 +790,7 @@ By adding other Spheres, that magus could project thoughts across the barrier (M
 
 Now the magus can cross over, transmuting his living tissue to ephemera. He may carry a few material possessions, although transmuting them as well raises the difficulty of the roll. (Normal clothing and items step up the Gauntlet rating once; bulky clothing and items step up rating twice.) That traveler must step sideways on his own; bringing large items or other people across demands a higher Spirit Rank. Meanwhile, a combined Spirit d8/ Mind d6 Effect allows the magus to read Resonance, Synergy, and other spiritual energies (Essence, a spirit’s place within a hierarchy, etc.). 
 
-At this Rank, a mortal magus can also harm an Umbral entity as if he was using Life d8 against that entity. While Spirit d6 allows the magus to touch that entity, Spirit d8 lets him actually damage its ephemeral Pattern’s integrity the way that Life d8 damages a physical creature’s form.
+At this Rank, a mortal magus can also harm an Umbral entity as if they was using Life d8 against that entity. While Spirit d6 allows the magus to touch that entity, Spirit d8 lets him actually damage its ephemeral Pattern’s integrity the way that Life d8 damages a physical creature’s form.
 
 By combining this Rank with Matter d8 and Prime d6, the magus can also create short-lived objects from ephemera; such creations must be constructed as if they were material things, and they fade away at the end of the Effect’s duration. 
 
@@ -579,13 +798,13 @@ Finally, this Rank helps the magus rouse the slumbering spirits within objects o
 
 ### d10 Rend Gauntlet / Seal Breach / Bind Spirit
 
-As the magus approaches Mastery, he can tear Gateways in the Gauntlet, allowing groups or large objects to pass through… or close such breaches, too. Both applications, of course, are deeply vulgar.
+As the magus approaches Mastery, they can tear Gateways in the Gauntlet, allowing groups or large objects to pass through… or close such breaches, too. Both applications, of course, are deeply vulgar.
 
-At this Rank, the magus may also compel spirits to appear, bind them into Fetish objects, or tie them to certain spots or prisons. For obvious reasons, such bondage is risky, especially if the spirit is powerful. A brave or foolish Spirit magus can even turn himself into a temporary Fetish, channeling a spirit entity into his mortal body; in such cases, he loses his ability to use true magick, but he may employ the capabilities of the spirit inside him. On the flipside, he can also exorcise a spirit that has possessed a mortal host. In all cases, the magus enters a series of resisted rolls against the spirit, pitting his Willpower against that spirit’s own. 
+At this Rank, the magus may also compel spirits to appear, bind them into Fetish objects, or tie them to certain spots or prisons. For obvious reasons, such bondage is risky, especially if the spirit is powerful. A brave or foolish Spirit magus can even turn himself into a temporary Fetish, channeling a spirit entity into his mortal body; in such cases, they loses his ability to use true magick, but they may employ the capabilities of the spirit inside him. On the flipside, they can also exorcise a spirit that has possessed a mortal host. In all cases, the magus enters a series of resisted rolls against the spirit, pitting his Willpower against that spirit’s own. 
 
 ### d12 Forge Ephemera / Gilgul / Break the Dreamshell
 
-The Spirit Master is now able to command ephemera itself, creating, challenging, and destroying spirit matter as he Wills. With such power, he may create Realms, imbue or drain a spirit of Essence, instill a soul within an empty shell of Life or Matter, and bestow the awful sentence of Gilgul – the destruction of a magus’s Avatar. Such powers are always vulgar and feature devastating consequences even when the magus succeeds. 
+The Spirit Master is now able to command ephemera itself, creating, challenging, and destroying spirit matter as they Wills. With such power, they may create Realms, imbue or drain a spirit of Essence, instill a soul within an empty shell of Life or Matter, and bestow the awful sentence of Gilgul – the destruction of a magus’s Avatar. Such powers are always vulgar and feature devastating consequences even when the magus succeeds. 
 
 This power also allows the magus to break the Dreamshell and venture beyond the Horizons, wandering into the Deepest of Umbrae.
 
