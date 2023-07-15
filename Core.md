@@ -245,7 +245,7 @@ Spend 25 XP to:
 All magick is codified into practices based on practitioners mastery over a Sphere, the Practices are:
 
 **Initiate  d4**
-: **Perception:** An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. The mage can’t alter anything just yet, but she can put her observations to good use. 
+> **Perception:** An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. The mage can’t alter anything just yet, but she can put her observations to good use. 
 
 **Apprentice d6**
 
