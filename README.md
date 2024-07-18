@@ -316,7 +316,7 @@ Paradox can take a variety of forms. Backlash, reality directly attacking the of
 
 ### Paradox Pool
 Mages accumulate Paradox into a pool from different sources, they are as follows:
-- Casting vulgar magick. Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds d6 to the pool and gains 1 PP.
+- **Casting vulgar magick:** Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds d6 to the pool and gains 1 PP.
   > ##### Optional Rule: Harsh Paradox
   > If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to the pool instead of a d6.
 - 
