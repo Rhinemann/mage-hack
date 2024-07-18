@@ -298,12 +298,12 @@ Quintessence is the raw material of reality. Technocrats refer to it as Primal E
 
 Quintessence is the same thing as Chi, Sekhem, and Gnosis. Glamour is a form of quintessence, just as diamonds are a form of carbon. Vitae is theorized by mages to be fused with Quintessence, thus explaining its supernatural properties.
 
-Mages have a Quintessence pool. Your Quintessence pool is the free flowing Quintessence that your Avatar can accumulate and safely use, it acts as a Recourse, which means you can expend any amount of dice to roll separately, adding to the result. You can get a maximum of 10 dice in your Quintessence pool through Character Advancement
-
 ### Quintessence Pool
-Your Quintessence accumulates in a pool of d6 up to idk TODO the limit if any.
+Every mage has a Quintessence pool. Your Quintessence pool is the free flowing Quintessence that your Avatar can accumulate and safely use, it acts as a Recourse, which means you can expend any amount of dice to roll separately, adding to the result. You can get a maximum of 10 dice in your Quintessence pool through Character Advancement.
 
+When casting a spell, you may set aside any number of Quintessence dice before rolling. After the dice pool for the spell was rolled, the player must roll the Quintessence dice set aside and add the highest result die to the total. After that the dice set aside are considered spent and must be recovered later.
 
+Quintessence dice may have tags attached to them, corresponding to the type of resonance of Quintessence.
 
 ## Paradox
 Paradox is the collective force of consensual reality fighting back against the enlightened will of the mage.
@@ -314,7 +314,8 @@ Paradox is the inertia of 6 million gallons of belief. Mages who change reality 
 
 Paradox can take a variety of forms. Backlash, reality directly attacking the offensive mage, can cause temporary, long term, or even permanent wounds, flaws, or oddities. Quiet, a magical form of madness, forces the offending mage to resolve their guilt over disjointing reality. Exceptionally offensive mages can be catapulted into Paradox Realms, or hounded by Paradox spirits.
 
-Paradox flaw rating is applied to all rolls in line with the nature of flaws, as determined by GM.
+### Paradox Pool
+Mages accumulate Paradox into a pool from different sources 
 
 ## SFX
 ### Universal SFX
@@ -326,6 +327,11 @@ All Magi benefit from these SFX:
 > *Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 PP.
 >
 > *The Weight of Consensus:* Whenever a Sleeper witnesses you using Magick in obvious ways, you take d6 Paradoxed stress and gain 1 PP.
+> 
+> *Opposed Resonance:*  Step down the highest die in the pool when employing opposed Resonance in the casting.
+> 
+> *Appropriate Resonance:* Step up the lowest die in the pool when employing appropriate Resonance in the casting.
+
 
 You can spend points to take one or more of these SFX on character creation or later
 
