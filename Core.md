@@ -49,7 +49,7 @@ Distinctions are a trait that represents a character’s background, personality
 
 Each player has three Distinctions: Personality, Sleeper Life, Awakened Identity.
 
-Distinctions are the first of your Prime Sets to be used in every roll.
+Distinctions are the first of your Prime Sets to be used in every roll and are rated at d8.
 
 ### Personality
 
@@ -69,7 +69,7 @@ After you Awakened you changed, a truth of the world opened up to you, you now b
 
 Attributes represent raw ability and essential traits every character possesses. 
 
-Attributes serve as the second of the three Prime Sets used in every roll.
+Attributes serve as the second of the three Prime Sets used in every roll, rated from d4 to d12.
 
 The nine Attributes are split into three categories: Physical, Social, Mental.
 
@@ -125,7 +125,7 @@ Poise and grace under fire. It’s his dignity, and ability to remain unfazed wh
 
 Whereas Attributes represent innate ability, Skills reflect behaviors learned and honed over a lifetime. These are things that could be practiced or learned from a book.
 
-Skills serve as the second of the three Prime Sets used in every roll.
+Skills serve as the second of the three Prime Sets used in every roll, rated from d4 to d12.
 
 Similarly to Attributes, Skills are divided into Mental, Physical, and Social categories.
 
@@ -140,6 +140,7 @@ Higher education and knowledge of the arts and humanities. It covers language, h
 #### Awareness
 
 You’ve got uncanny perceptions. While alert folks spot everyday clues, your instincts cue in on the so-called supernatural side of life. Perhaps you’ve simply got that feeling about things – some people do, even if they’re not Awakened as such. More likely, you’ve spent enough time around the magical world to sense its effects in your presence. 
+
 At lower levels, this Skill grants a nebulous perception of uncanny phenomena; higher ratings in the Trait reveal auras, expose the secretive Night-Folk, and open your eyes to the spiritual Periphery.
 
 *Suggested Specialties:* Omens, Auras, Resonance, Weird Feelings, Mystic Instincts, Hidden Magic, Spiritual Vidare.
@@ -155,6 +156,16 @@ Advanced ability with computing. While most characters in the World of Darkness 
 Knack with creating and repairing things. From creating works of art, to fixing an automobile, Crafts is the Skill to use.
 
 *Suggested Specialties:* Automotive, Cosmetics, Fashion, Forging, Graffiti, Jury-Rigging, Painting, Perfumery, Repair, Sculpting.
+
+#### Esoterica
+
+Esoteric knowledge comes in many forms: astrology, angelography, fortune-telling, yoga, herbalism, demonology, the lore of stones, even the secret code languages of occult societies. For centuries, such mysteries were the province of selected initiates; these days, it’s relatively easy to find the basics in any decent bookstore or website. Even so, the deeper levels remain obscure to all but the most devoted students of the art. Anyone can take a yoga class in the modern world, but the more arcane applications of that art demand years of practice, study, and devotion. 
+
+Esoterica Knowledge reflects your pursuit of esoteric disciplines and, by extension, provides instruments for your magickal focus. The Skill’s overall rating reflects your general knowledge of arcane subjects, whereas each specialty reflects your expertise within a certain field. Unlike the Occult – which reflects an understanding of “secret history” and shadow-cultures – Esoterica represents the practical application of unusual fields. Occult can teach your character who Aleister Crowley was, while Esoterica helps her understand what Crowley did… and to use those principles herself.
+
+Given an opportunity to study and practice an art, any character can learn Esoterica. Although such disciplines don’t give magickal powers to unAwakened characters, the Knowledge lets them use mundane applications – teaching yoga classes, doing horoscopes, deciphering alchemical texts and so forth. Understanding the principles of bakemono-jutsu – the ninja “ghost technique” – won’t make you invisible, for instance, but a specialty in that esoteric technique would let you add it to your Stealth Skill rolls.
+
+*Suggested Specialties:* Yoga, Tantra, Herbalism, Kabbalah, Fortune-Telling, Hypnosis, Astrology, Celestiography, Demonology, Sacred Geometry, Gematria, Goetia, Prophecies, Omens, T’ai Chi, I Ching, Stone Lore, Alchemy, Symbolism, Transhumanist Theory, Esoteric Musicology, Bakemono-Jutsu, Iconology, Numerology, Voodoo, Crystalmancy, Tarot, specific arcane languages (Enochian, In-o-Musubi, the Language of Flowers, etc.).
 
 #### Investigation
 
@@ -172,7 +183,7 @@ Knowledge of the human body, and of how to bring it to and keep it in working or
 
 Knowledge of things hidden in the dark, legends, and lore. While the supernatural is unpredictable and often unique, the Occult Skill allows your character to pick out facts from rumor. Almost all magi develop at least some  aptitude in Occult, to further their studies of the Mysteries.
 
-*Suggested Specialties:* (all of Specialties of Esoterica and Occult in M20).
+*Suggested Specialties:* Neopaganism, Occult History, Conspiracy Theories, Secret Societies, New Age, Alternative Sciences, Mystic Lore, Folk Magic, Moral Panic, Urban Legends, Satanic Folklore, Pop-Culture Satanism, Actual Satanism, any specific occult discipline or field (Freemasonry, Voodoo, Stage Magic, etc.).
 
 #### Politics
 
@@ -320,6 +331,32 @@ wants to get something on the black market, Streetwise is how.
 Ability to deceive. With Subterfuge, your character can lie convincingly, project hidden messages in what she says, hide motivations, and notice deception in others.
 
 *Suggested Specialties:* Detecting Lies, Doublespeak, Hiding Emotion, Little White Lies, Misdirection.
+
+## Arete
+
+Arete is the measure of a mage's enlightenment and understanding of the fundamental truths of reality. It represents the mage's ability to perceive and manipulate the Tapestry, the fabric of the universe, through the use of magic. Arete is both a philosophical journey and a practical tool, essential for the practice of magic.
+
+In the world of _Mage: The Ascension_, magic is not merely a collection of spells and rituals; it is a profound understanding of the interconnectedness of all things. Arete reflects a mage's progress along this path of enlightenment. As a mage advances in Arete, they gain a deeper insight into the nature of reality, allowing them to bend it to their will with greater ease and precision.
+
+
+
+## Quintessence
+
+**Quintessence** is the raw, primal energy of the universe, a vital force that fuels all magical workings in _Mage: The Ascension_. It represents the purest form of magical energy, drawn from the very fabric of reality.
+
+Quintessence is essential for performing powerful spells, crafting magical items, and sustaining mystical constructs. It can be gathered from Nodes (places of natural magical energy), Tass (solidified Quintessence), or by draining it from other sources.
+
+Mages can store Quintessence in their Avatars or in magical items called Talismans.
+
+
+
+## Paradox
+
+**Paradox** is the mystical backlash that occurs when a mage's magic disrupts the consensus reality in _Mage: The Ascension_. It represents the universe's resistance to changes that conflict with the commonly accepted laws of nature.
+
+Paradox is triggered when a mage's magical effects are too overt or conflict with the consensus view of reality, especially when witnessed by Sleepers.
+
+Paradox can manifest in various ways, including physical damage to the mage, temporary or permanent flaws, paradoxical phenomena, or Paradox Spirits that seek to correct the reality disruption.
 
 ## SFX
 
