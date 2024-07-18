@@ -301,6 +301,8 @@ Quintessence is the same thing as Chi, Sekhem, and Gnosis. Glamour is a form of 
 Mages have a Quintessence pool. Your Quintessence pool is the free flowing Quintessence that your Avatar can accumulate and safely use, it acts as a Recourse, which means you can expend any amount of dice to roll separately, adding to the result. You can get a maximum of 10 dice in your Quintessence pool through Character Advancement
 
 ### Quintessence Pool
+Your Quintessence accumulates in a pool of d6 up to idk TODO the limit if any.
+
 
 
 ## Paradox
