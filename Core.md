@@ -11,7 +11,7 @@ Special credit to [Vampire Cortex Prime Conversion V.1](https://docs.google.com/
 This is a work-in-progress conversion of Mage rules and is not a complete and thorough conversion of every rule, just a basic overview of rules, based mostly on the 20th anniversary edition of Mage. Note all rules are a subject of potential change.
 Every unspecified page reference is referring to Cortex Prime core rulebook.
 
-# The Basics
+<!-- # The Basics
 
 The Hack assumes a basic knowledge of Mage: the Ascension lore, but the basic premise is something like this:
 
@@ -39,15 +39,31 @@ The traditions are:
 - **Order of Hermes:** Rigorous masters of High Magick and the Elemental Arts. Affinity Spheres: Forces;
 - **Society of Ether/Sons of Ether:** Graceful saviors of scientific potential. Affinity Spheres: Matter, Forces, or Prime;
 - **Verbena:** Primal devotees of rough Nature and mystic blood. Affinity Spheres: Life or Forces;
-- **Virtual Adepts:** Reality-hackers devoted to rebooting their world. Affinity Spheres: Correspondence/Data or Forces;
-
-## Awareness
-
-As an awakened Mage you possess a special sense called Awareness. Awareness allows you to feel different supernatural phenomena even without a corresponding Sphere, these feelings are however vague and subconscious not giving you any concrete information.
+- **Virtual Adepts:** Reality-hackers devoted to rebooting their world. Affinity Spheres: Correspondence/Data or Forces; -->
 
 # Rules
 
 ## Distinctions
+
+Distinctions are a trait that represents a character’s background, personality, and role in the game and that differentiates them from other PCs and GMCs.
+
+Each player has three Distinctions: Personality, Sleeper Life, Awakened Identity.
+
+Distinctions are the first of your Prime Sets to be used in every roll.
+
+### Personality
+
+Who is your character? What are they at their core? What motivates them?
+
+The personality distinction defines your core personality and concept in one short phrase.
+
+### Sleeper Life
+
+Before you Awakened, you were someone, you had a job, were studying or trying to just get by. Describe your Sleeper side, what still remains of your Sleeper past.
+
+### Awakened Identity
+
+After you Awakened you changed, a truth of the world opened up to you, you now belong to a group of other Awakened or you are fending for your own, you have a method to your magick or it is a chaotic collection of random knowledge that somehow works. Be it as it may, magick is now an inherent part of you.
 
 ## Attributes
 
@@ -120,6 +136,13 @@ Similarly to Attributes, Skills are divided into Mental, Physical, and Social ca
 Higher education and knowledge of the arts and humanities. It covers language, history, law, economics, and related fields. Many magi develop aptitude in Academics to further their research into the Mysteries.
 
 *Suggested Specialties:* Anthropology, Art History, English, History, Law, Literature, Religion, Research, Translation.
+
+#### Awareness
+
+You’ve got uncanny perceptions. While alert folks spot everyday clues, your instincts cue in on the so-called supernatural side of life. Perhaps you’ve simply got that feeling about things – some people do, even if they’re not Awakened as such. More likely, you’ve spent enough time around the magical world to sense its effects in your presence. 
+At lower levels, this Skill grants a nebulous perception of uncanny phenomena; higher ratings in the Trait reveal auras, expose the secretive Night-Folk, and open your eyes to the spiritual Periphery.
+
+*Suggested Specialties:* Omens, Auras, Resonance, Weird Feelings, Mystic Instincts, Hidden Magic, Spiritual Vidare.
 
 #### Computer
 
