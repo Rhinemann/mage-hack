@@ -289,197 +289,10 @@ Arete is the measure of a mage's enlightenment and understanding of the fundamen
 
 In the world of _Mage: The Ascension_, magic is not merely a collection of spells and rituals; it is a profound understanding of the interconnectedness of all things. Arete reflects a mage's progress along this path of enlightenment. As a mage advances in Arete, they gain a deeper insight into the nature of reality, allowing them to bend it to their will with greater ease and precision.
 
-## Quintessence
-**Quintessence** is the raw, primal energy of the universe, a vital force that fuels all magical workings in _Mage: The Ascension_. It represents the purest form of magical energy, drawn from the very fabric of reality.
-
-Quintessence is essential for performing powerful spells, crafting magical items, and sustaining mystical constructs. It can be gathered from Nodes (places of natural magical energy), Tass (solidified Quintessence), or by draining it from other sources.
-
-Mages can store Quintessence in their Avatars or in magical items called Talismans.
-
-## Quintessence
-Quintessence is the raw material of reality. Technocrats refer to it as Primal Energy. It is what flows through the patterns of reality and what makes magic possible. The primal force, quintessence can not truly be divided, measured or contained. The patterns of all supernaturals, mortals, inanimate objects, and the whole of the Tellurian is woven from Quintessence. The term literally translates to "Fifth Essence".
-
-Quintessence is the same thing as Chi, Sekhem, and Gnosis. Glamour is a form of quintessence, just as diamonds are a form of carbon. Vitae is theorized by mages to be fused with Quintessence, thus explaining its supernatural properties.
-
-### Quintessence Pool
-Every mage has a Quintessence pool. Your Quintessence pool is the free flowing Quintessence that your Avatar can accumulate and safely use, it acts as a Recourse, which means you can expend any amount of dice to roll separately, adding to the result. You can get a maximum of 10 dice in your Quintessence pool through Character Advancement.
-
-When casting a spell, you may set aside any number of Quintessence dice before rolling. After the dice pool for the spell was rolled, the player must roll the Quintessence dice set aside and add the highest result die to the total. After that the dice set aside are considered spent and must be recovered later.
-
-Quintessence dice may have tags attached to them, corresponding to the type of resonance of Quintessence.
-
-## Paradox
-Paradox is the collective force of consensual reality fighting back against the enlightened will of the mage.
-
-A useful analogy is to imagine the Tellurian as a huge body of water. Most people move with the currents of reality, floating along on a cushion of their own belief. Some of these sleepers, Hedge magicians or simply the heroically lucky, learn to dip their hands in and alter the flow, but they cannot redirect the river. Vampires and werewolves are predators, fast and agile in the waters of reality, but still confined by the flow of belief. The Mage, however, sees the river for what it is, and can push the water around as they choose.
-
-Paradox is the inertia of 6 million gallons of belief. Mages who change reality with vulgar magic are pushing the river in ways it does not want to go, and risk being drowned by the current. Coincidental magic uses the flow of reality, rather than fighting against it, and can easily avoid Paradox, but even coincidence can risk paradox if it is unbelievable to the local sleepers.
-
-Paradox can take a variety of forms. Backlash, reality directly attacking the offensive mage, can cause temporary, long term, or even permanent wounds, flaws, or oddities. Quiet, a magical form of madness, forces the offending mage to resolve their guilt over disjointing reality. Exceptionally offensive mages can be catapulted into Paradox Realms, or hounded by Paradox spirits.
-
-### Paradox Pool
-Mages accumulate Paradox into a pool from different sources, they are as follows:
-- **Casting vulgar magick:** Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds d6 to the pool and gains 1 PP.
-  > #### Optional Rule: Harsh Paradox
-  > If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to the pool instead of a d6.
-- **Hitching while casting a spell:** Whenever a player rolls a hitch, the Storyteller may add that die to a Paradox pool instead of the Doom pool, paying for it as normal.
-- **Special circumstances:** Certain special circumstances like encounters with Mad Ones may inflict Paradox in unusual ways too.
-
-## SFX
-
-### Universal SFX
-All Magi benefit from these SFX:
-
-*Affinity Sphere:* Spend a PP to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
-
-*Spend Willpower:* Take d6 Unsound stress to gain a PP or add a third die to your total on a roll.
-
-*Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 PP.
-
-*Opposed Resonance:* Step down the highest die in the pool when employing opposed Resonance in the casting.
-
-*Appropriate Resonance:* Step up the lowest die in the pool when employing appropriate Resonance in the casting.
-
-You can spend points to take one or more of these SFX on character creation or later
-
-### Magick SFX (Supernatural SFX)
-These are the examples of magick-related and supernatural SFX available to mages to inspire the players and Storytellers.
-
-*Advanced Necromancy:* Spend 1 PP to use both Matter and Life when your action is related to animating the dead.
-
-*Animate Dead:* When you have Matter and Life at d6 and your action includes any of these two you can create different assets related to corpse animation.
-
-*Area Effect:* When your action includes a Sphere, spend 1 PP to add a d6 and keep an additional effect die for each additional target past the first.
-
-*Conjunctional Effects Mastery:* Use two or more Spheres in a single dice pool and step each Sphere down by one for each additional Sphere beyond the first.
-
-*Discard Instruments:* When unlocking this SFX choose a Sphere rated d8 or higher Necessary Tools SFX doesn't apply for effects unlocked at rating two steps down.
-You can buy this SFX multiple times choosing a new Sphere each time.
-
-*Enchant Patterns:* When your action includes Prime d6 you can take d6 Quintessence stress to inflict d6 Hurt stress.
-
-*Extra Attacks:* Spend 1 PP to add d6 and keep a second effect die as a complication or Hurt stress against an extra target. If you have Time d8 or higher, you can act against more than two targets,  adding d6 and keeping an extra effect die for each target beyond the first.
-
-*Fast Casting:* When your action includes a Sphere, you can gain a d6 complication to inflict d6 Hurt stress.
-
-*Instrument Arsenal:* Spend a PP to create a d8 Instrument asset for a particular type of Magick.
-
-*Paradox Contaminating:* When your action includes Prime d12 or higher, you can inflict Paradox stress on a target besides yourself.
-
-*Paradox Transmitting:* When your action includes Prime d12 or higher and you have the Paradox Contaminating SFX you can recover one Paradox stress level for each Paradox stress inflicted.
-
-*Primal Channeling:* When your action includes Prime d10 or higher and you have the Primal Fraying SFX you can recover one Quintessence die for each step of Stress.
-
-<!-- *Primal Fraying:* When your action includes Prime d10 or higher, you can inflict Quintessence stress on a target besides yourself. -->
-
-*Quick Curse:* When your action includes a Sphere, you can gain a d6 to keep a second effect die as a complication on a nearby character.
-
-*Reckless Casting:* Step up or double any Sphere for one roll. If the roll fails, add your Sphere die to the Paradox pool.
-
-*Rote:* Describe a magickal Effect when buying this SFX, whenever you cast it add a d6 to your pool.
-You can buy this SFX multiple times specifying a new Effect each time.
-
-*Swift Warding:* When your action includes a Sphere, you can gain a d6 Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
-
-## Stress & Trauma
-Stress and trauma are a measure of your damage. There are five types of stress and trauma:
-- **Harmed:** Pain and injury.
-- **Unsound:** Confusion and brain fog.
-- **Rattled:** Fear and anxiety.
-- **Tired:** Exhaustion.
-
-### Recovering Stress.
-Magi step down all stress as per normal Cortex Prime rules.
-
-## Dropping Assets
-At any point during the scene a player can choose to lose a Signature Asset narratively justifying it. In that case you gain XP equal to the price of the Signature Asset lost.
-
-## Character Creation
-
-### Step 0: Get a character sheet
-Todo.
-
-### Step 1: Choose Distinctions
-- One for your personality, or motivation;
-- One for your Sleeper life;
-- One for your affiliation with a Group of Magi.
-  > Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent…;
-
-Each of your distinctions benefits from the Hinder SFX:
-
-*Hinder:* Roll a d4 instead of a d8 for a distinction to earn 1 PP.
-
-### Step 2: Assign Attributes
-Each attribute defaults to d4 and you have 3, 5 and 7 points to step them up.
-
-### Step 3: Assign Skills
-Each Skill defaults to d4 and you have 15 points to step up skills. 
-
-Maximum skill at character creation is d10.
-
-As a general guide, 9 points represent what you learned from your Sleeper Life and 6 represent what you’ve learned since Awakening if you're playing a competent but young mage.
-
-### Step 4: Spheres
-You have 6 points to spend on sphere rating, starting on d4, maximum Sphere rating at character creation is d8.
-
-At least one point must be assigned to Tradition’s affinity Sphere, to reflect your training in Tradition’s specialty.
-
-### Step 5: Assign Specialties, Signature Assets, and additional Powers
-Players have 9 points to spend on these options:
-- One point to buy a Signature Asset;
-- One point to step up a Signature Asset;
-- One point to buy a Specialty;
-- Two points to buy a new Power;
-- Two points to step your Power up;
-- Two points for a new SFX;
-
-At character creation Signature Assets may not be larger than d8.
-
-### Step 6: Assign universal SFX and Quintessence Pool
-Write down universal SFX. Assign 2d6 to the Quintessence pool, this is your Quintessence pool size.
-
-## Character Advancement
-In The Adept character advancement is handled with milestones. Between scenes you can spend XP to increase your traits or unlock other benefits.
-
-Spend 5 XP to:
-- Unlock an SFX.
-- Raise a d4 Skill to d6.
-- Add a d6 Signature Asset or Specialty.
-- Rewrite a distinction.
-
-Spend 10 XP to:
-- Add a new SFX.
-- Raise a d6 Skill or Signature Asset to d8.
-- Raise a d4 Attribute to d6.
-- Add a d4 Sphere.
-- Add a d6 to Quintessence pool size.
-
-Spend 15 XP to:
-- Raise a d8 Skill or Signature Asset to d10.
-- Raise a d6 Attribute to d8.
-- Raise a d4 Sphere to d6.
-
-Spend 20 XP to:
-- Raise an existing d10 specialty to d12.
-- Raise a d10 Skill or Signature Asset to d12.
-- Raise a d8 Attribute to d10.
-- Raise a d6 Sphere to d8.
-- Add a d6 to your Quintessence pool.
-
-Spend 25 XP to:
-- Raise a d10 Attribute to d12.
-- Raise a d8 Sphere to d10.
-- Spend 30 XP to:
-- Raise a d10 Sphere to d12.
-
 ## Spheres
 All Magi Possess True Magick, though alternative names for the trait set are possible (Spheres, Enlightened Science, Ars Magia).
 
-True Magick consists of 9 Spheres, each governing a fragment of the Tapestry.
-
-True Magick is what permits a character to use their Awakened will to influence the world by the means of their Paradigm and the level of understanding of the appropriate Sphere.
-
-
+True Magick consists of 9 Spheres, each governing a fragment of the Tapestry. And each Sphere is ranked d4 to d12, representing the depth and intricacies of the mage's understanding of it, and therefore their power to control it.
 
 ### Sphere Rating
 All magick is codified into practices based on practitioners mastery over a Sphere, the Practices are:
@@ -787,3 +600,179 @@ Now the magus learns to withdraw herself from the normal flow of time, hold Effe
 
 #### d12 Temporal Travel/ Time Immunity
 The “Dr. Who Effect” allows the magus to exist outside of time; immunize people, places or things from time’s passage; or travel forward or backward through time. Such godlike feats… feats that often cause a magus to become forever lost to history… are often best left to the GM’s discretion. Even for Masters, Time travel is a mysterious and maddeningly imprecise art. For extensive details about such things, see the sourcebook How Do You DO That?
+
+## Quintessence
+Quintessence is the raw material of reality. Technocrats refer to it as Primal Energy. It is what flows through the patterns of reality and what makes magic possible. The primal force, quintessence can not truly be divided, measured or contained. The patterns of all supernaturals, mortals, inanimate objects, and the whole of the Tellurian is woven from Quintessence. The term literally translates to "Fifth Essence".
+
+Quintessence is the same thing as Chi, Sekhem, and Gnosis. Glamour is a form of quintessence, just as diamonds are a form of carbon. Vitae is theorized by mages to be fused with Quintessence, thus explaining its supernatural properties.
+
+### Quintessence Pool
+Every mage has a Quintessence pool. Your Quintessence pool is the free flowing Quintessence that your Avatar can accumulate and safely use, it acts as a Recourse, which means you can expend any amount of dice to roll separately, adding to the result. You can get a maximum of 10 dice in your Quintessence pool through Character Advancement.
+
+When casting a spell, you may set aside any number of Quintessence dice before rolling. After the dice pool for the spell was rolled, the player must roll the Quintessence dice set aside and add the highest result die to the total. After that the dice set aside are considered spent and must be recovered later.
+
+Quintessence dice may have tags attached to them, corresponding to the type of resonance of Quintessence.
+
+## Paradox
+Paradox is the collective force of consensual reality fighting back against the enlightened will of the mage.
+
+A useful analogy is to imagine the Tellurian as a huge body of water. Most people move with the currents of reality, floating along on a cushion of their own belief. Some of these sleepers, Hedge magicians or simply the heroically lucky, learn to dip their hands in and alter the flow, but they cannot redirect the river. Vampires and werewolves are predators, fast and agile in the waters of reality, but still confined by the flow of belief. The Mage, however, sees the river for what it is, and can push the water around as they choose.
+
+Paradox is the inertia of 6 million gallons of belief. Mages who change reality with vulgar magic are pushing the river in ways it does not want to go, and risk being drowned by the current. Coincidental magic uses the flow of reality, rather than fighting against it, and can easily avoid Paradox, but even coincidence can risk paradox if it is unbelievable to the local sleepers.
+
+Paradox can take a variety of forms. Backlash, reality directly attacking the offensive mage, can cause temporary, long term, or even permanent wounds, flaws, or oddities. Quiet, a magical form of madness, forces the offending mage to resolve their guilt over disjointing reality. Exceptionally offensive mages can be catapulted into Paradox Realms, or hounded by Paradox spirits.
+
+### Paradox Pool
+Mages accumulate Paradox into a pool from different sources, they are as follows:
+- **Casting vulgar magick:** Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds d6 to the pool and gains 1 PP.
+  > #### Optional Rule: Harsh Paradox
+  > If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to the pool instead of a d6.
+- **Hitching while casting a spell:** Whenever a player rolls a hitch, the Storyteller may add that die to a Paradox pool instead of the Doom pool, paying for it as normal.
+- **Special circumstances:** Certain special circumstances like encounters with Mad Ones may inflict Paradox in unusual ways too.
+
+## SFX
+
+### Universal SFX
+All Magi benefit from these SFX:
+
+*Affinity Sphere:* Spend a PP to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
+
+*Spend Willpower:* Take d6 Unsound stress to gain a PP or add a third die to your total on a roll.
+
+*Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 PP.
+
+*Opposed Resonance:* Step down the highest die in the pool when employing opposed Resonance in the casting.
+
+*Appropriate Resonance:* Step up the lowest die in the pool when employing appropriate Resonance in the casting.
+
+You can spend points to take one or more of these SFX on character creation or later
+
+### Magick SFX (Supernatural SFX)
+These are the examples of magick-related and supernatural SFX available to mages to inspire the players and Storytellers.
+
+*Advanced Necromancy:* Spend 1 PP to use both Matter and Life when your action is related to animating the dead.
+
+*Animate Dead:* When you have Matter and Life at d6 and your action includes any of these two you can create different assets related to corpse animation.
+
+*Area Effect:* When your action includes a Sphere, spend 1 PP to add a d6 and keep an additional effect die for each additional target past the first.
+
+*Conjunctional Effects Mastery:* Use two or more Spheres in a single dice pool and step each Sphere down by one for each additional Sphere beyond the first.
+
+*Discard Instruments:* When unlocking this SFX choose a Sphere rated d8 or higher Necessary Tools SFX doesn't apply for effects unlocked at rating two steps down.
+You can buy this SFX multiple times choosing a new Sphere each time.
+
+*Enchant Patterns:* When your action includes Prime d6 you can take d6 Quintessence stress to inflict d6 Hurt stress.
+
+*Extra Attacks:* Spend 1 PP to add d6 and keep a second effect die as a complication or Hurt stress against an extra target. If you have Time d8 or higher, you can act against more than two targets,  adding d6 and keeping an extra effect die for each target beyond the first.
+
+*Fast Casting:* When your action includes a Sphere, you can gain a d6 complication to inflict d6 Hurt stress.
+
+*Instrument Arsenal:* Spend a PP to create a d8 Instrument asset for a particular type of Magick.
+
+*Paradox Contaminating:* When your action includes Prime d12 or higher, you can inflict Paradox stress on a target besides yourself.
+
+*Paradox Transmitting:* When your action includes Prime d12 or higher and you have the Paradox Contaminating SFX you can recover one Paradox stress level for each Paradox stress inflicted.
+
+*Primal Channeling:* When your action includes Prime d10 or higher and you have the Primal Fraying SFX you can recover one Quintessence die for each step of Stress.
+
+<!-- *Primal Fraying:* When your action includes Prime d10 or higher, you can inflict Quintessence stress on a target besides yourself. -->
+
+*Quick Curse:* When your action includes a Sphere, you can gain a d6 to keep a second effect die as a complication on a nearby character.
+
+*Reckless Casting:* Step up or double any Sphere for one roll. If the roll fails, add your Sphere die to the Paradox pool.
+
+*Rote:* Describe a magickal Effect when buying this SFX, whenever you cast it add a d6 to your pool.
+You can buy this SFX multiple times specifying a new Effect each time.
+
+*Swift Warding:* When your action includes a Sphere, you can gain a d6 Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
+
+## Stress & Trauma
+Stress and trauma are a measure of your damage. There are five types of stress and trauma:
+- **Harmed:** Pain and injury.
+- **Unsound:** Confusion and brain fog.
+- **Rattled:** Fear and anxiety.
+- **Tired:** Exhaustion.
+
+### Recovering Stress.
+Magi step down all stress as per normal Cortex Prime rules.
+
+## Dropping Assets
+At any point during the scene a player can choose to lose a Signature Asset narratively justifying it. In that case you gain XP equal to the price of the Signature Asset lost.
+
+## Character Creation
+
+### Step 0: Get a character sheet
+Todo.
+
+### Step 1: Choose Distinctions
+- One for your personality, or motivation;
+- One for your Sleeper life;
+- One for your affiliation with a Group of Magi.
+  > Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent…;
+
+Each of your distinctions benefits from the Hinder SFX:
+
+*Hinder:* Roll a d4 instead of a d8 for a distinction to earn 1 PP.
+
+### Step 2: Assign Attributes
+Each attribute defaults to d4 and you have 3, 5 and 7 points to step them up.
+
+### Step 3: Assign Skills
+Each Skill defaults to d4 and you have 15 points to step up skills. 
+
+Maximum skill at character creation is d10.
+
+As a general guide, 9 points represent what you learned from your Sleeper Life and 6 represent what you’ve learned since Awakening if you're playing a competent but young mage.
+
+### Step 4: Spheres
+You have 6 points to spend on sphere rating, starting on d4, maximum Sphere rating at character creation is d8.
+
+At least one point must be assigned to Tradition’s affinity Sphere, to reflect your training in Tradition’s specialty.
+
+### Step 5: Assign Specialties, Signature Assets, and additional Powers
+Players have 9 points to spend on these options:
+- One point to buy a Signature Asset;
+- One point to step up a Signature Asset;
+- One point to buy a Specialty;
+- Two points to buy a new Power;
+- Two points to step your Power up;
+- Two points for a new SFX;
+
+At character creation Signature Assets may not be larger than d8.
+
+### Step 6: Assign universal SFX and Quintessence Pool
+Write down universal SFX. Assign 2d6 to the Quintessence pool, this is your Quintessence pool size.
+
+## Character Advancement
+In The Adept character advancement is handled with milestones. Between scenes you can spend XP to increase your traits or unlock other benefits.
+
+Spend 5 XP to:
+- Unlock an SFX.
+- Raise a d4 Skill to d6.
+- Add a d6 Signature Asset or Specialty.
+- Rewrite a distinction.
+
+Spend 10 XP to:
+- Add a new SFX.
+- Raise a d6 Skill or Signature Asset to d8.
+- Raise a d4 Attribute to d6.
+- Add a d4 Sphere.
+- Add a d6 to Quintessence pool size.
+
+Spend 15 XP to:
+- Raise a d8 Skill or Signature Asset to d10.
+- Raise a d6 Attribute to d8.
+- Raise a d4 Sphere to d6.
+
+Spend 20 XP to:
+- Raise an existing d10 specialty to d12.
+- Raise a d10 Skill or Signature Asset to d12.
+- Raise a d8 Attribute to d10.
+- Raise a d6 Sphere to d8.
+- Add a d6 to your Quintessence pool.
+
+Spend 25 XP to:
+- Raise a d10 Attribute to d12.
+- Raise a d8 Sphere to d10.
+- Spend 30 XP to:
+- Raise a d10 Sphere to d12.
