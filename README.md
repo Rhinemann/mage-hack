@@ -319,62 +319,64 @@ Mages accumulate Paradox into a pool from different sources, they are as follows
 - **Casting vulgar magick:** Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds d6 to the pool and gains 1 PP.
   > #### Optional Rule: Harsh Paradox
   > If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to the pool instead of a d6.
-- 
+- **Hitching while casting a spell:** Whenever a player rolls a hitch, the Storyteller may add that die to a Paradox pool instead of the Doom pool, paying for it as normal.
+- **Special circumstances:** Certain special circumstances like encounters with Mad Ones may inflict Paradox in unusual ways too.
 
 ## SFX
+
 ### Universal SFX
 All Magi benefit from these SFX:
-> *Affinity Sphere:* Spend a PP to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
->
-> *Spend Willpower:* Take d6 Unsound stress to gain a PP or add a third die to your total on a roll.
->
-> *Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 PP.
->
-> *The Weight of Consensus:* Whenever a Sleeper witnesses you using Magick in obvious ways, you take d6 Paradoxed stress and gain 1 PP.
-> 
-> *Opposed Resonance:*  Step down the highest die in the pool when employing opposed Resonance in the casting.
-> 
-> *Appropriate Resonance:* Step up the lowest die in the pool when employing appropriate Resonance in the casting.
 
+*Affinity Sphere:* Spend a PP to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
+
+*Spend Willpower:* Take d6 Unsound stress to gain a PP or add a third die to your total on a roll.
+
+*Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 PP.
+
+*Opposed Resonance:* Step down the highest die in the pool when employing opposed Resonance in the casting.
+
+*Appropriate Resonance:* Step up the lowest die in the pool when employing appropriate Resonance in the casting.
 
 You can spend points to take one or more of these SFX on character creation or later
 
 ### Magick SFX (Supernatural SFX)
-> *Advanced Necromancy:* Spend 1 PP to use both Matter and Life when your action is related to animating the dead.
-> 
-> *Animate Dead:* When you have Matter and Life at d6 and your action includes any of these two you can create different assets related to corpse animation.
-> 
-> *Area Effect:* When your action includes a Sphere, spend 1 PP to add a d6 and keep an additional effect die for each additional target past the first.
-> 
-> *Conjunctional Effects Mastery:* Use two or more Spheres in a single dice pool and step each Sphere down by one for each additional Sphere beyond the first.
-> 
-> *Discard Instruments:* When unlocking this SFX choose a Sphere rated d8 or higher Necessary Tools SFX doesn't apply for effects unlocked at rating two steps down.
-> You can buy this SFX multiple times choosing a new Sphere each time.
-> 
-> *Enchant Patterns:* When your action includes Prime d6 you can take d6 Quintessence stress to inflict d6 Health stress.
-> 
-> *Extra Attacks:* Spend 1 PP to add d6 and keep a second effect die as a complication or Health stress against an extra target. If you have Time d8 or higher, you can act against more than two targets,  adding d6 and keeping an extra effect die for each target beyond the first.
-> 
-> *Fast Casting:* When your action includes a Sphere, you can gain a d6 complication to inflict d6 Health stress.
-> 
-> *Instrument Arsenal:* Spend a PP to create a d8 Instrument asset for a particular type of Magick.
-> 
-> *Paradox Contaminating:* When your action includes Prime d12 or higher, you can inflict Paradox stress on a target besides yourself.
-> 
-> *Paradox Transmitting:* When your action includes Prime d12 or higher and you have the Paradox Contaminating SFX you can recover one Paradox stress level for each Paradox stress inflicted.
-> 
-> *Primal Channeling:* When your action includes Prime d10 or higher and you have the Primal Fraying SFX you can recover one Quintessence stress level for each Quintessence stress inflicted.
-> 
-> *Primal Fraying:* When your action includes Prime d10 or higher, you can inflict Quintessence stress on a target besides yourself.
-> 
-> *Quick Curse:* When your action includes a Sphere, you can gain a d6 to keep a second effect die as a complication on a nearby character.
-> 
-> *Reckless Casting:* Step up or double any Sphere for one roll. If the roll fails, you take Paradox stress equal in size to your Sphere die.
-> 
-> *Rote:* Describe a magickal Effect when buying this SFX, whenever you  add a d6 to your pool.
-> You can buy this SFX multiple times specifying a new Effect each time.
-> 
-> *Swift Warding:* When your action includes a Sphere, you can gain a d6 Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
+These are the examples of magick-related and supernatural SFX available to mages to inspire the players and Storytellers.
+
+*Advanced Necromancy:* Spend 1 PP to use both Matter and Life when your action is related to animating the dead.
+
+*Animate Dead:* When you have Matter and Life at d6 and your action includes any of these two you can create different assets related to corpse animation.
+
+*Area Effect:* When your action includes a Sphere, spend 1 PP to add a d6 and keep an additional effect die for each additional target past the first.
+
+*Conjunctional Effects Mastery:* Use two or more Spheres in a single dice pool and step each Sphere down by one for each additional Sphere beyond the first.
+
+*Discard Instruments:* When unlocking this SFX choose a Sphere rated d8 or higher Necessary Tools SFX doesn't apply for effects unlocked at rating two steps down.
+You can buy this SFX multiple times choosing a new Sphere each time.
+
+*Enchant Patterns:* When your action includes Prime d6 you can take d6 Quintessence stress to inflict d6 Health stress.
+
+*Extra Attacks:* Spend 1 PP to add d6 and keep a second effect die as a complication or Health stress against an extra target. If you have Time d8 or higher, you can act against more than two targets,  adding d6 and keeping an extra effect die for each target beyond the first.
+
+*Fast Casting:* When your action includes a Sphere, you can gain a d6 complication to inflict d6 Health stress.
+
+*Instrument Arsenal:* Spend a PP to create a d8 Instrument asset for a particular type of Magick.
+
+*Paradox Contaminating:* When your action includes Prime d12 or higher, you can inflict Paradox stress on a target besides yourself.
+
+*Paradox Transmitting:* When your action includes Prime d12 or higher and you have the Paradox Contaminating SFX you can recover one Paradox stress level for each Paradox stress inflicted.
+
+*Primal Channeling:* When your action includes Prime d10 or higher and you have the Primal Fraying SFX you can recover one Quintessence stress level for each Quintessence stress inflicted.
+
+*Primal Fraying:* When your action includes Prime d10 or higher, you can inflict Quintessence stress on a target besides yourself.
+
+*Quick Curse:* When your action includes a Sphere, you can gain a d6 to keep a second effect die as a complication on a nearby character.
+
+*Reckless Casting:* Step up or double any Sphere for one roll. If the roll fails, you take Paradox stress equal in size to your Sphere die.
+
+*Rote:* Describe a magickal Effect when buying this SFX, whenever you  add a d6 to your pool.
+You can buy this SFX multiple times specifying a new Effect each time.
+
+*Swift Warding:* When your action includes a Sphere, you can gain a d6 Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
 
 ## Character Creation
 
@@ -389,7 +391,7 @@ Todo.
 
 Each of your distinctions benefits from the Hinder SFX:
 
-> *Hinder:* Roll a d4 instead of a d8 for a distinction to earn 1 PP.
+*Hinder:* Roll a d4 instead of a d8 for a distinction to earn 1 PP.
 
 ### Step 2: Assign Attributes
 Each attribute defaults to d8 and can be stepped up at the expense of another.
@@ -475,22 +477,23 @@ Spend 25 XP to:
 ## Sphere Rating
 All magick is codified into practices based on practitioners mastery over a Sphere, the Practices are:
 
-**Initiate  d4**
-> **Perception:** An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. The mage can’t alter anything just yet, but she can put her observations to good use. 
+### Initiate  d4
+**Perception:** An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. The mage can’t alter anything just yet, but she can put her observations to good use. 
 
-**Apprentice d6**
-> **Manipulation:** The mage begins to use the Sphere to make small alterations in her local reality.  The mage begins to use the Sphere to make small alterations in her local reality.
+### Apprentice d6
+**Manipulation:** The mage begins to use the Sphere to make small alterations in her local reality.  The mage begins to use the Sphere to make small alterations in her local reality.
 
-**Disciple d8**
-> **Control:** Achieving a greater level of accomplishment, the mage can make notable changes to elements connected with the Sphere. Remarkable feats become possible, and the mage approaches the realm of true wizardry.
+### Disciple d8
+**Control:** Achieving a greater level of accomplishment, the mage can make notable changes to elements connected with the Sphere. Remarkable feats become possible, and the mage approaches the realm of true wizardry.
 
-**Adept d10**
-> **Command:** An impressive command of the Sphere in question allows the mage to perform dramatic feats.
+### Adept d10
+**Command:** An impressive command of the Sphere in question allows the mage to perform dramatic feats.
 
-**Master d12**
-> **Mastery:** Magnificent feats become possible with such dominion within the Sphere.  Literally godlike miracles greet the master of a Sphere, and Reality literally shapes itself to her whim.
+### Master d12
+**Mastery:** Magnificent feats become possible with such dominion within the Sphere.  Literally godlike miracles greet the master of a Sphere, and Reality literally shapes itself to her whim.
 
 # Spheres
+
 ## Correspondence
 > *Connections and Dimensions*
 
