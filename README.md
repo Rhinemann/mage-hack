@@ -38,4 +38,21 @@ The traditions are:
 - **Verbena:** Primal devotees of rough Nature and mystic blood. Affinity Spheres: Life or Forces;
 - **Virtual Adepts:** Reality-hackers devoted to rebooting their world. Affinity Spheres: Correspondence/Data or Forces; -->
 
-# [Rules](Rules/Rules.md)
+# Rules
+- [Distinctions](Rules/Distinctions.md)
+- [Attributes](Rules/Attributes.md)
+- [Skills](Rules/Skills.md)
+- [Signature assets](Rules/Signature-assets.md)
+- [Spheres](Rules/Spheres.md)
+- [Quintessence](Rules/Quintessence.md)
+- [Paradox](Rules/Paradox.md)
+- [SFX](Rules/SFX.md)
+- [Stress & Trauma](Rules/Stress-Trauma.md)
+- [Dropping Assets](Rules/Dropping-Assets.md)
+- [Character Creation](Rules/Character-Creation.md)
+- [Character Advancement](Rules/Character-Advancement.md)
+
+<!-- ## Arete
+Arete is the measure of a mage's enlightenment and understanding of the fundamental truths of reality. It represents the mage's ability to perceive and manipulate the Tapestry, the fabric of the universe, through the use of magic. Arete is both a philosophical journey and a practical tool, essential for the practice of magic.
+
+In the world of _Mage: The Ascension_, magic is not merely a collection of spells and rituals; it is a profound understanding of the interconnectedness of all things. Arete reflects a mage's progress along this path of enlightenment. As a mage advances in Arete, they gain a deeper insight into the nature of reality, allowing them to bend it to their will with greater ease and precision. -->
