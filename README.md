@@ -47,8 +47,9 @@ The traditions are:
 - [Quintessence](Rules/Quintessence.md)
 - [Paradox](Rules/Paradox.md)
 - [SFX](Rules/SFX.md)
-- [Stress & Trauma](Rules/Stress-Trauma.md)
-- [Dropping Assets](Rules/Dropping-Assets.md)
+- [Adversity](Rules/Adversity.md)
+- [Assets](Rules/Assets.md)
+- [Consequences](Rules/Consequences.md)
 - [Character Creation](Rules/Character-Creation.md)
 - [Character Advancement](Rules/Character-Advancement.md)
 
