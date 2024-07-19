@@ -16,5 +16,8 @@ Mages accumulate Paradox into a pool from different sources, they are as follows
 - **Special circumstances:** Certain special circumstances like encounters with Mad Ones may inflict Paradox in unusual ways too.
 
 The Storyteller is able to use Paradox dice from the pool to cause different effects. The most common uses for Paradox dice are:
-- **Backlash:** roll the Paradox pool or a part of it to inflict stress of your choice.
-- **Inflict a Paradox flaw:** spend a die from the Paradox pool and create a Complication attached to the character equal in size to the die spent.
+- **Burn:** roll the Paradox pool or a part of it to inflict stress of your choice.
+- **Paradox Flaw:** spend a die from the Paradox pool and create a Complication attached to the character equal in size to the die spent.
+- **Paradox Spirit:**
+- **Quiet:** todo
+- **Paradox Realm:**
