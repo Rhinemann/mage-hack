@@ -19,5 +19,5 @@ The Storyteller is able to use Paradox dice from the pool to cause different eff
 - **Burn:** Roll the Paradox pool or a part of it to inflict stress of your choice.
 - **Paradox Flaw:** Spend a die from the Paradox pool and create a Complication attached to the character equal in size to the die spent.
 - **Paradox Spirit:** Spend a die from the Paradox pool equal to the spirit's highest rated trait, and any number of dice in addition, and drop them into the scene, ready to act when the action order gets to them (which could be right away, if the Storyteller is the one deciding who goes next). All additional dice spent will constitute the Spirit's boss pool.
-- **Quiet:** todo
+- **Quiet:** Spend any number of dice from the Paradox pool to create a crisis pool of the same dice value representing the character's Quiet.
 - **Paradox Realm:** Spend a d10 or a d12, and any additional number of dice from the Paradox pool to separate one player into a Paradox realm, every additional die spent will constitute the Realm's crisis pool.
