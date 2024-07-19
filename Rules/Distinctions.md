@@ -1,3 +1,5 @@
+## [Back](../README.md)
+
 ## Distinctions
 Distinctions are a trait that represents a character’s background, personality, and role in the game and that differentiates them from other PCs and GMCs.
 

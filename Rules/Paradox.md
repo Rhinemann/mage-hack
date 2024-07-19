@@ -1,3 +1,5 @@
+## [Back](../README.md)
+
 ## Paradox
 Paradox is the collective force of consensual reality fighting back against the enlightened will of the mage.
 

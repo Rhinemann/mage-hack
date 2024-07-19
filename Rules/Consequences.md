@@ -1,3 +1,5 @@
+## [Back](../README.md)
+
 ## Consequences
 While playing Mage characters may face consequences of dealing with the danger. Hits of fiery bolts, stress after an all nighter, twisted ankles, this is what the following chapter will describe.
 

@@ -1,3 +1,5 @@
+## [Back](../README.md)
+
 ## Quintessence
 Quintessence is the raw material of reality. Technocrats refer to it as Primal Energy. It is what flows through the patterns of reality and what makes magic possible. The primal force, quintessence can not truly be divided, measured or contained. The patterns of all supernaturals, mortals, inanimate objects, and the whole of the Tellurian is woven from Quintessence. The term literally translates to "Fifth Essence".
 
