@@ -53,7 +53,7 @@ The traditions are:
 - [Character Creation](Rules/Character-Creation.md)
 - [Character Advancement](Rules/Character-Advancement.md)
 
-PP &#9317; &#8471;
+PP &#9317; &#8471; 
 
 
 
