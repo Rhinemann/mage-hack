@@ -3,7 +3,7 @@
 ## Skills
 Whereas Attributes represent innate ability, Skills reflect behaviors learned and honed over a lifetime. These are things that could be practiced or learned from a book.
 
-Skills serve as the second of the three Prime Sets used in every roll, rated from d4 to d12.
+Skills serve as the second of the three Prime Sets used in every roll, rated from ④ to ⑫.
 
 Similarly to Attributes, Skills are divided into Mental, Physical, and Social categories.
 

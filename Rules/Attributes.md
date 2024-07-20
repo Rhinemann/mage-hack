@@ -3,7 +3,7 @@
 ## Attributes
 Attributes represent raw ability and essential traits every character possesses. 
 
-Attributes serve as the second of the three Prime Sets used in every roll, rated from d4 to d12.
+Attributes serve as the second of the three Prime Sets used in every roll, rated from ④ to ⑫.
 
 The nine Attributes are split into three categories: Physical, Social, Mental.
 
