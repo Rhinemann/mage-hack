@@ -5,7 +5,7 @@ Distinctions are a trait that represents a character’s background, personality
 
 Each player has three Distinctions: Personality, Sleeper Life, Awakened Identity.
 
-Distinctions are the first of your Prime Sets to be used in every roll and are rated at ⑧.
+Distinctions are the first of your Prime Sets to be used in every roll and are rated at <spc>⑧</spc>.
 
 ### Personality
 Who is your character? What are they at their core? What motivates them?
