@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@font-face {
+    font-family: "Cortex";
+    src: url(../fonts/CortexSymbology-Regular.ttf) format('truetype');
+}
+
+html {
+    font-family: 'Cortex', 'Open Sans', sans-serif;
+}
+
