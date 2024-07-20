@@ -5,11 +5,11 @@
 ### Universal SFX
 All Magi benefit from these SFX:
 
-*Affinity Sphere:* Spend a Ⓟ to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
+*Affinity Sphere:* Spend a <spc>Ⓟ</spc> to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
 
-*Spend Willpower:* Take ⑥ Unsound stress to gain a Ⓟ or add a third die to your total on a roll.
+*Spend Willpower:* Take <spc>⑥</spc> Unsound stress to gain a <spc>Ⓟ</spc> or add a third die to your total on a roll.
 
-*Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 Ⓟ.
+*Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 <spc>Ⓟ</spc>.
 
 *Opposed Resonance:* Step down the highest die in the pool when employing opposed Resonance in the casting.
 
@@ -20,38 +20,38 @@ You can spend points to take one or more of these SFX on character creation or l
 ### Magick SFX (Supernatural SFX)
 These are the examples of magick-related and supernatural SFX available to mages to inspire the players and Storytellers.
 
-*Advanced Necromancy:* Spend 1 Ⓟ to use both Matter and Life when your action is related to animating the dead.
+*Advanced Necromancy:* Spend 1 <spc>Ⓟ</spc> to use both Matter and Life when your action is related to animating the dead.
 
-<!-- *Animate Dead:* When you have Matter and Life at ⑥ and your action includes any of these two you can create different assets related to corpse animation. -->
+<!-- *Animate Dead:* When you have Matter and Life at <spc>⑥</spc> and your action includes any of these two you can create different assets related to corpse animation. -->
 
-*Area Effect:* When your action includes a Sphere, spend 1 Ⓟ to add a ⑥ and keep an additional effect die for each additional target past the first.
+*Area Effect:* When your action includes a Sphere, spend 1 <spc>Ⓟ</spc> to add a <spc>⑥</spc> and keep an additional effect die for each additional target past the first.
 
 *Conjunctional Effects Mastery:* Use two or more Spheres in a single dice pool and step each Sphere down by one for each additional Sphere beyond the first.
 
-*Discard Instruments:* When unlocking this SFX choose a Sphere rated ⑧ or higher Necessary Tools SFX doesn't apply for effects unlocked at rating two steps down.
+*Discard Instruments:* When unlocking this SFX choose a Sphere rated <spc>⑧</spc> or higher Necessary Tools SFX doesn't apply for effects unlocked at rating two steps down.
 You can buy this SFX multiple times choosing a new Sphere each time.
 
-*Enchant Patterns:* When your action includes Prime ⑥ you can take ⑥ Quintessence stress to inflict ⑥ Hurt stress.
+*Enchant Patterns:* When your action includes Prime <spc>⑥</spc> you can take <spc>⑥</spc> Quintessence stress to inflict <spc>⑥</spc> Hurt stress.
 
-*Extra Attacks:* Spend 1 Ⓟ to add ⑥ and keep a second effect die as a complication or Hurt stress against an extra target. If you have Time ⑧ or higher, you can act against more than two targets,  adding ⑥ and keeping an extra effect die for each target beyond the first.
+*Extra Attacks:* Spend 1 <spc>Ⓟ</spc> to add <spc>⑥</spc> and keep a second effect die as a complication or Hurt stress against an extra target. If you have Time <spc>⑧</spc> or higher, you can act against more than two targets,  adding <spc>⑥</spc> and keeping an extra effect die for each target beyond the first.
 
-*Fast Casting:* When your action includes a Sphere, you can gain a ⑥ complication to inflict ⑥ Hurt stress.
+*Fast Casting:* When your action includes a Sphere, you can gain a <spc>⑥</spc> complication to inflict <spc>⑥</spc> Hurt stress.
 
-*Instrument Arsenal:* Spend a Ⓟ to create a ⑧ Instrument asset for a particular type of Magick.
+*Instrument Arsenal:* Spend a <spc>Ⓟ</spc> to create a <spc>⑧</spc> Instrument asset for a particular type of Magick.
 
-*Paradox Contaminating:* When your action includes Prime ⑫ or higher, you can inflict Paradox stress on a target besides yourself.
+*Paradox Contaminating:* When your action includes Prime <spc>⑫</spc> or higher, you can inflict Paradox stress on a target besides yourself.
 
-*Paradox Transmitting:* When your action includes Prime ⑫ or higher and you have the Paradox Contaminating SFX you can recover one Paradox stress level for each Paradox stress inflicted.
+*Paradox Transmitting:* When your action includes Prime <spc>⑫</spc> or higher and you have the Paradox Contaminating SFX you can recover one Paradox stress level for each Paradox stress inflicted.
 
-*Primal Channeling:* When your action includes Prime ⑩ or higher and you have the Primal Fraying SFX you can recover one Quintessence die for each step of Stress.
+*Primal Channeling:* When your action includes Prime <spc>⑩</spc> or higher and you have the Primal Fraying SFX you can recover one Quintessence die for each step of Stress.
 
-<!-- *Primal Fraying:* When your action includes Prime ⑩ or higher, you can inflict Quintessence stress on a target besides yourself. -->
+<!-- *Primal Fraying:* When your action includes Prime <spc>⑩</spc> or higher, you can inflict Quintessence stress on a target besides yourself. -->
 
-*Quick Curse:* When your action includes a Sphere, you can gain a ⑥ to keep a second effect die as a complication on a nearby character.
+*Quick Curse:* When your action includes a Sphere, you can gain a <spc>⑥</spc> to keep a second effect die as a complication on a nearby character.
 
 *Reckless Casting:* Step up or double any Sphere for one roll. If the roll fails, add your Sphere die to the Paradox pool.
 
-*Rote:* Describe a magickal Effect when buying this SFX, whenever you cast it add a ⑥ to your pool.
+*Rote:* Describe a magickal Effect when buying this SFX, whenever you cast it add a <spc>⑥</spc> to your pool.
 You can buy this SFX multiple times specifying a new Effect each time.
 
-*Swift Warding:* When your action includes a Sphere, you can gain a ⑥ Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
+*Swift Warding:* When your action includes a Sphere, you can gain a <spc>⑥</spc> Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
