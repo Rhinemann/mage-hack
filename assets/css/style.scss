@@ -22,9 +22,11 @@ spc {
     color: purple;
 }
 
-ul {
-    list-style-type: "●";
-    li {
-        background: none;
-    }
+li {
+    background: none;
+}
+
+li::marker {
+    content: "●";
+    font-size: 0.7em;
 }
