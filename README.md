@@ -53,6 +53,8 @@ The traditions are:
 - [Character Creation](Rules/Character-Creation.md)
 - [Character Advancement](Rules/Character-Advancement.md)
 
+PP
+
 <!-- ## Arete
 Arete is the measure of a mage's enlightenment and understanding of the fundamental truths of reality. It represents the mage's ability to perceive and manipulate the Tapestry, the fabric of the universe, through the use of magic. Arete is both a philosophical journey and a practical tool, essential for the practice of magic.
 
