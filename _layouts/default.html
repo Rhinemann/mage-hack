@@ -54,9 +54,11 @@
 
       <span class="banner-fix"></span>
 
+      <section id="toc">
+        {% include toc.html html=content %}
+      </section>
 
       <section id="main_content">
-        {% include toc.html html=content %}
         {{ content }}
       </section>
 

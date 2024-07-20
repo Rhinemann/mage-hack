@@ -8,6 +8,12 @@
     src: url(../fonts/CortexSymbology-Regular.ttf) format('truetype');
 }
 
+section#toc {
+    z-index:2;
+    padding:20px 82px 0;
+    min-height:185px;
+  }
+
 p {
     font-family: 'Cortex', 'Open Sans', sans-serif;
 }
@@ -16,7 +22,9 @@ span.p {
     color: purple;
 }
 
-ul {
+section#main_content ul {
     list-style-type: "●";
-    background: none;
+    li {
+        background: none;
+    }
 }
