@@ -1,9 +1,3 @@
-<style>
-r { color: Red }
-o { color: Orange }
-g { color: Green }
-</style>
-
 # Mage Cortex Conversion
 Unofficial rules to play Mage: the Ascension using Cortex Prime
 
@@ -59,7 +53,8 @@ The traditions are:
 - [Character Creation](Rules/Character-Creation.md)
 - [Character Advancement](Rules/Character-Advancement.md)
 
-PP <r>&#9317; &#8471;</r>
+<span class="p">PP &#9317; &#8471; ⑥ gg</span>
+
 
 
 
