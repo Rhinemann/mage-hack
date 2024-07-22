@@ -84,7 +84,7 @@ Common “respectable” Science variations practiced by Awakened characters inc
 - *Genetics:* Research, analysis, and manipulation involving the literal “building blocks of life.”consider this a soft science, those who manipulate identity, memory, and behavior find it extremely useful.
 - *Geology:* Study of earthly formations, materials, and phenomena.• Psychology: Study of human consciousness and behavior, and their related therapies.
 - *Hypermathematics:* Esoteric, arcane, theoretical, and sometimes absurd applications of advanced mathematical principles, often tied to the links between science, faith, and magick.
-- *Psychopharmacology:* Research, development, and applications dealing with the interplay between psychoactive substances and human/ humanoid consciousness, perceptions, and behavior.
+- *Psychopharmacology:* Research, development, and applications dealing with the interplay between psychoactive substances and human/humanoid consciousness, perceptions, and behavior.
 - *Mathematics:* Study of equations, numbers, patterns, and the interplay between them.
 - *Psychoprojection:* Research into the multiple disciplines and effects of extraphysical consciousness co- and re-location. In plain English, the study of astral projection, multiple selves, and travel into the Digital Web.
 - *Metallurgy:* Research, refinement, and implementation involving the properties and functions of various metallic substances, alloys, and compounds... though not, unfortunately, musicians.
