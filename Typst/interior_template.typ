@@ -1,7 +1,8 @@
 #let gold = rgb("#eade8b")
 #let purple = rgb("#4b2870")
 
-#let arr_symbols = (
+#let spec_char = {
+  let arr_symbols = (
     symbol("\u{2463}"),
     symbol("\u{2465}"),
     symbol("\u{2467}"),
@@ -10,12 +11,15 @@
     symbol("\u{24C5}")
   ).map(it => text(it, fill: purple))
 
-#let arr_keys_and_symbols = ("d4", "d6", "d8", "d10", "d12", "pp").zip(arr_symbols)
+  let arr_keys_and_symbols = ("d4", "d6", "d8", "d10", "d12", "pp").zip(arr_symbols)
 
-#let spec_char = (:)
+  let spec_char = (:)
 
-#for (key, val) in arr_keys_and_symbols {
-    spec_char.insert(key, val)
+  for (key, val) in arr_keys_and_symbols {
+      spec_char.insert(key, val)
+  }
+
+  spec_char
 }
 
 #let interior_image = "images/interior/"
@@ -24,7 +28,8 @@
   set text(
     font: ("XWGXSC+CortexSymbology", "Goudy Old Style"),
     size: 11pt,
-    lang: "en"
+    lang: "en",
+    hyphenate: false
   )
 
   set page(
@@ -50,18 +55,27 @@
     footer-descent: 10%,
   )
 
-  set par(first-line-indent: 0.5em, justify: true)
+  set par(first-line-indent: 0.7em, leading: 0.5em)
+
+  show par: set block(spacing: 1em)
 
   show heading: set text(font: ("XWGXSC+CortexSymbology", "Abbess"))
+  show heading: set block(above: 1em, below: 0.5em)
   
-  show heading.where(level: 1): set text(size: 24pt)
+  show heading.where(level: 1): it => {
+    set text(size: 24pt)
+    set block(below: 0.3em)
+    show line: set block(above: 0.3em, below: 0.5em)
+
+    it
+    line(length: 100%)
+  }
   show heading.where(level: 2): set text(size: 18pt)
   show heading.where(level: 3): set text(size: 12pt)
 
   show strong: set text(fill: purple)
 
   body
-  
 }
 
 #let sidebar(s_heading: [], body) = [

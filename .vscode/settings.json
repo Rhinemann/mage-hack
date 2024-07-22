@@ -1,0 +1,7 @@
+{
+    "typst-preview.fontPaths": [
+        "${workspaceFolder}/Typst/fonts",
+    ],
+    "typst-lsp.experimentalFormatterMode": "on",
+    "typst-lsp.rootPath": ".",
+}

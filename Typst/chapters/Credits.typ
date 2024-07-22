@@ -1,4 +1,4 @@
-#import "../interior_template.typ": *
+#import "../interior_template.typ": chapter, interior_image
 
 #show: chapter.with(chapter_name: "Credits")
 
@@ -14,9 +14,16 @@
 
 #subh[Credits]
 
-*Written By:* Rhinemann\
-*Developed By:* Rhinemann\
-*Edited By:* Rhinemann
+#par(first-line-indent: 0pt)[
+  *Written By:* Rhinemann\
+  *Developed By:* Rhinemann\
+  *Edited By:* Rhinemann
+]
+
+#v(1fr)
+
+#align(center)[#image("../" + interior_image + "WW_Logo.png", width: 70%) #v(1em)]
+
 
 #colbreak()
 
