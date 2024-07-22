@@ -64,24 +64,12 @@
   
 }
 
-// #let sidebar(s_heading: [], body) = [
-//   #layout(size => [
-//     #let (height,) = measure(
-//       block(width: size.width, inset: 10pt)[
-//         #text(font: "Abbess", fill: gold, size: 16pt)[#align(center)[#s_heading]]
-//         #text(font: "Futura PT", fill: white, size: 10pt)[#body]
-//     ])
-//     #place(image(interior_image + "Mage Silk.png", height: height, width: 100%))
-//     #block(width: 100%, inset: 10pt, stroke: gold + 3pt)[
-//       #text(font: "Abbess", fill: gold, size: 16pt)[#align(center)[#s_heading]]
-//       #text(font: "Futura PT", fill: white, size: 10pt)[#body]
-//     ]
-//   ])
-// ]
-
 #let sidebar(s_heading: [], body) = [
-  #block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: purple)[
-    #text(font: "Abbess", fill: gold, size: 16pt)[#align(center)[#s_heading]]
-    #text(font: "Futura PT", fill: white, size: 10pt)[#body]
+  #let bg = pattern(size: (139.7mm, 108mm))[
+    #place(image(interior_image + "sidebar.jpg", width: 100%, height: 100%))
+  ]
+  #block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: bg)[
+    #text(font: ("XWGXSC+CortexSymbology", "Abbess"), fill: gold, size: 16pt)[#align(center)[#s_heading]]
+    #text(font: ("XWGXSC+CortexSymbology", "Futura PT"), fill: white, size: 10pt)[#body]
   ]
 ]
