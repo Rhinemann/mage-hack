@@ -1,13 +1,9 @@
 {
-    "typst-preview.fontPaths": [
-        "${workspaceFolder}/Typst/fonts",
-    ],
-    "typst-lsp.experimentalFormatterMode": "on",
-    "typst-lsp.rootPath": ".",
     "tinymist.fontPaths": [
         "${workspaceFolder}/Typst/fonts"
     ],
     "tinymist.preview.cursorIndicator": true,
     "tinymist.preview.showInActivityBar": true,
     "tinymist.rootPath": "${workspaceFolder}",
+    "tinymist.exportPdf": "onType",
 }
