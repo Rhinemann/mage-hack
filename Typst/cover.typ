@@ -1,4 +1,4 @@
-#import "interior_template.typ": gold
+#import "interior_template.typ": gold, purple
 
 #let cover_image = "images/cover/"
 
@@ -11,6 +11,29 @@
   #rotate(-30deg, reflow: true)[Placeholder image!]
 ]
 
+#let logo = context {
+
+  set text(font: "Olde English", fill: gold, tracking: 1pt, bottom-edge: "bounds", top-edge: "bounds")
+  set block(above: 4pt, below: 4pt)
+
+  show text: it => {
+    box()[#it]
+  }
+
+  let small_f_size = 25pt
+  let big_f_size = 80pt
+  let line_width = measure(text(size: big_f_size)[#upper()[Mage]]).width + 5pt
+
+  let t_gradient = gradient.radial(white, gold)
+  set text(fill: t_gradient)
+
+  text(size: small_f_size)[Primed by Cortex]
+  line(length: line_width, stroke: 1.5pt + gold)
+  text(size: big_f_size)[#upper()[Mage]]
+  line(length: line_width, stroke: 1.5pt + gold)
+  text(size: small_f_size)[The Ascension]
+}
+
 #let front_cover = {
   page(
     background: {
@@ -21,28 +44,27 @@
     margin: 30mm,
   )[
     #set text(font: "Abbess", size: 20pt, fill: white)
-
-    #align(center)[
-      #placeholder_im
-      #v(1fr)
-      A guide to Cortex Prime system conversion of the game
-    ]
+    #set align(center)
+    #logo
+    #v(1fr)
+    A guide to Cortex Prime system conversion of the game
   ]
 }
 
 #let temp_cover = {
   show heading: set text(fill: yellow, size: 60pt)
   page(
-    fill: rgb("#200c40"),
+    fill: purple,
     paper: "us-letter",
     margin: 30mm,
   )[
     #set text(font: "Abbess", size: 20pt, fill: white)
-    #align(center)[
-      = #upper("Mage the ascension")
+    #set align(center)
 
-      #align(bottom)[A guide to Cortex Prime system conversion of the game]
-    ]
+    #logo
+    #v(1fr)
+    A guide to Cortex Prime system conversion of the game
+
   ]
 }
 
@@ -69,7 +91,7 @@
       size: 10pt,
     )
 
-    #align(center)[#placeholder_im]
+    #align(center)[#logo]
 
     #v(1fr)
 
