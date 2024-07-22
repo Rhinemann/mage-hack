@@ -8,17 +8,5 @@ Special credit to [Vampire Cortex Prime Conversion V.1](https://docs.google.com/
 # Introduction
 This is a conversion of Mage the Ascension roleplaying game, based mostly on the 20th anniversary edition of Mage.
 
-# Rules
-- [Distinctions](Rules/Distinctions.md)
-- [Attributes](Rules/Attributes.md)
-- [Skills](Rules/Skills.md)
-- [Signature assets](Rules/Signature-assets.md)
-- [Spheres](Rules/Spheres.md)
-- [Quintessence](Rules/Quintessence.md)
-- [Paradox](Rules/Paradox.md)
-- [SFX](Rules/SFX.md)
-- [Adversity](Rules/Adversity.md)
-- [Assets](Rules/Assets.md)
-- [Consequences](Rules/Consequences.md)
-- [Character Creation](Rules/Character-Creation.md)
-- [Character Advancement](Rules/Character-Advancement.md)
+
+<a href="https://rhinemann.github.io/mage-hack/Typst/Mage Conversion.pdf" type="application/pdf"><h1>Rules<h1></a>
