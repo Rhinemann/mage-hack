@@ -1,9 +1,13 @@
 {
+    "[typst]": {
+        "editor.formatOnSave": true
+    },
+
     "tinymist.fontPaths": [
         "${workspaceFolder}/Typst/fonts"
     ],
     "tinymist.preview.cursorIndicator": true,
     "tinymist.preview.showInActivityBar": true,
     "tinymist.rootPath": "${workspaceFolder}",
-    "tinymist.exportPdf": "onType",
-}
+    "tinymist.formatterMode": "typstyle",
+} 

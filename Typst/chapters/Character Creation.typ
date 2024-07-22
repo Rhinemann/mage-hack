@@ -22,16 +22,16 @@ Each of your distinctions benefits from the Hinder SFX:
 Each attribute defaults to #spec_char.d4 and you have 3, 5 and 7 points to step them up.
 
 === Step 3: Assign Skills
-Each Skill defaults to #spec_char.d4 and you have 15 points to step up skills. 
+Each Skill defaults to #spec_char.d4 and you have 15 points to step up skills.
 
 Maximum skill at character creation is #spec_char.d10.
 
-As a general guide, 9 points represent what you learned from your Sleeper Life and 6 represent what you’ve learned since Awakening if you're playing a competent but young mage.
+As a general guide, 9 points represent what you learned from your Sleeper Life and 6 represent what you've learned since Awakening if you're playing a competent but young mage.
 
 === Step 4: Spheres
 You have 6 points to spend on sphere rating, starting on #spec_char.d4, maximum Sphere rating at character creation is #spec_char.d8.
 
-At least one point must be assigned to Tradition’s affinity Sphere, to reflect your training in Tradition’s specialty.
+At least one point must be assigned to Tradition's affinity Sphere, to reflect your training in Tradition's specialty.
 
 === Step 5: Assign Specialties, Signature Assets, and additional Powers
 Players have 9 points to spend on these options:
