@@ -8,15 +8,22 @@
     symbol("\u{2467}"),
     symbol("\u{2469}"),
     symbol("\u{246B}"),
-    symbol("\u{24C5}")
+    symbol("\u{24C5}"),
   ).map(it => text(it, fill: purple))
 
-  let arr_keys_and_symbols = ("d4", "d6", "d8", "d10", "d12", "pp").zip(arr_symbols)
+  let arr_keys_and_symbols = (
+    "d4",
+    "d6",
+    "d8",
+    "d10",
+    "d12",
+    "pp",
+  ).zip(arr_symbols)
 
   let spec_char = (:)
 
   for (key, val) in arr_keys_and_symbols {
-      spec_char.insert(key, val)
+    spec_char.insert(key, val)
   }
 
   spec_char
@@ -29,15 +36,31 @@
     font: ("XWGXSC+CortexSymbology", "Goudy Old Style"),
     size: 11pt,
     lang: "en",
-    hyphenate: false
+    hyphenate: false,
   )
 
   set page(
     background: context {
       let page_num = here().page()
-      let side = if calc.odd(page_num + 1) { "left" } else { "right" }
-      place(image(interior_image + "Background " + side + ".jpg", width: 100%, height: 100%))
-      place(image(interior_image + "Border " + side + ".png", width: 100%, height: 100%))
+      let side = if calc.odd(page_num + 1) {
+        "left"
+      } else {
+        "right"
+      }
+      place(
+        image(
+          interior_image + "Background " + side + ".jpg",
+          width: 100%,
+          height: 100%,
+        ),
+      )
+      place(
+        image(
+          interior_image + "Border " + side + ".png",
+          width: 100%,
+          height: 100%,
+        ),
+      )
     },
     paper: "us-letter",
     margin: (top: 25mm, bottom: 32mm, inside: 16mm, outside: 28mm),
@@ -61,7 +84,7 @@
 
   show heading: set text(font: ("XWGXSC+CortexSymbology", "Abbess"))
   show heading: set block(above: 1em, below: 0.5em)
-  
+
   show heading.where(level: 1): it => {
     set text(size: 24pt)
     set block(below: 0.3em)
@@ -83,7 +106,15 @@
     #place(image(interior_image + "sidebar.jpg", width: 100%, height: 100%))
   ]
   #block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: bg)[
-    #text(font: ("XWGXSC+CortexSymbology", "Abbess"), fill: gold, size: 16pt)[#align(center)[#s_heading]]
-    #text(font: ("XWGXSC+CortexSymbology", "Futura PT"), fill: white, size: 10pt)[#body]
+    #text(
+      font: ("XWGXSC+CortexSymbology", "Abbess"),
+      fill: gold,
+      size: 16pt,
+    )[#align(center)[#s_heading]]
+    #text(
+      font: ("XWGXSC+CortexSymbology", "Futura PT"),
+      fill: white,
+      size: 10pt,
+    )[#body]
   ]
 ]

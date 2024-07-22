@@ -22,7 +22,10 @@
 
 #v(1fr)
 
-#align(center)[#image("../" + interior_image + "WW_Logo.png", width: 70%) #v(1em)]
+#align(center)[#image(
+    "../" + interior_image + "WW_Logo.png",
+    width: 70%,
+  ) #v(1em)]
 
 
 #colbreak()

@@ -18,7 +18,7 @@ Higher education and knowledge of the arts and humanities. It covers language, h
 *Suggested Specialties:* Anthropology, Art History, English, History, Law, Literature, Religion, Research, Translation.
 
 == Awareness
-You've got uncanny perceptions. While alert folks spot everyday clues, your instincts cue in on the so-called supernatural side of life. Perhaps you've simply got that feeling about things -- some people do, even if they're not Awakened as such. More likely, you've spent enough time around the magical world to sense its effects in your presence. 
+You've got uncanny perceptions. While alert folks spot everyday clues, your instincts cue in on the so-called supernatural side of life. Perhaps you've simply got that feeling about things -- some people do, even if they're not Awakened as such. More likely, you've spent enough time around the magical world to sense its effects in your presence.
 
 At lower levels, this Skill grants a nebulous perception of uncanny phenomena; higher ratings in the Trait reveal auras, expose the secretive Night-Folk, and open your eyes to the spiritual Periphery.
 
@@ -35,7 +35,7 @@ Knack with creating and repairing things. From creating works of art, to fixing 
 *Suggested Specialties:* Automotive, Cosmetics, Fashion, Forging, Graffiti, Jury-Rigging, Painting, Perfumery, Repair, Sculpting.
 
 == Esoterica
-Esoteric knowledge comes in many forms: astrology, angelography, fortune-telling, yoga, herbalism, demonology, the lore of stones, even the secret code languages of occult societies. For centuries, such mysteries were the province of selected initiates; these days, it's relatively easy to find the basics in any decent bookstore or website. Even so, the deeper levels remain obscure to all but the most devoted students of the art. Anyone can take a yoga class in the modern world, but the more arcane applications of that art demand years of practice, study, and devotion. 
+Esoteric knowledge comes in many forms: astrology, angelography, fortune-telling, yoga, herbalism, demonology, the lore of stones, even the secret code languages of occult societies. For centuries, such mysteries were the province of selected initiates; these days, it's relatively easy to find the basics in any decent bookstore or website. Even so, the deeper levels remain obscure to all but the most devoted students of the art. Anyone can take a yoga class in the modern world, but the more arcane applications of that art demand years of practice, study, and devotion.
 
 Esoterica Knowledge reflects your pursuit of esoteric disciplines and, by extension, provides instruments for your magickal focus. The Skill's overall rating reflects your general knowledge of arcane subjects, whereas each specialty reflects your expertise within a certain field. Unlike the Occult -- which reflects an understanding of “secret history” and shadow-cultures -- Esoterica represents the practical application of unusual fields. Occult can teach your character who Aleister Crowley was, while Esoterica helps her understand what Crowley did… and to use those principles herself.
 
@@ -54,7 +54,7 @@ Knowledge of the human body, and of how to bring it to and keep it in working or
 *Suggested Specialties:* First Aid, Pathology, Pharmaceuticals, Physical Therapy, Surgery.
 
 == Occult
-Knowledge of things hidden in the dark, legends, and lore. While the supernatural is unpredictable and often unique, the Occult Skill allows your character to pick out facts from rumor. Almost all magi develop at least some  aptitude in Occult, to further their studies of the Mysteries.
+Knowledge of things hidden in the dark, legends, and lore. While the supernatural is unpredictable and often unique, the Occult Skill allows your character to pick out facts from rumor. Almost all magi develop at least some aptitude in Occult, to further their studies of the Mysteries.
 
 *Suggested Specialties:* Neopaganism, Occult History, Conspiracy Theories, Secret Societies, New Age, Alternative Sciences, Mystic Lore, Folk Magic, Moral Panic, Urban Legends, Satanic Folklore, Pop-Culture Satanism, Actual Satanism, any specific occult discipline or field (Freemasonry, Voodoo, Stage Magic, etc.).
 

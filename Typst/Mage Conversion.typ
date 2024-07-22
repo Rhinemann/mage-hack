@@ -22,5 +22,5 @@
 #include chapter_folder + "Consequences.typ"
 #include chapter_folder + "Character Creation.typ"
 #include chapter_folder + "Character Advancement.typ"
-srgsrg 
+
 #back_cover

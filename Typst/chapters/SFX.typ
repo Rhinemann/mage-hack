@@ -12,7 +12,7 @@ All Magi benefit from these SFX:
 
 *Spend Willpower:* Take #spec_char.d6 Unsound stress to gain a #spec_char.pp or add a third die to your total on a roll.
 
-*Necessary Tools:* Whenever your action includes a Sphere  you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 #spec_char.pp.
+*Necessary Tools:* Whenever your action includes a Sphere you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain 1 #spec_char.pp.
 
 *Opposed Resonance:* Step down the highest die in the pool when employing opposed Resonance in the casting.
 
@@ -36,7 +36,7 @@ You can buy this SFX multiple times choosing a new Sphere each time.
 
 *Enchant Patterns:* When your action includes Prime #spec_char.d6 you can take #spec_char.d6 Quintessence stress to inflict #spec_char.d6 Hurt stress.
 
-*Extra Attacks:* Spend 1 #spec_char.pp to add #spec_char.d6 and keep a second effect die as a complication or Hurt stress against an extra target. If you have Time #spec_char.d8 or higher, you can act against more than two targets,  adding #spec_char.d6 and keeping an extra effect die for each target beyond the first.
+*Extra Attacks:* Spend 1 #spec_char.pp to add #spec_char.d6 and keep a second effect die as a complication or Hurt stress against an extra target. If you have Time #spec_char.d8 or higher, you can act against more than two targets, adding #spec_char.d6 and keeping an extra effect die for each target beyond the first.
 
 *Fast Casting:* When your action includes a Sphere, you can gain a #spec_char.d6 complication to inflict #spec_char.d6 Hurt stress.
 
