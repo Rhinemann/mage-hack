@@ -30,9 +30,9 @@
   set page(
     background: context {
       let page_num = here().page()
-      let side = if calc.odd(page_num + 1) { "left" } else { "right" } + ".png"
-      place(image(interior_image + "Background " + side, width: 100%, height: 100%))
-      place(image(interior_image + "Border " + side, width: 100%, height: 100%))
+      let side = if calc.odd(page_num + 1) { "left" } else { "right" }
+      place(image(interior_image + "Background " + side + ".jpg", width: 100%, height: 100%))
+      place(image(interior_image + "Border " + side + ".png", width: 100%, height: 100%))
     },
     paper: "us-letter",
     margin: (top: 25mm, bottom: 32mm, inside: 16mm, outside: 28mm),

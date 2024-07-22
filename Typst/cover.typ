@@ -3,7 +3,7 @@
 
   page(
   background: {
-    place(image(cover_image + "Cover Silk.png", width: 100%, height: 100%))
+    place(image(cover_image + "Cover Silk.jpg", width: 100%, height: 100%))
     place(image(cover_image + "Cover Frame.png", width: 100%, height: 100%))
   },
   paper: "us-letter",
