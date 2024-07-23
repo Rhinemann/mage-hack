@@ -37,8 +37,8 @@
 #let front_cover = {
   page(
     background: {
-      place(image(cover_image + "Cover Silk.jpg", width: 100%, height: 100%))
-      place(image(cover_image + "Cover Frame.png", width: 100%, height: 100%))
+      place(image(cover_image + "Silk.jpg", width: 100%, height: 100%))
+      place(image(cover_image + "Frame.png", width: 100%, height: 100%))
     },
     paper: "us-letter",
     margin: 30mm,
@@ -71,8 +71,8 @@
 #let back_cover = {
   page(
     background: {
-      place(image(cover_image + "Cover Silk.jpg", width: 100%, height: 100%))
-      place(image(cover_image + "Cover Frame.png", width: 100%, height: 100%))
+      place(image(cover_image + "Silk.jpg", width: 100%, height: 100%))
+      place(image(cover_image + "Frame.png", width: 100%, height: 100%))
     },
     paper: "us-letter",
     margin: 30mm,
@@ -99,7 +99,7 @@
         #stack(
           dir: ltr,
           spacing: 5%,
-          image(cover_image + "WW_Logo.png", height: 13%),
+          image(cover_image + "WW_Logo.svg", height: 13%),
           image(cover_image + "M4 logo.png", height: 13%),
           image(cover_image + "Cortex Prime Community - Dark Background - Color.png", height: 10%),
         )

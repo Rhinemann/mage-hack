@@ -28,7 +28,7 @@
       dir: ltr,
       spacing: 5%,
       image(
-        "../" + interior_image + "WW_Logo.png",
+        "../" + interior_image + "WW_Logo.svg",
         width: 40%,
       ),
       image(
