@@ -22,10 +22,23 @@
 
 #v(1fr)
 
-#align(center)[#image(
-    "../" + interior_image + "WW_Logo.png",
-    width: 70%,
-  ) #v(1em)]
+#block(
+  align(center + horizon)[
+    #stack(
+      dir: ltr,
+      spacing: 5%,
+      image(
+        "../" + interior_image + "WW_Logo.png",
+        width: 40%,
+      ),
+      image(
+        "../" + interior_image + "Cortex Prime Community - Light Background.png",
+        width: 50%,
+      ),
+    )
+  ],
+)
+
 
 
 #colbreak()

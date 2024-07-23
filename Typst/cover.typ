@@ -1,4 +1,4 @@
-#import "interior_template.typ": gold, purple
+#import "interior_template.typ": gold, purple, interior_image
 
 #let cover_image = "images/cover/"
 
@@ -95,12 +95,13 @@
 
     #v(1fr)
 
-    #block(height: 13%, width: 100%)[#align(center + horizon)[
+    #block(width: 100%)[#align(center + horizon)[
         #stack(
           dir: ltr,
-          image(cover_image + "WW_Logo.png", height: 100%),
-          h(5%),
-          image(cover_image + "MtA20 Logo.png", height: 100%),
+          spacing: 5%,
+          image(cover_image + "WW_Logo.png", height: 13%),
+          image(cover_image + "M4 logo.png", height: 13%),
+          image(cover_image + "Cortex Prime Community - Dark Background - Color.png", height: 10%),
         )
       ]]
 
