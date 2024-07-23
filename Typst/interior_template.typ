@@ -1,32 +1,19 @@
 #let gold = rgb("#eade8b")
 #let purple = rgb("#4b2870")
 
-#let spec_char = {
-  let arr_symbols = (
-    symbol("\u{2463}"),
-    symbol("\u{2465}"),
-    symbol("\u{2467}"),
-    symbol("\u{2469}"),
-    symbol("\u{246B}"),
-    symbol("\u{24C5}"),
-  ).map(it => text(it, fill: purple))
+#let symbols = (
+  d4: symbol("\u{2463}"),
+  d6: symbol("\u{2465}"),
+  d8: symbol("\u{2467}"),
+  d10: symbol("\u{2469}"),
+  d12: symbol("\u{246B}"),
+  pp: symbol("\u{24C5}"),
+)
 
-  let arr_keys_and_symbols = (
-    "d4",
-    "d6",
-    "d8",
-    "d10",
-    "d12",
-    "pp",
-  ).zip(arr_symbols)
+#let spec_char = (:)
 
-  let spec_char = (:)
-
-  for (key, val) in arr_keys_and_symbols {
-    spec_char.insert(key, val)
-  }
-
-  spec_char
+#for (key, val) in symbols.pairs() {
+  spec_char.insert(key, text(purple, val))
 }
 
 #let interior_image = "images/interior/"
@@ -101,20 +88,22 @@
   body
 }
 
-#let sidebar(s_heading: [], body) = [
-  #let bg = pattern(size: (139.7mm, 108mm))[
+#let sidebar(s_heading: [], body) = {
+  let bg = pattern(size: (139.7mm, 108mm))[
     #place(image(interior_image + "sidebar.jpg", width: 100%, height: 100%))
   ]
-  #block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: bg)[
+  show regex(symbols.values().join("|")): text.with(gold)
+
+  block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: bg)[
     #text(
       font: ("XWGXSC+CortexSymbology", "Abbess"),
       fill: gold,
       size: 16pt,
-    )[#align(center)[#s_heading]]
+    )[#align(center)[#s_heading <s_heading>]]
     #text(
       font: ("XWGXSC+CortexSymbology", "Futura PT"),
       fill: white,
       size: 10pt,
     )[#body]
   ]
-]
+}
