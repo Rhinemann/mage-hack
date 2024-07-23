@@ -9,4 +9,4 @@ Special credit to [Vampire Cortex Prime Conversion V.1](https://docs.google.com/
 This is a conversion of Mage the Ascension roleplaying game, based mostly on the 20th anniversary edition of Mage.
 
 # Rules
-<p align="center"><a href="https://rhinemann.github.io/mage-hack/Typst/Mage Conversion.pdf" type="application/pdf"><img src="assets/images/cover_150.webp" alt="Rules"></a></p>
+<p align="center"><a href="https://rhinemann.github.io/mage-hack/target/Mage Conversion.pdf" type="application/pdf"><img src="assets/images/cover.webp" alt="Rules"></a></p>
