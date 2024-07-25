@@ -36,14 +36,14 @@
       }
       place(
         image(
-          interior_image + "Background " + side + ".jpg",
+          "../../assets/images/interior/Background " + side + ".jpg",
           width: 100%,
           height: 100%,
         ),
       )
       place(
         image(
-          interior_image + "Border " + side + ".png",
+          "../../assets/images/interior/Border " + side + ".png",
           width: 100%,
           height: 100%,
         ),
@@ -90,7 +90,7 @@
 
 #let sidebar(s_heading: [], body) = {
   let bg = pattern(size: (139.7mm, 108mm))[
-    #place(image(interior_image + "sidebar.jpg", width: 100%, height: 100%))
+    #place(image("../../assets/images/interior/sidebar.jpg", width: 100%, height: 100%))
   ]
   show regex(symbols.values().join("|")): text.with(gold)
 

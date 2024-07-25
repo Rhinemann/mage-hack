@@ -36,8 +36,8 @@
 #let front_cover = {
   page(
     background: {
-      place(image(cover_image + "Silk.jpg", width: 100%, height: 100%))
-      place(image(cover_image + "Frame.png", width: 100%, height: 100%))
+      place(image("../../assets/images/cover/Silk.jpg", width: 100%, height: 100%))
+      place(image("../../assets/images/cover/Frame.png", width: 100%, height: 100%))
     },
     paper: "us-letter",
     margin: 30mm,
@@ -49,7 +49,7 @@
 
     #v(1fr)
 
-    #image(cover_image + "result.png", width: 80%)
+    #image("../../assets/images/cover/result.png", width: 80%)
 
     #v(1fr)
 
@@ -77,8 +77,8 @@
 #let back_cover = {
   page(
     background: {
-      place(image(cover_image + "Silk.jpg", width: 100%, height: 100%))
-      place(image(cover_image + "Frame.png", width: 100%, height: 100%))
+      place(image("../../assets/images/cover/Silk.jpg", width: 100%, height: 100%))
+      place(image("../../assets/images/cover/Frame.png", width: 100%, height: 100%))
     },
     paper: "us-letter",
     margin: 30mm,
@@ -105,9 +105,9 @@
         #stack(
           dir: ltr,
           spacing: 5%,
-          image(cover_image + "WW_Logo.svg", height: 13%),
-          image(cover_image + "M4 logo.png", height: 13%),
-          image(cover_image + "Cortex Prime Community - Dark Background - Color.png", height: 10%),
+          image("../../assets/images/cover/WW_Logo.svg", height: 13%),
+          image("../../assets/images/cover/M4 logo.png", height: 13%),
+          image("../../assets/images/cover/Cortex Prime Community - Dark Background - Color.png", height: 10%),
         )
       ]]
 

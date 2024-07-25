@@ -1,11 +1,9 @@
-// #import "templates/cover.typ": front_cover, temp_cover, back_cover
-// #import "templates/interior_template.typ": *
-
-#let chapter_folder = "chapters/"
+#import "templates/cover.typ": front_cover, temp_cover, back_cover
+#import "templates/interior_template.typ": *
 
 #set document(title: "Mage: the Ascension Cortex", author: "Rhinemann");
 
-// #front_cover
+#front_cover
 // #temp_cover
 
 #{
@@ -26,19 +24,19 @@
 
 
 
-// #include chapter_folder + "Credits.typ"
-// #include chapter_folder + "Outline.typ"
-// #include chapter_folder + "Distinctions.typ"
-// #include chapter_folder + "Attributes.typ"
-// #include chapter_folder + "Skills.typ"
-// #include chapter_folder + "Spheres.typ"
-// #include chapter_folder + "Quintessence.typ"
-// #include chapter_folder + "Paradox.typ"
-// #include chapter_folder + "SFX.typ"
-// #include chapter_folder + "Adversity.typ"
-// #include chapter_folder + "Assets.typ"
-// #include chapter_folder + "Consequences.typ"
-// #include chapter_folder + "Character Creation.typ"
-// #include chapter_folder + "Character Advancement.typ"
+#include "chapters/Credits.typ"
+#include "chapters/Outline.typ"
+#include "chapters/Distinctions.typ"
+#include "chapters/Attributes.typ"
+#include "chapters/Skills.typ"
+#include "chapters/Spheres.typ"
+#include "chapters/Quintessence.typ"
+#include "chapters/Paradox.typ"
+#include "chapters/SFX.typ"
+#include "chapters/Adversity.typ"
+#include "chapters/Assets.typ"
+#include "chapters/Consequences.typ"
+#include "chapters/Character Creation.typ"
+#include "chapters/Character Advancement.typ"
 
-// #back_cover
+#back_cover

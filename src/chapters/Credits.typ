@@ -1,4 +1,4 @@
-#import "../interior_template.typ": chapter, interior_image
+#import "../templates/interior_template.typ": chapter, interior_image
 
 #show: chapter.with(chapter_name: "Credits")
 
@@ -28,11 +28,11 @@
       dir: ltr,
       spacing: 5%,
       image(
-        "../" + interior_image + "WW_Logo.svg",
+        "../../assets/images/interior/WW_Logo.svg",
         width: 40%,
       ),
       image(
-        "../" + interior_image + "Cortex Prime Community - Light Background.png",
+        "../../assets/images/interior/Cortex Prime Community - Light Background.png",
         width: 50%,
       ),
     )

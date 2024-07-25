@@ -1,4 +1,4 @@
-#import "../interior_template.typ": *
+#import "../templates/interior_template.typ": *
 #show: chapter.with(chapter_name: "Attributes")
 
 = Attributes
