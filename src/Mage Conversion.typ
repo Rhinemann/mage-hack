@@ -1,5 +1,5 @@
-#import "cover.typ": front_cover, temp_cover, back_cover
-#import "interior_template.typ": *
+#import "templates/cover.typ": front_cover, temp_cover, back_cover
+#import "templates/interior_template.typ": *
 
 #let chapter_folder = "chapters/"
 
