@@ -12,7 +12,7 @@
     "tinymist.formatterMode": "typstyle",
     "tinymist.exportPdf": "onSave",
     "tinymist.outputPath": "${workspaceFolder}/target/$name",
-    "files.exclude": {
-        "**/.git": false
-    },
+    // "files.exclude": {
+    //     "**/.git": false
+    // },
 } 
