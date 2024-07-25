@@ -4,7 +4,7 @@
     },
 
     "tinymist.fontPaths": [
-        "${workspaceFolder}/Typst/fonts"
+        "${workspaceFolder}/assets/fonts"
     ],
     "tinymist.preview.cursorIndicator": true,
     "tinymist.preview.showInActivityBar": true,
