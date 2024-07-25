@@ -49,7 +49,7 @@
 
     #v(1fr)
 
-    // #image("../../assets/images/cover/result.png", width: 80%)
+    #image("../../assets/images/cover/result.png", width: 80%)
 
     #v(1fr)
 

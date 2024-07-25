@@ -4,23 +4,6 @@
 #set document(title: "Mage: the Ascension Cortex", author: "Rhinemann");
 
 #front_cover
-// #temp_cover
-
-// #{
-//   page(
-//     background: {
-//       place(image("../assets/images/cover/Silk.jpg", width: 100%, height: 100%))
-//     },
-//     paper: "us-letter",
-//     margin: 0mm,
-//   )[
-//     #set text(font: "Abbess", size: 20pt, fill: white)
-//     #set align(center + horizon)
-
-//     #image("../assets/images/cover/result.png", height: 45%)
-//     #image("../assets/images/cover/result_sharp.png", height: 45%)
-//   ]
-// }
 
 #include "chapters/Credits.typ"
 #include "chapters/Outline.typ"
