@@ -33,3 +33,32 @@ li::marker {
     content: "●";
     font-size: 0.7em;
 }
+
+@media only screen and (max-width: 600px) {
+    section#toc {
+        z-index:2;
+        padding:20px 82px 0;
+    }
+    
+    body, p {
+        font-family: 'Cortex', 'Goudy Old Style', 'Open Sans', sans-serif;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+        font-family: 'Cortex', 'Abbess', 'Open Sans', sans-serif;
+    }
+    
+    spc {
+        color: purple;
+    }
+    
+    ul li {
+        background: none;
+    }
+    
+    li::marker {
+        content: "●";
+        font-size: 0.7em;
+    }
+}
+
