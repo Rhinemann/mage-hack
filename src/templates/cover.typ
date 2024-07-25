@@ -12,7 +12,6 @@
 ]
 
 #let logo = context {
-
   set text(font: "Olde English", fill: gold, tracking: 1pt, bottom-edge: "bounds", top-edge: "bounds")
   set block(above: 4pt, below: 4pt)
 
@@ -45,8 +44,15 @@
   )[
     #set text(font: "Abbess", size: 20pt, fill: white)
     #set align(center)
+
     #logo
+
     #v(1fr)
+
+    #image(cover_image + "result.png", width: 80%)
+
+    #v(1fr)
+
     A guide to Cortex Prime system conversion of the game
   ]
 }

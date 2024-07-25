@@ -1,5 +1,5 @@
-#let gold = rgb("#eade8b")
-#let purple = rgb("#4b2870")
+#let gold = rgb("#FFD700") // gold
+#let purple = rgb("#4B0082") // indigo
 
 #let symbols = (
   d4: symbol("\u{2463}"),
