@@ -34,10 +34,10 @@ Immediately after it's used this way, it's stepped down to zero and eliminatedâ€
 In addition to complications each character also has four stress tracks, these represent a type of a complication that is likely to occur often and will be used often, and thus have some additional rules.
 
 In addition to complications being used to represent temporary traits that hinder the character's actions stress is a measure of your damage and injury. There are four types of stress:
-- *Harmed:* Pain and injury.
-- *Unsound:* Confusion and brain fog.
-- *Rattled:* Fear and anxiety.
-- *Tired:* Exhaustion.
+/ Harmed: Pain and injury.
+/ Unsound: Confusion and brain fog.
+/ Rattled: Fear and anxiety.
+/ Tired: Exhaustion.
 
 === Inflicting Stress
 Whenever a character fails an action that causes harm as a consequence they receive a #spec_char.d6 die of appropriate stress. Being a target of a successful attack inflicts stress equal to the effect die of the attack. Some SFX can also inflict stress upon a character.

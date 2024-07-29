@@ -67,6 +67,13 @@
 
   set par(first-line-indent: 0.7em, leading: 0.5em)
 
+  set quote(block: true)
+  show quote: it => {
+    set block(above: 0em, below: 1.5em)
+    set pad(left: 1em)
+    emph(it)
+  }
+
   show par: set block(spacing: 1em)
 
   show heading: set text(font: ("XWGXSC+CortexSymbology", "Abbess"))
@@ -82,6 +89,7 @@
   }
   show heading.where(level: 2): set text(size: 18pt)
   show heading.where(level: 3): set text(size: 12pt)
+  show heading.where(level: 4): set heading(outlined: false)
 
   show strong: set text(fill: purple)
 

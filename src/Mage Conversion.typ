@@ -10,7 +10,7 @@
 #include "chapters/Distinctions.typ"
 #include "chapters/Attributes.typ"
 #include "chapters/Skills.typ"
-#include "chapters/Spheres.typ"
+#include "chapters/True Magick.typ"
 #include "chapters/Quintessence.typ"
 #include "chapters/Paradox.typ"
 #include "chapters/SFX.typ"

@@ -49,6 +49,8 @@ Jeremy.Forbing, Miriam Robern, Vecna and the entire Cortex Prime discord for the
 
 #v(1fr)
 
-© 2023 White Wolf Entertainment AB. All rights reserved. Vampire: The Masquerade®, World of Darkness®, Storytelling System™, and Storytellers Vault™ are trademarks and/or registered trademarks of White Wolf Entertainment AB. All rights reserved.
+// World of Darkness, Vampire: The Masquerade, Vampire: The Dark Ages, Victorian Age: Vampire, Werewolf: The Apocalypse, Werewolf: The Wild West, Mage: The Ascension, Mage: The Sorcerers Crusade, Wraith: The Oblivion, Wraith: The Great War, Changeling: The Dreaming, Hunter: The Reckoning, Demon: The Fallen, Mummy: The Resurrection, Orpheus, Exalted, Chronicles of Darkness, Vampire:The Requiem, Werewolf: The Forsaken, Mage: The Awakening, Changeling: The Lost, Hunter: The Vigil, Giest: The Sin Eaters, Demon: The Descent, Mummy: The Curse, Beast: The Primordial, Promethean: The Created, World of Darkness, Storyteller System™, Storytelling System™, and Storytellers Vault™ and their respective logos, icons and symbols are trademarks or registered trademarks of Paradox Interactive AB. All rights reserved.
 
-For additional information on White Wolf and the World of Darkness, please, visit: www.white-wolf.com, www.worldofdarkness.com and www.storytellersvault.com.
+// This work contains material that is copyright of Paradox Interactive AB. Such material is used with permission under the Community Content Agreement for the Storytellers Vault.
+
+// ©2024 Paradox Interactive AB, Magnus Ladulåsgatan 4 SE-118 66 Stockholm Västgötagatan 5, SE-118 27 Stockholm, Sweden.

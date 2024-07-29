@@ -12,21 +12,21 @@ Todo.
 - One for your personality, or motivation;
 - One for your Sleeper life;
 - One for your affiliation with a Group of Magi.
-  > Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent…;
+  Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent...;
 
 Each of your distinctions benefits from the Hinder SFX:
 
 *Hinder:* Roll a #spec_char.d4 instead of a #spec_char.d8 for a distinction to earn 1 #spec_char.pp.
 
 === Step 2: Assign Attributes
-Each attribute defaults to #spec_char.d4 and you have 3, 5 and 7 points to step them up.
+Each attribute defaults to #spec_char.d4 and you have 3, 4 and 5 points assigned to a category to step them up.
+
+Maximum attribute value at character creation is #spec_char.d10.
 
 === Step 3: Assign Skills
-Each Skill defaults to #spec_char.d4 and you have 15 points to step up skills.
+Each Skill defaults to #spec_char.d4 and you have 4, 5 and 7 points assigned to a category to step up skills.
 
-Maximum skill at character creation is #spec_char.d10.
-
-As a general guide, 9 points represent what you learned from your Sleeper Life and 6 represent what you've learned since Awakening if you're playing a competent but young mage.
+Maximum skill value at character creation is #spec_char.d10.
 
 === Step 4: Spheres
 You have 6 points to spend on sphere rating, starting on #spec_char.d4, maximum Sphere rating at character creation is #spec_char.d8.
