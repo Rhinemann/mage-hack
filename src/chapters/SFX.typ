@@ -5,8 +5,10 @@
 
 #show: columns.with(2, gutter: 1em)
 
-== Universal SFX
-All Magi benefit from these SFX:
+#block(breakable: false)[
+  == Universal SFX
+  All Magi benefit from these SFX:
+]
 
 *Affinity Sphere:* Spend a #spec_char.pp to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
 
@@ -20,8 +22,10 @@ All Magi benefit from these SFX:
 
 You can spend points to take one or more of these SFX on character creation or later
 
-== Magick SFX (Supernatural SFX)
-These are the examples of magick-related and supernatural SFX available to mages to inspire the players and Storytellers.
+#block(breakable: false)[
+  == Magick SFX (Supernatural SFX)
+  These are the examples of magick-related and supernatural SFX available to mages to inspire the players and Storytellers.
+]
 
 *Advanced Necromancy:* Spend 1 #spec_char.pp to use both Matter and Life when your action is related to animating the dead.
 

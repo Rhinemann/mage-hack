@@ -9,8 +9,10 @@ Quintessence is the raw material of reality. Technocrats refer to it as Primal E
 
 Quintessence is the same thing as Chi, Sekhem, and Gnosis. Glamour is a form of quintessence, just as diamonds are a form of carbon. Vitae is theorized by mages to be fused with Quintessence, thus explaining its supernatural properties.
 
-== Quintessence Pool
-Every mage has a Quintessence pool. Your Quintessence pool is the free flowing Quintessence that your Avatar can accumulate and safely use, it acts as a Recourse, which means you can expend any amount of dice to roll separately, adding to the result. You can get a maximum of 10 dice in your Quintessence pool through Character Advancement.
+#block(breakable: false)[
+  == Quintessence Pool
+  Every mage has a Quintessence pool. Your Quintessence pool is the free flowing Quintessence that your Avatar can accumulate and safely use, it acts as a Recourse, which means you can expend any amount of dice to roll separately, adding to the result. You can get a maximum of 10 dice in your Quintessence pool through Character Advancement.
+]
 
 When casting a spell, you may set aside any number of Quintessence dice before rolling. After the dice pool for the spell was rolled, the player must roll the Quintessence dice set aside and add the highest result die to the total. After that the dice set aside are considered spent and must be recovered later.
 

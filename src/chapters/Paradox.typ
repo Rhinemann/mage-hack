@@ -13,10 +13,15 @@ Paradox is the inertia of 6 million gallons of belief. Mages who change reality 
 
 Paradox can take a variety of forms. Backlash, reality directly attacking the offensive mage, can cause temporary, long term, or even permanent wounds, flaws, or oddities. Quiet, a magical form of madness, forces the offending mage to resolve their guilt over disjointing reality. Exceptionally offensive mages can be catapulted into Paradox Realms, or hounded by Paradox spirits.
 
-== Paradox Pool
-Mages accumulate Paradox into a pool from different sources, they are as follows:
+#block(breakable: false)[
+  == Paradox Pool
+  Mages accumulate Paradox into a pool from different sources, they are as follows:
+]
+
 - *Casting vulgar magick:* Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds #spec_char.d6 to the pool and gains 1 #spec_char.pp.
-  #sidebar(s_heading: [=== Optional Rule: Harsh Paradox])[If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to the pool instead of a #spec_char.d6.]
+  #sidebar(s_heading: [=== Optional Rule: Harsh Paradox])[
+    If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to the pool instead of a #spec_char.d6.
+  ]
 - *Hitching while casting a spell:* Whenever a player rolls a hitch, the Storyteller may add that die to a Paradox pool instead of the Doom pool, paying for it as normal.
 - *Special circumstances:* Certain special circumstances like encounters with Mad Ones may inflict Paradox in unusual ways too.
 
