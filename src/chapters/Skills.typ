@@ -72,7 +72,7 @@ At lower levels, this Skill grants a nebulous perception of uncanny phenomena; h
   Esoteric knowledge comes in many forms: astrology, angelography, fortune-telling, yoga, herbalism, demonology, the lore of stones, even the secret code languages of occult societies. For centuries, such mysteries were the province of selected initiates; these days, it's relatively easy to find the basics in any decent bookstore or website. Even so, the deeper levels remain obscure to all but the most devoted students of the art. Anyone can take a yoga class in the modern world, but the more arcane applications of that art demand years of practice, study, and devotion.
 ]
 
-Esoterica Knowledge reflects your pursuit of esoteric disciplines and, by extension, provides instruments for your magickal focus. The Skill's overall rating reflects your general knowledge of arcane subjects, whereas each specialty reflects your expertise within a certain field. Unlike the Occult -- which reflects an understanding of “secret history” and shadow-cultures -- Esoterica represents the practical application of unusual fields. Occult can teach your character who Aleister Crowley was, while Esoterica helps her understand what Crowley did… and to use those principles herself.
+Esoterica Knowledge reflects your pursuit of esoteric disciplines and, by extension, provides instruments for your magickal focus. The Skill's overall rating reflects your general knowledge of arcane subjects, whereas each specialty reflects your expertise within a certain field. Unlike the Occult -- which reflects an understanding of “secret history” and shadow-cultures -- Esoterica represents the practical application of unusual fields. Occult can teach your character who Aleister Crowley was, while Esoterica helps them understand what Crowley did... and to use those principles themselves.
 
 Given an opportunity to study and practice an art, any character can learn Esoterica. Although such disciplines don't give magickal powers to unAwakened characters, the Knowledge lets them use mundane applications -- teaching yoga classes, doing horoscopes, deciphering alchemical texts and so forth. Understanding the principles of bakemono-jutsu -- the ninja “ghost technique” -- won't make you invisible, for instance, but a specialty in that esoteric technique would let you add it to your Stealth Skill rolls.
 
@@ -101,7 +101,7 @@ Given an opportunity to study and practice an art, any character can learn Esote
 
 #block(breakable: false)[
   ==== Politics
-  General knowledge of political structures and methodologies, but more practically shows your character's ability to navigate those systems and make them work the way she intends. With Politics, she knows the right person to ask to get something done.
+  General knowledge of political structures and methodologies, but more practically shows your character's ability to navigate those systems and make them work the way they intend. With Politics, they know the right person to ask to get something done.
 ]
 
 *Suggested Specialties:* Bureaucracy, Church, Consilium, Democratic, Local, Order, Organized Crime, Scandals.
@@ -249,14 +249,14 @@ Radical scientists -- Etherites, Ecstatics, Virtual Adepts, and even some maveri
 
 #block(breakable: false)[
   ==== Streetwise
-  Knowledge of life on the streets. It tells her how to navigate the city, how to get information from unlikely sources, and where they'll be (relatively) safe. If they wants to get something on the black market, Streetwise is how.
+  Knowledge of life on the streets. It tells them how to navigate the city, how to get information from unlikely sources, and where they'll be (relatively) safe. If they want to get something on the black market, Streetwise is how.
 ]
 
 *Suggested Specialties:* Black Market, Gangs, Navigation, Rumors, Undercover.
 
 #block(breakable: false)[
   ==== Subterfuge
-  Ability to deceive. With Subterfuge, your character can lie convincingly, project hidden messages in what she says, hide motivations, and notice deception in others.
+  Ability to deceive. With Subterfuge, your character can lie convincingly, project hidden messages in what they say, hide motivations, and notice deception in others.
 ]
 
 *Suggested Specialties:* Detecting Lies, Doublespeak, Hiding Emotion, Little White Lies, Misdirection.

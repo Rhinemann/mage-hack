@@ -13,14 +13,13 @@
 #block(breakable: false)[
   === Step 1: Choose Distinctions
   - One for your personality, or motivation;
+  - One for your Sleeper life;
+  - One for your affiliation with a Group of Magi.
+    #quote[Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent...;]
 ]
-]
-- One for your Sleeper life;
-- One for your affiliation with a Group of Magi.
-  #quote[Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent...;]
 
 Each of your distinctions benefits from the Hinder SFX:
-/ Hinder: Roll a #spec_char.d4 instead of a #spec_char.d8 for a distinction to earn 1 #spec_char.pp.
+/ Hinder: Roll a #spec_char.d4 instead of a #spec_char.d8 for a distinction to earn a #spec_char.pp.
 
 #block(breakable: false)[
   === Step 2: Assign Attributes

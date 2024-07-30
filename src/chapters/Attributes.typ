@@ -84,7 +84,7 @@ The nine Attributes are split into three categories: Physical, Social, Mental.
 
 #block(breakable: false)[
   ==== Manipulation
-  Ability to make others cooperate. It's how smoothly she speaks, and how much people can read into her intentions.
+  Ability to make others cooperate. It's how smoothly they speak, and how much people can read into their intentions.
 ]
 
 #block(breakable: false)[

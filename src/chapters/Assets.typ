@@ -61,12 +61,7 @@ Signature assets can be temporarily knocked out, eliminated, rendered unusable, 
 
 #block(breakable: false)[
   === Rating Signature Assets
-  Signature assets begin with a ⑥ die rating but can be
-  stepped up during play. They aren’t tied to a distinction,
-  attribute, or skill, but may complement any one of those
-  traits. The die rating of your signature asset represents
-  how much the asset can help you, as well as your own
-  bond with it.
+  Signature assets begin with a ⑥ die rating but can be stepped up during play. They aren't tied to a distinction, attribute, or skill, but may complement any one of those traits. The die rating of your signature asset represents how much the asset can help you, as well as your own bond with it.
 ]
 
 - #spec_char.d6 Something helpful and everyday, or that you've grown accustomed to.
