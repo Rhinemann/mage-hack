@@ -37,10 +37,10 @@ Powers provided by every Sphere's rank are unique, but tend to follow this overa
 ]
 
 / #spec_char.d4 Mage Sense: Step up your lowest die on any roll to sense any phenomena governed by the Sphere or create a related asset.
-/ #spec_char.d6 ((Name)): On rolls to ((exert the basic level of control provided by a #spec_char.d6 rating in this sphere)), add #spec_char.d6 and step up your effect die.
-/ #spec_char.d8 ((Name)): Spend a #spec_char.pp to create a #spec_char.d8 ((whatever kind of ongoing advantage a #spec_char.d8 rating of this sphere creates)) asset.
-/ #spec_char.d10 ((Name)): Spend a #spec_char.pp to step up or double your sphere die on a roll to ((exert the greater level of control provided by a #spec_char.d10 sphere rating)).
-/ #spec_char.d12 ((Name)): Take #spec_char.d6 ((appropriate stress or complication)) to double your die for this sphere on a roll. On a failure, step up ((the same stress or complication you took to activate)).
+/ #spec_char.d6 ((Name)): On rolls to create an asset by exerting the basic level of control provided by a #spec_char.d6 rating of the Sphere, add #spec_char.d6 and step up your effect die.
+/ #spec_char.d8 ((Name)): Spend a #spec_char.pp to create a #spec_char.d8 asset that can be produced by a #spec_char.d8 rating of the Sphere.
+/ #spec_char.d10 ((Name)): Spend a #spec_char.pp to step up or double your Sphere die on a roll to ((exert the greater level of control provided by a #spec_char.d10 Sphere rating)).
+/ #spec_char.d12 ((Name)): Take #spec_char.d6 appropriate stress or complication to double your die for this Sphere on a roll. On a failure, step up the same stress or complication you took to activate.
 
 #block(breakable: false)[
   === Correspondence
