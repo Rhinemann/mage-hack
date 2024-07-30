@@ -35,9 +35,9 @@ There is no set list of specialties, but the skill list that follows provides su
   Similarly to Attributes, Skills are divided into Mental, Physical, and Social categories.
 ]
 
-=== Mental Skills
-
 #block(breakable: false)[
+  === Mental Skills
+
   ==== Academics
   Higher education and knowledge of the arts and humanities. It covers language, history, law, economics, and related fields. Many magi develop aptitude in Academics to further their research into the Mysteries.
 ]
@@ -145,9 +145,9 @@ Given an opportunity to study and practice an art, any character can learn Esote
 
 Radical scientists -- Etherites, Ecstatics, Virtual Adepts, and even some maverick Technocrats, among others -- have dozens, perhaps hundreds, of other disciplines, ranging from Etherdynamics to Chaos Math to Coprophrenology (don't ask...). Naturally, such sciences are not generally accepted by the community at large; this, of course, just inspires their proponents to prove how true their theories really are...
 
-=== Physical
-
 #block(breakable: false)[
+  === Physical
+
   ==== Athletics
   A broad category of physical training and ability. It covers sports, and basic physical tasks such as running, jumping, dodging threats, and climbing. It also determines a character's ability with thrown weapons.
 ]
@@ -203,9 +203,9 @@ Radical scientists -- Etherites, Ecstatics, Virtual Adepts, and even some maveri
 
 *Suggested Specialties:* Chains, Clubs, Improvised Weapons, Spears, Swords.
 
-=== Social
-
 #block(breakable: false)[
+  === Social
+
   ==== Animal Ken
   Ability to train and understand animals. With Animal Ken, your character can cow beasts or rile them to violence under the right circumstances.
 ]
