@@ -74,8 +74,15 @@
     leading: 0.2em,
     justify: true,
     linebreaks: "optimized",
+    spacing: 1em,
   )
-  show par: set block(spacing: 1em)
+
+  set table(
+    fill: (_, y) => if calc.odd(y) {
+      purple.transparentize(85%)
+    },
+    stroke: none,
+  )
 
   set quote(block: true)
   show quote: it => {
