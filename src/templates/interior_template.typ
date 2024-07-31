@@ -1,6 +1,8 @@
 #let gold = rgb("#FFD700") // gold
 #let purple = rgb("#4B0082") // indigo
 
+#let par_indent = 2em
+
 #let symbols = (
   d4: symbol("\u{2463}"),
   d6: symbol("\u{2465}"),
@@ -21,7 +23,7 @@
 #let chapter(chapter_name: "", body) = {
   set text(
     font: ("XWGXSC+CortexSymbology", "Goudy Old Style"),
-    size: 11pt,
+    size: 10pt,
     lang: "en",
     hyphenate: false,
   )
@@ -50,7 +52,7 @@
       )
     },
     paper: "us-letter",
-    margin: (top: 25mm, bottom: 32mm, inside: 16mm, outside: 28mm),
+    margin: (top: 25mm, bottom: 30mm, inside: 15mm, outside: 30mm),
     footer: context {
       set text(font: "Abbess", size: 12pt)
       let h_skip = h(1em)
@@ -65,20 +67,25 @@
     footer-descent: 10%,
   )
 
-  set par(first-line-indent: 1em, leading: 0.5em)
-  show par: set block(spacing: 0.5em)
-
   set terms(hanging-indent: 1em)
+
+  set par(
+    // first-line-indent: par_indent,
+    leading: 0.2em,
+    justify: true,
+    linebreaks: "optimized",
+  )
+  show par: set block(spacing: 1em)
 
   set quote(block: true)
   show quote: it => {
-    set block(above: 0em, below: 1.5em)
+    set block(above: 0em, below: 1em)
     set pad(left: 1em)
     emph(it)
   }
 
   show heading: set text(font: ("XWGXSC+CortexSymbology", "Abbess"))
-  show heading: set block(above: 1em, below: 0.5em)
+  show heading: set block(below: 0.5em)
 
   show heading.where(level: 1): it => {
     set text(size: 24pt)
@@ -90,7 +97,7 @@
   }
   show heading.where(level: 2): set text(size: 18pt)
   show heading.where(level: 3): set text(size: 12pt)
-  // show heading.where(level: 4): set heading(outlined: false)
+  show heading.where(level: 4): set text(size: 10pt)
 
   show strong: set text(fill: purple)
 
