@@ -16,6 +16,13 @@ True Magick represents a character's ability to manipulate reality through their
 Every Working of magick opens a mage to all of the associated dangers, such as Paradox.
 
 #block(breakable: false)[
+  === Affinity Sphere
+  The affinity Sphere is a mage's initial field of study and connection. It's a Sphere that a mage has the strongest connection to, the Sphere that is a mage's first connection to the greater truth of the world. The pull of an affinity Sphere can be felt form the childhood by most magi.
+]
+
+Every character has an affinity Sphere they choose at character creation depending on their Tradition and natural talent. Whenever a character is casting an effect that involves their affinity Sphere they may spend a #spec_char.pp to double the Sphere die in a roll.
+
+#block(breakable: false)[
   == The Spheres
   True Magick consists of 9 Spheres, each represents a character's ability to influence the specific area of the Tapestry.
 ]

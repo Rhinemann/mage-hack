@@ -10,8 +10,6 @@
   All Magi benefit from these SFX:
 ]
 
-*Affinity Sphere:* Spend a #spec_char.pp to double the Sphere die in your pool if the Sphere you are using is your affinity Sphere.
-
 *Spend Willpower:* Take #spec_char.d6 Unsound stress to gain a #spec_char.pp or add a third die to your total on a roll.
 
 *Necessary Tools:* Whenever your action includes a Sphere you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain a #spec_char.pp.
