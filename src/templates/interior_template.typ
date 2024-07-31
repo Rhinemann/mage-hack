@@ -95,9 +95,9 @@
     it
     line(length: 100%)
   }
-  show heading.where(level: 2): set text(size: 18pt)
-  show heading.where(level: 3): set text(size: 12pt)
-  show heading.where(level: 4): set text(size: 10pt)
+  show heading.where(level: 2): set text(size: 20pt)
+  show heading.where(level: 3): set text(size: 16pt)
+  show heading.where(level: 4): set text(size: 12pt)
 
   show strong: set text(fill: purple)
 
