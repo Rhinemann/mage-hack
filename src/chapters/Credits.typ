@@ -2,7 +2,7 @@
 
 #show: chapter.with(chapter_name: "Credits")
 
-#show: columns.with(2, gutter: 0.5em)
+#show: columns.with(2, gutter: 1em)
 
 // #columns(gutter: 1em)
 
