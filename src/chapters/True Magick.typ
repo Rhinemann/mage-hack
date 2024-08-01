@@ -23,6 +23,13 @@ Every Working of magick opens a mage to all of the associated dangers, such as P
 Every character has an affinity Sphere they choose at character creation depending on their Tradition and natural talent. Whenever a character is casting an effect that involves their affinity Sphere they may spend a #spec_char.pp to double the Sphere die in a roll.
 
 #block(breakable: false)[
+  === Conjunctional Effects
+  Despite being immensely powerful even on their own, different Spheres can be combined to achieve truly spectacular and complicated effects.
+]
+
+Casting a conjunctional effect is no different from using one Sphere for creating an effect, a player must evaluate their Sphere ranks and descriptions to determine whether a desired effect is possible, then add only one Sphere die to the pool. Seeing as there are multiple Spheres involved, the choice of a Sphere is up to the player. Normally they can simply choose the highest Sphere available for the best success potential, but
+
+#block(breakable: false)[
   == The Spheres
   True Magick consists of 9 Spheres, each represents a character's ability to influence the specific area of the Tapestry.
 ]
