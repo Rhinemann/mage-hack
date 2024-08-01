@@ -27,6 +27,7 @@ Roadmap:
 - [ ] Write the paragraph on Doom pool.
 - [ ] Write about Crisis pools.
 - [ ] Write about Bosses.
-- [ ] Possibly write out some stuff on the factions.
+- [ ] Paradigm!
+- [ ] Possibly write out some stuff on the factions and general setting fluff.
 - [ ] Expand the list of example SFX.
 - [ ] Possibly implement Resonance.
