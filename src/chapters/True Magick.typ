@@ -10,7 +10,7 @@ True Magick represents a character's ability to manipulate reality through their
 
 #block(breakable: false)[
   == Using True Magick
-  Whenever a PC is attempting working their Will upon the world they must determine the possibility of an effect based on the Spheres they possess and add the highest Sphere to the dice pool.
+  Whenever a PC is attempting working their Will upon the world they must determine the possibility of an effect based on the Sphere rank they possess and the descriptions of their abilities and add the Sphere employed in the effect to the dice pool.
 ]
 
 Every Working of magick opens a mage to all of the associated dangers, such as Paradox.
