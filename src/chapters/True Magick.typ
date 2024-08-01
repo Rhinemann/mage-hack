@@ -630,3 +630,21 @@ Combining this Rank with other Spheres, the mage can affect other Patterns (Forc
 ]
 
 / Time Mastery: Take #spec_char.d6 appropriate stress or complication to double your Time die for for a roll. On a failure, step up the same stress or complication you took to activate.
+
+#block(breakable: false)[
+  === Data (Correspondence)
+  Data is reality. Anyone who thinks otherwise is fooling themselves. Although this reality extends only about as far as electronic data or media, that reach is damned near worldwide these days. And through that connection, Data Sphere specialists can find, contact, and reach out to anyone on the grid. All it takes is time and a little bit of information, plus the knowledge and the Will to work it properly.
+]
+
+A Technocratic refinement of the Correspondence Sphere, Data remains the province of the Virtual Adepts, the New World Order, and the various allies they choose to share it with. Like all Spheres, its properties are meta-physical, extending beyond the realms of conventional reality. Although the Data specialist is, theoretically, just using the tools at their disposal, the greater reaches of this Sphere extend beyond the bounds of what should be possible, according to the Masses. It's not "magick", of course --- stop thinking such unmutual thoughts! It does, however, pull the strands of Information-Age technology in some pretty impressive ways.
+
+In most regards, Data functions like Correspondence with regards to the powers at its disposal. The primary differences come through the elements of connection and the methods of its employment. To use Data-based Effects, the technomancer must collate data about the person or location they're trying to reach, and then have gear in place that can reach the subject of their attention. The more expertise that specialist brings to bear on the situation (that is, the higher the Data rating they have ), the easier it is for them to establish a connection with minimal amounts of data.
+
+Because Data depends upon technological methods of information and connection, a target who's not on the grid cannot be affected by this Sphere. Given the current (and growing) extent of information technology, however, the Data can reach most people within the industrialized world... especially if they participate in social media, modern banking, or government processes.
+
+A Data specialist knows their way around the technology of our age. Though they might not be the humorless grunt so often associated with number-crunching disciplines, they've certainly got intense focus, an eye for detail, and a ruthless capacity for exploiting the bounds and bindings of information technologies.
+
+#block(breakable: false)[
+  ==== On the Ones and Zeros
+  Through a haze of code, the Data initiate begins to see the interconnectedness of all things. Bringing that esoteric level of comprehension to the world beyond their keyboard, the specialist can determine the exact distance between points or the connections between visible objects. Their understanding allows them to work on base-level projects without instruments, thanks to a growing familiarity with relationship information.
+]
