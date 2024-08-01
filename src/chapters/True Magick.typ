@@ -5,7 +5,6 @@
 
 #show: columns.with(2, gutter: 1em)
 
-// #h(par_indent)
 True Magick represents a character's ability to manipulate reality through their Awakened Will. Depending on the character's approach to magick alternative names for the trait set are possible, such as: Spheres, Enlightened Science, Ars Magia, Heka.
 
 #block(breakable: false)[
@@ -51,9 +50,11 @@ Powers provided by every Sphere's rank are unique, but tend to follow this overa
   === Spheres And SFX
   True Magick is a powerful trait set, so every Sphere has an SFX attached to every dice level. These SFX are unlocked automatically as a character gains the corresponding Sphere rank.
 ]
-// #show par: set block(below: 3em, above: 0em)
+
+#show heading.where(level: 3): set align(center)
+
 #block(breakable: false)[
-  === Correspondence #spec_char.pp
+  === Correspondence
   #quote[Connections and Dimensions]
 
   By manipulating the ties between places, objects, and people, the Correspondence Sphere allows a mage to sidestep distances, sense things that would normally be out of range, pull objects out of thin air, levitate or fly, or connect an Effect to some other place or character. Some magi proclaim this Sphere is proof that distance is an illusion, whereas others view it as the Art of pulling strings between different places and people.
