@@ -633,6 +633,8 @@ Combining this Rank with other Spheres, the mage can affect other Patterns (Forc
 
 #block(breakable: false)[
   === Data (Correspondence)
+  #quote[Accessing Reality Metacode]
+
   Data is reality. Anyone who thinks otherwise is fooling themselves. Although this reality extends only about as far as electronic data or media, that reach is damned near worldwide these days. And through that connection, Data Sphere specialists can find, contact, and reach out to anyone on the grid. All it takes is time and a little bit of information, plus the knowledge and the Will to work it properly.
 ]
 
@@ -645,6 +647,181 @@ Because Data depends upon technological methods of information and connection, a
 A Data specialist knows their way around the technology of our age. Though they might not be the humorless grunt so often associated with number-crunching disciplines, they've certainly got intense focus, an eye for detail, and a ruthless capacity for exploiting the bounds and bindings of information technologies.
 
 #block(breakable: false)[
-  ==== On the Ones and Zeros
+  ==== #spec_char.d4 Initiate
+  #quote[On the Ones and Zeros]
+
   Through a haze of code, the Data initiate begins to see the interconnectedness of all things. Bringing that esoteric level of comprehension to the world beyond their keyboard, the specialist can determine the exact distance between points or the connections between visible objects. Their understanding allows them to work on base-level projects without instruments, thanks to a growing familiarity with relationship information.
 ]
+
+/ Data Perception: Step up your lowest die on any roll to perceive any phenomena under the purview of Data or create a related asset.
+
+#block(breakable: false)[
+  ==== #spec_char.d6 Apprentice
+  #quote[The Reach and the View]
+
+  With a few quick calculations, the specialist can assess theoretical and practical space -- assessments that allow them to perceive what's happening elsewhere. Expanding the metaphysical elements of this discipline, this understanding allows the agent to see and touch places in other areas of the world, so long as he they instruments that allow them access to distant locations.
+]
+
+Combining Data with other Spheres, the specialist can extend the practical range of Technocratic Effects. Matter allows them to modify Union tech from a distance; Mind lets them communicate with agents or targets worldwide; Forces lets them attack distant targets; and Entropy allows them to predict and alter probability patterns and spot flaws in objects that they can perceive. As with regular Correspondence, the operator's Data Rank must be equal to, or higher than, the highest Rank in a connected Effect.
+
+/ Data Manipulation: On rolls to create an asset that can be produced by a #spec_char.d6 or lower Data rating, add #spec_char.d6 and step up your effect die.
+
+#block(breakable: false)[
+  ==== #spec_char.d8 Disciple
+  #quote[Quantum Teleportation/Firewalling/Surveillance Hub]
+
+  Advanced Data transfer techniques allow the specialist to more or less sidestep conventional physics of spatial dimensions. In practical terms, this allows them to download themselves into quantum teleportation mode; erect firewalls of particle physics that effectively ward objects, places, or people; and divide their perceptions across a multilocational surveillance hub. Combined with other Spheres, this expertise helps the agent move things, forces, and living beings through intervening space.
+]
+
+Again, however, these Procedures demand the appropriate gear on either side of the Effect. Such violations of conventional physics demand the proper technology.
+
+/ Data Control: Spend a #spec_char.pp to create a #spec_char.d8 asset that can be produced by a #spec_char.d8 or lower Data rating.
+
+#block(breakable: false)[
+  ==== #spec_char.d10 Adept
+  #quote[Between Space/Dimensional Cohabitation/Multilocation Access]
+
+  With such technology in place, the expert specialist can open quantum gateways between locations, create pocket dimensions between conventional space-time continuums, and disperse holographic manifestations of themselves into several concurrent locations. With the appropriate Life, Mind, and Primal Force Procedures, those manifestations can even become as solid as the agent themselves and perform different tasks in the finest Agent Smith tradition.
+]
+
+/ Data Command: Spend a #spec_char.pp to step up or double your Data die on a roll for an effect that can be accomplished by a #spec_char.d10 or lower Data rating.
+
+#block(breakable: false)[
+  ==== #spec_char.d12 Master
+  #quote[Redistribute Physical Properties/Fold Space/Hyperdispersed Perceptions]
+
+  Data Mastery merges conventional physics with sophisticated hypermath. The few specialists at this level can stack physical locations into the same space, alter the spatial dimensions and properties of a target, or disperse their perceptions into so many concurrent locations that a specialist may truthfully be said to have eyes and ears everywhere.
+]
+
+/ Data Mastery: Take #spec_char.d6 appropriate stress or complication to double your Data die for for a roll. On a failure, step up the same stress or complication you took to activate.
+
+#block(breakable: false)[
+  === Dimensional Science (Spirit)
+  #quote[Parsing Alternate Reality Spectrums]
+
+  Based upon the Tychoidian cosmology theories of the Void Engineers, Dimensional Science posits an Anthropic Principle Field in which the conscious human mind exerts a degree of control over its metaphysical reality space. Because of that Principle, lesser subdimensions have collected outside of Earthly space, losers in some contest of metaphysical Darwinism. The entities native to those subdimensions -- extradimensional entities, or EDEs -- strive to pass the Earthly barriers and infect the human world. And that's where Dimensional Science comes in, a method of asserting the Enlightened elements of the Anthropic Principle and keeping those EDEs out of human space.
+]
+
+In game terms, Dimensional Science is largely the same as the Spirit Sphere. Like other Technocratic Spheres of Influence, however, its Effects are bound to technological gear and viewed through a lens of science, not mysticism. Although Void Engineers still apply the term Umbrae to these subdimensions (considering them mathematical shadows of the human Consensus), the Dimensional Specialist's approach lacks animistic reverence, even though it features scientific awe.
+
+Unlike Data, Dimensional Science remains largely exclusive to a single Convention: the Void Engineers. In many regards, it's a well-kept secret, propagated only through intense training at VE facilities. The Dimensional Specialist, then, is a man or woman of intense focus within a multilevel framework of thinking and perception. By outside standards, they appear paranoid... but of course, if you knew the things they knows about the pervasive nature of subdimensions and EDEs, you'd be paranoid too...
+
+#block(breakable: false)[
+  ==== #spec_char.d4 Initiate
+  #quote[EDE Scan/Evaluate Gauntlet/Map Dimensional Region]
+
+  Through applied principles and technologies, the specialist learns to perceive EDE presence and potential incursions, evaluate the characteristics of alternate dimensions and thickness of the barrier that keeps them outside the Consensus, and perceive the essential terrain in the pocket dimensions on the other side of that Gauntlet.
+]
+
+/ Dimensional Science Perception: Step up your lowest die on any roll to perceive any phenomena under the purview of Dimensional Science or create a related asset.
+
+#block(breakable: false)[
+  ==== #spec_char.d6 Apprentice
+  #quote[Dimensional Vibration/Modify Dimensional Gauntlet/Transdimensional Field]
+
+  At this level of expertise, the specialist can use radiation pulses, hypermath, and samples of transdimensional matter to grant access to those alternate dimensions. With the correct instruments, that specialist can send out artificial ripples into nearby subdimensions in order to attract EDEs and leave signals for other Dimensional Specialists.
+]
+
+Thanks to the hypermathematical models and recordings involved in Dimensional Science, a specialist can also manipulate the Gauntlet, raising or lowering it, even as low as 0 -- a feat mystic mages cannot duplicate. The Gauntlet 0 Effect lasts for only one scene, but it counters the punishment of the Dimensional Anomaly (that is, the Avatar Storm) if that phenomenon is still in play. However, the specialist themselves still suffers feedback damage as they work the Effect. (In game terms, they take the usual Avatar Storm damage, though they prevents other characters from taking it during that scene.)
+
+On a related note, the specialist learns to also surround themselves (or, with the appropriate Spheres, other people or objects) with a transdimensional field; this, in turn, allows them to interact with subdimensions on a limited level (brief touch) without suffering harm from the Dimensional Anomaly.
+
+/ Dimensional Science Manipulation: On rolls to create an asset that can be produced by a #spec_char.d6 or lower Dimensional Science rating, add #spec_char.d6 and step up your effect die.
+
+#block(breakable: false)[
+  ==== #spec_char.d8 Disciple
+  #quote[Dimensional Shift/Manipulate Paraphysical Phenomena/Phase Disruption Field]
+
+  Increased understanding allows the specialist to step sideways into alternate dimensions, manipulate the paraphysical matter (that is, ephemera) of those dimensions, and -- with the correct weaponry -- send out destructive phase disruption fields of vibrations that disorient, injure, or disintegrate EDEs. (In short, their attacks can harm spirit entities.) Thanks to the Stun/Kill/Disintegrate settings on those weapons, they can choose whether to inflict different levels damage on Umbral targets... and although EDE's experience all forms of damage the same way, dimension-hopping humans and Deviant werebeasts do not.
+]
+
+/ Dimensional Science Control: Spend a #spec_char.pp to create a #spec_char.d8 asset that can be produced by a #spec_char.d8 or lower Dimensional Science rating.
+
+#block(breakable: false)[
+  ==== #spec_char.d10 Adept
+  #quote[Alter Dimensional Topography/Dimensional Gateway/Stabilize Dimensional Field]
+
+  Increased understanding and appropriate technologies help the specialist make lasting changes to alternate dimensions. Reworking the paraphysical constraints of a given space, they may craft pocket domains and dimensional walls in order to block or catch EDEs. A skilled specialist can do this even from the Earthly side of the Gauntlet, thus avoiding the effects of the Dimensional Anomaly. Using similar techniques, the specialist can also carve out rapid-transit paths; in game terms, this Effect cuts down the specialist's travel time within the Otherworlds.
+]
+
+The specialist can also open large gateways into the subdimensions, although the people passing through those gates suffer the effects of the Anomaly unless the Gauntlet has already been lowered to 0 by a Dimension Science #spec_char.d6 Procedure.
+
+Channeling Primal Energy (Quintessence) through appropriate technology, the specialist can also strengthen the Enlightened Anthropic Principle enough to prevent Void Adaptation.
+
+/ Dimensional Science Command: Spend a #spec_char.pp to step up or double your Dimensional Science die on a roll for an effect that can be accomplished by a #spec_char.d10 or lower Dimensional Science rating.
+
+#block(breakable: false)[
+  ==== #spec_char.d12 Master
+  #quote[Anthropic Field/Breach Spatial Horizon/Cosmogenesis]
+
+  Utilizing the ultimate applications of Anthropic Principle Fields, the specialist can generate their own Anthropic Field (with the right instruments, of course) that allows them to venture beyond both Horizons and venture into the Deep Universe. By crafting a reality bubble around themselves, that specialist can keep other Earthly beings alive with them as well and can engineer and pilot vehicles for Deep Universe travel.
+]
+
+Employing the arcane technologies of Cosmogenesis, that Master Specialist may also engineer and create Horizon Constructs and custom-designed and constructed EDE organisms. They must employ Primal Utility energies as well (often including Life and Matter if the EDE construct is to survive outside the subdimensions... that is, if it's going to be more than simple ephemera), but these cosmic computations allow Void Engineers to harness powers not unlike those of legendary gods.
+
+/ Dimensional Science Mastery: Take #spec_char.d6 appropriate stress or complication to double your Dimensional Science die for for a roll. On a failure, step up the same stress or complication you took to activate.
+
+#block(breakable: false)[
+  === Primal Utility (Prime)
+  #quote[Investing Essential Energies]
+
+  To the Enlightened Hypereconomist, Prime is not some ephemeral energy bubbling up from the cracks of the world. Instead, it's an energy field generated by Homo economicus: the ambitiously conscious human being who acts to further their self-interest. Related to the VE theory of Enlightened Anthropic Principle Fields (although they don't know it by that name), the Syndicate's hypereconomic theories see Quintessence energy rising from human interest and activity. People literally invest themselves in such ventures, and although they might not see the energy they create through such transactions, they can feel it... hence the sensations involved in feeling valued or worthless.
+]
+
+Whereas other Technocratic Conventions stick close to the “essential energies” model of Prime, the Syndicate's Primal Utility specialists understand the Sphere differently. In game terms, the applications are more or less the same. For a Syndicate character, however, Prime flows through investing and withdrawing energetic currency through Ventures (value-generating Nodes) that manipulate the metaphysical economies of human value. By accessing what they call “creation's credit rating”, the hypereconomist controls that currency, investing it where it does the most good... for them.
+
+Perhaps the greatest edge granted to those who understand Primal Utility comes from the aforementioned Ventures. By investing in a Venture, the hypereconomist can draw Primal Energy (Quintessence) from a mundane business. In game terms, that business becomes a Node; if the character has a lasting personal connection with that Venture, then he’s got access to that Node as well. Only a character with at least one dot in Primal Utility can access the Quintessence from that Venture; another mage might sense the energies but remain unable to access their power.
+
+Prime-savvy hypereconomists always watch for invisible bottom lines. Attuned to the effects of Market Correction (Paradox) and the perpetual exchange of energies conducted through human intercourse (sexual and otherwise), they can spot value -- or the lack of it -- in the least obvious situations, and he knows how to get the most for his investments in whatever form they might manifest.
+
+
+#block(breakable: false)[
+  ==== #spec_char.d4 Initiate
+  #quote[Assess Primal Utility/Deposit Primal Utility/Exploit Primal Venture]
+
+  Assessment analysis gives the hypereconomist a view of Prime flows, Resonance signatures, and applied metaphysical processes (that is, magick) in their vicinity. As with all other Technocratic Sphere Effects, this demands the correct instruments and training, although certain practices and instruments (especially dominion and hypereconomics) simply give the specialist a hunch about the energies in play. Some specialists see colorful flows of energy but dismiss such visions as simply mental constructs for an otherwise invisible process.
+]
+
+As with Prime #spec_char.d4, the hypereconomist can also invest such energies and can utilize the Prime Force generated by Ventures as well as other, more mystical sources of Quintessence.
+
+/ Primal Utility Perception: Step up your lowest die on any roll to perceive any phenomena under the purview of Primal Utility or create a related asset.
+
+#block(breakable: false)[
+  ==== #spec_char.d6 Apprentice
+  #quote[Create Gadgets/Perfect Material Exploitation/Primal Innovation]
+
+  Through sophisticated uses of instruments and principles, the hypereconomist can modify existing materials with an energized-value buzz; they can even create something from nothing, thanks to the principle of increased worth. In game terms, this allows them to use the normal Prime #spec_char.d6 Effects, although the character still needs to have some technological source to facilitate his conjurations.
+]
+
+/ Primal Utility Manipulation: On rolls to create an asset that can be produced by a #spec_char.d6 or lower Primal Utility rating, add #spec_char.d6 and step up your effect die.
+
+#block(breakable: false)[
+  ==== #spec_char.d8 Disciple
+  #quote[Create Stable Extraordinary Devices/Living-Asset Exploitation/Use Currency & Primal Storage]
+
+  Utilizing energetic manifestations called Currency (in mystic terms, Tass), plus efficient managerial skills, the specialist can employ a team to create permanent Devices with their Currency, restore their personal stock (Pattern) with Currency, and drain or refill Devices and storage batteries called Matrices (that is, Periapts) with their available Currency.
+]
+
+/ Primal Utility Control: Spend a #spec_char.pp to create a #spec_char.d8 asset that can be produced by a #spec_char.d8 or lower Primal Utility rating.
+
+#block(breakable: false)[
+  ==== #spec_char.d10 Adept
+  #quote[Create Tass/Exploit Opportunity/Liquidate Assets]
+
+  Skillful use of hypereconomics now allows the specialist to create Currency from free-flowing energy. Typically, this Tass involves precious materials, paper money, credit cards, or other items of value (paintings, stock certificates, bearer bonds, drugs, etc.). Unlike mystic mages (or other Technocrats), however, they can use only the energy generated by Primal Utility activities... and not, for example, charge up their Platinum card at the nearest Node.
+]
+
+By exploiting the Primal Opportunities called “wellsprings” in superstitionist jargon, that hypereconomist can also draw energy out of an exciting event rather than a consistent source.
+
+On the flipside, they can also destroy material objects while divesting them of their value (Quintessence). Although the specialist cannot access this energy, they can keep other people from utilizing those resources. (“I'd sooner burn this warehouse down than let you have it…”)
+
+/ Primal Utility Command: Spend a #spec_char.pp to step up or double your Primal Utility die on a roll for an effect that can be accomplished by a #spec_char.d10 or lower Primal Utility rating.
+
+#block(breakable: false)[
+  ==== #spec_char.d12 Master
+  #quote[Create Living Assets/Generate Primal Conflux & Ventures/Liquidate Living Assets/Market Compensation]
+
+  Like Mastery of the mystic Prime, Mastery of this Rank allows the specialist to create permanent Devices, open new Confluxes (Nodes) and Ventures, liquidate living things (typically through vulgar applications of disintegration technology -- although they could simply shoot someone and then burn the body), and negate the effects of Market Correction (Paradox) as if he were a Master of Prime Arts... though, of course, they have more technological finesse.
+]
+
+/ Primal Utility Mastery: Take #spec_char.d6 appropriate stress or complication to double your Primal Utility die for for a roll. On a failure, step up the same stress or complication you took to activate.
