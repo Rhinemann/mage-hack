@@ -14,18 +14,18 @@ Skills represent natural talent, training, or experience of a character.
 
 #block(breakable: false)[
   == Rating Skills
-  Every PC has at least a #spec_char.d4 in each skill, which represents being untrained. Proficiency and expertise are represented by ratings between #spec_char.d6 and #spec_char.d12.
+  Every PC has at least a #spec_c.d4 in each skill, which represents being untrained. Proficiency and expertise are represented by ratings between #spec_c.d6 and #spec_c.d12.
 ]
 
-/ #spec_char.d4 Untrained: You have no idea what you're doing, and you're likely to create trouble when you try it, but who knows.
-/ #spec_char.d6 Competent: Sufficient training to get by. You're comfortable doing this.
-/ #spec_char.d8 Expert: Able to do this for a living. This is second nature to you.
-/ #spec_char.d10 Master: One of the best in the field. Likely known to others who possess the skill.
-/ #spec_char.d12 Grandmaster: One of the best in the world. Known even to those outside the field.
+/ #spec_c.d4 Untrained: You have no idea what you're doing, and you're likely to create trouble when you try it, but who knows.
+/ #spec_c.d6 Competent: Sufficient training to get by. You're comfortable doing this.
+/ #spec_c.d8 Expert: Able to do this for a living. This is second nature to you.
+/ #spec_c.d10 Master: One of the best in the field. Likely known to others who possess the skill.
+/ #spec_c.d12 Grandmaster: One of the best in the world. Known even to those outside the field.
 
 #block(breakable: false)[
   == Specialties
-  A specialty is a narrow area of concentration or focus. It provides a bonus #spec_char.d6 to any roll that falls into that narrow area. Specialties are attached to a skill the governs them, but can be used with a different skill if an appropriate narrative case can be made.
+  A specialty is a narrow area of concentration or focus. It provides a bonus #spec_c.d6 to any roll that falls into that narrow area. Specialties are attached to a skill the governs them, but can be used with a different skill if an appropriate narrative case can be made.
 ]
 
 There is no set list of specialties, but the skill list that follows provides suggested specialties for every skill
@@ -119,28 +119,53 @@ Given an opportunity to study and practice an art, any character can learn Esote
 ]
 
 / Aeronautics: Design, construction, and operation of aircraft and other flying machines.
+
 / Astronomy: Study of stellar bodies, celestial mechanics, and outer space.
+
 / Biology: Research into the mysteries within Earth's organic life forms.
+
 / Biopsychology: Tracing (and often altering) the interplay between a living being's physical state and its psychological state.
+
 / Chemistry: Deciphering and manipulating the chemical codes within Earthly substances.
+
 / Computer Science: IT system languages, logistics, theory, advancement, and implementation.
+
 / Cybernetics: Research, development, and implementation of interconnected organic matter and machines.
+
 / Electronics: Harnessing and exploring the potential of electronic energies and devices.
+
 / Engineering: Design, research, and construction of essential structures. Engineering has many variations; if there's a structure involved in a project, then there's an engineering discipline involved in creating and maintaining that structure.
+
 / Forensic Pathology: Reconstructing evidence from scattered and fragmented clues.
+
 / Genetics: Research, analysis, and manipulation involving the literal “building blocks of life.”consider this a soft science, those who manipulate identity, memory, and behavior find it extremely useful.
-/ Geology: Study of earthly formations, materials, and phenomena.• Psychology: Study of human consciousness and behavior, and their related therapies.
+
+/ Geology: Study of earthly formations, materials, and phenomena.
+
+/ Psychology: Study of human consciousness and behavior, and their related therapies.
+
 / Hypermathematics: Esoteric, arcane, theoretical, and sometimes absurd applications of advanced mathematical principles, often tied to the links between science, faith, and magick.
+
 / Psychopharmacology: Research, development, and applications dealing with the interplay between psychoactive substances and human/humanoid consciousness, perceptions, and behavior.
+
 / Mathematics: Study of equations, numbers, patterns, and the interplay between them.
+
 / Psychoprojection: Research into the multiple disciplines and effects of extraphysical consciousness co- and re-location. In plain English, the study of astral projection, multiple selves, and travel into the Digital Web.
+
 / Metallurgy: Research, refinement, and implementation involving the properties and functions of various metallic substances, alloys, and compounds... though not, unfortunately, musicians.
+
 / Paraphysics: “Proper” name for Dimensional Science, also known as the interrelationship between Earthly reality and the Otherworlds.
+
 / Phylogeny: Study of transition and transformation, their effects, and the potential uses of both.
+
 / Physics: Observations and research regarding the interrelationships between matter and energy. Theoretical physics deals with potential but currently unproven models of physics, whereas practical physics deals with known applications of established physics.
+
 / Psychodynamics: Study and application of human and humanoid mental processes -- specifically the relationships between emotional responses, mental health, physical state, and outward behavior. Although some Technocrats.
+
 / Sociobiology: Observation and manipulation of societies as extended organisms -- composed of individual beings -- that nurture, protect, and reproduce themselves.
+
   By researching the tendencies of such organisms, sociobiologists strive to understand and influence societies... and the individuals within them.
+
 / Xenobiology: Study, analysis and understanding of alien organisms: monsters, spirits, mythic beasts, and other things conventional science does not currently accept as real.
 
 Radical scientists -- Etherites, Ecstatics, Virtual Adepts, and even some maverick Technocrats, among others -- have dozens, perhaps hundreds, of other disciplines, ranging from Etherdynamics to Chaos Math to Coprophrenology (don't ask...). Naturally, such sciences are not generally accepted by the community at large; this, of course, just inspires their proponents to prove how true their theories really are...

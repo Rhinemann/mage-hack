@@ -9,13 +9,14 @@
   d8: symbol("\u{2467}"),
   d10: symbol("\u{2469}"),
   d12: symbol("\u{246B}"),
+  // d20: symbol("\u{2473}"),
   pp: symbol("\u{24C5}"),
 )
 
-#let spec_char = (:)
+#let spec_c = (:)
 
 #for (key, val) in symbols.pairs() {
-  spec_char.insert(key, text(purple, val))
+  spec_c.insert(key, text(purple, val))
 }
 
 #let interior_image = "images/interior/"
@@ -27,6 +28,8 @@
     lang: "en",
     hyphenate: false,
   )
+
+  show smallcaps: set text(font: ("XWGXSC+CortexSymbology", "Goudy"))
 
   set page(
     background: context {
@@ -67,16 +70,17 @@
     footer-descent: 10%,
   )
 
-  set terms(hanging-indent: 1em)
+  set terms(hanging-indent: 1em, separator: [: ])
 
   set par(
     // first-line-indent: par_indent,
     leading: 0.2em,
-    justify: true,
+    // justify: true,
     linebreaks: "optimized",
     spacing: 1em,
   )
 
+  show table: set align(center)
   set table(
     fill: (_, y) => if calc.odd(y) {
       purple.transparentize(85%)
@@ -100,7 +104,7 @@
     show line: set block(above: 0.3em, below: 0.5em)
 
     it
-    line(length: 100%)
+    line(length: 100%, stroke: 2pt)
   }
   show heading.where(level: 2): set text(size: 20pt)
   show heading.where(level: 3): set text(size: 16pt)
@@ -116,6 +120,8 @@
     #place(image("../../assets/images/interior/sidebar.jpg", width: 100%, height: 100%))
   ]
   show regex(symbols.values().join("|")): text.with(gold)
+  show link: strong
+  show strong: set text(fill: gold)
 
   block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: bg)[
     #text(
@@ -128,5 +134,39 @@
       fill: white,
       size: 10pt,
     )[#body]
+  ]
+}
+
+#let driven_STC(
+  name: none,
+  challenge_pool: none,
+  drive_1: none,
+  drive_2: none,
+  traits: none,
+  sfx: none,
+) = {
+  set text(size: 11pt)
+  show heading: it => {
+    set text(size: 14pt)
+    set block(below: 0.3em)
+    show line: set block(above: 0.4em, below: 0.5em)
+
+    it
+    line(length: 90%, stroke: 1.5pt)
+  }
+
+  block(width: 100%, breakable: false)[
+    ===== #name
+
+    #smallcaps[Challenge pool: #challenge_pool]
+
+    #smallcaps[Drive: #drive_1]\
+    #smallcaps[Drive: #drive_2]
+
+    #smallcaps[#traits]
+
+    #if sfx != none {
+      sfx
+    }
   ]
 }

@@ -29,41 +29,41 @@ As you have two milestones, you can replace your current personal milestone with
 #block(breakable: false)[
   === Spend 5 XP to:
   - Unlock an SFX.
-  - Raise a #spec_char.d4 skill to #spec_char.d6.
-  - Add a #spec_char.d6 signature asset or specialty.
+  - Raise a #spec_c.d4 skill to #spec_c.d6.
+  - Add a #spec_c.d6 signature asset or specialty.
   - Rewrite a distinction.
 ]
 
 #block(breakable: false)[
   === Spend 10 XP to:
   - Add a new SFX to a trait.
-  - Raise a #spec_char.d6 skill or signature asset to #spec_char.d8.
-  - Raise a #spec_char.d4 attribute to #spec_char.d6.
-  - Add a #spec_char.d4 Sphere.
+  - Raise a #spec_c.d6 skill or signature asset to #spec_c.d8.
+  - Raise a #spec_c.d4 attribute to #spec_c.d6.
+  - Add a #spec_c.d4 Sphere.
 ]
 
 #block(breakable: false)[
   === Spend 15 XP to:
-  - Raise a #spec_char.d8 skill or signature asset to #spec_char.d10.
-  - Raise a #spec_char.d6 attribute to #spec_char.d8.
-  - Raise a #spec_char.d4 Sphere to #spec_char.d6.
-  - Add a #spec_char.d6 to Quintessence pool size.
+  - Raise a #spec_c.d8 skill or signature asset to #spec_c.d10.
+  - Raise a #spec_c.d6 attribute to #spec_c.d8.
+  - Raise a #spec_c.d4 Sphere to #spec_c.d6.
+  - Add a #spec_c.d6 to Quintessence pool size.
 ]
 
 #block(breakable: false)[
   === Spend 20 XP to:
-  - Raise a #spec_char.d10 skill or signature asset to #spec_char.d12.
-  - Raise a #spec_char.d8 attribute to #spec_char.d10.
-  - Raise a #spec_char.d6 Sphere to #spec_char.d8.
+  - Raise a #spec_c.d10 skill or signature asset to #spec_c.d12.
+  - Raise a #spec_c.d8 attribute to #spec_c.d10.
+  - Raise a #spec_c.d6 Sphere to #spec_c.d8.
 ]
 
 #block(breakable: false)[
   === Spend 25 XP to:
-  - Raise a #spec_char.d10 attribute to #spec_char.d12.
-  - Raise a #spec_char.d8 Sphere to #spec_char.d10.
+  - Raise a #spec_c.d10 attribute to #spec_c.d12.
+  - Raise a #spec_c.d8 Sphere to #spec_c.d10.
 ]
 
 #block(breakable: false)[
   === Spend 30 XP to:
-  - Raise a #spec_char.d10 Sphere to #spec_char.d12.
+  - Raise a #spec_c.d10 Sphere to #spec_c.d12.
 ]

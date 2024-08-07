@@ -1,4 +1,4 @@
-#import "../templates/interior_template.typ": chapter, interior_image
+#import "../templates/interior_template.typ": chapter
 
 #show: chapter.with(chapter_name: "Credits")
 

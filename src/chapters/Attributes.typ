@@ -12,20 +12,20 @@ Attributes represent raw ability and essential traits every character possesses.
   Attributes are the second PC's three primary trait sets, so they are to be used in every roll, as any action can fall into one of these areas: mental, physical and social, and a specific situation determines which exact attribute will be used.
 ]
 
-Attributes serve as the second of the three Prime Sets used in every roll, rated from #spec_char.d4 to #spec_char.d12.
+Attributes serve as the second of the three Prime Sets used in every roll, rated from #spec_c.d4 to #spec_c.d12.
 
 The nine Attributes are split into three categories: Physical, Social, Mental.
 
 #block(breakable: false)[
   == Rating Attributes
-  Attributes usually have a rating from #spec_char.d6 to #spec_char.d10, although there are exceptions.
+  Attributes usually have a rating from #spec_c.d6 to #spec_c.d10, although there are exceptions.
 ]
 
-/ #spec_char.d4 Poor: Notably deficient in this area.
-/ #spec_char.d6 Typical: An average degree of ability.
-/ #spec_char.d8 Excellent: Above-average performance.
-/ #spec_char.d10 Remarkable: Greatly above average.
-/ #spec_char.d12 Incredible: Peak levels of ability.
+/ #spec_c.d4 Poor: Notably deficient in this area.
+/ #spec_c.d6 Typical: An average degree of ability.
+/ #spec_c.d8 Excellent: Above-average performance.
+/ #spec_c.d10 Remarkable: Greatly above average.
+/ #spec_c.d12 Incredible: Peak levels of ability.
 
 #block(breakable: false)[
   == Attribute List

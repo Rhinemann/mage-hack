@@ -18,17 +18,23 @@ Paradox can take a variety of forms. Backlash, reality directly attacking the of
   Mages accumulate Paradox into a pool from different sources, they are as follows:
 ]
 
-- *Casting vulgar magick:* Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds #spec_char.d6 to the pool and gains a #spec_char.pp.
-- *Hitching while casting a spell:* Whenever a player rolls a hitch, the Storyteller may add that die to a Paradox pool instead of the Doom pool, paying for it as normal.
-- *Special circumstances:* Certain special circumstances like encounters with Mad Ones may inflict Paradox in unusual ways too.
+/ Casting vulgar magick: Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds #spec_c.d6 to the pool and gains a #spec_c.pp.
+
+/ Hitching while casting a spell: Whenever a player rolls a hitch, the Storyteller may add that die to a Paradox pool instead of the Doom pool, paying for it as normal.
+
+/ Special circumstances: Certain special circumstances like encounters with Mad Ones may inflict Paradox in unusual ways too.
 
 #sidebar(s_heading: [=== Optional Rule: Harsh Paradox])[
-  If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to the pool instead of a #spec_char.d6.
+  If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to the pool instead of a #spec_c.d6.
 ]
 
 The Storyteller is able to use Paradox dice from the pool to cause different effects. The most common uses for Paradox dice are:
-- *Burn:* Roll the Paradox pool or a part of it to inflict stress of your choice.
-- *Paradox Flaw:* Spend a die from the Paradox pool and create a Complication attached to the character equal in size to the die spent.
-- *Paradox Spirit:* Spend a die from the Paradox pool equal to the spirit's highest rated trait, and any number of dice in addition, and drop them into the scene, ready to act when the action order gets to them (which could be right away, if the Storyteller is the one deciding who goes next). All additional dice spent will constitute the Spirit's boss pool.
-- *Quiet:* Spend any number of dice from the Paradox pool to create a crisis pool of the same dice value representing the character's Quiet.
-- *Paradox Realm:* Spend a #spec_char.d10 or a #spec_char.d12, and any additional number of dice from the Paradox pool to separate one player into a Paradox realm, every additional die spent will constitute the Realm's crisis pool.
+/ Burn: Roll the Paradox pool or a part of it to inflict stress of your choice.
+
+/ Paradox Flaw: Spend a die from the Paradox pool and create a Complication attached to the character equal in size to the die spent.
+
+/ Paradox Spirit: Spend a die from the Paradox pool equal to the spirit's highest rated trait, and any number of dice in addition, and drop them into the scene, ready to act when the action order gets to them (which could be right away, if the Storyteller is the one deciding who goes next). All additional dice spent will constitute the Spirit's boss pool.
+
+/ Quiet: Spend any number of dice from the Paradox pool to create a crisis pool of the same dice value representing the character's Quiet.
+
+/ Paradox Realm: Spend a #spec_c.d10 or a #spec_c.d12, and any additional number of dice from the Paradox pool to separate one player into a Paradox realm, every additional die spent will constitute the Realm's crisis pool.
