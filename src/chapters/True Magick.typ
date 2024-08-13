@@ -129,12 +129,12 @@ Using the Co-location Effect, mage can also appear in several different places a
   === Entropy
   #quote[Chance and Mortality]
 
-  Controlling the energies of probability and decay, an Entropy-schooled mage can manipulate random factors, observe and influence flaws within a system, tap into the energies of the Low Umbra, induce or remove corruption, and otherwise exert his Will through the unpredictable process of chaos.
+  Controlling the energies of probability and decay, an Entropy-schooled mage can manipulate random factors, observe and influence flaws within a system, tap into the energies of the Low Umbra, induce or remove corruption, and otherwise exert their Will through the unpredictable process of chaos.
 ]
 
 Entropy describes what should or must happen, but not precisely when or how that result will come about (those are the province of Time). Fate governs blessings, curses, destiny, fortune, oaths, probability, luck, and intent.
 
-This is no easy discipline. The Entropic mage assumes some of the Resonance of decay within his own Pattern, and bears the weight of mortality within his mind and soul. Still, the powers of this Sphere -- though less obviously destructive than those of other Arts -- give that mage subtle but pervasive control over Creation as a whole.
+This is no easy discipline. The Entropic mage assumes some of the Resonance of decay within their own Pattern, and bears the weight of mortality within their mind and soul. Still, the powers of this Sphere -- though less obviously destructive than those of other Arts -- give that mage subtle but pervasive control over Creation as a whole.
 
 For obvious reasons, Entropy-schooled magi tend to be fatalistic, disassociated, or uncannily cheerful. To them, the saying “all things must pass” is no simple sentiment but an intrinsic fact.
 
@@ -142,7 +142,7 @@ For obvious reasons, Entropy-schooled magi tend to be fatalistic, disassociated,
   ==== #spec_c.d4 Initiate
   #quote[Sense Flaws, Fate & Fortune/Ring of Truth]
 
-  Basic Entropic understanding allows a mage to see the currents of probability, spot flaws in Patterns, and note the subtle yet telling details in a person's speech and behavior that suggest whether or not they're telling what they believe to be the truth. Although they cannot yet control such phenomena, the mage can predict dice throws, card draws, and other apparently random events; spot weak spots in objects, people, or arguments; and use those imperfect yet profound insights to his advantage.
+  Basic Entropic understanding allows a mage to see the currents of probability, spot flaws in Patterns, and note the subtle yet telling details in a person's speech and behavior that suggest whether or not they're telling what they believe to be the truth. Although they cannot yet control such phenomena, the mage can predict dice throws, card draws, and other apparently random events; spot weak spots in objects, people, or arguments; and use those imperfect yet profound insights to their advantage.
 ]
 
 / Entropy Perception: Step up your lowest die on any roll to perceive any phenomena under the purview of Entropy or create a related asset.
@@ -151,7 +151,7 @@ For obvious reasons, Entropy-schooled magi tend to be fatalistic, disassociated,
   ==== #spec_c.d6 Apprentice
   #quote[Control Probability]
 
-  Now the mage can control the factors they could only sense before. Pulling the strings of apparently random events, they can influence activities and results -- directing the fall of dice or cards, repeatedly hitting weak spots, and directing people and things toward a conclusion of his choice. Of course, it is easier to control small events (the winner of a horse race) than large ones (causing a six-car pileup). In game terms, large alterations have higher difficulty than small ones do.
+  Now the mage can control the factors they could only sense before. Pulling the strings of apparently random events, they can influence activities and results -- directing the fall of dice or cards, repeatedly hitting weak spots, and directing people and things toward a conclusion of their choice. Of course, it is easier to control small events (the winner of a horse race) than large ones (causing a six-car pileup). In game terms, large alterations have higher difficulty than small ones do.
 ]
 
 / Entropy Manipulation: On rolls to create an asset that can be produced by a #spec_c.d6 or lower Entropy rating, add #spec_c.d6 and step up your effect die.
@@ -171,7 +171,7 @@ At this Rank, the mage can also start controlling the fate and fortune of object
   ==== #spec_c.d10 Adept
   #quote[Affect Living Things]
 
-  At this Rank, the mage assumes the awesome power of blessing, cursing, and conferring outright health or decay. By influencing the flow of entropy within a living body, that mage can grant outstanding vitality to, or inflict sudden disease upon, his subject. Such influence may grant long-term luck or misfortune. (GM's option as to how this manifests.)
+  At this Rank, the mage assumes the awesome power of blessing, cursing, and conferring outright health or decay. By influencing the flow of entropy within a living body, that mage can grant outstanding vitality to, or inflict sudden disease upon, their subject. Such influence may grant long-term luck or misfortune. (GM's option as to how this manifests.)
 ]
 
 / Entropy Command: Spend a #spec_c.pp to step up or double your Entropy die on a roll for an effect that can be accomplished by a #spec_c.d10 or lower Entropy rating.
@@ -183,7 +183,7 @@ At this Rank, the mage can also start controlling the fate and fortune of object
   The most esoteric applications of Entropy allow the mage to alter ideas, strengthening or breaking down concepts. Although they do not affect the actual workings of consciousness, they can cause synapses to misfire (thus confusing perceptions and mental processing, inflicting penalties on an enemy's dice rolls), bind someone to an oath, or degrade the patterns of thought. By doing so, that Entropic Master can create, perpetrate, reinforce, and undermine arguments, beliefs, and even memories.
 ]
 
-To do such things, the Master merely speaks to, or glances at, the subject of his attention. Chaos Masters can scramble someone's perceptions with a few weird utterances, and Masters of Order can present arguments with apparently perfect logic. By offering compelling statements, the Master can create or destroy memes, thus influencing whole patterns of belief. An oath, meanwhile, ties the subject's fate to their loyalty; if they break the oath, then their luck goes really, really bad.
+To do such things, the Master merely speaks to, or glances at, the subject of their attention. Chaos Masters can scramble someone's perceptions with a few weird utterances, and Masters of Order can present arguments with apparently perfect logic. By offering compelling statements, the Master can create or destroy memes, thus influencing whole patterns of belief. An oath, meanwhile, ties the subject's fate to their loyalty; if they break the oath, then their luck goes really, really bad.
 
 / Entropy Mastery: Take #spec_c.d6 appropriate stress or complication to double your Entropy die for for a roll. On a failure, step up the same stress or complication you took to activate.
 
@@ -194,7 +194,7 @@ To do such things, the Master merely speaks to, or glances at, the subject of hi
   Although modern physics disputes the old lines between matter and energy, the venerable study of Forces transcends human politics. This Sphere commands the energies of Creation, and its specialists are among the most powerful magi alive.
 ]
 
-On a metaphysical level, the Forces Sphere commands energetic Patterns: fire, air, momentum, gravity, radiation, light, sound, and radio waves... the kinetic elements that shape and channel Earthly forces. Quintessence flows within such Patterns, so a mage can conjure new forces simply by adding some Quintessence to “empty space.” Different practices view such powers differently. Are they elemental spirits? Gods? Particles? Waves? Every Master has his or their own pet theory. In practical terms, however, this Sphere controls the Patterns of such forces -- directing, transmuting, enhancing, or banishing their effects upon this world.
+On a metaphysical level, the Forces Sphere commands energetic Patterns: fire, air, momentum, gravity, radiation, light, sound, and radio waves... the kinetic elements that shape and channel Earthly forces. Quintessence flows within such Patterns, so a mage can conjure new forces simply by adding some Quintessence to “empty space.” Different practices view such powers differently. Are they elemental spirits? Gods? Particles? Waves? Every Master has their or their own pet theory. In practical terms, however, this Sphere controls the Patterns of such forces -- directing, transmuting, enhancing, or banishing their effects upon this world.
 
 Simple manifestations and manipulations are limited to the lower Sphere Ranks, whereas large-scale Effects demand higher levels of expertise. Most large Effects can become Paradox magnets for careless magi. Masters of Forces tend to carry a palpable aura of energetic command, with a Resonance that often alters their environments in uncanny, elemental ways.
 
@@ -251,7 +251,7 @@ Despite its powers, this Rank is limited in scale. Assume that the mage can comm
   === Life
   #quote[The Living Form]
 
-  Life grows, transforming over time until some final incident renders it into inert matter. magi who specialize in Life, therefore, master the complex principles of organic transformation. Beginning with the simplest Patterns, they evolve his understanding toward godlike ends. A true Master, therefore, may end life, but they may also create it from pure energy (that is, from Quintessence) or turn it, literally, to dust.
+  Life grows, transforming over time until some final incident renders it into inert matter. magi who specialize in Life, therefore, master the complex principles of organic transformation. Beginning with the simplest Patterns, they evolve their understanding toward godlike ends. A true Master, therefore, may end life, but they may also create it from pure energy (that is, from Quintessence) or turn it, literally, to dust.
 ]
 
 Whereas other Spheres grapple with abstract theories, Life focuses on literally bone-deep facts. As a Life mage knows, however, those facts remain susceptible to change. In conjunction with other Pattern Spheres (Forces, Matter), life forms can be changed into elements, turned to stone or metal, or else created from such substances. Even without additional Spheres, however, Life allows a mage to transmute those life forms in startling, even apparently impossible ways.
@@ -275,7 +275,7 @@ Given their ability to heal illness, age, and harm, Life-skilled magi enjoy grea
   ==== #spec_c.d6 Apprentice
   #quote[Alter Simple Life-Forms/Heal Self]
 
-  Simple organisms -- viruses, mollusks, insects, plants, etc. -- become clay in the mage's hands. They learn to adjust their Patterns (giving a crab wings, for example), and heal or kill them. Although they cannot yet transmute them into other states of being, they can cause flowers to bloom or wither, help trees bear fruit, and so on. Focusing on his own Pattern, they can also heal themselves or perform small alterations (hair color, skin tone, height, weight, and so on) to his basic form.
+  Simple organisms -- viruses, mollusks, insects, plants, etc. -- become clay in the mage's hands. They learn to adjust their Patterns (giving a crab wings, for example), and heal or kill them. Although they cannot yet transmute them into other states of being, they can cause flowers to bloom or wither, help trees bear fruit, and so on. Focusing on their own Pattern, they can also heal themselves or perform small alterations (hair color, skin tone, height, weight, and so on) to their basic form.
 ]
 
 / Life Manipulation: On rolls to create an asset that can be produced by a #spec_c.d6 or lower Life rating, add #spec_c.d6 and step up your effect die.
@@ -287,7 +287,7 @@ Given their ability to heal illness, age, and harm, Life-skilled magi enjoy grea
   Advanced understanding allows the mage to radically alter simple organisms (turning a tree inside out); transform one into another (changing fruit into insects); or -- with Prime #spec_c.d6 -- conjure them from raw energy.
 ]
 
-Working with his own Pattern, that mage can work substantial alterations on themselves, growing gills, claws, armor and so forth. They remain essentially human, but begin to master the definition of “human.” Meanwhile, they also gain the ability to heal damage to other complex organisms, put them to sleep, or inflict harm upon their living Pattern forms.
+Working with their own Pattern, that mage can work substantial alterations on themselves, growing gills, claws, armor and so forth. They remain essentially human, but begin to master the definition of “human.” Meanwhile, they also gain the ability to heal damage to other complex organisms, put them to sleep, or inflict harm upon their living Pattern forms.
 
 / Life Control: Spend a #spec_c.pp to create a #spec_c.d8 asset that can be produced by a #spec_c.d8 or lower Life rating.
 
@@ -298,7 +298,7 @@ Working with his own Pattern, that mage can work substantial alterations on them
   At this Rank, the mage may enact radical changes on any complex organism -- people, dogs, horses, and so forth. They can uplift other species with new limbs, opposable thumbs, increased brain capacity, etc., so long as they do not change their intrinsic nature.
 ]
 
-Working with his own Pattern, that mage can transform themselves into other life forms of similar size and mass; they could become a Great Dane, for example, but not a hummingbird. The new body might require an adjustment period before the mind and reflexes reflect the new form.
+Working with their own Pattern, that mage can transform themselves into other life forms of similar size and mass; they could become a Great Dane, for example, but not a hummingbird. The new body might require an adjustment period before the mind and reflexes reflect the new form.
 
 / Life Command: Spend a #spec_c.pp to step up or double your Life die on a roll for an effect that can be accomplished by a #spec_c.d10 or lower Life rating.
 
@@ -306,7 +306,7 @@ Working with his own Pattern, that mage can transform themselves into other life
   ==== #spec_c.d12 Master
   #quote[Transform & Create Complex Life-Forms/Perfect Metamorphosis]
 
-  Now the Master of Life may adopt any form they wish to achieve and may transform other complex organisms the same way. His expertise allows them to make permanent changes to life-Patterns, create complex life-forms from energy (with Prime #spec_c.d6), give them consciousness (with Mind #spec_c.d12), transmute them into other elements (Forces or Matter #spec_c.d8) or raw energy (Prime #spec_c.d12), radically age or de-age them (Entropy #spec_c.d10 or Time #spec_c.d8), or instill them with spirits (Spirit #spec_c.d8 or #spec_c.d12). Without such measures, however, his creations remain mindless, soulless sacks of life -- alive, but nothing more.
+  Now the Master of Life may adopt any form they wish to achieve and may transform other complex organisms the same way. His expertise allows them to make permanent changes to life-Patterns, create complex life-forms from energy (with Prime #spec_c.d6), give them consciousness (with Mind #spec_c.d12), transmute them into other elements (Forces or Matter #spec_c.d8) or raw energy (Prime #spec_c.d12), radically age or de-age them (Entropy #spec_c.d10 or Time #spec_c.d8), or instill them with spirits (Spirit #spec_c.d8 or #spec_c.d12). Without such measures, however, their creations remain mindless, soulless sacks of life -- alive, but nothing more.
 ]
 
 / Life Mastery: Take #spec_c.d6 appropriate stress or complication to double your Life die for for a roll. On a failure, step up the same stress or complication you took to activate.
@@ -375,7 +375,7 @@ By mixing Matter #spec_c.d8 with other Spheres, the mage can join inert matter w
   === Mind
   #quote[Art of Consciousness]
 
-  Human beings perceive reality through complex interplays of consciousness. The Mind-mage, therefore, alters the realities of his fellow beings. Skillfully applied, such Arts can make a sane man mad, soothe demented minds, or even shuck the boundaries of flesh.
+  Human beings perceive reality through complex interplays of consciousness. The Mind-mage, therefore, alters the realities of their fellow beings. Skillfully applied, such Arts can make a sane man mad, soothe demented minds, or even shuck the boundaries of flesh.
 ]
 
 Though limited in its physical capacities, Mind is the ultimate coincidental Art. Its Effects remain essentially invisible unless they are combined with other Spheres. And although Mind Adepts can leave their physical bodies behind, such abilities remain unseen by mortal eyes.
@@ -393,9 +393,9 @@ Literally “thought-full,” Mind-savvy magi possess mental clarity and unnervi
   With basic mental magick, the mage learns to sense the emotions and surface impulses of other people. Although they cannot read specific thoughts, they are able to perceive psychic impressions about a person or (with Matter #spec_c.d4) a place or object. Through this perception, they can guess at the nature of weak Resonance signatures and read the stronger ones outright. Even without Resonance, that mage can scan auras, note mood shifts, discern truth from lies, or grasp someone's overall state of mind by way of a successful roll.
 ]
 
-Meanwhile, the mage also learns to shield his own mind from the thoughts and emotions of other people, constructing mental barriers around his aura, emotions, and consciousness.
+Meanwhile, the mage also learns to shield their own mind from the thoughts and emotions of other people, constructing mental barriers around their aura, emotions, and consciousness.
 
-On a related note, they also learn how to multitask and absorb data with startling acuity. For a scene or two, they can even create a Mind Empowerment asset that concentrates his mental faculties.
+On a related note, they also learn how to multitask and absorb data with startling acuity. For a scene or two, they can even create a Mind Empowerment asset that concentrates their mental faculties.
 
 / Mind Perception: Step up your lowest die on any roll to perceive any phenomena under the purview of Mind or create a related asset.
 
@@ -412,7 +412,7 @@ On a related note, they also learn how to multitask and absorb data with startli
   ==== #spec_c.d8 Disciple
   #quote[Mental Link/Project Illusions/Dreamwalk/Psychic Blast]
 
-  With increasing skill, the mage learns to link minds, forge telepathic communications, read or influence another person's thoughts, craft mental illusions, enter someone's dreams and explore dream Realms, and blast psychic assaults into an unwilling rival's consciousness. At this stage, Mind attacks can inflict painful -- though rarely fatal -- damage. Combined with Correspondence, Forces, Matter, or Life, they are able to employ telekinesis, pyrokinetics, and psychophysical assault, influencing objects, elements, or people with the power of his mind. Unlike most other Effects, this sort of thing is not coincidental, although such talents do have a place within popular culture.
+  With increasing skill, the mage learns to link minds, forge telepathic communications, read or influence another person's thoughts, craft mental illusions, enter someone's dreams and explore dream Realms, and blast psychic assaults into an unwilling rival's consciousness. At this stage, Mind attacks can inflict painful -- though rarely fatal -- damage. Combined with Correspondence, Forces, Matter, or Life, they are able to employ telekinesis, pyrokinetics, and psychophysical assault, influencing objects, elements, or people with the power of their mind. Unlike most other Effects, this sort of thing is not coincidental, although such talents do have a place within popular culture.
 ]
 
 / Mind Control: Spend a #spec_c.pp to create a #spec_c.d8 asset that can be produced by a #spec_c.d8 or lower Mind rating.
@@ -421,7 +421,7 @@ On a related note, they also learn how to multitask and absorb data with startli
   ==== #spec_c.d10 Adept
   #quote[Control Conscious Mind/Alter Consciousness/Astral Projection]
 
-  The fearsome power of Black Suits and psychic assailants allows the mage to command another person's actions as well as their thoughts, alter their perceptions or mental state, and project his own mind from his physical form. At this Rank, a mage can change someone's memories, drive them crazy (or sane), overlay their aura with a desired impression, and set up posthypnotic suggestions and commands. In addition, by using internal rather than external powers, they can project their astral form.
+  The fearsome power of Black Suits and psychic assailants allows the mage to command another person's actions as well as their thoughts, alter their perceptions or mental state, and project their own mind from their physical form. At this Rank, a mage can change someone's memories, drive them crazy (or sane), overlay their aura with a desired impression, and set up posthypnotic suggestions and commands. In addition, by using internal rather than external powers, they can project their astral form.
 ]
 
 / Mind Command: Spend a #spec_c.pp to step up or double your Mind die on a roll for an effect that can be accomplished by a #spec_c.d10 or lower Mind rating.
@@ -430,7 +430,7 @@ On a related note, they also learn how to multitask and absorb data with startli
   ==== #spec_c.d12 Master
   #quote[Control Subconscious/Forge Psyche/Untether Consciousness]
 
-  A true Mind Master commands not only his own conscience but other minds as well. They may alter someone's mind forever, raising (or lowering) their Traits, rewriting their personality, changing their Distinction Trait, or (with Life #spec_c.d10) switching their mind into another body. They can do the same things to his own mind as well, and they can untether that mind to explore the deeper reaches of astral space for hours or even days at a time. His greatest power, though, is the ability to fabricate entire consciousnesses, creating minds where no mind had been before.
+  A true Mind Master commands not only their own conscience but other minds as well. They may alter someone's mind forever, raising (or lowering) their Traits, rewriting their personality, changing their Distinction Trait, or (with Life #spec_c.d10) switching their mind into another body. They can do the same things to their own mind as well, and they can untether that mind to explore the deeper reaches of astral space for hours or even days at a time. His greatest power, though, is the ability to fabricate entire consciousnesses, creating minds where no mind had been before.
 ]
 
 / Mind Mastery: Take #spec_c.d6 appropriate stress or complication to double your Mind die for for a roll. On a failure, step up the same stress or complication you took to activate.
@@ -494,7 +494,7 @@ In desperate circumstances, a Prime-schooled mage can also create temporary weap
   ==== #spec_c.d12 Master
   #quote[Infuse or Withdraw Life Force/Create Node & Soulflower/Nullify Paradox]
 
-  A Prime Master can draw Quintessence from anywhere, at any time, and channel it into other vessels as well. A dark, vulgar aspect of that power allows them to obliterate a living being by consuming all of his life force, whereas the reverse of that power infuses them with life force so strong that they are essentially blessed. Combining that ability with Life #spec_c.d12, they may turn complex organisms into Soulflowers - living Periapts who become walking batteries of boosted Quintessence. Such Mastery also allows the mage to create Nodes in significant places, and to nullify Paradox.
+  A Prime Master can draw Quintessence from anywhere, at any time, and channel it into other vessels as well. A dark, vulgar aspect of that power allows them to obliterate a living being by consuming all of their life force, whereas the reverse of that power infuses them with life force so strong that they are essentially blessed. Combining that ability with Life #spec_c.d12, they may turn complex organisms into Soulflowers - living Periapts who become walking batteries of boosted Quintessence. Such Mastery also allows the mage to create Nodes in significant places, and to nullify Paradox.
 ]
 
 / Prime Mastery: Take #spec_c.d6 appropriate stress or complication to double your Prime die for for a roll. On a failure, step up the same stress or complication you took to activate.
@@ -514,7 +514,7 @@ For an optional Technocratic approach to Spirit, see Dimensional Science, pp. 52
   ==== #spec_c.d4 Initiate
   #quote[Spirit Sight/Spirit Sense]
 
-  To most of humanity, the spirit world remains invisible. Not to a mage who knows the Spirit Sphere. Although they'll be most attuned to spirits with Resonance similar to his own, that mage can read the local Gauntlet's thickness, discern auras, sense spirits of all types, peek into the Penumbra through the Vidare (see Chapters Three and Four), and determine whether or not a material object has a spiritual component (as mystic Fetishes do).
+  To most of humanity, the spirit world remains invisible. Not to a mage who knows the Spirit Sphere. Although they'll be most attuned to spirits with Resonance similar to their own, that mage can read the local Gauntlet's thickness, discern auras, sense spirits of all types, peek into the Penumbra through the Vidare (see Chapters Three and Four), and determine whether or not a material object has a spiritual component (as mystic Fetishes do).
 ]
 
 Combined with other Spheres, that mage can spot forces, places, or items with unusual ties to the spirit world, such as Awakened objects, elemental spirits, possessed organisms, Shallowings, Nodes, and so forth.
@@ -536,7 +536,7 @@ By adding other Spheres, that mage could project thoughts across the barrier (Mi
   ==== #spec_c.d8 Disciple
   #quote[Pierce Gauntlet/Step Sideways/Rouse & Lull Spirit]
 
-  Now the mage can cross over, transmuting his living tissue to ephemera. They may carry a few material possessions, although transmuting them as well raises the difficulty of the roll. (Normal clothing and items step up the Gauntlet rating once; bulky clothing and items step up rating twice.) That traveler must step sideways on his own; bringing large items or other people across demands a higher Spirit Rank. Meanwhile, a combined Spirit #spec_c.d8/Mind #spec_c.d6 Effect allows the mage to read Resonance, Synergy, and other spiritual energies (Essence, a spirit's place within a hierarchy, etc.).
+  Now the mage can cross over, transmuting their living tissue to ephemera. They may carry a few material possessions, although transmuting them as well raises the difficulty of the roll. (Normal clothing and items step up the Gauntlet rating once; bulky clothing and items step up rating twice.) That traveler must step sideways on their own; bringing large items or other people across demands a higher Spirit Rank. Meanwhile, a combined Spirit #spec_c.d8/Mind #spec_c.d6 Effect allows the mage to read Resonance, Synergy, and other spiritual energies (Essence, a spirit's place within a hierarchy, etc.).
 ]
 
 At this Rank, a mortal mage can also harm an Umbral entity as if they were using Life #spec_c.d8 against that entity. While Spirit #spec_c.d6 allows the mage to touch that entity, Spirit #spec_c.d8 lets them actually damage its ephemeral Pattern's integrity the way that Life #spec_c.d8 damages a physical creature's form.
@@ -554,7 +554,7 @@ Finally, this Rank helps the mage rouse the slumbering spirits within objects or
   As the mage approaches Mastery, they can tear Gateways in the Gauntlet, allowing groups or large objects to pass through... or close such breaches, too. Both applications, of course, are deeply vulgar.
 ]
 
-At this Rank, the mage may also compel spirits to appear, bind them into Fetish objects, or tie them to certain spots or prisons. For obvious reasons, such bondage is risky, especially if the spirit is powerful. A brave or foolish Spirit mage can even turn themselves into a temporary Fetish, channeling a spirit entity into his mortal body; in such cases, they lose his ability to use true magick, but they may employ the capabilities of the spirit inside them. On the flipside, they can also exorcise a spirit that has possessed a mortal host. In all cases, the mage enters a series of resisted rolls against the spirit, pitting his Willpower against that spirit's own.
+At this Rank, the mage may also compel spirits to appear, bind them into Fetish objects, or tie them to certain spots or prisons. For obvious reasons, such bondage is risky, especially if the spirit is powerful. A brave or foolish Spirit mage can even turn themselves into a temporary Fetish, channeling a spirit entity into their mortal body; in such cases, they lose their ability to use true magick, but they may employ the capabilities of the spirit inside them. On the flipside, they can also exorcise a spirit that has possessed a mortal host. In all cases, the mage enters a series of resisted rolls against the spirit, pitting their Willpower against that spirit's own.
 
 / Spirit Command: Spend a #spec_c.pp to step up or double your Spirit die on a roll for an effect that can be accomplished by a #spec_c.d10 or lower Spirit rating.
 
@@ -776,7 +776,7 @@ Whereas other Technocratic Conventions stick close to the “essential energies�
 
 Perhaps the greatest edge granted to those who understand Primal Utility comes from the aforementioned Ventures. By investing in a Venture, the hypereconomist can draw Primal Energy (Quintessence) from a mundane business. In game terms, that business becomes a Node; if the character has a lasting personal connection with that Venture, then he's got access to that Node as well. Only a character with at least one dot in Primal Utility can access the Quintessence from that Venture; another mage might sense the energies but remain unable to access their power.
 
-Prime-savvy hypereconomists always watch for invisible bottom lines. Attuned to the effects of Market Correction (Paradox) and the perpetual exchange of energies conducted through human intercourse (sexual and otherwise), they can spot value -- or the lack of it -- in the least obvious situations, and he knows how to get the most for his investments in whatever form they might manifest.
+Prime-savvy hypereconomists always watch for invisible bottom lines. Attuned to the effects of Market Correction (Paradox) and the perpetual exchange of energies conducted through human intercourse (sexual and otherwise), they can spot value -- or the lack of it -- in the least obvious situations, and he knows how to get the most for their investments in whatever form they might manifest.
 
 
 #block(breakable: false)[
@@ -794,7 +794,7 @@ As with Prime #spec_c.d4, the hypereconomist can also invest such energies and c
   ==== #spec_c.d6 Apprentice
   #quote[Create Gadgets/Perfect Material Exploitation/Primal Innovation]
 
-  Through sophisticated uses of instruments and principles, the hypereconomist can modify existing materials with an energized-value buzz; they can even create something from nothing, thanks to the principle of increased worth. In game terms, this allows them to use the normal Prime #spec_c.d6 Effects, although the character still needs to have some technological source to facilitate his conjurations.
+  Through sophisticated uses of instruments and principles, the hypereconomist can modify existing materials with an energized-value buzz; they can even create something from nothing, thanks to the principle of increased worth. In game terms, this allows them to use the normal Prime #spec_c.d6 Effects, although the character still needs to have some technological source to facilitate their conjurations.
 ]
 
 / Primal Utility Manipulation: On rolls to create an asset that can be produced by a #spec_c.d6 or lower Primal Utility rating, add #spec_c.d6 and step up your effect die.

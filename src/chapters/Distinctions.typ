@@ -1,5 +1,3 @@
-// TODO: Examples!
-
 #import "../templates/interior_template.typ": *
 #show: chapter.with(chapter_name: "Distinctions")
 
@@ -32,7 +30,7 @@
 
   - The Awakened group you are affiliated with anf your position in it
 
-  - Your Focus through which you perform magick
+  - Your focus through which you perform magick
 
   Each of your distinctions benefits from the Hinder SFX by default, and may have a number of SFX locked as well.
 
@@ -62,7 +60,7 @@
 
   *To Make Your Awakened Affiliation Distinction,* choose or roll a group from the Tradition, Convention or Craft Table, and then add a descriptor to it. The descriptor can be one defining a, pursuit, quirk, reputation, or identity (such as Relentless, Treasure-Hunting, Agoraphobic, Monstrous, Bionic, or Egyptian), or one you choose or roll from the Descriptor Table. Together, the descriptor and noun form your second distinction.
 
-  *To Make Your Focus Distinction,* choose or roll a paradigm from the Paradigm Table and then add practice and a number of instruments. Practice and instruments may be created by the player or rolled from respective tables. Paradigm and practice are your focus distinction. You are encouraged to add a more detailed description, including the instruments used for this distinction.
+  *To Make Your Focus Distinction,* choose or roll a paradigm from the Paradigm Table and then add one or two practices and a number of instruments. Practice and instruments may be created by the player or rolled from respective tables. Practice makes your focus distinction. You are encouraged to add a more detailed description, including the instruments and the paradigm used for this distinction.
 
   *To Use the Descriptors Table,* choose any descriptor on the table, or you can roll randomly. If you roll, first roll a #spec_c.d12 and find the row for the resulting number. Then roll a #spec_c.d4, and find the column for that result. Your random descriptor is where the row meets the column.
 

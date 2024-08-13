@@ -30,7 +30,7 @@ Roadmap:
 - [x] ~~Write about Bosses.~~ Extras & driven GMCs.
 - [x] Roles (Scholar, Scoundrel, Scout, Soldier, and Speaker)
 - [x] Expand the list of example SFX.
-- [ ] ~~Paradigm!~~ Distinction revamp.
+- [x] ~~Paradigm!~~ Distinction revamp.
 - [ ] GMC examples.
 - [ ] Smallcaps!
 - [ ] Possibly implement Resonance.

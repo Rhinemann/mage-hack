@@ -76,3 +76,22 @@ While a creature has a #spec_c.d12 drive, the GM can step that drive back down t
 ]
 
 Challenge pool is the same pool that is explained in Game Rules, set by the same rules.
+
+
+#block(breakable: false)[
+  === Example Driven STCs
+  A storyteller can come up with a virtually infinite number of STCs, but the following section will provide examples of some STCs for inspiration.
+]
+
+Many more examples can be seen in Lynn Jones' #link("https://ljrstudiosouth.itch.io/monsters")[Manual of Monsters, Minions & Mountebanks]
+
+#driven_STC(
+  name: [Extraordinary Citisen],
+  challenge_pool: [#spec_c.d8 #spec_c.d8],
+  drive_1: [Satisfy Demands of Management #spec_c.d8],
+  drive_2: [Advance My Rank #spec_c.d8],
+  traits: [
+    Any form of psychokinesis #spec_c.d8\
+    Intelligence #spec_c.d8
+  ],
+)

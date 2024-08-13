@@ -10,7 +10,7 @@ Each character has a handful of SFX, reflecting special capabilities associated 
 
 #block(breakable: false)[
   == Sample SFX
-  // When you create a new character, they gain two of the following SFX of your choice (in addition to the _Hinder_ SFX all characters receive):
+  When you create a new character, they gain two of the following SFX of your choice (in addition to the _Hinder_ SFX all characters receive):
   // TODO write descriptions
 ]
 

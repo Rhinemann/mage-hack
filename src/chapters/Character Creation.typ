@@ -12,10 +12,12 @@
 
 #block(breakable: false)[
   === Step 1: Choose Distinctions
-  - One for your Sleeper life and personality.
-  - One for your affiliation with a Group of Magi.
-    #quote[Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent...;]
-  - One for your Focus.
+  - One for your personality & sleeper life.
+    #quote[Examples: Rebellious Ex-Barista, Insecure Artist...;]
+  - One for your Awakened affiliation.
+    #quote[Examples: Hermetic Adept Major, A Verbena Witch, A NWO Agent...;]
+  - One for your focus.
+    #quote[Examples: High Ritual Magick, Witchcraft, Dominion...;]
 ]
 
 #block(breakable: false)[
@@ -50,15 +52,15 @@ At least one point must be assigned to Tradition's affinity Sphere, to reflect y
 
 - One point to buy a Specialty;
 
-- Two points to buy a new Power;
+- Two points to buy a new Sphere;
 
-- Two points to step your Power up;
+- Two points to step your Sphere up;
 
-- Two points for a new SFX;
+- Two points buy a new locked SFX;
 
 At character creation Signature Assets may not be larger than #spec_c.d8.
 
 #block(breakable: false)[
   === Step 6: Assign SFX and Quintessence Pool
-  Write down SFX. Assign #spec_c.d6 #spec_c.d6 to the Quintessence pool, this is your Quintessence pool size.
+  Write down your SFX. Assign #spec_c.d6 #spec_c.d6 to the Quintessence pool, this is your Quintessence pool size.
 ]

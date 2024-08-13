@@ -93,5 +93,5 @@ The nine Attributes are split into three categories: Physical, Social, Mental.
 
 #block(breakable: false)[
   ==== Composure
-  Poise and grace under fire. It's his dignity, and ability to remain unfazed when harrowed.
+  Poise and grace under fire. It's their dignity, and ability to remain unfazed when harrowed.
 ]

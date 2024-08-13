@@ -72,10 +72,10 @@
 
   set terms(hanging-indent: 1em, separator: [: ])
 
+  show link: strong
+
   set par(
-    // first-line-indent: par_indent,
     leading: 0.2em,
-    // justify: true,
     linebreaks: "optimized",
     spacing: 1em,
   )
@@ -120,7 +120,6 @@
     #place(image("../../assets/images/interior/sidebar.jpg", width: 100%, height: 100%))
   ]
   show regex(symbols.values().join("|")): text.with(gold)
-  show link: strong
   show strong: set text(fill: gold)
   show heading: set text(
     font: ("XWGXSC+CortexSymbology", "Abbess"),
