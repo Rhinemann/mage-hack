@@ -22,7 +22,7 @@
 #include "chapters/Quintessence.typ"
 #include "chapters/Paradox.typ"
 
-// #include "chapters/SFX.typ"
+#include "chapters/SFX.typ"
 
 #include "chapters/Consequences.typ"
 

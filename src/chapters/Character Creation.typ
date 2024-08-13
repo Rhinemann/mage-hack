@@ -7,19 +7,16 @@
 
 #block(breakable: false)[
   === Step 0: Get a character sheet
-  Todo.
+  TODO.
 ]
 
 #block(breakable: false)[
   === Step 1: Choose Distinctions
-  - One for your personality, or motivation;
-  - One for your Sleeper life;
+  - One for your Sleeper life and personality.
   - One for your affiliation with a Group of Magi.
     #quote[Examples: A Hermetic Mage, A Verbena Witch, A NWO Agent...;]
+  - One for your Focus.
 ]
-
-Each of your distinctions benefits from the Hinder SFX:
-/ Hinder: Roll a #spec_c.d4 instead of a #spec_c.d8 for a distinction to earn a #spec_c.pp.
 
 #block(breakable: false)[
   === Step 2: Assign Attributes
@@ -62,6 +59,6 @@ At least one point must be assigned to Tradition's affinity Sphere, to reflect y
 At character creation Signature Assets may not be larger than #spec_c.d8.
 
 #block(breakable: false)[
-  === Step 6: Assign universal SFX and Quintessence Pool
-  Write down universal SFX. Assign #spec_c.d6 #spec_c.d6 to the Quintessence pool, this is your Quintessence pool size.
+  === Step 6: Assign SFX and Quintessence Pool
+  Write down SFX. Assign #spec_c.d6 #spec_c.d6 to the Quintessence pool, this is your Quintessence pool size.
 ]

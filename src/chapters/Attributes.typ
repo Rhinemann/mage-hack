@@ -22,9 +22,13 @@ The nine Attributes are split into three categories: Physical, Social, Mental.
 ]
 
 / #spec_c.d4 Poor: Notably deficient in this area.
+
 / #spec_c.d6 Typical: An average degree of ability.
+
 / #spec_c.d8 Excellent: Above-average performance.
+
 / #spec_c.d10 Remarkable: Greatly above average.
+
 / #spec_c.d12 Incredible: Peak levels of ability.
 
 #block(breakable: false)[

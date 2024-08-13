@@ -10,8 +10,11 @@ Milestones are a way to track progress and earn experience points (XP) that play
 Characters have two milestones. Often, one is shared by the entire group, while the other is chosen personally.
 
 *Milestones have three different levels*:
+
 / 1 XP: can be hit as many times as it applies (or once per test or contest)
+
 / 3 XP: can only be hit once per scene
+
 / 10 XP: can only be hit once per session
 
 #block(breakable: false)[
@@ -25,6 +28,13 @@ As you have two milestones, you can replace your current personal milestone with
   == Unlockables
   XP earned from achieving milestones may be spent between scenes to increase a PC's traits or to unlock other benefits. You may spend as much XP as you've earned to unlock multiple upgrades at once.
 ]
+
+
+#block(breakable: false)[
+  === Spend 1 XP to:
+  - Start the next game session with 1 extra Plot Point. (You can't start a game session with more than 5 Plot Points.)
+]
+
 
 #block(breakable: false)[
   === Spend 5 XP to:

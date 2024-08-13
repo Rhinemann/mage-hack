@@ -115,25 +115,24 @@
   body
 }
 
-#let sidebar(s_heading: [], body) = {
+#let sidebar(body) = {
   let bg = pattern(size: (139.7mm, 108mm))[
     #place(image("../../assets/images/interior/sidebar.jpg", width: 100%, height: 100%))
   ]
   show regex(symbols.values().join("|")): text.with(gold)
   show link: strong
   show strong: set text(fill: gold)
+  show heading: set text(
+    font: ("XWGXSC+CortexSymbology", "Abbess"),
+    fill: gold,
+  )
+  set text(
+    font: ("XWGXSC+CortexSymbology", "Futura PT"),
+    fill: white,
+  )
 
   block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: bg)[
-    #text(
-      font: ("XWGXSC+CortexSymbology", "Abbess"),
-      fill: gold,
-      size: 16pt,
-    )[#align(center)[#s_heading <s_heading>]]
-    #text(
-      font: ("XWGXSC+CortexSymbology", "Futura PT"),
-      fill: white,
-      size: 10pt,
-    )[#body]
+    #body
   ]
 }
 

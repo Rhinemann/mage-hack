@@ -98,8 +98,11 @@ When you step down a #spec_c.d4 in your pool, you remove that die entirely.
 ]
 
 
-#sidebar(s_heading: [==== Session Zero and Safety Tools])[
-  Playing a tabletop RPG can become a bad experience if everyone involved isn't on the same page about the topics and themes they'll be exploring in play. The best way to align those expectations is usually having a formal process, making sure everyone has a chance to be heard and set appropriate boundaries. That process can be a part of a “Session Zero”, a conversation before actual play begins that can also provide a chance to make characters together, discuss the game, build anticipation, and decide what kind of content should or shouldn't be a part of the game.
+#sidebar()[
+  #block(breakable: false)[
+    ==== Session Zero and Safety Tools
+    Playing a tabletop RPG can become a bad experience if everyone involved isn't on the same page about the topics and themes they'll be exploring in play. The best way to align those expectations is usually having a formal process, making sure everyone has a chance to be heard and set appropriate boundaries. That process can be a part of a “Session Zero”, a conversation before actual play begins that can also provide a chance to make characters together, discuss the game, build anticipation, and decide what kind of content should or shouldn't be a part of the game.
+  ]
 
   You should also use appropriate safety tools, such as #link("https://www.dicebreaker.com/categories/roleplaying-game/opinion/lines-and-veils-rpg-safety-tools")[Lines and Veils], the #link("https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A")[X-Card by John Stavropoulos] or Script Change by #link("https://thoughty.itch.io/script-change")[Beau Jágr Sheldon]. Script Change is especially recommended, because the framework it provides can improve the experience of playing a tabletop RPG even when content concerns aren't an issue. What's important is choosing the tools that work for you and your group.
 ]

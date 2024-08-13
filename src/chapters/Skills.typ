@@ -18,9 +18,13 @@ Skills represent natural talent, training, or experience of a character.
 ]
 
 / #spec_c.d4 Untrained: You have no idea what you're doing, and you're likely to create trouble when you try it, but who knows.
+
 / #spec_c.d6 Competent: Sufficient training to get by. You're comfortable doing this.
+
 / #spec_c.d8 Expert: Able to do this for a living. This is second nature to you.
+
 / #spec_c.d10 Master: One of the best in the field. Likely known to others who possess the skill.
+
 / #spec_c.d12 Grandmaster: One of the best in the world. Known even to those outside the field.
 
 #block(breakable: false)[
@@ -285,3 +289,30 @@ Radical scientists -- Etherites, Ecstatics, Virtual Adepts, and even some maveri
 ]
 
 *Suggested Specialties:* Detecting Lies, Doublespeak, Hiding Emotion, Little White Lies, Misdirection.
+
+
+// #colbreak(weak: true)
+#sidebar()[
+  #block(breakable: false)[
+    == Optional Rule: Roles
+    Instead of the menagerie of skills you may use roles. Each of the five roles -- #smallcaps[Scholar], #smallcaps[Scoundrel], #smallcaps[Scout], #smallcaps[Soldier], and #smallcaps[Speaker] -- represents a thematic grouping of training, skill, and experience. Your largest-rated role is usually how you best contribute to a group, whereas for smaller-rated roles, you're usually better off relying on more proficient allies.
+  ]
+
+  #smallcaps[Scholar] is your academic knowledge, including education, lore, the sciences, deduction, and research.
+
+  #smallcaps[Scoundrel] is your aptitude for trickery, crime, spying, sleight of hand, defeating security measures like traps or alarms.
+
+  #smallcaps[Scout] is your facility for exploration, perception, and survival, including tracking, navigation, animal handling, climbing, and simply noticing things.
+
+  #smallcaps[Soldier] is your skill and experience when it comes to wielding weapons, enduring hardship, providing security, and fighting in general.
+
+  #smallcaps[Speaker] is your affinity for communication, group dynamics, leadership, empathy, and various forms of self-expression, such as oratory, performance, and art.
+
+  Sometimes more than one role might apply. Sneak up on a poacher with #smallcaps[Scout] or #smallcaps[Scoundrel]? Give battlefield orders with SOLDIER or SPEAKER? In those cases, choose the one your character favors.
+
+  === Roles And Specialties
+  Specialties are no different when used with roles. For example, you might use #smallcaps[Soldier] to display your general prowess with weapons, but you might also have a specialty that you add when using certain types of weapons, such as #smallcaps[Swordplay] #spec_c.d6, #smallcaps[Shotguns] #spec_c.d6, or #smallcaps[Plasma Rifles] #spec_c.d8. When you follow a trail through a dense forest, your dice pool might not only include #smallcaps[Scout] but also an extra die for your #smallcaps[Tracking] specialty.
+
+  === Roles At Character Creation
+  Assign the following die ratings to your five roles, in any order: #spec_c.d10, #spec_c.d8, #spec_c.d6, #spec_c.d6, #spec_c.d4.
+]

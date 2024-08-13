@@ -28,10 +28,10 @@ Roadmap:
 - [x] Write the paragraph on Doom pool.
 - [x] Write about Crisis pools.
 - [x] ~~Write about Bosses.~~ Extras & driven GMCs.
+- [x] Roles (Scholar, Scoundrel, Scout, Soldier, and Speaker)
+- [x] Expand the list of example SFX.
 - [ ] ~~Paradigm!~~ Distinction revamp.
-- [ ] Possibly write out some stuff on the factions and general setting fluff.
-- [ ] Expand the list of example SFX.
-- [ ] Possibly implement Resonance.
-- [ ] Roles (Scholar, Scoundrel, Scout, Soldier, and Speaker)
-- [ ] Smallcaps!
 - [ ] GMC examples.
+- [ ] Smallcaps!
+- [ ] Possibly implement Resonance.
+- [ ] Possibly write out some stuff on the factions and general setting fluff.

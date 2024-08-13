@@ -41,9 +41,13 @@ Casting a conjunctional effect is no different from using one Sphere for creatin
 Powers provided by every Sphere's rank are unique, but tend to follow this overall progression:
 
 / #spec_c.d4 Initiate: An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. The mage can't alter anything just yet, but they can put their observations to good use.
+
 / #spec_c.d6 Apprentice: The mage begins to use the Sphere to make small alterations in their local reality. The mage begins to use the Sphere to make small alterations in their local reality.
+
 / #spec_c.d8 Disciple: Achieving a greater level of accomplishment, the mage can make notable changes to elements connected with the Sphere. Remarkable feats become possible, and the mage approaches the realm of true wizardry.
+
 / #spec_c.d10 Adept: An impressive command of the Sphere in question allows the mage to perform dramatic feats.
+
 / #spec_c.d12 Master: Magnificent feats become possible with such dominion within the Sphere. Literally godlike miracles greet the master of a Sphere, and Reality literally shapes itself to their whim.
 
 #block(breakable: false)[
