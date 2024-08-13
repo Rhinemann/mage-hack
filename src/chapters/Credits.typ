@@ -30,6 +30,10 @@
 
 Jeremy.Forbing, Miriam Robern, Vecna and the entire Cortex Prime discord for the input, brainstorming, advice and help.
 
+Lynn Jones for Manual of Monsters, Minions & Mountebanks
+
+Jeremy.Forbing, Lynn Jones, Miriam Robern and Jasmine Barlow for Cortex Lite.
+
 Cam Banks for designing Cortex Prime.
 
 #v(1fr)
