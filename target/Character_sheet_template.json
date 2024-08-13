@@ -3,8 +3,8 @@
   "version": "0.1",
   "id": "e6fb223c-a31c-4697-b621-494a4118af3a",
   "dateCreated": "2024-08-13T15:49:49.449Z",
-  "dateModified": "2024-08-13T16:31:46.355Z",
-  "dateTouched": "2024-08-13T16:31:46.355Z",
+  "dateModified": "2024-08-13T20:20:56.111Z",
+  "dateTouched": "2024-08-13T20:20:56.111Z",
   "name": "Name",
   "game": "",
   "description": "Description",
@@ -439,7 +439,7 @@
         {
           "name": "Correspondence",
           "value": null,
-          "description": "Trait description",
+          "description": "",
           "traits": [],
           "sfx": [],
           "tags": [],
@@ -524,13 +524,13 @@
         "cortexToolkit": {
           "features": {
             "description": false,
-            "sfx": true,
+            "sfx": false,
             "subtraits": false
           },
           "location": "right",
           "style": {
             "header": "default",
-            "body": "default"
+            "body": "two-columns-detailed"
           }
         }
       }
@@ -538,15 +538,32 @@
     {
       "name": "Signature Assets",
       "description": "Trait set description",
-      "nounSingular": "",
+      "nounSingular": "Signature Asset",
       "nounPlural": "",
-      "traits": [],
+      "traits": [
+        {
+          "name": "New Signature Asset",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [
+            {
+              "name": "New SFX",
+              "description": "SFX description",
+              "tags": [],
+              "custom": {}
+            }
+          ],
+          "tags": [],
+          "custom": {}
+        }
+      ],
       "sfx": [],
       "tags": [],
       "custom": {
         "cortexToolkit": {
           "features": {
-            "description": false,
+            "description": true,
             "sfx": true,
             "subtraits": false
           },
@@ -596,6 +613,165 @@
           "style": {
             "header": "default",
             "body": "resources"
+          }
+        }
+      }
+    },
+    {
+      "name": "Talents",
+      "description": "Trait set description",
+      "nounSingular": "Talent",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Talent",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "right",
+          "style": {
+            "header": "default",
+            "body": "default"
+          }
+        }
+      }
+    },
+    {
+      "name": "Stress",
+      "description": "Trait set description",
+      "nounSingular": "",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Harmed",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Unsound",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Rattled",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Tired",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "right",
+          "style": {
+            "header": "default",
+            "body": "stress"
+          }
+        }
+      }
+    },
+    {
+      "name": "Assets",
+      "description": "Trait set description",
+      "nounSingular": "Asset",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "New trait",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "assets"
+          }
+        }
+      }
+    },
+    {
+      "name": "Complications",
+      "description": "Trait set description",
+      "nounSingular": "Complication",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "New trait",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "assets"
           }
         }
       }
