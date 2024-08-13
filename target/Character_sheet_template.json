@@ -1,0 +1,624 @@
+{
+  "$schema": "https://cortex.engard.me/schema/0.1/character.schema.json",
+  "version": "0.1",
+  "id": "e6fb223c-a31c-4697-b621-494a4118af3a",
+  "dateCreated": "2024-08-13T15:49:49.449Z",
+  "dateModified": "2024-08-13T16:31:46.355Z",
+  "dateTouched": "2024-08-13T16:31:46.355Z",
+  "name": "Name",
+  "game": "",
+  "description": "Description",
+  "pronouns": "Pronouns",
+  "traitSets": [
+    {
+      "name": "Distinctions",
+      "description": "Trait set description",
+      "nounSingular": "Distinction",
+      "nounPlural": "Distinctions",
+      "traits": [
+        {
+          "name": "Personality & Sleeper Life",
+          "value": 8,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [
+            "hinder"
+          ],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Awakened Affiliation",
+          "value": 8,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [
+            "hinder"
+          ],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Focus",
+          "value": 8,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [
+            "hinder"
+          ],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": true,
+            "sfx": true,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "distinctions",
+            "body": "distinctions"
+          }
+        }
+      }
+    },
+    {
+      "name": "Attributes",
+      "description": "",
+      "nounSingular": "Attribute",
+      "nounPlural": "Attributes",
+      "traits": [
+        {
+          "name": "Intelligence",
+          "value": 8,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Wits",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Resolve",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Strength",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Dextrerity",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Stamina",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Presence",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Manipulation",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Composure",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": false
+          },
+          "location": "attributes",
+          "style": {
+            "header": "attributes",
+            "body": "attributes"
+          }
+        }
+      }
+    },
+    {
+      "name": "Skills",
+      "description": "Trait set description",
+      "nounSingular": "Skill",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Academics",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Awareness",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Computer",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Crafts",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Esoterica",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Investigation",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Medicine",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Occult",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Politics",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Science",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Athletics",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Brawl",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Drive",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Firearms",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Larceny",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Stealth",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Survival",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Weaponry",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Animal Ken",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Empathy",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Expression",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Intimidation",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Persuasion",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Socialize",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Streetwise",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Subterfuge",
+          "value": 4,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": true
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "two-columns-detailed"
+          }
+        }
+      }
+    },
+    {
+      "name": "True Magick",
+      "description": "Trait set description",
+      "nounSingular": "Sphere",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Correspondence",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Entropy",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Forces",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Life",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Matter",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Mind",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Prime",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Spirit",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Time",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": true,
+            "subtraits": false
+          },
+          "location": "right",
+          "style": {
+            "header": "default",
+            "body": "default"
+          }
+        }
+      }
+    },
+    {
+      "name": "Signature Assets",
+      "description": "Trait set description",
+      "nounSingular": "",
+      "nounPlural": "",
+      "traits": [],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": true,
+            "subtraits": false
+          },
+          "location": "left",
+          "style": {
+            "header": "default",
+            "body": "default"
+          }
+        }
+      }
+    },
+    {
+      "name": "Pools",
+      "description": "Trait set description",
+      "nounSingular": "",
+      "nounPlural": "",
+      "traits": [
+        {
+          "name": "Quintessence",
+          "value": 6,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        },
+        {
+          "name": "Paradox",
+          "value": null,
+          "description": "Trait description",
+          "traits": [],
+          "sfx": [],
+          "tags": [],
+          "custom": {}
+        }
+      ],
+      "sfx": [],
+      "tags": [],
+      "custom": {
+        "cortexToolkit": {
+          "features": {
+            "description": false,
+            "sfx": false,
+            "subtraits": true
+          },
+          "location": "right",
+          "style": {
+            "header": "default",
+            "body": "resources"
+          }
+        }
+      }
+    }
+  ],
+  "portrait": {
+    "url": "",
+    "alt": "",
+    "tags": [],
+    "custom": {
+      "cortexToolkit": {
+        "alignment": "top-center"
+      }
+    }
+  },
+  "plotPoints": 0,
+  "notes": "",
+  "tags": [],
+  "custom": {
+    "cortexToolkit": {
+      "style": {
+        "hasAttributes": true
+      }
+    }
+  }
+}
