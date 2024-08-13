@@ -38,7 +38,6 @@ As you have two milestones, you can replace your current personal milestone with
 
 #block(breakable: false)[
   === Spend 5 XP to:
-  - Unlock an SFX.
   - Raise a #spec_c.d4 skill to #spec_c.d6.
   - Add a #spec_c.d6 signature asset or specialty.
   - Rewrite a distinction.
@@ -46,7 +45,7 @@ As you have two milestones, you can replace your current personal milestone with
 
 #block(breakable: false)[
   === Spend 10 XP to:
-  - Add a new SFX to a trait.
+  - Add a new talent.
   - Raise a #spec_c.d6 skill or signature asset to #spec_c.d8.
   - Raise a #spec_c.d4 attribute to #spec_c.d6.
   - Add a #spec_c.d4 Sphere.
