@@ -51,9 +51,32 @@ Powers provided by every Sphere's rank are unique, but tend to follow this overa
 / #spec_c.d12 Master: Magnificent feats become possible with such dominion within the Sphere. Literally godlike miracles greet the master of a Sphere, and Reality literally shapes itself to their whim.
 
 #block(breakable: false)[
-  === Spheres And SFX
-  True Magick is a powerful trait set, so every Sphere has an SFX attached to every dice level. These SFX are unlocked automatically as a character gains the corresponding Sphere rank.
+  === Sphere Talents
+  True Magick is a powerful trait set, so every Sphere has a number of talents associated with it. These talents are unlocked automatically as a character gains the corresponding Sphere rank.
 ]
+
+The specific talents for every Sphere are given after the rank description, but they follow this overall structure:
+
+/ Sphere Perception: Step up your lowest die on any roll to perceive any phenomena under the purview of Sphere or create a related asset.
+
+  You unlock this talent at Sphere rating #spec_c.d4 for that Sphere.
+
+/ Sphere Manipulation: On rolls to create an asset that can be produced by a #spec_c.d6 or lower Sphere rating, add #spec_c.d6 and step up your effect die.
+
+  You unlock this talent at Sphere rating #spec_c.d6 for that Sphere.
+
+/ Sphere Control: Spend a #spec_c.pp to create a #spec_c.d8 asset that can be produced by a #spec_c.d8 or lower Sphere rating.
+
+  You unlock this talent at Sphere rating #spec_c.d8 for that Sphere.
+
+/ Sphere Command: Spend a #spec_c.pp to step up or double your Sphere die on a roll for an effect that can be accomplished by a #spec_c.d10 or lower Sphere rating.
+
+  You unlock this talent at Sphere rating #spec_c.d10 for that Sphere.
+
+/ Sphere Mastery: Take #spec_c.d6 appropriate stress or complication to double your Sphere die for for a roll. On a failure, step up the same stress or complication you took to activate.
+
+  You unlock this talent at Sphere rating #spec_c.d12 for that Sphere.
+
 
 #show heading.where(level: 3): set align(center)
 

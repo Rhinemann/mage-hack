@@ -1,15 +1,15 @@
 #import "../templates/interior_template.typ": *
-#show: chapter.with(chapter_name: "SFX")
+#show: chapter.with(chapter_name: "Talents")
 
-= SFX
+= Talents
 
 #show: columns.with(2, gutter: 1em)
 
-Each character has a handful of SFX, reflecting special capabilities associated with their roles. A PC also has at least one Limit. A Limit is a special type of SFX that imposes a disadvantage on your character in order to earn them #spec_c.pp or another reward. Whenever you gain an SFX or Limit, you can rename it to better suit your character.
+In addition to Hinder each character has a handful of SFX, reflecting special capabilities associated with their many different abilities, these are called talents. These A PC also has at least one Limit. A Limit is a special type of SFX that imposes a disadvantage on your character in order to earn them #spec_c.pp or another reward. Whenever you gain a Talent or Limit, you can rename it to better suit your character.
 
 
 #block(breakable: false)[
-  == Sample SFX
+  == Sample Talents
   When you create a new character, they gain two of the following SFX of your choice (in addition to the _Hinder_ SFX all characters receive):
   // TODO write descriptions
 ]
@@ -76,24 +76,11 @@ Each character has a handful of SFX, reflecting special capabilities associated 
 
 / Watch It All Burn: Add a die to your pool equal to the largest stress or complication anyone has in the scene and step up your effect die. Succeed or fail, take #smallcaps[Unsound] #spec_c.d6.
 
+You can spend points to take one or more of these SFX at character creation or later
 
-// #block(breakable: false)[
-//   == Universal SFX
-//   All Magi benefit from these SFX:
-// ]
-
-// *Spend Willpower:* Take #spec_c.d6 Unsound stress to gain a #spec_c.pp or add a third die to your total on a roll.
-
-// *Necessary Tools:* Whenever your action includes a Sphere you must use at least one tool conforming to your Paradigm, otherwise treat all 1s and 2s as hitches and gain a #spec_c.pp.
-
-// *Opposed Resonance:* Step down the highest die in the pool when employing opposed Resonance in the casting.
-
-// *Appropriate Resonance:* Step up the lowest die in the pool when employing appropriate Resonance in the casting.
-
-You can spend points to take one or more of these SFX on character creation or later
 
 #block(breakable: false)[
-  === Magick SFX (Supernatural SFX)
+  === Magick Talents (Supernatural Talents)
   These are the examples of magick-related and supernatural SFX available to mages to inspire the players and Storytellers.
 ]
 
@@ -102,6 +89,8 @@ You can spend points to take one or more of these SFX on character creation or l
 / Area Effect: When your effect targets an area or a number of creatures, spend a #spec_c.pp to add a #spec_c.d6 and keep an additional effect die for each additional target past the first.
 
 / Conjunctional Effects Mastery: When performing a conjunctional effect add two or more Spheres to a dice pool and step each Sphere down by one for each additional Sphere beyond the first.
+
+/ Destructive Proclivities: When you include a Sphere to destroy an object, spend a #spec_c.pp to step up your effect die.
 
 / Enchant Patterns: When your effect includes Prime #spec_c.d6 or higher spend Quintessence to inflict #spec_c.d6 Hurt stress.
 
@@ -115,8 +104,40 @@ You can spend points to take one or more of these SFX on character creation or l
 
 / Primal Channeling: When your action includes Prime #spec_c.d10 or higher you can recover one Quintessence die for each step of Stress you inflict.
 
+/ Pushing Through: Whenever you take stress caused by a Sphere, spend a #spec_c.pp to step it down. At the end of the session, if you still have stress on that Sphere, step it up.
+
 / Quick Curse: When your action includes a Sphere, you can gain a #spec_c.d6 to keep a second effect die as a complication on a nearby character.
 
 / Reckless Casting: Step up or double any Sphere for one roll. If the roll fails, add your Sphere die to the Paradox pool.
 
+/ Rein In: When you include a #spec_c.d10 or #spec_c.d8 Sphere, gain a #spec_c.pp and step it down. You can recover it by activating an opportunity rolled by the GM.
+
 / Swift Warding: When your action includes a Sphere, you can gain a #spec_c.d6 Moving Too Fast complication to keep a second effect die as a Magical Aegis asset.
+
+/ Talent for Growth: When you succeed at a test including a Sphere, spend a #spec_c.pp to create a Watch And Learn #spec_c.d8 asset. Anyone can use this asset alongside a #spec_c.d4 or #spec_c.d6 Sphere.
+
+
+#block(breakable: false)[
+  ==== Sphere Talents
+  Sphere talents are a special case of supernatural talents that are unlocked automatically as you advance your understanding of magick.
+]
+
+/ Sphere Perception: Step up your lowest die on any roll to perceive any phenomena under the purview of Sphere or create a related asset.
+
+  You unlock this talent at Sphere rating #spec_c.d4 for that Sphere.
+
+/ Sphere Manipulation: On rolls to create an asset that can be produced by a #spec_c.d6 or lower Sphere rating, add #spec_c.d6 and step up your effect die.
+
+  You unlock this talent at Sphere rating #spec_c.d6 for that Sphere.
+
+/ Sphere Control: Spend a #spec_c.pp to create a #spec_c.d8 asset that can be produced by a #spec_c.d8 or lower Sphere rating.
+
+  You unlock this talent at Sphere rating #spec_c.d8 for that Sphere.
+
+/ Sphere Command: Spend a #spec_c.pp to step up or double your Sphere die on a roll for an effect that can be accomplished by a #spec_c.d10 or lower Sphere rating.
+
+  You unlock this talent at Sphere rating #spec_c.d10 for that Sphere.
+
+/ Sphere Mastery: Take #spec_c.d6 appropriate stress or complication to double your Sphere die for for a roll. On a failure, step up the same stress or complication you took to activate.
+
+  You unlock this talent at Sphere rating #spec_c.d12 for that Sphere.
