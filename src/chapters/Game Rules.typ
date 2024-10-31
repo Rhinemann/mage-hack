@@ -210,37 +210,37 @@ Using an SFX is always a choice; you are never compelled to activate your charac
 
 
 #block(breakable: false)[
-  === Doom Pool
-  The doom pool serves as a combination of ambient threat level, ST resource, and pacing mechanic.
+  === Peril
+  The Peril serves as a combination of ambient threat level, ST resource, and pacing mechanic.
 ]
 
-At the beginning of each session, the ST starts with a doom pool of at least #spec_c.d6 #spec_c.d6. If the session is of global or cosmic scale, the pool may start with 3 or 4 dice. If the session is a major breakpoint in a chronicle, the size of these starting dice might be #spec_c.d8 or even #spec_c.d10.
+At the beginning of each session, the ST starts with Peril of at least #spec_c.d6 #spec_c.d6. If the session is of global or cosmic scale, the pool may start with 3 or 4 dice. If the session is a major breakpoint in a chronicle, the size of these starting dice might be #spec_c.d8 or even #spec_c.d10.
 
-The doom pool sets difficulty dice for all tests. To set the difficulty, the ST picks up some or all the dice in the doom pool and rolls them, taking two of the dice results and adding them together, as normal. The ST can spend a die not used in the total and add its result to the total; this spent die is removed from the doom pool after resolving the outcome. The remaining dice, including the two that were added together for the total, remain in the doom pool.
+The Peril sets difficulty dice for all tests. To set the difficulty, the ST picks up some or all the dice in the Peril pool and rolls them, taking two of the dice results and adding them together, as normal. The ST can spend a die not used in the total and add its result to the total; this spent die is removed from Peril after resolving the outcome. The remaining dice, including the two that were added together for the total, remain in Peril.
 
-The ST may spend a die from the doom pool to add it to a STC's dice pool, before the dice pool is rolled. This die is removed from the doom pool and doesn't go back in once the STC's roll is resolved. Doom dice may also be spent like #spec_c.pp, where a #spec_c.d6 from the doom pool is equivalent to a single #spec_c.pp. This usually happens when activating a STC SFX. If the doom pool only has larger dice in it, the next highest die must be spent in place of the #spec_c.d6.
+The ST may spend a die from Peril to add it to a STC's dice pool, before the dice pool is rolled. This die is removed from Peril and doesn't go back in once the STC's roll is resolved. Peril dice may also be spent like #spec_c.pp, where a #spec_c.d6 from Peril is equivalent to a single #spec_c.pp. This usually happens when activating a STC SFX. If Peril only has larger dice in it, the next highest die must be spent in place of the #spec_c.d6.
 
-The doom pool increases when the ST activates hitches rolled by players. The ST adds a die of the same size as the one that rolled the hitch to their doom pool. Alternatively, the ST can use a smaller die to step up an equal or larger existing die in the doom pool by one step.
+Peril increases when the ST activates hitches rolled by players. The ST adds a die of the same size as the one that rolled the hitch to Peril. Alternatively, the ST can use a smaller die to step up an equal or larger existing die in Peril by one step.
 
 
 #block(breakable: false)[
-  ==== Spending Doom Pool Dice
-  In addition to spending a doom pool die for anything a #spec_c.pp could normally accomplish, the ST can spend a die to do a variety of special actions. These vary depending on the game.
+  ==== Spending Peril Dice
+  In addition to spending a Peril die for anything a #spec_c.pp could normally accomplish, the ST can spend a die to do a variety of special actions. These vary depending on the game.
 ]
 
 Some of the most common uses are:
 
-/ Creating a complication, asset, or scene distinction: spend a die from the doom pool and create a Complication or Asset attached to the scene equal in size to the die spent. Or, spend at least a #spec_c.d8 and add a distinction to the scene that may be used by players and STCs alike.
+/ Creating a complication, asset, or scene distinction: spend a die from Peril and create a Complication or Asset attached to the scene equal in size to the die spent. Or, spend at least a #spec_c.d8 and add a distinction to the scene that may be used by players and STCs alike.
 
-/ Interrupting the action order: Spend a die from the doom pool equal to or greater in size than the largest combat or senses-related trait of the PC whose turn is up next. One of the ST's own STCs gets to go instead, and the ST then picks who goes afterward (not necessarily the player who was interrupted).
+/ Interrupting the action order: Spend a die from Peril equal to or greater in size than the largest combat or senses-related trait of the PC whose turn is up next. One of the ST's own STCs gets to go instead, and the ST then picks who goes afterward (not necessarily the player who was interrupted).
 
-/ Adding a new extra STC: Spend a die from the doom pool and create an extra with a single trait rated at the size of the doom die spent.
+/ Adding a new extra STC: Spend a die from Peril and create an extra with a single trait rated at the size of the Peril die spent.
 
-/ Introducing a new minor STC or major STC: If a STC who isn't present in the scene could conceivably show up, spend a die from the doom pool equal to that STC's highest rated trait and drop them into the scene, ready to act when the action order gets to them (which could be right away, if the ST is the one deciding who goes next).
+/ Introducing a new minor STC or major STC: If a STC who isn't present in the scene could conceivably show up, spend a die from Peril equal to that STC's highest rated trait and drop them into the scene, ready to act when the action order gets to them (which could be right away, if the ST is the one deciding who goes next).
 
-/ Splitting the group: spend a #spec_c.d10 or a #spec_c.d12 from the doom pool and some environmental or narrative event takes place that divides the group into two (minimum one PC in each new group). The PCs have to spend time reuniting their group, which may lead to more problems.
+/ Splitting the group: spend a #spec_c.d10 or a #spec_c.d12 from Peril and some environmental or narrative event takes place that divides the group into two (minimum one PC in each new group). The PCs have to spend time reuniting their group, which may lead to more problems.
 
-/ Ending the scene immediately: spend #spec_c.d12 #spec_c.d12 from the doom pool and cut the scene off right there before it's resolved, with the ST deciding how it ends. Usually, the scenes should play out until there's a reasonable ending point, but this way the ST can just smash cut to a new scene with plot threads dangling. Or stage an auto-win by the enemies.
+/ Ending the scene immediately: spend #spec_c.d12 #spec_c.d12 from Peril and cut the scene off right there before it's resolved, with the ST deciding how it ends. Usually, the scenes should play out until there's a reasonable ending point, but this way the ST can just smash cut to a new scene with plot threads dangling. Or stage an auto-win by the enemies.
 
 
 #block(breakable: false)[
@@ -359,8 +359,8 @@ Then, they add up to 3 additional dice of the same die rating depending on how l
 
 
 #block(breakable: false)[
-  ==== Doom Pool & Challenge
-  You can use both challenges and the doom pool, spending dice directly from the doom pool to create a new challenge. Dice spent in this manner go from the doom pool to the challenge pool, thus reducing the overall doom of the session but creating specific, localized situations the players can directly affect.
+  ==== Peril & Challenge
+  You can use both challenges and Peril, spending Peril dice directly to create a new challenge. Dice spent in this manner go from Peril to the challenge pool, thus reducing the overall Peril of the session but creating specific, localized situations the players can directly affect.
 ]
 
 
@@ -374,7 +374,7 @@ Once every PC has had a turn, the challenge pool acts.
 *The ST can choose to either:*
 - Target a player with a negative effect, or
 - Strengthen the challenge pool by stepping up one of its dice or adding a #spec_c.d6
-- Spend challenge pool dice in the same way as doom pool dice
+- Spend challenge pool dice in the same way as Peril
 
 Once the ST has had their turn, it's back to the players. The player who went last in the previous round gets to choose who goes first, including nominating themselves.
 

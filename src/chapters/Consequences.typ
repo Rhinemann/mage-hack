@@ -14,7 +14,7 @@ While playing Mage characters may face consequences of dealing with the danger. 
 
 #block(breakable: false)[
   === Creating Complications
-  When a player rolls a hitch on any of their dice, the Storyteller can hand over a #spec_c.pp and to create a complication instead of adding that die to the doom pool. This doesn't affect the success or failure of the roll — a complication means something else has gone wrong, making life difficult.
+  When a player rolls a hitch on any of their dice, the Storyteller can hand over a #spec_c.pp and to create a complication instead of adding that die to Peril. This doesn't affect the success or failure of the roll — a complication means something else has gone wrong, making life difficult.
 ]
 
 Complications start at #spec_c.d6, and additional hitches in the same roll step up the complication without the Storyteller giving the player more #spec_c.pp. The Storyteller may choose to create multiple complications if there is more than one hitch, but each new complication requires handing over a #spec_c.pp. If the player rolls a botch, the Storyteller creates a #spec_c.d6 complication without giving the player a #spec_c.pp, and steps it up for each hitch past the first.

@@ -108,7 +108,7 @@ You can spend points to take one or more of these SFX at character creation or l
 
 / Quick Curse: When your action includes a Sphere, you can gain a #spec_c.d6 to keep a second effect die as a complication on a nearby character.
 
-/ Reckless Casting: Step up or double any Sphere for one roll. If the roll fails, add your Sphere die to the Paradox pool.
+/ Reckless Casting: Step up or double any Sphere for one roll. If the roll fails, add your Sphere die to Paradox.
 
 / Rein In: When you include a #spec_c.d10 or #spec_c.d8 Sphere, gain a #spec_c.pp and step it down. You can recover it by activating an opportunity rolled by the GM.
 
