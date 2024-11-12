@@ -24,7 +24,7 @@ STCs are split into two specific types, listed here for easy reference. They wil
 
 #block(breakable: false)[
   === Creating An Extra
-  Extras need only a single die with a flavorful trait attached to them. That trait does not need to be equivalent to the PCs. Something as simple as #smallcaps[Hired Assassin] #spec_c.d10 or #smallcaps[Cut-Rate Thief] #spec_c.d6 works just fine. If you like, add another trait during play as things progress; you can upgrade any extra to a driven STC this way. If the extra is part of a character file, it might already have a die rating, so you can use that in a pinch.
+  Extras need only a single die with a flavorful trait attached to them. That trait does not need to be equivalent to the PCs. Something as simple as Hired Assassin #spec_c.d10 or Cut-Rate Thief #spec_c.d6 works just fine. If you like, add another trait during play as things progress; you can upgrade any extra to a driven STC this way. If the extra is part of a character file, it might already have a die rating, so you can use that in a pinch.
 ]
 
 

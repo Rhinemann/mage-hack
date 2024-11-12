@@ -34,7 +34,9 @@ Lynn Jones for Manual of Monsters, Minions & Mountebanks
 
 Jeremy.Forbing, Lynn Jones, Miriam Robern and Jasmine Barlow for Cortex Lite.
 
-Riley Routh for The Arcanist's Toolkit.
+Riley Routh for The Arcanist's Toolkit, specifically the SFX.
+
+Miriam Robern for the Gear rules and SFX in the Emporiun of the Speaking Lands.
 
 Cam Banks for designing Cortex Prime.
 

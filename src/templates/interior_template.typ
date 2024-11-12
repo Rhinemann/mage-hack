@@ -29,7 +29,7 @@
     hyphenate: false,
   )
 
-  show smallcaps: set text(font: ("XWGXSC+CortexSymbology", "Goudy"))
+  // show smallcaps: set text(font: ("XWGXSC+CortexSymbology", "Goudy"))
 
   set page(
     background: context {

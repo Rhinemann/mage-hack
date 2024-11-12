@@ -47,11 +47,13 @@ For example, if you roll to hit someone with a weapon, your total determines whe
   Lydia was going home late evening after shopping for new fabrics when she noticed a man following her. Not wanting to tip off the stalker she decides to read his aura. She grabs an amulet on her neck that looks like a burning spider, feels its warmth and whispers a spell almost silently to get a reading on the strange man.
 ]
 
-The ST asks the player to roll the dice to see if the succeeds. She gathers Spider in the Web (her distinction) #spec_c.d8 Perception #spec_c.d8, Awareness #spec_c.d6, Ars Potentiae (Prime) #spec_c.d6, her Prime Perception steps up Prime to a #spec_c.d8, then she rolls, getting a 4, 3, and 2 on #spec_c.d8 and a 2 on #spec_c.d6.
+The ST asks the player to assemble the pool to roll for this action. She gathers Spider in the Web (her distinction) #spec_c.d8 Perception #spec_c.d8, Awareness #spec_c.d6, Ars Potentiae (Prime) #spec_c.d6, her Prime Perception SFX steps up Prime to a #spec_c.d8.
 
-She picks 4 and 3 to add together, making her total 7. She uses the leftover #spec_c.d8 as her effect die.
+Then ST assembles the pool for the man using the dice from Peril. He rolls and the man's total against Lydia is 15 with effect die being unimportant for this test.
 
-The man's total against her is 15, so she fails to get a clear read on the man, and starts getting more worried, gaining #spec_c.d6 Rattled stress from the failure.
+The ST asks the player to roll the dice to see if the succeeds. She rolls, getting a 4, 3, and 2 on #spec_c.d8 and a 2 on #spec_c.d6. She picks 4 and 3 to add together, making her total 7. She uses the leftover #spec_c.d8 as her effect die.
+
+As her total is not greater than ST's total, she fails to get a clear read on the man, and starts getting more worried, gaining #spec_c.d6 Rattled stress from the failure.
 
 
 #block(breakable: false)[

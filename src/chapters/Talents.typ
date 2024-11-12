@@ -16,65 +16,65 @@ In addition to Hinder each character has a handful of SFX, reflecting special ca
 
 / Adaptable: Step down and double one die of your choice in your pool.
 
-/ All-Out Attack: Spend a #spec_c.pp to target multiple opponents when you roll to inflict #smallcaps[Hurt]. For each additional target, add #spec_c.d6 and keep an extra effect die.
+/ All-Out Attack: Spend a #spec_c.pp to target multiple opponents when you roll to inflict Hurt. For each additional target, add #spec_c.d6 and keep an extra effect die.
 
-/ Brilliant Under Pressure: Spend a #spec_c.pp to add your #smallcaps[Rattled] or #smallcaps[Tired] to your roll to create an asset. If the action succeeds, step down the stress you used.
+/ Brilliant Under Pressure: Spend a #spec_c.pp to add your Rattled or Tired to your roll to create an asset. If the action succeeds, step down the stress you used.
 
-/ Combat Veteran: When your roll to inflict #smallcaps[Hurt] or #smallcaps[Rattled] during a battle includes #smallcaps[Firearms] or #smallcaps[Weaponry], step down the largest die in your pool to add #spec_c.d8. If your roll succeeds, step up your effect die.
+/ Combat Veteran: When your roll to inflict Hurt or Rattled during a battle includes Firearms or Weaponry, step down the largest die in your pool to add #spec_c.d8. If your roll succeeds, step up your effect die.
 
-/ Distracting Presence: When you roll to inflict #smallcaps[Unsound] by distracting someone, add #spec_c.d6 and step up your effect die.
+/ Distracting Presence: When you roll to inflict Unsound by distracting someone, add #spec_c.d6 and step up your effect die.
 
-/ Strong Empathy: Step up #smallcaps[Empathy] on a roll to create an asset related to trust, reading people, or reassurance.
+/ Strong Empathy: Step up Empathy on a roll to create an asset related to trust, reading people, or reassurance.
 
-/ Energetic: When you would take #smallcaps[Tired] stress, spend a #spec_c.pp to step down the stress you take. If this steps the stress down below #spec_c.d6, you take no stress at all.
+/ Energetic: When you would take Tired stress, spend a #spec_c.pp to step down the stress you take. If this steps the stress down below #spec_c.d6, you take no stress at all.
 
-/ Flash of Insight: When you fail a test to obtain information, you may spend a #spec_c.pp or take #smallcaps[Unsound] #spec_c.d6 to obtain that information by other means.
+/ Flash of Insight: When you fail a test to obtain information, you may spend a #spec_c.pp or take Unsound #spec_c.d6 to obtain that information by other means.
 
-/ Have a Little Faith: When you would take #smallcaps[Rattled] stress, spend a #spec_c.pp to step down the stress you take. If this steps the stress down below #spec_c.d6, you take no stress at all.
+/ Have a Little Faith: When you would take Rattled stress, spend a #spec_c.pp to step down the stress you take. If this steps the stress down below #spec_c.d6, you take no stress at all.
 
 / Hinder: Roll #spec_c.d4 instead of #spec_c.d8 for a distinction to earn a #spec_c.pp.
 
 / In Harm's Way: When another character near you takes stress, you can step down the stress they would take, then take #spec_c.d6 stress of the same type yourself.
 
-/ Impossible to Ignore: Spend a #spec_c.pp to target multiple opponents when you roll to inflict #smallcaps[Unsound]. For each additional target, add #spec_c.d6 and keep an extra effect die.
+/ Impossible to Ignore: Spend a #spec_c.pp to target multiple opponents when you roll to inflict Unsound. For each additional target, add #spec_c.d6 and keep an extra effect die.
 
-/ Inspiring Leadership: Add a #spec_c.d6 and step up your effect die when you roll #smallcaps[Social] skills to create assets for allies.
+/ Inspiring Leadership: Add a #spec_c.d6 and step up your effect die when you roll Social skills to create assets for allies.
 
-/ Keen Intellect: Add a #spec_c.d6 and step up your effect die when you roll #smallcaps[Mental] skills to create an asset related to recalling or researching information.
+/ Keen Intellect: Add a #spec_c.d6 and step up your effect die when you roll Mental skills to create an asset related to recalling or researching information.
 
 / Master Plan: Spend a #spec_c.pp to add a die to your pool equal to the largest complication anyone has in the scene. After the roll fails or succeeds, step down that complication.
 
-/ Misdirection: When you use #smallcaps[Social] skills on a roll related to escape, deception, or stealth, step down the largest die in your pool to add #spec_c.d8. If your roll succeeds, step up your effect die.
+/ Misdirection: When you use Social skills on a roll related to escape, deception, or stealth, step down the largest die in your pool to add #spec_c.d8. If your roll succeeds, step up your effect die.
 
-/ Outmaneuver: When your roll to inflict #smallcaps[Hurt] or #smallcaps[Tired] while outdoors includes #smallcaps[Athletics], step down the largest die in your pool to add #spec_c.d8. If your roll succeeds, step up your effect die.
+/ Outmaneuver: When your roll to inflict Hurt or Tired while outdoors includes Athletics, step down the largest die in your pool to add #spec_c.d8. If your roll succeeds, step up your effect die.
 
-/ Peacemaker: If you have #smallcaps[Hurt] stress inflicted by another character in the scene when you roll to de-escalate a conflict, double #smallcaps[Empathy] in your dice pool. If the roll still fails, take #smallcaps[Rattled] #spec_c.d6.
+/ Peacemaker: If you have Hurt stress inflicted by another character in the scene when you roll to de-escalate a conflict, double Empathy in your dice pool. If the roll still fails, take Rattled #spec_c.d6.
 
-/ Push Through It: Before you roll a dice pool including a #smallcaps[Physical] skill, spend a #spec_c.pp to recover #smallcaps[Hurt] and step up a #smallcaps[Physical] attribute for that roll. Take #smallcaps[Tired] #spec_c.d6 stress if the roll succeeds, or #spec_c.d8 if it fails.
+/ Push Through It: Before you roll a dice pool including a Physical skill, spend a #spec_c.pp to recover Hurt and step up a Physical attribute for that roll. Take Tired #spec_c.d6 stress if the roll succeeds, or #spec_c.d8 if it fails.
 
-/ Reassuring Comrade: Step up or double #smallcaps[Empathy] in your dice pool when helping others recover #smallcaps[Rattled]. You can also spend a #spec_c.pp to step down your own or a nearby character's #smallcaps[Rattled].
+/ Reassuring Comrade: Step up or double Empathy in your dice pool when helping others recover Rattled. You can also spend a #spec_c.pp to step down your own or a nearby character's Rattled.
 
 / Reckless Gambit: When you roll dice, add a die to your pool equal to the largest stress or complication anyone has in the scene. Take a complication at #spec_c.d6 if the roll succeeds, or #spec_c.d8 if it fails.
 
-/ Reliable Memory: Spend a #spec_c.pp to reroll a dice pool focused on memory or recall that included #smallcaps[Intelligence].
+/ Reliable Memory: Spend a #spec_c.pp to reroll a dice pool focused on memory or recall that included Intelligence.
 
 / Skill Focus: When your pool includes a specialty, you can replace two dice of equal size with one die one step larger.
 
 / Sudden Yet Inevitable: When someone betrays you or deceives you, or you betray or deceive someone, spend a #spec_c.pp to create a #spec_c.d8 asset related to having planned for it.
 
-/ Team Player: When you witness an ally rolling a heroic success, you can step down your own or another witness's #smallcaps[Rattled].
+/ Team Player: When you witness an ally rolling a heroic success, you can step down your own or another witness's Rattled.
 
-/ Tough: When you would take #smallcaps[Hurt] stress, spend a #spec_c.pp to step down the stress you take. If this steps the stress down below #spec_c.d6, you take no stress at all.
+/ Tough: When you would take Hurt stress, spend a #spec_c.pp to step down the stress you take. If this steps the stress down below #spec_c.d6, you take no stress at all.
 
-/ Trained Physician: Step up or double #smallcaps[Medicine] in your dice pool when helping others recover #smallcaps[Hurt]. You can also spend a #spec_c.pp to step down your own or a nearby character's #smallcaps[Hurt].
+/ Trained Physician: Step up or double Medicine in your dice pool when helping others recover Hurt. You can also spend a #spec_c.pp to step down your own or a nearby character's Hurt.
 
-/ Undaunted Determination: Step up or double #smallcaps[Stamina] for one roll. If the roll fails, take #smallcaps[Tired] stress equal to the largest die in your pool.
+/ Undaunted Determination: Step up or double Stamina for one roll. If the roll fails, take Tired stress equal to the largest die in your pool.
 
-/ Vicious Contempt: When you roll to inflict #smallcaps[Rattled] with mockery or contempt, add #spec_c.d6 and step up your effect die.
+/ Vicious Contempt: When you roll to inflict Rattled with mockery or contempt, add #spec_c.d6 and step up your effect die.
 
-/ Vigilant Eye: Spend a #spec_c.pp to double #smallcaps[Investigation] in a pool related to following a trail, aiming at a distant target, or spotting something far off.
+/ Vigilant Eye: Spend a #spec_c.pp to double Investigation in a pool related to following a trail, aiming at a distant target, or spotting something far off.
 
-/ Watch It All Burn: Add a die to your pool equal to the largest stress or complication anyone has in the scene and step up your effect die. Succeed or fail, take #smallcaps[Unsound] #spec_c.d6.
+/ Watch It All Burn: Add a die to your pool equal to the largest stress or complication anyone has in the scene and step up your effect die. Succeed or fail, take Unsound #spec_c.d6.
 
 You can spend points to take one or more of these SFX at character creation or later
 
