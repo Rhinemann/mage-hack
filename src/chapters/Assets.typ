@@ -207,6 +207,8 @@ Despite the names and some flavour implied in the SFX, they can be renamed and r
 
 / Dual Attack: When you attack with both weapons simultaneously, spend a #spec_c.pp to double this asset.
 
+/ Dual Wield: When you wield a weapon in each hand on a roll to inflict stress, step down the largest die in a pool to keep an extra effect die.
+
 / Main Gauche: When you surprise your opponent with your second weapon, roll this asset's rating and add it directly to your total. Then add the die to Peril. You may do this after you roll your pool.
 
 / Riposte: When you successfully defend against an attack, spend a #spec_c.pp to inflict a complication equal to your effect die.
