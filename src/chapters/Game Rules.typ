@@ -43,20 +43,6 @@ For example, if you roll to hit someone with a weapon, your total determines whe
 
 
 #block(breakable: false)[
-  === An Example Of Play
-  Lydia was going home late evening after shopping for new fabrics when she noticed a man following her. Not wanting to tip off the stalker she decides to read his aura. She grabs an amulet on her neck that looks like a burning spider, feels its warmth and whispers a spell almost silently to get a reading on the strange man.
-]
-
-The ST asks the player to assemble the pool to roll for this action. She gathers Spider in the Web (her distinction) #spec_c.d8 Perception #spec_c.d8, Awareness #spec_c.d6, Ars Potentiae (Prime) #spec_c.d6, her Prime Perception SFX steps up Prime to a #spec_c.d8.
-
-Then ST assembles the pool for the man using the dice from Peril. He rolls and the man's total against Lydia is 15 with effect die being unimportant for this test.
-
-The ST asks the player to roll the dice to see if the succeeds. She rolls, getting a 4, 3, and 2 on #spec_c.d8 and a 2 on #spec_c.d6. She picks 4 and 3 to add together, making her total 7. She uses the leftover #spec_c.d8 as her effect die.
-
-As her total is not greater than ST's total, she fails to get a clear read on the man, and starts getting more worried, gaining #spec_c.d6 Rattled stress from the failure.
-
-
-#block(breakable: false)[
   == The ST
   As in many tabletop role-playing games, one player takes on the role of the _Game Moderator_, or GM, called a Storyteller (ST) in Mage, rather than playing their own character. The ST frames scenes, portrays supporting characters (called STCs, or _Storyteller Characters_), controls the opposition (including rolling dice), and ends scenes.
 ]
@@ -389,3 +375,14 @@ Once the ST has had their turn, it's back to the players. The player who went la
 If the PC doesn't beat the challenge, they fail to progress the challenge, and take stress (or a complication) of the ST's choice equal to the challenge pool's effect die.
 
 Once the challenge pool is reduced to zero dice, the challenge is over, and the PCs have won. Alternatively, the ST may declare that something happens after a certain number of rounds. If this happens, the challenge may be a failure if players don't overcome the challenge in time.
+
+
+#block(breakable: false)[
+  === Example Of Play: Test
+  Lydia is going home late evening after shopping for fabric. Bob, the ST, tells Alice, Lydia's player, that a man is following her. Alice decides that Lydia doesn't want to tip off the stalker, but will read his aura. Bob thinks it's worth a test, and asks Alice to think about her dice pool, and grabs the dice from Peril, which is currently #spec_c.d10 #spec_c.d10 and a #spec_c.d8, and rolls 6,9 and 4, picking the best total of 10, and effect die of #spec_c.d8.
+]
+
+Meanwhile, Alice has selected her dice, taking Spider in the Web (her distinction) #spec_c.d8, Perception #spec_c.d8, Awareness #spec_c.d6, and Ars Potentiae (Prime) #spec_c.d6, to get a reading of strange man's aura. She describes Lydia grabbing an amulet on her neck that looks like a burning spider, feeling its warmth and whispering a spell almost silently. Since Alice is attempting perception magick Lydia's Prime Perception SFX steps up Prime to a #spec_c.d8.
+
+Alice rolls #spec_c.d8 #spec_c.d8 #spec_c.d8 and #spec_c.d6 for 4, 3, 2 and 2, and picks the first two for a total of 7 and an effect of #spec_c.d6. Her total is insufficient to beat Bob's roll, so Lydia fails to get a read on the man. Bob compares Alice's effect die to his, and since her die isn't greater the inflicted stress won't be shut down. Bob describes a street light flickering and Lydia you losing sight of the man, unsure if he was ever even there, making Lydia #spec_c.d8 Rattled.
+

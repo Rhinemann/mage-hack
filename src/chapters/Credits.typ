@@ -42,7 +42,9 @@ Cam Banks for designing Cortex Prime.
 
 #v(1fr)
 
-Cortex Prime is a trademark and IP of Direwolf Digital.
+This work is based on the Cortex Prime roleplaying game system, designed by Cam Banks and edited by Amanda Valentine, and licensed for our use under the Cortex Prime Community License. Find out more about Cortex: www.cortexrpg.com
+
+Cortex, Cortex Prime, and associated logos are registered trademarks of Dire Wolf Digital, LLC.
 
 World of Darkness, Vampire: The Masquerade, Vampire: The Dark Ages, Victorian Age: Vampire, Werewolf: The Apocalypse, Werewolf: The Wild West, Mage: The Ascension, Mage: The Sorcerers Crusade, Wraith: The Oblivion, Wraith: The Great War, Changeling: The Dreaming, Hunter: The Reckoning, Demon: The Fallen, Mummy: The Resurrection, Orpheus, Exalted, Chronicles of Darkness, Vampire:The Requiem, Werewolf: The Forsaken, Mage: The Awakening, Changeling: The Lost, Hunter: The Vigil, Giest: The Sin Eaters, Demon: The Descent, Mummy: The Curse, Beast: The Primordial, Promethean: The Created, World of Darkness, Storyteller System™, Storytelling System™, and Storytellers Vault™ and their respective logos, icons and symbols are trademarks or registered trademarks of Paradox Interactive AB. All rights reserved.
 
