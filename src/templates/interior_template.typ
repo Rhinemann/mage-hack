@@ -1,7 +1,7 @@
 #let gold = rgb("#FFD700") // gold
 #let purple = rgb("#4B0082") // indigo
 
-#let par_indent = 2em
+#let par_indent = 1em
 
 #let symbols = (
   d4: symbol("\u{2463}"),
@@ -9,7 +9,6 @@
   d8: symbol("\u{2467}"),
   d10: symbol("\u{2469}"),
   d12: symbol("\u{246B}"),
-  // d20: symbol("\u{2473}"),
   pp: symbol("\u{24C5}"),
 )
 
@@ -19,45 +18,42 @@
   spec_c.insert(key, text(purple, val))
 }
 
-#let interior_image = "images/interior/"
-
 #let chapter(chapter_name: "", body) = {
   set text(
-    font: ("XWGXSC+CortexSymbology", "Goudy Old Style"),
+    font: ("XWGXSC+CortexSymbology", "OFL Sorts Mill Goudy"),
     size: 10pt,
     lang: "en",
     hyphenate: false,
   )
 
-  // show smallcaps: set text(font: ("XWGXSC+CortexSymbology", "Goudy"))
-
   set page(
-    background: context {
-      let page_num = here().page()
-      let side = if calc.odd(page_num + 1) {
-        "left"
-      } else {
-        "right"
-      }
-      place(
-        image(
-          "../../assets/images/interior/Background " + side + ".jpg",
-          width: 100%,
-          height: 100%,
-        ),
-      )
-      place(
-        image(
-          "../../assets/images/interior/Border " + side + ".png",
-          width: 100%,
-          height: 100%,
-        ),
-      )
-    },
+    // background: context {
+    //   let page_num = here().page()
+    //   let side = if calc.odd(page_num + 1) {
+    //     "left"
+    //   } else {
+    //     "right"
+    //   }
+    //   // place(
+    //   //   image(
+    //   //     "../../assets/images/interior/Background " + side + ".jpg",
+    //   //     width: 100%,
+    //   //     height: 100%,
+    //   //   ),
+    //   // )
+    //   // place(
+    //   //   image(
+    //   //     "../../assets/images/interior/Border " + side + ".png",
+    //   //     width: 100%,
+    //   //     height: 100%,
+    //   //   ),
+    //   // )
+    // },
+    fill: rgb("#dbcba0"),
     paper: "us-letter",
     margin: (top: 25mm, bottom: 30mm, inside: 15mm, outside: 30mm),
     footer: context {
-      set text(font: "Abbess", size: 12pt)
+      set text(font: "Amarante", size: 12pt)
       let h_skip = h(1em)
       let page_num = here().page()
 
@@ -78,6 +74,7 @@
     leading: 0.2em,
     linebreaks: "optimized",
     spacing: 1em,
+    // first-line-indent: (amount: par_indent, all: true),
   )
 
   show table: set align(center)
@@ -95,7 +92,7 @@
     emph(it)
   }
 
-  show heading: set text(font: ("XWGXSC+CortexSymbology", "Abbess"))
+  show heading: set text(font: ("XWGXSC+CortexSymbology", "Amarante"))
   show heading: set block(below: 0.5em)
 
   show heading.where(level: 1): it => {
@@ -116,21 +113,23 @@
 }
 
 #let sidebar(body) = {
-  let bg = pattern(size: (139.7mm, 108mm))[
-    #place(image("../../assets/images/interior/sidebar.jpg", width: 100%, height: 100%))
-  ]
-  show regex(symbols.values().join("|")): text.with(gold)
-  show strong: set text(fill: gold)
+  // let bg = tiling(size: (139.7mm, 108mm))[
+  //   #place(image("../../assets/images/interior/sidebar.jpg", width: 100%, height: 100%))
+  // ]
+  // show regex(symbols.values().join("|")): text.with(gold)
+  // show strong: set text(fill: gold)
   show heading: set text(
-    font: ("XWGXSC+CortexSymbology", "Abbess"),
-    fill: gold,
+    font: ("XWGXSC+CortexSymbology", "Amarante"),
+    // fill: gold,
   )
   set text(
-    font: ("XWGXSC+CortexSymbology", "Futura PT"),
-    fill: white,
+    // font: ("XWGXSC+CortexSymbology", "Futura PT"),
+    font: "XWGXSC+CortexSymbology",
+    // fill: white,
   )
 
-  block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: bg)[
+  // block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: bg)[
+  block(width: 100%, inset: 10pt, stroke: gold + 3pt)[
     #body
   ]
 }

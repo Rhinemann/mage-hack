@@ -1,4 +1,4 @@
-#import "interior_template.typ": gold, purple, interior_image
+#import "interior_template.typ": gold, purple
 
 #let cover_image = "images/cover/"
 
@@ -7,7 +7,7 @@
   width: 80%,
   inset: 30pt,
 )[
-  #set text(font: "Abbess", size: 20pt, fill: white)
+  #set text(font: "Amarante", size: 20pt, fill: white)
   #rotate(-30deg, reflow: true)[Placeholder image!]
 ]
 
@@ -35,14 +35,15 @@
 
 #let front_cover = {
   page(
-    background: {
-      place(image("../../assets/images/cover/Silk.jpg", width: 100%, height: 100%))
-      place(image("../../assets/images/cover/Frame.png", width: 100%, height: 100%))
-    },
+    // background: {
+    //   place(image("../../assets/images/cover/Silk.jpg", width: 100%, height: 100%))
+    //   place(image("../../assets/images/cover/Frame.png", width: 100%, height: 100%))
+    // },
+    fill: purple,
     paper: "us-letter",
     margin: 30mm,
   )[
-    #set text(font: "Abbess", size: 20pt, fill: white)
+    #set text(font: "Amarante", size: 20pt, fill: white)
     #set align(center)
 
     #logo
@@ -64,7 +65,7 @@
     paper: "us-letter",
     margin: 30mm,
   )[
-    #set text(font: "Abbess", size: 20pt, fill: white)
+    #set text(font: "Amarante", size: 20pt, fill: white)
     #set align(center)
 
     #logo
@@ -76,23 +77,24 @@
 
 #let back_cover = {
   page(
-    background: {
-      place(image("../../assets/images/cover/Silk.jpg", width: 100%, height: 100%))
-      place(image("../../assets/images/cover/Frame.png", width: 100%, height: 100%))
-    },
+    // background: {
+    //   place(image("../../assets/images/cover/Silk.jpg", width: 100%, height: 100%))
+    //   place(image("../../assets/images/cover/Frame.png", width: 100%, height: 100%))
+    // },
+    fill: purple,
     paper: "us-letter",
     margin: 30mm,
   )[
     #show heading: it => {
       set text(
-        font: ("XWGXSC+CortexSymbology", "Abbess"),
+        font: ("XWGXSC+CortexSymbology", "Amarante"),
         fill: gold,
         size: 16pt,
       )
       align(center)[#it]
     }
     #set text(
-      font: ("XWGXSC+CortexSymbology", "Goudy Old Style"),
+      font: ("XWGXSC+CortexSymbology", "OFL Sorts Mill Goudy"),
       fill: white,
       size: 10pt,
     )
@@ -105,9 +107,9 @@
         #stack(
           dir: ltr,
           spacing: 5%,
-          image("../../assets/images/cover/WW_Logo.svg", height: 13%),
-          image("../../assets/images/cover/M4 logo.png", height: 13%),
-          image("../../assets/images/cover/Cortex Prime Community - Dark Background - Color.png", height: 10%),
+          // image("../../assets/images/cover/WW_Logo.svg", height: 13%),
+          // image("../../assets/images/cover/M4 logo.png", height: 13%),
+          // image("../../assets/images/cover/Cortex Prime Community - Dark Background - Color.png", height: 10%),
         )
       ]]
 
