@@ -1,4 +1,6 @@
 #import "../templates/interior_template.typ": *
+#import "../templates/global.typ": c_sym
+
 #show: chapter.with(chapter_name: "Skills")
 
 = Skills
@@ -14,22 +16,22 @@ Skills represent natural talent, training, or experience of a character.
 
 #block(breakable: false)[
   == Rating Skills
-  Every PC has at least a #spec_c.d4 in each skill, which represents being untrained. Proficiency and expertise are represented by ratings between #spec_c.d6 and #spec_c.d12.
+  Every PC has at least a #c_sym.d4 in each skill, which represents being untrained. Proficiency and expertise are represented by ratings between #c_sym.d6 and #c_sym.d12.
 ]
 
-/ #spec_c.d4 Untrained: You have no idea what you're doing, and you're likely to create trouble when you try it, but who knows.
+/ #c_sym.d4 Untrained: You have no idea what you're doing, and you're likely to create trouble when you try it, but who knows.
 
-/ #spec_c.d6 Competent: Sufficient training to get by. You're comfortable doing this.
+/ #c_sym.d6 Competent: Sufficient training to get by. You're comfortable doing this.
 
-/ #spec_c.d8 Expert: Able to do this for a living. This is second nature to you.
+/ #c_sym.d8 Expert: Able to do this for a living. This is second nature to you.
 
-/ #spec_c.d10 Master: One of the best in the field. Likely known to others who possess the skill.
+/ #c_sym.d10 Master: One of the best in the field. Likely known to others who possess the skill.
 
-/ #spec_c.d12 Grandmaster: One of the best in the world. Known even to those outside the field.
+/ #c_sym.d12 Grandmaster: One of the best in the world. Known even to those outside the field.
 
 #block(breakable: false)[
   == Specialties
-  A specialty is a narrow area of concentration or focus. It provides a bonus #spec_c.d6 to any roll that falls into that narrow area. Specialties are attached to a skill the governs them, but can be used with a different skill if an appropriate narrative case can be made.
+  A specialty is a narrow area of concentration or focus. It provides a bonus #c_sym.d6 to any roll that falls into that narrow area. Specialties are attached to a skill the governs them, but can be used with a different skill if an appropriate narrative case can be made.
 ]
 
 There is no set list of specialties, but the skill list that follows provides suggested specialties for every skill
@@ -311,8 +313,8 @@ Radical scientists -- Etherites, Ecstatics, Virtual Adepts, and even some maveri
   Sometimes more than one role might apply. Sneak up on a poacher with Scout or Scoundrel? Give battlefield orders with SOLDIER or SPEAKER? In those cases, choose the one your character favors.
 
   === Roles And Specialties
-  Specialties are no different when used with roles. For example, you might use Soldier to display your general prowess with weapons, but you might also have a specialty that you add when using certain types of weapons, such as Swordplay #spec_c.d6, Shotguns #spec_c.d6, or Plasma Rifles #spec_c.d8. When you follow a trail through a dense forest, your dice pool might not only include Scout but also an extra die for your Tracking specialty.
+  Specialties are no different when used with roles. For example, you might use Soldier to display your general prowess with weapons, but you might also have a specialty that you add when using certain types of weapons, such as Swordplay #c_sym.d6, Shotguns #c_sym.d6, or Plasma Rifles #c_sym.d8. When you follow a trail through a dense forest, your dice pool might not only include Scout but also an extra die for your Tracking specialty.
 
   === Roles At Character Creation
-  Assign the following die ratings to your five roles, in any order: #spec_c.d10, #spec_c.d8, #spec_c.d6, #spec_c.d6, #spec_c.d4.
+  Assign the following die ratings to your five roles, in any order: #c_sym.d10, #c_sym.d8, #c_sym.d6, #c_sym.d6, #c_sym.d4.
 ]

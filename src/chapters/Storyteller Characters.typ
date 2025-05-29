@@ -1,4 +1,6 @@
 #import "../templates/interior_template.typ": *
+#import "../templates/global.typ": c_sym
+
 #show: chapter.with(chapter_name: "Storyteller Characters")
 
 = Storyteller Characters
@@ -24,7 +26,7 @@ STCs are split into two specific types, listed here for easy reference. They wil
 
 #block(breakable: false)[
   === Creating An Extra
-  Extras need only a single die with a flavorful trait attached to them. That trait does not need to be equivalent to the PCs. Something as simple as Hired Assassin #spec_c.d10 or Cut-Rate Thief #spec_c.d6 works just fine. If you like, add another trait during play as things progress; you can upgrade any extra to a driven STC this way. If the extra is part of a character file, it might already have a die rating, so you can use that in a pinch.
+  Extras need only a single die with a flavorful trait attached to them. That trait does not need to be equivalent to the PCs. Something as simple as Hired Assassin #c_sym.d10 or Cut-Rate Thief #c_sym.d6 works just fine. If you like, add another trait during play as things progress; you can upgrade any extra to a driven STC this way. If the extra is part of a character file, it might already have a die rating, so you can use that in a pinch.
 ]
 
 
@@ -54,11 +56,11 @@ A drive consists of a short statement, such as "Liberate the Tribe", "Earn Other
 
 A creature's interactions with the PCs can change the size of its drives, assuming the creature sticks around after its initial interaction with the PCs.
 
-Drives Evolve. After the PCs engage with a creature or other GMC that has drives, at the end of the scene (or the end of session, depending on how quickly the GM wants the situation to evolve), the GM can step up one drive (to a maximum of #spec_c.d12), but must also step one drive down (to a minimum of #spec_c.d4). If a PC won a conflict against that creature, the GM can ask them to decide which drive would step up. Either way, the choice of which drives step up or down should reflect the events that took place.
+Drives Evolve. After the PCs engage with a creature or other GMC that has drives, at the end of the scene (or the end of session, depending on how quickly the GM wants the situation to evolve), the GM can step up one drive (to a maximum of #c_sym.d12), but must also step one drive down (to a minimum of #c_sym.d4). If a PC won a conflict against that creature, the GM can ask them to decide which drive would step up. Either way, the choice of which drives step up or down should reflect the events that took place.
 
-These changes to drive die ratings are permanent until another effect alters them. Once a drive steps up to #spec_c.d12, that creature emerges as a fully-realized major enemy, rival, or ally of the PCs, deeply motivated to pursue that drive at all costs.
+These changes to drive die ratings are permanent until another effect alters them. Once a drive steps up to #c_sym.d12, that creature emerges as a fully-realized major enemy, rival, or ally of the PCs, deeply motivated to pursue that drive at all costs.
 
-While a creature has a #spec_c.d12 drive, the GM can step that drive back down to #spec_c.d10 at any time to end a scene in way that favors the creature. This could allow a creature to make an impossible escape, rescue an important character, defeat or capture a number of enemies, achieve a startling victory, attain a new level of power or influence, assume their final form, split up a group, conquer or destroy a crucial location, etc. However, it can't take out a PC or change the outcome of a previous conflict.
+While a creature has a #c_sym.d12 drive, the GM can step that drive back down to #c_sym.d10 at any time to end a scene in way that favors the creature. This could allow a creature to make an impossible escape, rescue an important character, defeat or capture a number of enemies, achieve a startling victory, attain a new level of power or influence, assume their final form, split up a group, conquer or destroy a crucial location, etc. However, it can't take out a PC or change the outcome of a previous conflict.
 
 
 #block(breakable: false)[
@@ -87,11 +89,11 @@ Many more examples can be seen in Lynn Jones' #link("https://ljrstudiosouth.itch
 
 #driven_STC(
   name: [Extraordinary Citisen],
-  challenge_pool: [#spec_c.d8 #spec_c.d8],
-  drive_1: [Satisfy Demands of Management #spec_c.d8],
-  drive_2: [Advance My Rank #spec_c.d8],
+  challenge_pool: [#c_sym.d8 #c_sym.d8],
+  drive_1: [Satisfy Demands of Management #c_sym.d8],
+  drive_2: [Advance My Rank #c_sym.d8],
   traits: [
-    Any form of psychokinesis #spec_c.d8\
-    Intelligence #spec_c.d8
+    Any form of psychokinesis #c_sym.d8\
+    Intelligence #c_sym.d8
   ],
 )

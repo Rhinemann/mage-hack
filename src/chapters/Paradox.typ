@@ -1,4 +1,6 @@
 #import "../templates/interior_template.typ": *
+#import "../templates/global.typ": c_sym
+
 #show: chapter.with(chapter_name: "Paradox")
 
 = Paradox
@@ -18,7 +20,7 @@ Paradox can take a variety of forms. Backlash, reality directly attacking the of
   Mages accumulate Paradox into a dice pool from different sources, they are as follows:
 ]
 
-/ Casting vulgar magick: Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds #spec_c.d6 to Paradox and gains a #spec_c.pp.
+/ Casting vulgar magick: Whenever a Sleeper witnesses you using Magick in obvious ways, the player adds #c_sym.d6 to Paradox and gains a #c_sym.pp.
 
 / Hitching while casting a spell: Whenever a player rolls a hitch, the Storyteller may add that die to Paradox instead of Peril, paying for it as normal.
 
@@ -27,7 +29,7 @@ Paradox can take a variety of forms. Backlash, reality directly attacking the of
 #sidebar()[
   #block(breakable: false)[
     === Optional Rule: Harsh Paradox
-    If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to Paradox instead of a #spec_c.d6.
+    If a Storyteller wants the vulgar magick to be more punishing they may decide to add the effect die of the spell to Paradox instead of a #c_sym.d6.
   ]
 ]
 
@@ -41,4 +43,4 @@ The Storyteller is able to use Paradox dice from to cause different effects. The
 
 / Quiet: Spend any number of dice from Paradox to create a crisis pool of the same dice value representing the character's Quiet.
 
-/ Paradox Realm: Spend a #spec_c.d10 or a #spec_c.d12, and any additional number of dice from Paradox to separate one player into a Paradox realm, every additional die spent will constitute the Realm's crisis pool.
+/ Paradox Realm: Spend a #c_sym.d10 or a #c_sym.d12, and any additional number of dice from Paradox to separate one player into a Paradox realm, every additional die spent will constitute the Realm's crisis pool.

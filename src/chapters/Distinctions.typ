@@ -1,4 +1,6 @@
 #import "../templates/interior_template.typ": *
+#import "../templates/global.typ": c_sym
+
 #show: chapter.with(chapter_name: "Distinctions")
 
 #set table(align: horizon + center)
@@ -23,7 +25,7 @@
 #[
   #show: columns.with(2, gutter: 1em)
 
-  Who are you and where do you come from? What do others remember about you? How are you described to others in the tales told of your adventures? You are the grand sum of your distinctions. Every PC starts with three distinctions rated at #spec_c.d8. You always include one of your distinctions in your dice pool. Which one you choose may have a part to play in the outcome of your test, contest, or challenge.
+  Who are you and where do you come from? What do others remember about you? How are you described to others in the tales told of your adventures? You are the grand sum of your distinctions. Every PC starts with three distinctions rated at #c_sym.d8. You always include one of your distinctions in your dice pool. Which one you choose may have a part to play in the outcome of your test, contest, or challenge.
 
   Each distinctions belongs to one of three groups:
   - Your personality & life before Awakening
@@ -62,23 +64,23 @@
 
   *To Make Your Focus Distinction,* choose or roll a paradigm from the Paradigm Table and then add one or two practices and a number of instruments. Practice and instruments may be created by the player or rolled from respective tables. Practice makes your focus distinction. You are encouraged to add a more detailed description, including the instruments and the paradigm used for this distinction.
 
-  *To Use the Descriptors Table,* choose any descriptor on the table, or you can roll randomly. If you roll, first roll a #spec_c.d12 and find the row for the resulting number. Then roll a #spec_c.d4, and find the column for that result. Your random descriptor is where the row meets the column.
+  *To Use the Descriptors Table,* choose any descriptor on the table, or you can roll randomly. If you roll, first roll a #c_sym.d12 and find the row for the resulting number. Then roll a #c_sym.d4, and find the column for that result. Your random descriptor is where the row meets the column.
 
-  *To Use the Nouns Table,* choose any noun on the table, or you can roll randomly. If you roll, first roll a #spec_c.d12 and find the row for the resulting number. Then roll a #spec_c.d4, and find the column for that result. Your random noun is where the row meets the column.
+  *To Use the Nouns Table,* choose any noun on the table, or you can roll randomly. If you roll, first roll a #c_sym.d12 and find the row for the resulting number. Then roll a #c_sym.d4, and find the column for that result. Your random noun is where the row meets the column.
 
-  *To Use the Catchphrases Table,* choose any catchphrase on the table, or you can roll randomly. If you roll, first roll a #spec_c.d8 and find the row for the resulting number. Then roll a #spec_c.d4, and find the column for that result. Your random catchphrase is where the row meets the column.
+  *To Use the Catchphrases Table,* choose any catchphrase on the table, or you can roll randomly. If you roll, first roll a #c_sym.d8 and find the row for the resulting number. Then roll a #c_sym.d4, and find the column for that result. Your random catchphrase is where the row meets the column.
 
-  *To Use the Tradition table,* choose any Tradition on the table, or you can roll randomly. If you roll, roll a #spec_c.d10 and find the row for the resulting number. Your random Tradition is on that row.
+  *To Use the Tradition table,* choose any Tradition on the table, or you can roll randomly. If you roll, roll a #c_sym.d10 and find the row for the resulting number. Your random Tradition is on that row.
 
-  *To Use the Convention table,* choose any Convention on the table, or you can roll randomly. If you roll, roll a #spec_c.d6 and find the row for the resulting number. Your random Convention is on that row.
+  *To Use the Convention table,* choose any Convention on the table, or you can roll randomly. If you roll, roll a #c_sym.d6 and find the row for the resulting number. Your random Convention is on that row.
 
-  *To Use the Craft table,* choose any Craft on the table, or you can roll randomly. If you roll, roll a #spec_c.d12 and find the row for the resulting number. Your random Craft is on that row.
+  *To Use the Craft table,* choose any Craft on the table, or you can roll randomly. If you roll, roll a #c_sym.d12 and find the row for the resulting number. Your random Craft is on that row.
 
-  *To use Paradigm Table,* choose any paradigm on the table, or you can roll randomly. If you roll, first roll a #spec_c.d6 and find the row for the resulting number. Then roll a #spec_c.d4, and find the column for that result. Your random paradigm is where the row meets the column.
+  *To use Paradigm Table,* choose any paradigm on the table, or you can roll randomly. If you roll, first roll a #c_sym.d6 and find the row for the resulting number. Then roll a #c_sym.d4, and find the column for that result. Your random paradigm is where the row meets the column.
 
-  *To use Practice Table,* choose any practice on the table, or you can roll randomly. If you roll, first roll a #spec_c.d6 and find the row for the resulting number. Then roll a #spec_c.d4, and find the column for that result. Your random practice is where the row meets the column.
+  *To use Practice Table,* choose any practice on the table, or you can roll randomly. If you roll, first roll a #c_sym.d6 and find the row for the resulting number. Then roll a #c_sym.d4, and find the column for that result. Your random practice is where the row meets the column.
 
-  *To use Instrument Table,* choose any seven Instrument on the table, or you can roll randomly. If you roll, first roll a #spec_c.d10 and find the row for the resulting number. Then roll a #spec_c.d6, and find the column for that result. Your random instrument is where the row meets the column, repeat that 7 times to get your full instrument list.
+  *To use Instrument Table,* choose any seven Instrument on the table, or you can roll randomly. If you roll, first roll a #c_sym.d10 and find the row for the resulting number. Then roll a #c_sym.d6, and find the column for that result. Your random instrument is where the row meets the column, repeat that 7 times to get your full instrument list.
 
 
   #colbreak()

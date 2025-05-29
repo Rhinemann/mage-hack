@@ -1,4 +1,6 @@
 #import "../templates/interior_template.typ": *
+#import "../templates/global.typ": c_sym
+
 #show: chapter.with(chapter_name: "Character Creation")
 
 = Character Creation
@@ -22,21 +24,21 @@
 
 #block(breakable: false)[
   === Step 2: Assign Attributes
-  Each attribute defaults to #spec_c.d4 and you have 12 points to step them up.
+  Each attribute defaults to #c_sym.d4 and you have 12 points to step them up.
 ]
 
-Maximum attribute value at character creation is #spec_c.d10.
+Maximum attribute value at character creation is #c_sym.d10.
 
 #block(breakable: false)[
   === Step 3: Assign Skills
-  Each Skill defaults to #spec_c.d4 and you have 16 points to step up skills.
+  Each Skill defaults to #c_sym.d4 and you have 16 points to step up skills.
 ]
 
-Maximum skill value at character creation is #spec_c.d10.
+Maximum skill value at character creation is #c_sym.d10.
 
 #block(breakable: false)[
   === Step 4: Spheres
-  You have 6 points to spend on sphere rating, starting on #spec_c.d4, maximum Sphere rating at character creation is #spec_c.d8.
+  You have 6 points to spend on sphere rating, starting on #c_sym.d4, maximum Sphere rating at character creation is #c_sym.d8.
 ]
 
 At least one point must be assigned to Tradition's affinity Sphere, to reflect your training in Tradition's specialty.
@@ -58,9 +60,9 @@ At least one point must be assigned to Tradition's affinity Sphere, to reflect y
 
 - Two points buy a new locked SFX;
 
-At character creation Signature Assets may not be larger than #spec_c.d8.
+At character creation Signature Assets may not be larger than #c_sym.d8.
 
 #block(breakable: false)[
   === Step 6: Assign SFX and Quintessence Pool
-  Write down your SFX. Assign #spec_c.d6 #spec_c.d6 to the Quintessence pool, this is your Quintessence pool size.
+  Write down your SFX. Assign #c_sym.d6 #c_sym.d6 to the Quintessence pool, this is your Quintessence pool size.
 ]

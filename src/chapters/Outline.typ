@@ -1,4 +1,5 @@
 #import "../templates/interior_template.typ": *
+
 #show: chapter.with(chapter_name: "Table of Contents")
 
 #set text(size: 10pt)

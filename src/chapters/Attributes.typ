@@ -1,4 +1,6 @@
 #import "../templates/interior_template.typ": *
+#import "../templates/global.typ": c_sym
+
 #show: chapter.with(chapter_name: "Attributes")
 
 = Attributes
@@ -12,24 +14,24 @@ Attributes represent raw ability and essential traits every character possesses.
   Attributes are the second PC's three primary trait sets, so they are to be used in every roll, as any action can fall into one of these areas: mental, physical and social, and a specific situation determines which exact attribute will be used.
 ]
 
-Attributes serve as the second of the three Prime Sets used in every roll, rated from #spec_c.d4 to #spec_c.d12.
+Attributes serve as the second of the three Prime Sets used in every roll, rated from #c_sym.d4 to #c_sym.d12.
 
 The nine Attributes are split into three categories: Physical, Social, Mental.
 
 #block(breakable: false)[
   == Rating Attributes
-  Attributes usually have a rating from #spec_c.d6 to #spec_c.d10, although there are exceptions.
+  Attributes usually have a rating from #c_sym.d6 to #c_sym.d10, although there are exceptions.
 ]
 
-/ #spec_c.d4 Poor: Notably deficient in this area.
+/ #c_sym.d4 Poor: Notably deficient in this area.
 
-/ #spec_c.d6 Typical: An average degree of ability.
+/ #c_sym.d6 Typical: An average degree of ability.
 
-/ #spec_c.d8 Excellent: Above-average performance.
+/ #c_sym.d8 Excellent: Above-average performance.
 
-/ #spec_c.d10 Remarkable: Greatly above average.
+/ #c_sym.d10 Remarkable: Greatly above average.
 
-/ #spec_c.d12 Incredible: Peak levels of ability.
+/ #c_sym.d12 Incredible: Peak levels of ability.
 
 #block(breakable: false)[
   == Attribute List
