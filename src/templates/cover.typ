@@ -1,7 +1,5 @@
 #import "interior_template.typ": gold, purple
 
-#let cover_image = "images/cover/"
-
 #let placeholder_im = rect(
   fill: gold.transparentize(40%),
   width: 80%,
@@ -12,7 +10,7 @@
 ]
 
 #let logo = context {
-  set text(font: "Olde English", fill: gold, tracking: 1pt, bottom-edge: "bounds", top-edge: "bounds")
+  set text(font: "Amarante", fill: gold, tracking: 1pt, bottom-edge: "bounds", top-edge: "bounds")
   set block(above: 4pt, below: 4pt)
 
   show text: it => {
@@ -35,10 +33,6 @@
 
 #let front_cover = {
   page(
-    // background: {
-    //   place(image("../../assets/images/cover/Silk.jpg", width: 100%, height: 100%))
-    //   place(image("../../assets/images/cover/Frame.png", width: 100%, height: 100%))
-    // },
     fill: purple,
     paper: "us-letter",
     margin: 30mm,
@@ -50,7 +44,7 @@
 
     #v(1fr)
 
-    #image("../../assets/images/cover/result.png", width: 80%)
+    #image("../../assets/images/result_sharp.png", width: 80%)
 
     #v(1fr)
 
@@ -77,10 +71,6 @@
 
 #let back_cover = {
   page(
-    // background: {
-    //   place(image("../../assets/images/cover/Silk.jpg", width: 100%, height: 100%))
-    //   place(image("../../assets/images/cover/Frame.png", width: 100%, height: 100%))
-    // },
     fill: purple,
     paper: "us-letter",
     margin: 30mm,
@@ -107,9 +97,6 @@
         #stack(
           dir: ltr,
           spacing: 5%,
-          // image("../../assets/images/cover/WW_Logo.svg", height: 13%),
-          // image("../../assets/images/cover/M4 logo.png", height: 13%),
-          // image("../../assets/images/cover/Cortex Prime Community - Dark Background - Color.png", height: 10%),
         )
       ]]
 
