@@ -1,33 +1,34 @@
-#import "templates/cover.typ": front_cover, temp_cover, back_cover
-#import "templates/interior_template.typ": *
+#import "templates/cover.typ": front_cover, back_cover
 
-#set document(title: "Mage: the Ascension Cortex", author: "Rhinemann");
+#set document(title: "Mage: The Ascension Primed by Cortex", author: "Rhinemann");
 
 #front_cover
 
 #include "chapters/Credits.typ"
-#include "chapters/Outline.typ"
+#include "chapters/What_is_Mage.typ"
 
-#include "chapters/Intro.typ"
+// #include "chapters/Outline.typ"
 
-#include "chapters/Game Rules.typ"
+// #include "chapters/Intro.typ"
 
-#include "chapters/Character Creation.typ"
-#include "chapters/Character Advancement.typ"
+// #include "chapters/Game Rules.typ"
 
-// Character Traits
-#include "chapters/Distinctions.typ"
-#include "chapters/Attributes.typ"
-#include "chapters/Skills.typ"
-#include "chapters/Assets.typ"
-#include "chapters/True Magick.typ"
-#include "chapters/Quintessence.typ"
-#include "chapters/Paradox.typ"
+// #include "chapters/Character Creation.typ"
+// #include "chapters/Character Advancement.typ"
 
-#include "chapters/Talents.typ"
+// // Character Traits
+// #include "chapters/Distinctions.typ"
+// #include "chapters/Attributes.typ"
+// #include "chapters/Skills.typ"
+// #include "chapters/Assets.typ"
+// #include "chapters/True Magick.typ"
+// #include "chapters/Quintessence.typ"
+// #include "chapters/Paradox.typ"
 
-#include "chapters/Consequences.typ"
+// #include "chapters/Talents.typ"
 
-#include "chapters/Storyteller Characters.typ"
+// #include "chapters/Consequences.typ"
+
+// #include "chapters/Storyteller Characters.typ"
 
 #back_cover
