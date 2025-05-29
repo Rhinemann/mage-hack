@@ -1,55 +1,35 @@
 #import "../templates/interior_template.typ": chapter
+#import "../templates/global.typ": title_content, title_text
 
 #show: chapter.with(chapter_name: "Credits")
-
 #show: columns.with(2, gutter: 1em)
 
-// #columns(gutter: 1em)
 
-#let subh(body) = {
-  set text(font: "Amarante", size: 14pt)
-  set block(below: 0.5em)
-  body
-}
+= Credits
+#title_content is written, designed, and developed by Rhinemann
 
-#subh[Credits]
+Design inspirations and thanks to:
 
-#par(first-line-indent: 0pt)[
-  *Written By:* Rhinemann\
-  *Developed By:* Rhinemann\
-  *Edited By:* Rhinemann
-]
+#smallcaps[Cortex Lite]: Jeremy Forbing, Miriam Robern, Jasmine Barlow, and Lynn Jones
 
-#v(1fr)
+#smallcaps[MoonLite]: Jeremy Forbing
 
-// #align(center)[#image("../../assets/images/interior/WW_Logo.svg", width: 50%)]
+Manual of Monsters, Minions & Mountebanks: Lynn Jones
 
-#colbreak()
+Gear rules and SFX in the Emporiun of the Speaking Lands: Miriam Robern
 
-#subh[Special Thanks to:]
+The Arcanist's Toolkit: Riley Routh
 
-Jeremy.Forbing, Miriam Robern, Vecna and the entire Cortex Prime discord for the input, brainstorming, advice and help.
+Special thanks to: Vecna and the entire Cortex Prime discord for the input, brainstorming, advice and help.
 
-Lynn Jones for Manual of Monsters, Minions & Mountebanks
 
-Jeremy.Forbing, Lynn Jones, Miriam Robern and Jasmine Barlow for Cortex Lite.
+= #title_text
+This is a tabletop roleplaying game inspired by rules originally published as #smallcaps[Cortex Lite], that was designed as a "generic" tabletop RPG to be used in any setting.
 
-Riley Routh for The Arcanist's Toolkit, specifically the SFX.
+#title_content is compatible with _Cortex Prime_ roleplaying game system.
 
-Miriam Robern for the Gear rules and SFX in the Emporiun of the Speaking Lands.
+#title_content is an adaptation of Mage: The Ascension, a classic World of Darkness game about mages living in the shadows of a world akin to ours.
 
-Cam Banks for designing Cortex Prime.
+World of Darkness, Mage: The Ascension, and their respective logos, icons and symbols are trademarks or registered trademarks of Paradox Interactive AB. All rights reserved.
 
-#v(1fr)
-
-This work is compatible with the Cortex Prime role playing game system, designed by Cam Banks, edited by Amanda Valentine, and owned by Dire Wolf Digital™ ©.
-
-Cortex, Cortex Prime, and associated logos are registered trademarks of Dire Wolf Digital, LLC. ©️™️2025
-
-// World of Darkness, Vampire: The Masquerade, Vampire: The Dark Ages, Victorian Age: Vampire, Werewolf: The Apocalypse, Werewolf: The Wild West, Mage: The Ascension, Mage: The Sorcerers Crusade, Wraith: The Oblivion, Wraith: The Great War, Changeling: The Dreaming, Hunter: The Reckoning, Demon: The Fallen, Mummy: The Resurrection, Orpheus, Exalted, Chronicles of Darkness, Vampire:The Requiem, Werewolf: The Forsaken, Mage: The Awakening, Changeling: The Lost, Hunter: The Vigil, Giest: The Sin Eaters, Demon: The Descent, Mummy: The Curse, Beast: The Primordial, Promethean: The Created, World of Darkness, Storyteller System™, Storytelling System™, and Storytellers Vault™ and their respective logos, icons and symbols are trademarks or registered trademarks of Paradox Interactive AB. All rights reserved.
-
-/* #align(center)[#image(
-    "../../assets/images/interior/Cortex Prime Community - Light Background.png",
-    width: 70%,
-  )
-] */
+// World of Darkness, Vampire: The Masquerade, Vampire: The Dark Ages, Victorian Age: Vampire, Werewolf: The Apocalypse, Werewolf: The Wild West, Mage: The Ascension, Mage: The Sorcerers Crusade, Wraith: The Oblivion, Wraith: The Great War, Changeling: The Dreaming, Hunter: The Reckoning, Demon: The Fallen, Mummy: The Resurrection, Orpheus, Exalted, Chronicles of Darkness, Vampire:The Requiem, Werewolf: The Forsaken, Mage: The Awakening, Changeling: The Lost, Hunter: The Vigil, Geist: The Sin Eaters, Demon: The Descent, Mummy: The Curse, Beast: The Primordial, Promethean: The Created, World of Darkness, Storyteller System™, Storytelling System™, and Storytellers Vault™ and their respective logos, icons and symbols are trademarks or registered trademarks of Paradox Interactive AB. All rights reserved.
