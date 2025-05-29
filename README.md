@@ -11,10 +11,10 @@ This is a conversion of Mage the Ascension roleplaying game, based mostly on the
 # Rules PDF
 <p align="center"><a href="https://rhinemann.github.io/mage-hack/target/Mage Conversion.pdf" type="application/pdf"><img src="assets/images/cover.webp" alt="Rules"></a></p>
 
-# Character Sheet
+<!-- # Character Sheet
 <p align="center">
     For <a href="https://cortex.engard.me/">Cortex Prime Toolkit</a> by kaelri
     <a href="https://rhinemann.github.io/mage-hack/target/Character_sheet_template.json" download>
         <img src="assets/images/sheet_cover.webp" alt="Rules">
     </a>
-</p>
+</p> -->

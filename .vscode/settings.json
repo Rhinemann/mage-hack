@@ -1,18 +1,7 @@
 {
-    "[typst]": {
-        "editor.formatOnSave": true
-    },
-
     "tinymist.fontPaths": [
         "${workspaceFolder}/assets/fonts"
     ],
-    "tinymist.preview.cursorIndicator": true,
-    "tinymist.preview.showInActivityBar": true,
     "tinymist.rootPath": "${workspaceFolder}",
-    "tinymist.formatterMode": "typstyle",
     "tinymist.outputPath": "${workspaceFolder}/target/$name",
-    "editor.wordWrap": "on",
-    // "files.exclude": {
-    //     "**/.git": false
-    // },
 } 
