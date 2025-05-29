@@ -1,13 +1,4 @@
-#import "interior_template.typ": gold, purple
-
-#let placeholder_im = rect(
-  fill: gold.transparentize(40%),
-  width: 80%,
-  inset: 30pt,
-)[
-  #set text(font: "Amarante", size: 20pt, fill: white)
-  #rotate(-30deg, reflow: true)[Placeholder image!]
-]
+#import "global.typ": gold, purple
 
 #let logo = context {
   set text(font: "Amarante", fill: gold, tracking: 1pt, bottom-edge: "bounds", top-edge: "bounds")
@@ -33,7 +24,10 @@
 
 #let front_cover = {
   page(
-    fill: purple,
+    background: {
+      place(image("../../assets/images/Silk.jpg", width: 100%, height: 100%))
+      place(image("../../assets/images/Frame.png", width: 100%, height: 100%))
+    },
     paper: "us-letter",
     margin: 30mm,
   )[
@@ -52,32 +46,17 @@
   ]
 }
 
-#let temp_cover = {
-  show heading: set text(fill: yellow, size: 60pt)
-  page(
-    fill: purple,
-    paper: "us-letter",
-    margin: 30mm,
-  )[
-    #set text(font: "Amarante", size: 20pt, fill: white)
-    #set align(center)
-
-    #logo
-    #v(1fr)
-    A guide to Cortex Prime system conversion of the game
-
-  ]
-}
-
 #let back_cover = {
   page(
-    fill: purple,
+    background: {
+      place(image("../../assets/images/Silk.jpg", width: 100%, height: 100%))
+    },
     paper: "us-letter",
     margin: 30mm,
   )[
     #show heading: it => {
       set text(
-        font: ("XWGXSC+CortexSymbology", "Amarante"),
+        font: ("XWGXSC+CortexSymbology", "Abbess"),
         fill: gold,
         size: 16pt,
       )
@@ -91,14 +70,16 @@
 
     #align(center)[#logo]
 
-    #v(1fr)
+    /* #v(1fr)
 
     #block(width: 100%)[#align(center + horizon)[
         #stack(
           dir: ltr,
           spacing: 5%,
+          image("../../assets/images/cover/WW_Logo.svg", height: 13%),
+          image("../../assets/images/cover/M4 logo.png", height: 13%),
+          image("../../assets/images/cover/Cortex Prime Community - Dark Background - Color.png", height: 10%),
         )
-      ]]
-
+      ]] */
   ]
 }

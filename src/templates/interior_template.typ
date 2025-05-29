@@ -1,66 +1,31 @@
-#let gold = rgb("#FFD700") // gold
-#let purple = rgb("#4B0082") // indigo
-
-#let par_indent = 1em
-
-#let symbols = (
-  d4: symbol("\u{2463}"),
-  d6: symbol("\u{2465}"),
-  d8: symbol("\u{2467}"),
-  d10: symbol("\u{2469}"),
-  d12: symbol("\u{246B}"),
-  pp: symbol("\u{24C5}"),
-)
-
-#let spec_c = (:)
-
-#for (key, val) in symbols.pairs() {
-  spec_c.insert(key, text(purple, val))
-}
+#import "global.typ": gold, purple, par_indent, symbols, title_text
 
 #let chapter(chapter_name: "", body) = {
   set text(
     font: ("XWGXSC+CortexSymbology", "OFL Sorts Mill Goudy"),
-    size: 10pt,
+    size: 12pt,
     lang: "en",
     hyphenate: false,
   )
 
   set page(
-    // background: context {
-    //   let page_num = here().page()
-    //   let side = if calc.odd(page_num + 1) {
-    //     "left"
-    //   } else {
-    //     "right"
-    //   }
-    //   // place(
-    //   //   image(
-    //   //     "../../assets/images/interior/Background " + side + ".jpg",
-    //   //     width: 100%,
-    //   //     height: 100%,
-    //   //   ),
-    //   // )
-    //   // place(
-    //   //   image(
-    //   //     "../../assets/images/interior/Border " + side + ".png",
-    //   //     width: 100%,
-    //   //     height: 100%,
-    //   //   ),
-    //   // )
-    // },
-    fill: rgb("#dbcba0"),
+    background: context {
+      let page_num = here().page()
+      let background_src = if calc.odd(page_num + 1) { "../../assets/images/bg_left.jpg" } else {
+        "../../assets/images/bg_right.jpg"
+      }
+
+      place(image(background_src, width: 100%, height: 100%))
+    },
     paper: "us-letter",
-    margin: (top: 25mm, bottom: 30mm, inside: 15mm, outside: 30mm),
+    margin: (top: 70pt, bottom: 85pt, inside: 40pt, outside: 78pt),
     footer: context {
-      set text(font: "Amarante", size: 12pt)
-      let h_skip = h(1em)
       let page_num = here().page()
 
       if calc.odd(page_num + 1) {
-        [#page_num #h_skip Mage: The Ascension Cortex Conversion]
+        text(font: "Amarante", size: 12pt)[#page_num #h(1em) #title_text]
       } else {
-        align(right)[#chapter_name #h_skip #page_num]
+        align(right)[#text(font: "Amarante", size: 12pt)[#chapter_name #h(1em) #page_num]]
       }
     },
     footer-descent: 10%,
@@ -71,9 +36,9 @@
   show link: strong
 
   set par(
-    leading: 0.2em,
+    leading: 0.5em,
     linebreaks: "optimized",
-    spacing: 1em,
+    spacing: 1.3em,
     // first-line-indent: (amount: par_indent, all: true),
   )
 
@@ -95,17 +60,18 @@
   show heading: set text(font: ("XWGXSC+CortexSymbology", "Amarante"))
   show heading: set block(below: 0.5em)
 
-  show heading.where(level: 1): it => {
+  /* show heading.where(level: 1): it => {
     set text(size: 24pt)
     set block(below: 0.3em)
     show line: set block(above: 0.3em, below: 0.5em)
 
     it
-    line(length: 100%, stroke: 2pt)
-  }
+    line(length: 100%, stroke: 2pt + purple)
+  } */
+  show heading.where(level: 1): set text(size: 24pt, fill: purple)
   show heading.where(level: 2): set text(size: 20pt)
   show heading.where(level: 3): set text(size: 16pt)
-  show heading.where(level: 4): set text(size: 12pt)
+  show heading.where(level: 4): set text(size: 14pt)
 
   show strong: set text(fill: purple)
 
@@ -113,24 +79,33 @@
 }
 
 #let sidebar(body) = {
-  // let bg = tiling(size: (139.7mm, 108mm))[
-  //   #place(image("../../assets/images/interior/sidebar.jpg", width: 100%, height: 100%))
-  // ]
-  // show regex(symbols.values().join("|")): text.with(gold)
-  // show strong: set text(fill: gold)
+  let bg = tiling(size: (139.7mm, 108mm))[
+    #place(image("../../assets/images/sidebar.jpg", width: 100%, height: 100%))
+  ]
+  show regex(symbols.values().join("|")): text.with(gold)
+  show strong: set text(fill: gold)
   show heading: set text(
     font: ("XWGXSC+CortexSymbology", "Amarante"),
-    // fill: gold,
+    fill: gold,
   )
   set text(
-    // font: ("XWGXSC+CortexSymbology", "Futura PT"),
-    font: "XWGXSC+CortexSymbology",
-    // fill: white,
+    font: ("XWGXSC+CortexSymbology", "OFL Sorts Mill Goudy"),
+    fill: white,
   )
 
-  // block(width: 100%, inset: 10pt, stroke: gold + 3pt, fill: bg)[
-  block(width: 100%, inset: 10pt, stroke: gold + 3pt)[
-    #body
+  block(
+    width: 100%,
+    inset: 5pt,
+    stroke: gradient.linear(yellow.darken(10%), yellow.darken(40%), angle: 45deg) + 3pt,
+    fill: bg,
+  )[
+    #block(
+      width: 100%,
+      inset: 10pt,
+      stroke: gradient.linear(yellow.darken(10%), yellow.darken(60%), angle: 45deg) + 2pt,
+    )[
+      #body
+    ]
   ]
 }
 
