@@ -9,10 +9,16 @@
     number-type: "lining",
   )
 
+  set par(
+    leading: 0.4em,
+    linebreaks: "optimized",
+    spacing: 1.3em,
+  )
+
   set page(
     background: context {
-      let page_num = here().page()
-      let background_src = if calc.odd(page_num + 1) { "../../assets/images/bg_left.jpg" } else {
+      let (num,) = counter(page).get()
+      let background_src = if calc.odd(num) { "../../assets/images/bg_left.jpg" } else {
         "../../assets/images/bg_right.jpg"
       }
 
@@ -22,12 +28,12 @@
     margin: (top: 70pt, bottom: 90pt, inside: 40pt, outside: 80pt),
     footer: context {
       set text(font: "OFL Sorts Mill Goudy", size: 12pt)
-      let page_num = here().page()
+      let (num,) = counter(page).get()
 
-      if calc.odd(page_num + 1) {
-        [#page_num #h(1em) #smallcaps(title_text)]
+      if calc.odd(num) {
+        align(left)[#num #h(1em) #smallcaps(title_text)]
       } else {
-        align(right)[ #smallcaps(chapter_name) #h(1em) #page_num]
+        align(right)[#smallcaps(chapter_name) #h(1em) #num]
       }
     },
     footer-descent: 20%,
@@ -35,14 +41,7 @@
   )
 
   set terms(hanging-indent: 1em, separator: [: ])
-
-  show link: strong
-
-  set par(
-    leading: 0.4em,
-    linebreaks: "optimized",
-    spacing: 1.3em,
-  )
+  set columns(gutter: 2.5em)
 
   show table: set align(center)
   set table(
@@ -59,6 +58,10 @@
     emph(it)
   }
 
+  show heading.where(level: 1): set text(size: 24pt, fill: purple)
+  show heading.where(level: 2): set text(size: 20pt)
+  show heading.where(level: 3): set text(size: 16pt)
+  show heading.where(level: 4): set text(size: 14pt)
   show heading: it => {
     set text(font: ("XWGXSC+CortexSymbology", "OFL Sorts Mill Goudy"))
     set block(above: 1em, below: 0.5em)
@@ -67,12 +70,8 @@
     it
   }
 
-  show heading.where(level: 1): set text(size: 24pt, fill: purple)
-  show heading.where(level: 2): set text(size: 20pt)
-  show heading.where(level: 3): set text(size: 16pt)
-  show heading.where(level: 4): set text(size: 14pt)
-
   show strong: set text(fill: purple)
+  show link: strong
 
   body
 }
