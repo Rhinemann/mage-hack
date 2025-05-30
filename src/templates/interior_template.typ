@@ -28,7 +28,8 @@
         align(right)[#text(font: "Amarante", size: 12pt)[#chapter_name #h(1em) #page_num]]
       }
     },
-    footer-descent: 10%,
+    footer-descent: 20%,
+    columns: 2,
   )
 
   set terms(hanging-indent: 1em, separator: [: ])

@@ -2,7 +2,6 @@
 #import "../templates/global.typ": c_sym, title_content
 
 #show: chapter.with(chapter_name: "What is Mage?")
-#show: columns.with(2, gutter: 1em)
 
 
 = What is Mage?
