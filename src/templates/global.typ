@@ -18,5 +18,5 @@
   c_sym.insert(key, text(purple, val))
 }
 
-#let title_content = smallcaps(text([Mage: The Ascension Primed by Cortex], font: "Amarante"))
+#let title_content = text([Mage: The Ascension Primed by Cortex], font: "OFL Sorts Mill Goudy")
 #let title_text = "Mage: The Ascension Primed by Cortex"
