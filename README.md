@@ -7,4 +7,4 @@ This is a conversion of Mage: the Ascension roleplaying game, based on the 20th 
 
 
 # The Book
-<p align="center"><a href="https://rhinemann.github.io/mage-hack/target/Mage Conversion.pdf" type="application/pdf"><img src="assets/images/cover.webp" alt="Rules"></a></p>
+<p align="center"><a href="https://rhinemann.github.io/mage-hack/target/Mage Conversion.pdf" type="application/pdf"><img src="target/cover.webp" alt="Rules"></a></p>
