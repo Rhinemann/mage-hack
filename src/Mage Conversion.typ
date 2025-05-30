@@ -1,4 +1,4 @@
-#import "templates/cover.typ": front_cover, back_cover
+#import "templates/cover.typ": front_cover
 
 #set document(title: "Mage: The Ascension Primed by Cortex", author: "Rhinemann");
 
@@ -31,4 +31,4 @@
 
 // #include "chapters/Storyteller Characters.typ"
 
-#back_cover
+// #back_cover

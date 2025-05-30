@@ -1,25 +1,20 @@
 #import "global.typ": gold, purple
 
 #let logo = context {
-  set text(font: "Amarante", fill: gold, tracking: 1pt, bottom-edge: "bounds", top-edge: "bounds")
-  set block(above: 4pt, below: 4pt)
+  set text(fill: gradient.radial(white, gold))
+  set block(above: 5pt, below: 5pt)
 
-  show text: it => {
-    box()[#it]
-  }
+  show text: it => { box()[#it] }
 
   let small_f_size = 25pt
   let big_f_size = 80pt
-  let line_width = measure(text(size: big_f_size)[#upper()[Mage]]).width + 5pt
+  let line_width = measure(width: auto, text(size: big_f_size)[#upper()[Mage]]).width + 10mm
 
-  let t_gradient = gradient.radial(white, gold)
-  set text(fill: t_gradient)
-
-  text(size: small_f_size)[Primed by Cortex]
-  line(length: line_width, stroke: 1.5pt + gold)
+  text(size: small_f_size)[#smallcaps[Primed by Cortex]]
+  line(length: line_width, stroke: 2pt + gold)
   text(size: big_f_size)[#upper()[Mage]]
-  line(length: line_width, stroke: 1.5pt + gold)
-  text(size: small_f_size)[The Ascension]
+  line(length: line_width, stroke: 2pt + gold)
+  text(size: small_f_size)[#smallcaps[The Ascension]]
 }
 
 #let front_cover = {
@@ -31,7 +26,7 @@
     paper: "us-letter",
     margin: 30mm,
   )[
-    #set text(font: "Amarante", size: 20pt, fill: white)
+    #set text(font: "OFL Sorts Mill Goudy", size: 20pt, fill: white, bottom-edge: "bounds", top-edge: "bounds")
     #set align(center)
 
     #logo
@@ -43,43 +38,5 @@
     #v(1fr)
 
     A guide to Cortex Prime system conversion of the game
-  ]
-}
-
-#let back_cover = {
-  page(
-    background: {
-      place(image("../../assets/images/Silk.jpg", width: 100%, height: 100%))
-    },
-    paper: "us-letter",
-    margin: 30mm,
-  )[
-    #show heading: it => {
-      set text(
-        font: ("XWGXSC+CortexSymbology", "Abbess"),
-        fill: gold,
-        size: 16pt,
-      )
-      align(center)[#it]
-    }
-    #set text(
-      font: ("XWGXSC+CortexSymbology", "OFL Sorts Mill Goudy"),
-      fill: white,
-      size: 10pt,
-    )
-
-    #align(center)[#logo]
-
-    /* #v(1fr)
-
-    #block(width: 100%)[#align(center + horizon)[
-        #stack(
-          dir: ltr,
-          spacing: 5%,
-          image("../../assets/images/cover/WW_Logo.svg", height: 13%),
-          image("../../assets/images/cover/M4 logo.png", height: 13%),
-          image("../../assets/images/cover/Cortex Prime Community - Dark Background - Color.png", height: 10%),
-        )
-      ]] */
   ]
 }
