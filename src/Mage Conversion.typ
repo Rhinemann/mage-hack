@@ -4,5 +4,7 @@
 
 #front_cover
 
+#counter(page).update(1)
+
 #include "chapters/Credits.typ"
 #include "chapters/What_is_Mage.typ"
