@@ -2,10 +2,11 @@
 
 #let chapter(chapter_name: "", body) = {
   set text(
-    font: ("XWGXSC+CortexSymbology", "OFL Sorts Mill Goudy"),
+    font: ("XWGXSC+CortexSymbology", "Cormorant Garamond"),
     size: 12pt,
     lang: "en",
     hyphenate: false,
+    number-type: "lining",
   )
 
   set page(
@@ -18,14 +19,15 @@
       place(image(background_src, width: 100%, height: 100%))
     },
     paper: "us-letter",
-    margin: (top: 70pt, bottom: 85pt, inside: 40pt, outside: 78pt),
+    margin: (top: 70pt, bottom: 90pt, inside: 40pt, outside: 80pt),
     footer: context {
+      set text(font: "OFL Sorts Mill Goudy", size: 12pt)
       let page_num = here().page()
 
       if calc.odd(page_num + 1) {
-        text(font: "Amarante", size: 12pt)[#page_num #h(1em) #title_text]
+        [#page_num #h(1em) #smallcaps(title_text)]
       } else {
-        align(right)[#text(font: "Amarante", size: 12pt)[#chapter_name #h(1em) #page_num]]
+        align(right)[ #smallcaps(chapter_name) #h(1em) #page_num]
       }
     },
     footer-descent: 20%,
@@ -37,10 +39,9 @@
   show link: strong
 
   set par(
-    leading: 0.5em,
+    leading: 0.4em,
     linebreaks: "optimized",
     spacing: 1.3em,
-    // first-line-indent: (amount: par_indent, all: true),
   )
 
   show table: set align(center)
@@ -58,17 +59,14 @@
     emph(it)
   }
 
-  show heading: set text(font: ("XWGXSC+CortexSymbology", "Amarante"))
-  show heading: set block(below: 0.5em)
-
-  /* show heading.where(level: 1): it => {
-    set text(size: 24pt)
-    set block(below: 0.3em)
-    show line: set block(above: 0.3em, below: 0.5em)
+  show heading: it => {
+    set text(font: ("XWGXSC+CortexSymbology", "OFL Sorts Mill Goudy"))
+    set block(above: 1em, below: 0.5em)
+    show heading: smallcaps
 
     it
-    line(length: 100%, stroke: 2pt + purple)
-  } */
+  }
+
   show heading.where(level: 1): set text(size: 24pt, fill: purple)
   show heading.where(level: 2): set text(size: 20pt)
   show heading.where(level: 3): set text(size: 16pt)
