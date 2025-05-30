@@ -12,4 +12,11 @@ In a tabletop roleplaying game such as this one, players each take a role of a c
 
 #colbreak()
 == Who Are You?
-You play as one of the mages,
+You play as a mage, a person who can reshape reality through the sheer force of will. In a moment of clarity you Awakened to your potential and the true, mutable nature of reality, and such you are able to change the very reality with your belief and Awakened Will.
+
+And you are not the only one. The world is filled with others just like you, forming spanning conspiracies and secret cultures. Mages walk among mortals and monsters, waging the age-old secret war over reality itself. Mystic mages of Crafts and Traditions combat the march of technology stewarded by the Technocracy and their vision of global progress, as reality is defined by the collective belief of humanity.
+
+But as you can see by the very device you're reading this on, Technocracy is the dominant force in the world, who in their success calcified reality and human belief more and more, forcing every mage into the shadows, lest they be rendered apart by the static, opposing forces of human beliefs for performing the wonders of magick and hypertechnology in clear view.
+
+And now you are one of those extraordinary people, so who will you be in this world of mystery and strife?
+
