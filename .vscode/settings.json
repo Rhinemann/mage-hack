@@ -5,13 +5,20 @@
     "tinymist.rootPath": "${workspaceFolder}",
     "tinymist.outputPath": "${workspaceFolder}/target/$name",
     "cSpell.words": [
+        "Amarante",
         "Arcanist's",
+        "colbreak",
+        "emph",
         "Forbing",
+        "Garamond",
+        "Goudy",
+        "hypertechnology",
+        "magick",
+        "pagebreak",
         "Rhinemann",
         "Robern",
         "roleplaying",
-        "Vecna",
-        "magick",
-        "hypertechnology"
-    ],
+        "smallcaps",
+        "Vecna"
+    ]
 } 
