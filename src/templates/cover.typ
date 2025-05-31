@@ -26,7 +26,7 @@
     paper: "us-letter",
     margin: 30mm,
   )[
-    #set text(font: "OFL Sorts Mill Goudy", size: 20pt, fill: white, bottom-edge: "bounds", top-edge: "bounds")
+    #set text(font: "New Rocker", size: 20pt, fill: white, bottom-edge: "bounds", top-edge: "bounds")
     #set align(center)
 
     #logo
