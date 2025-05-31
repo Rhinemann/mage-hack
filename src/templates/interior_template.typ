@@ -76,7 +76,9 @@
   body
 }
 
-#let sidebar(body) = {
+#let trait(body) = smallcaps[*#body*]
+
+/* #let sidebar(body) = {
   let bg = tiling(size: (139.7mm, 108mm))[
     #place(image("../../assets/images/sidebar.jpg", width: 100%, height: 100%))
   ]
@@ -105,9 +107,9 @@
       #body
     ]
   ]
-}
+} */
 
-#let driven_STC(
+/* #let driven_STC(
   name: none,
   challenge_pool: none,
   drive_1: none,
@@ -139,4 +141,4 @@
       sfx
     }
   ]
-}
+} */
