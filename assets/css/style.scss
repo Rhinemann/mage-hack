@@ -9,21 +9,22 @@
 }
 
 @font-face {
-    font-family: "Goudy Old Style";
-    src: url(../fonts/OFLGoudyStM.otf) format('truetype');
+    font-family: "New Rocker";
+    src: url(../fonts/NewRocker-Regular.ttf) format('truetype');
 }
 
 @font-face {
-    font-family: "Amarante";
-    src: url(../fonts/Amarante-Regular.ttf) format('truetype');
+    font-family: "Cormorant Garamond";
+    src: 
+        url(../fonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf), format('truetype');
 }
 
 body, p {
-    font-family: 'Cortex', 'Goudy Old Style', 'Open Sans', sans-serif;
+    font-family: 'Cortex', 'Cormorant Garamond', 'Open Sans', sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Cortex', 'Amarante', 'Open Sans', sans-serif;
+    font-family: 'Cortex', 'New Rocker', 'Open Sans', sans-serif;
 }
 
 .header-level-1, .header-level-2, .header-level-3, .header-level-4, .header-level-5, .header-level-6 {

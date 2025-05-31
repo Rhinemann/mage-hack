@@ -27,7 +27,7 @@
     paper: "us-letter",
     margin: (top: 70pt, bottom: 90pt, inside: 40pt, outside: 80pt),
     footer: context {
-      set text(font: "OFL Sorts Mill Goudy", size: 12pt)
+      set text(font: "New Rocker", size: 12pt)
       let (num,) = counter(page).get()
 
       if calc.odd(num) {
@@ -63,8 +63,8 @@
   show heading.where(level: 3): set text(size: 16pt)
   show heading.where(level: 4): set text(size: 14pt)
   show heading: it => {
-    set text(font: ("XWGXSC+CortexSymbology", "OFL Sorts Mill Goudy"))
-    set block(above: 1em, below: 0.5em)
+    set text(font: ("XWGXSC+CortexSymbology", "New Rocker"))
+    set block(above: 1.5em, below: 0.5em)
     show heading: smallcaps
 
     it
