@@ -1,4 +1,4 @@
-#import "global.typ": gold, purple, par_indent, symbols, title_text
+#import "global.typ": gold, purple, par_indent, title_text
 
 #let chapter(chapter_name: "", body) = {
   set text(
@@ -10,9 +10,9 @@
   )
 
   set par(
-    leading: 0.4em,
+    leading: 0.5em,
     linebreaks: "optimized",
-    spacing: 1.3em,
+    spacing: 1em,
   )
 
   set page(
@@ -41,7 +41,8 @@
   )
 
   set terms(hanging-indent: 1em, separator: [: ])
-  set columns(gutter: 2.5em)
+  set columns(gutter: 3em)
+  set list(marker: "\u{1F71A}")
 
   show table: set align(center)
   set table(
@@ -72,6 +73,13 @@
 
   show strong: set text(fill: purple)
   show link: strong
+  show link: underline
+
+  /* show par: it => {
+    set block(breakable: false)
+
+    block[#it]
+  } */
 
   body
 }
