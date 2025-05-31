@@ -3,20 +3,12 @@
 
 #let par_indent = 1em
 
-#let symbols = (
-  d4: symbol("\u{2463}"),
-  d6: symbol("\u{2465}"),
-  d8: symbol("\u{2467}"),
-  d10: symbol("\u{2469}"),
-  d12: symbol("\u{246B}"),
-  pp: symbol("\u{24C5}"),
-)
-
-#let c_sym = (:)
-
-#for (key, val) in symbols.pairs() {
-  c_sym.insert(key, text(purple, val))
-}
+#let d4 = text(purple, "\u{2463}")
+#let d6 = text(purple, "\u{2465}")
+#let d8 = text(purple, "\u{2467}")
+#let d10 = text(purple, "\u{2469}")
+#let d12 = text(purple, "\u{246B}")
+#let pp = text(purple, "\u{24C5}")
 
 #let title_content = text([Mage: The Ascension Primed by Cortex], font: "OFL Sorts Mill Goudy")
 #let title_text = "Mage: The Ascension Primed by Cortex"
