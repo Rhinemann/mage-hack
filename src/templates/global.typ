@@ -10,5 +10,5 @@
 #let d12 = text(purple, "\u{246B}")
 #let pp = text(purple, "\u{24C5}")
 
-#let title_content = text([Mage: The Ascension Primed by Cortex], font: "OFL Sorts Mill Goudy")
+#let title_content = text([Mage: The Ascension Primed by Cortex], font: "New Rocker")
 #let title_text = "Mage: The Ascension Primed by Cortex"
