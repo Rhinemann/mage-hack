@@ -20,7 +20,7 @@
 #let front_cover = {
   page(
     background: {
-      place(image("../../assets/images/Silk.jpg", width: 100%, height: 100%))
+      place(image("../../assets/images/sidebar.jpg", width: 100%, height: 100%))
       place(image("../../assets/images/Frame.png", width: 100%, height: 100%))
     },
     paper: "us-letter",
