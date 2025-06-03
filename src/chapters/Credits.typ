@@ -2,9 +2,6 @@
 #import "../templates/global.typ": title_content, title_text
 
 #show: chapter.with(chapter_name: "Credits")
-
-
-= Credits
 #title_content is written, designed, and developed by Rhinemann
 
 Design inspirations and thanks to:
