@@ -1,10 +1,8 @@
 #import "../templates/interior_template.typ": *
 #import "../templates/global.typ": *
 
+
 #show: chapter.with(chapter_name: "What is Mage?")
-
-
-= What is Mage?
 #title_content is a tabletop roleplaying game of urban fantasy, gothic punk, ambition, freedom, power and shifting realities built on rules inspired by _Cortex_. The simple yet extremely powerful and encompassing rules will allow you to experience a familiar world of _Mage_ with new and exciting rules that are closer to modern narrative games.
 
 In a tabletop roleplaying game such as this one, players each take a role of a character or multiple. #title_content characters exist in a world much like ours, but darker, painted in gothic tones and punk sounds. The shadows are darker, the urban decay stronger, and the inequalities highlighted. Mages, vampires, demons, werewolves and countless occult creatures inhabit the shadows. They walk among mortals and pretend to be them, all while navigating their own complex worlds of intrigue, politics, secret wars and mysteries.
@@ -45,6 +43,7 @@ Each character has a number of traits, which are things -- qualities, abilities,
 Each trait is rated with one of five die sizes, each represented in this text with a symbol: a 4-sided die or #d4, a six-sided die or #d6, an 8-sided die or #d8, a 10-sided die or #d10, or a 12-sided die or #d12. Each trait in a set is rated with a die size: #d4, #d6, #d8, #d10, or #d12. Generally, larger die sizes make a trait more effective, so #d6 is better than #d4.
 
 
+#colbreak()
 === Trait Sets
 Traits are organized into trait sets.
 
@@ -81,7 +80,6 @@ If you win, the size of your effect die (not the number it rolled) determines ho
 For example, if you roll to hit someone with a weapon, your total determines whether you hit (like comparing an attack roll to armour class in the world's most popular RPG), and your effect die would be how much damage you inflict. Your total tells you whether the story goes your way; your effect die tells you how far it goes.
 
 
-#colbreak()
 === An Example of Play
 Lydia, a fashionista Hermetic mage with small stature and large personality, is going home late in the evening after shopping for fabric, but a suspicious man is following her. You describe Lydia grabbing a burning spider amulet on her neck, recalling Pattern classifications, and whispering a perceptive spell to read the man's aura.
 
@@ -125,7 +123,6 @@ Normally, a player can just roll a test or describe their character's actions wh
 - Whoever goes last in a round chooses who goes first in the next round, which can be themself!
 
 
-#colbreak()
 === Plot Points
 This game uses a special currency called plot points (abbreviated #pp), which you can spend to affect the story. You'll likely earn and spend plot points all the time. Every player gets at least one #pp at the start of each session.
 
@@ -159,11 +156,12 @@ When the ST rolls a hitch, it's called an opportunity. When the ST rolls an oppo
 
 #colbreak()
 == ST Plot Points
-When an ST activates a hitch, or when a PC gains a #pp from using _*Hinder*_ or a Limit, those plot points come from an infinite pile of plot points no one at the table needs to worry about monitoring or controlling. When players activate a ST opportunity, these #pp go back to that pile.
+When an ST activates a hitch, or when a PC gains a #pp from using #sfx[Hinder] or a Limit, those plot points come from an infinite pile of plot points no one at the table needs to worry about monitoring or controlling. When players activate a ST opportunity, these #pp go back to that pile.
 
 However, when the ST wants to spend plot points to help a STC, they instead spend dice from their peril pool.
 
 
+#colbreak()
 === Extra Effects
 When you want to achieve multiple outcomes from a single roll (including affecting more than one target), you can do so by spending plot points to keep extra effect dice beyond the first.
 
@@ -240,6 +238,7 @@ When something happens that makes things harder for a character, but it isn't co
 When you fail a test, you take #d6 stress. The opposition chooses the type of stress. Perhaps a character feels #trait[Demoralised] by their lack of success, #trait[Drained] by the wasted effort, or #trait[Enthralled] by an interesting problem they can't seem to solve yet.
 
 
+#colbreak()
 === Types of Stress
 Six kinds of stress are used in #title_content: #trait[Damaged] stress, #trait[Demoralised] stress, #trait[Drained] stress, #trait[Enraged] stress, and #trait[Enthralled] stress. Each type of stress represents a different kind of situation, as follows:
 
@@ -271,6 +270,7 @@ Assets are possibly the most basic trait in the game, but there are a lot of way
 You can create an asset with a test. Your effect die becomes the rating of the asset, which you may use for the rest of the scene. Here's some assets that you might create during play: #trait[Conjured Thunder], #trait[Covered by Terrain], #trait[Suggestive Appearance], #trait[Expansive Reconnaissance].
 
 
+#colbreak()
 === Shutting Down Assets
 Whether it is disarming the garou's knaive, quashing the bloodlust of an angry mob, or unweaving a ward of your opponent, you may want to remove the assets of characters giving you trouble. To do so, you roll against that character, and they get to include the asset in their dice pool opposing you.
 
@@ -288,7 +288,7 @@ Complications and stress can be downright crippling. Getting rid of complication
 
 
 === Downtime
-During a scene when characters have a chance to recover -- by resting or some other form of self-care and recovery -- all stress usually dice step down. However, mages have the _*Avatar Reserve*_ Limit, which means they can only step down their #trait[Drained] stress using SFX.
+During a scene when characters have a chance to recover -- by resting or some other form of self-care and recovery -- all stress usually dice step down. However, mages have the #sfx[Avatar Reserve] Limit, which means they can only step down their #trait[Drained] stress using SFX.
 
 
 === Expiring Complications
@@ -299,6 +299,7 @@ Complications go away at the end of a scene or when they are no longer narrative
 When the ST rolls an opportunity, you can spend a #pp to step down a complication or stress.
 
 
+#colbreak()
 === Recovery Rolls
 Other characters can try to help you recover. (Generally, you can't recover your own stress unless you have an SFX that allows it.)
 
@@ -315,7 +316,7 @@ At the start of a new session, all complications and stresses are removed -- unl
 
 #colbreak()
 == SFX & Dice Tricks
-Your character gains SFX, special effects that give you added influence over the story. These reflect your character's extraordinary abilities or their powerful role in the narrative. Many SFX require you to spend plot points to activate them. Other SFX allow you to impose a disadvantage on your character in order to earn #pp or another reward. For example, the _*Hinder*_ SFX lets you earn a #pp by rolling a smaller die.
+Your character gains SFX, special effects that give you added influence over the story. These reflect your character's extraordinary abilities or their powerful role in the narrative. Many SFX require you to spend plot points to activate them. Other SFX allow you to impose a disadvantage on your character in order to earn #pp or another reward. For example, the #sfx[Hinder] SFX lets you earn a #pp by rolling a smaller die.
 
 Using an SFX is always a choice; you are never compelled to activate your character's SFX, unless that SFX is a Limit. A Limit is an SFX which can be activated by the ST.
 
@@ -375,7 +376,7 @@ The ST can also "spend" peril dice from the peril pool, removing them from the d
 == Paradox
 During play, every character also maintains their own special challenge pool that represents the force of consensual reality fighting back against the enlightened will of the mage. This is their Paradox pool.
 
-A character grows their Paradox in multiple ways:
+When Paradox grows ST either steps up one of Paradox dice or adds a #d6 to Paradox, if the pool is empty two dice are added. A character grows their Paradox in multiple ways:
 - Whenever they use vulgar magick, Paradox grows once and the player gains a #pp.
 
 - Whenever a Sleeper witnesses them use vulgar magick, Paradox grows twice and the player gains a #pp.
@@ -405,7 +406,7 @@ Hitches might occasionally result in other conditions, as the ST determines. Cha
 
 Botches can grow Paradox immensely, but they can also be opportunities for mistargeted, uncontrolled magickal effects going terribly awry.
 
-Other complications can interfere with performing magick, depending on the mage's instruments. A mage relying on voice and vocalisations who is #trait[Silenced] on #trait[Gagged], one who uses movement and gestures but has her fingers #trait[Bound], or one who writes the code to reality but had #trait[Electronics Taken Away] has those complications rolled against her in tests to perform magickal effects. Equivalent complications might afflict mages with different practices. A player might also _*Hinder*_ a distinction to recognize the limitations of her training -- and pick up a sweet #pp for her trouble.
+Other complications can interfere with performing magick, depending on the mage's instruments. A mage relying on voice and vocalisations who is #trait[Silenced] on #trait[Gagged], one who uses movement and gestures but has her fingers #trait[Bound], or one who writes the code to reality but had #trait[Electronics Taken Away] has those complications rolled against her in tests to perform magickal effects. Equivalent complications might afflict mages with different practices. A player might also #sfx[Hinder] a distinction to recognize the limitations of her training -- and pick up a sweet #pp for her trouble.
 
 
 === Tactical Conditions
