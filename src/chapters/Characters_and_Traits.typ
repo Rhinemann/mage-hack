@@ -174,7 +174,7 @@ Note that your signature assets do not include all of your character's gear or o
 Most signature assets break down into one of five categories: things, creatures, places, people, and edges. Example signature assets for each category are listed below.
 - #sfx[Things] are the most common form of signature asset, including items or equipment that you own, carry, or have access to. Examples include #trait[Magic Carpet], #trait[1971 Dodge Challenger], #trait[Enchanted Dagger], #trait[My Family's Heirloom Sword], #trait[Divining Rod], #trait[Chainsaw], etc.
 
-- #sfx[Creatures] include pets, mounts, animal companions, familiars, and the like. Examples include #trait[Racehorce], #trait[Well-Trained Cat], #trait[My Cat Snowball], #trait[Raven Familiar], #trait[Semi-Domesticated Wolf], etc.
+- #sfx[Creatures] include pets, mounts, animal companions, familiars, and the like. Examples include #trait[Racehorse], #trait[Well-Trained Cat], #trait[My Cat Snowball], #trait[Raven Familiar], #trait[Semi-Domesticated Wolf], etc.
 
 - #sfx[Places] represent advantages gained from being in or having knowledge of a certain location. Examples include #trait[Seaside Hideout], #trait[Private Library], #trait[Special Forces Bar], #trait[Umbran Demesne], #trait[Hidden Glade], #trait[Panic Room], #trait[Basement Sanctum], #trait[Penthouse], #trait[Uncle's Army Surplus Store], etc.
 

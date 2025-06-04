@@ -12,7 +12,7 @@ Design inspirations and thanks to:
 
 Manual of Monsters, Minions & Mountebanks: Lynn Jones
 
-Gear rules and SFX in the Emporiun of the Speaking Lands: Miriam Robern
+Gear rules and SFX in the Emporium of the Speaking Lands: Miriam Robern
 
 The Arcanist's Toolkit: Riley Routh
 

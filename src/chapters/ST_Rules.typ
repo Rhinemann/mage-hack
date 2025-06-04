@@ -109,7 +109,7 @@ Instead of rolling, the challenge can use its turn to step up its smallest die o
 Finally, the ST can use the pool's turn to spend a die from the challenge trait and move a PC's complication to the challenge pool to replace it. The PC no longer has the complication, but the problem they were dealing with is now everybody's problem! (Obviously, the optimal use of this move by the ST would be replacing a smaller die with a larger one.)
 
 
-==== GMCS Vs Challenges?
+==== STCs Vs Challenges?
 If a challenge pool works against a STC, or vice-versa, or if STCs work against each other, the ST has two choices. They can let a PC roll determine the outcome, or they can simply decide what happens. GMs never roll dice against themselves.
 
 
@@ -178,6 +178,7 @@ MOB TRAIT: #trait[Hungry Ghosts] #d8#d8#d8
 
 === Corrupt Federal Agent (Boss)
 _They love other people's secrets._
+
 BOSS TRAIT: #trait[Nosy Investigator] #d6#d6#d6#d6
 
 #trait[Persistence] #d6
@@ -190,7 +191,9 @@ BOSS TRAIT: #trait[Nosy Investigator] #d6#d6#d6#d6
 
 
 #colbreak()
-=== Off-the-Grid Vampire (GMC)Bloodsucking nocturnal marauder
+=== Off-the-Grid Vampire (STC)
+_Bloodsucking nocturnal marauder._
+
 Shadow Roles: #trait[Speaker] #d8, #trait[Soldier] #d10
 
 #trait[Illusion] #d10

@@ -7,9 +7,9 @@ During play, your character will change. Some changes will be temporary; others 
 
 
 == Changing Milestones
-By default, once you hit the 10 XP level of a milestone, the entire milestone is closed; after the session ends, the closed milestone is replaced with a new one. (In some cases, the GM may allow this “replacement” to just be a fresh copy of the milestone.)
+By default, once you hit the 10 XP level of a milestone, the entire milestone is closed; after the session ends, the closed milestone is replaced with a new one. (In some cases, the ST may allow this “replacement” to just be a fresh copy of the milestone.)
 
-New milestones can be created in collaboration by the player and GM, or chosen from those listed in Appendix C: Sample Milestones.
+New milestones can be created in collaboration by the player and ST, or chosen from those listed in Appendix C: Sample Milestones.
 
 
 == Spending XP

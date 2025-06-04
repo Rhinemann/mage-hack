@@ -55,7 +55,7 @@ To use abt table, choose any entry on the table, or you can roll randomly. If yo
     [8], [Mercenary], [Nurse], [Occultist], [Outsider],
     [9], [Parent], [Performer], [Physician], [Rebel],
     [10], [Refugee], [Romantic], [Smuggler], [Spy],
-    [11], [Student], [Teacher], [Thief], [Traveler],
+    [11], [Student], [Teacher], [Thief], [Traveller],
     [12], [Vagabond], [Vigilante], [Visionary], [Warrior],
   ),
   caption: [Noun Table],
