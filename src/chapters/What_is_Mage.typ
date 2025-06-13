@@ -240,7 +240,7 @@ When you fail a test, you take #d6 stress. The opposition chooses the type of st
 
 #colbreak()
 === Types of Stress
-Six kinds of stress are used in #title_content: #trait[Damaged] stress, #trait[Demoralised] stress, #trait[Drained] stress, #trait[Enraged] stress, and #trait[Enthralled] stress. Each type of stress represents a different kind of situation, as follows:
+Five kinds of stress are used in #title_content: #trait[Damaged] stress, #trait[Demoralised] stress, #trait[Drained] stress, #trait[Enraged] stress, and #trait[Enthralled] stress. Each type of stress represents a different kind of situation, as follows:
 
 #trait[Damaged] stress is physical, bodily harm, like getting punched in the eye, cut by a blade, poisoned by an assassin, burned by flame, etc.
 
