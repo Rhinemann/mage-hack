@@ -1,5 +1,5 @@
 #let gold = rgb("#FFD700") // gold
-#let purple = rgb("#4B0082") // indigo
+#let purple = rgb("#4B0082") // purple
 
 #let par_indent = 1em
 

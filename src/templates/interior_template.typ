@@ -1,4 +1,4 @@
-#import "global.typ": gold, purple, par_indent, title_text
+#import "global.typ": gold, par_indent, purple, title_text
 
 #let chapter(chapter_name: "", column_number: 2, body) = {
   set text(
@@ -66,7 +66,6 @@
   show heading: it => {
     set text(font: ("XWGXSC+CortexSymbology", "New Rocker"))
     set block(above: 1.5em, below: 0.5em)
-    show heading: smallcaps
 
     it
   }
