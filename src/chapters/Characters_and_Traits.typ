@@ -11,7 +11,7 @@ A #d4 trait is underdeveloped or problematic, a #d6 is healthy and reliable, a #
 == Character Creation
 To create your fledgling Other character, you first choose your Kind, representing what variety of supernatural being you are. Once that is done, you populate five trait sets -- distinctions, attributes, roles, specialities, signature assets, and Spheres -- and assign a die rating to each trait in those sets.
 
-For traits like roles, when making a new character, you are given an array of die ratings for each set -- such as #d10, #d8, #d6, #d6, #d4 -- and you assign one of these ratings to each trait in the set. So a character's roles might be #trait[Scholar] #d6, #trait[Scoundrel] #d4, #trait[Scout] #d10, #trait[Soldier] #d8, and #trait[Speaker] #d6.
+For traits like roles, when making a new character, you are given an array of die ratings for each set -- such as #d10, #d8, #d6, #d6, #d4 -- and you assign one of these ratings to each trait in the set. So a character's roles might be #trait[Scholar #d6], #trait[Scoundrel #d4], #trait[Scout #d10], #trait[Soldier #d8], and #trait[Speaker #d6].
 
 When distributing these ratings, it is usually easiest to choose which of the traits is most significant, the one the character will rely on most and for which they would likely be most well-known to others. Assign the largest die rating to that one. Then choose their second best trait, one they are still really great with and can rely on, even if it isn't the most important one, and assign the second largest die rating to it. Then keep assigning in order from best to worst.
 
@@ -112,7 +112,7 @@ Assign the following die ratings to your five roles, in any order: #d10, #d8, #d
 == Specialities
 Specialities are narrow skills that supplement the broad areas of expertise defined by your roles. Whenever a specialty applies, you roll it in addition to the appropriate role.
 
-For example, you might use #trait[Soldier] to display your general prowess with a weapon, but you might also have a specialty that you add when using certain types of weapons, such as #trait[Athletics] #d6 or #trait[Weaponry] #d8. When you follow a trail through a dense forest, your dice pool might not only include #trait[Scout] but also an extra die for your #trait[Nature] specialty.
+For example, you might use #trait[Soldier] to display your general prowess with a weapon, but you might also have a specialty that you add when using certain types of weapons, such as #trait[Athletics #d6] or #trait[Weaponry #d8]. When you follow a trail through a dense forest, your dice pool might not only include #trait[Scout] but also an extra die for your #trait[Nature] specialty.
 
 A list of 17 suggested specialities is provided, but like distinctions, specialities can also be free-form traits you create yourself. Specialities should never be as broad as roles; as a general rule, a specialty should apply to about half as many situations as a basic role would (or less).
 
@@ -126,7 +126,7 @@ You can choose to start a new character with either two or three specialty trait
 The faction you belong to adds one or more bonus specialities to your character as well.
 
 
-=== Suggested Specialities
+/* === Suggested Specialities
 #trait[Athletics]
 
 #trait[Composure]
@@ -159,7 +159,7 @@ The faction you belong to adds one or more bonus specialities to your character 
 
 #trait[Tools]
 
-#trait[Weaponry]
+#trait[Weaponry] */
 
 
 #colbreak()
@@ -192,7 +192,7 @@ The faction you belong to adds an additional signature asset to your character a
 
 #colbreak()
 == Magick
-Magick is represented by nine spheres, acknowledged, even if begrudgingly and by different names, by all Factions in the Awakened world. Whenever you are creating a magickal effect you roll an appropriate Sphere. If your effect requires multiple Spheres you must have all of them at the appropriate ranks, but you only roll one Sphere of your choice from those required.
+Magick is represented by ten spheres, acknowledged, even if begrudgingly and by different names, by all Factions in the Awakened world. Whenever you are creating a magickal effect you roll an appropriate Sphere. If your effect requires multiple Spheres you must have all of them at the appropriate ranks, but you only roll one Sphere of your choice from those required.
 
 - #trait[Correspondence] the element of connection between apparently different things.
 
@@ -252,7 +252,7 @@ Magick is divided into eleven Practices by mages, each Practice describes broad 
 === Spending Quintessence
 With the weight of Paradox growing stronger as they pull on threads of reality, and side-effects of a spell gone awry any use of magick can take a toll on a mage, but sometimes you may chose to exert yourself further, expending some of your reserve of Quintessence to make your workings blaze with truth and power of creation. You can do so with #sfx[Avatar Reserve] SFX that every mage benefits from.
 
-#sfx[Avatar Reserve:] Gain a #pp, then take #trait[Drained] #d6 at the end of the current beat. You can never recover #trait[Drained] stress except via SFX.
+#sfx[Avatar Reserve:] Gain a #pp, then take #trait[Drained #d6] at the end of the current beat. You can never recover #trait[Drained] stress except via SFX.
 
 
 === Recovering Quintessence
@@ -277,7 +277,7 @@ Some SFX are tagged as #sfx[(Gear)]. These generally require you to have the equ
 
 
 === Character Creation: SFX
-Each Faction lists a number of SFX for characters of that type. Your character begins play with all the SFX specified for your Kind, in addition to the #sfx[Hinder], and general mage SFX all characters receive.
+Your character begins play with all the SFX specified for mages, in addition to the #sfx[Hinder].
 
 
 === Character Creation: Limits
@@ -327,21 +327,20 @@ Once your other traits are determined, the rules grant you one final bonus, an e
 
 
 === Character Creation: Bonus Enhancement
-After all traits, SFX, and Milestones are
-set, choose just one of the following
-added bonus enhancements, then adjust
-your character accordingly:
+After all traits, SFX, and Milestones are set, choose just one of the following added bonus enhancements, then adjust your character accordingly:
 - Add a new #d6 specialty
 
 - Add a new #d6 signature asset
+
+- Add a new #d6 Sphere
 
 - Upgrade a #d6 specialty of your choice to #d8
 
 - Upgrade a #d6 signature asset of your choice to #d8
 
-- Gain one additional Masque signature asset at #d6
+- Upgrade a #d6 Sphere of your choice to #d8
 
-- Choose and gain one of the SFX listed in Appendix B: General SFX and Limits. /* TODO Appendix B */
+// - Choose and gain one of the SFX listed in Appendix B: General SFX and Limits. /* TODO Appendix B */
 
 - Choose and gain one of your Faction SFX.
 

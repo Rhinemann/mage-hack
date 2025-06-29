@@ -47,13 +47,13 @@ Each trait is rated with one of five die sizes, each represented in this text wi
 === Trait Sets
 Traits are organized into trait sets.
 
-Examples of trait sets used in #title_content are roles (#trait[Scholar], #trait[Scoundrel], #trait[Scout], #trait[Soldier], and #trait[Speaker]) and assets (items or other factors that provide an advantage, such as #trait[Ornate Revolver] or #trait[Private Library]). One example trait set for a character might be the roles #trait[Scholar] #d10, #trait[Scoundrel] #d6, #trait[Scout] #d4, #trait[Soldier] #d6, and #trait[Speaker] #d8.
+Examples of trait sets used in #title_content are roles (#trait[Scholar], #trait[Scoundrel], #trait[Scout], #trait[Soldier], and #trait[Speaker]) and assets (items or other factors that provide an advantage, such as #trait[Ornate Revolver] or #trait[Private Library]). One example trait set for a character might be the roles #trait[Scholar #d10], #trait[Scoundrel #d6], #trait[Scout #d4], #trait[Soldier #d6], and #trait[Speaker #d8].
 
 When you want your character to do something, if there's nothing getting in your way, you just do it. If there is opposition (such as an opponent, difficult circumstances, a harsh environment, or a time limit), you roll the dice for certain traits to figure out if you succeed or fail.
 
 
 === Your Dice Pool
-When you roll, you pick the most relevant trait from each set and roll the die for each of those traits, all together in one pool of dice. (An example dice pool might be #trait[Scholar] #d10, #trait[Physics] #d6, #trait[Forces] #d8, and #trait[Chain Lightning] #d6 to strike an enemy down with the force of a conjured lightning.)
+When you roll, you pick the most relevant trait from each set and roll the die for each of those traits, all together in one pool of dice. (An example dice pool might be #trait[Scholar #d10], #trait[Physics #d6], #trait[Forces #d8], and #trait[Chain Lightning #d6] to strike an enemy down with the force of a conjured lightning.)
 
 
 === Your Total
@@ -83,7 +83,7 @@ For example, if you roll to hit someone with a weapon, your total determines whe
 === An Example of Play
 Lydia, a fashionista Hermetic mage with small stature and large personality, is going home late in the evening after shopping for fabric, but a suspicious man is following her. You describe Lydia grabbing a burning spider amulet on her neck, recalling Pattern classifications, and whispering a perceptive spell to read the man's aura.
 
-The ST asks you for a dice roll to see if the succeeds. You roll her traits #trait[Scout] #d6, #trait[Alertness] #d8, #trait[Spider in the Web] #d8, and #trait[Prime] #d6, getting 4 and 7 on #d8\s, 3 and 2 on #d6\s.
+The ST asks you for a dice roll to see if the succeeds. You roll her traits #trait[Scout #d6], #trait[Alertness #d8], #trait[Spider in the Web #d8], and #trait[Prime #d6], getting 4 and 7 on #d8\s, 3 and 2 on #d6\s.
 
 You pick 4 and 7 to add together for a total of 11. You use one of the remaining #d6\s as your effect die.
 
@@ -178,7 +178,7 @@ When you step up a #d12 effect die, you gain an extra #d6 effect die for that ro
 == Effect Dice
 When you succeed on a roll, your effect die usually becomes an asset (a new temporary trait that benefits someone) or a complication (a new temporary trait that makes things harder for someone).
 
-When an asset or complication is created, it gains a name to go with its die rating, such as #trait[Bound] #d10, #trait[Careful Plan] #d12, #trait[Chain Lightning Spell] #d6, #trait[Hidden] #d6, #trait[Invigorated] #d10, or #trait[Running Low on Money] #d8. The player who creates an asset or complication gets to name and describe it.
+When an asset or complication is created, it gains a name to go with its die rating, such as #trait[Bound #d10], #trait[Careful Plan #d12], #trait[Chain Lightning Spell #d6], #trait[Hidden #d6], #trait[Invigorated #d10], or #trait[Running Low on Money #d8]. The player who creates an asset or complication gets to name and describe it.
 
 Assets and complications aren't added to every roll; like other traits, they only apply when it makes sense in the story for the particular action described. The default assumption is that assets and complications go away when a scene ends.
 
@@ -219,11 +219,11 @@ When you are taken out, you are unable to influence the story -- one way or anot
 
 
 === Stepping Up Complications
-An important rule of complications is that an existing one can be stepped up by further actions that inflict the same complication. So, if you already have a #trait[On Fire] #d6 complication, and someone adds fuel to the blaze or fires a phosphorous round at you, that complication could step up to #d8. Each time another roll worsens your complication, its effect die steps it up. If the effect die is larger than the complication's rating, the complication steps up to that effect die's size.
+An important rule of complications is that an existing one can be stepped up by further actions that inflict the same complication. So, if you already have a #trait[On Fire #d6] complication, and someone adds fuel to the blaze or fires a phosphorous round at you, that complication could step up to #d8. Each time another roll worsens your complication, its effect die steps it up. If the effect die is larger than the complication's rating, the complication steps up to that effect die's size.
 
 When naming a complication, it is best to use a name that leaves room for things to get worse -- it might get stepped up, after all. Instead of naming a complication #trait[Paralysed], it makes more sense to call it or #trait[Going Stiff] or #trait[Muscle Spasms]. So if a spell that would turn a character to stone inflicts a complication rather than taking the character out, the complication might just be called #trait[Turning to Stone], as the character's body slowly petrifies, their muscles stiffen, skin goes hard and brittle and their limbs become heavy and slow.
 
-Complications can also be renamed when circumstances change. If a character already trapped in a net is then pushed into quicksand, their complication might go from #trait[Tangled Up] #d8 to #trait[Restrained] #d10, changing the name to include all the problems limiting their ability to move and escape.
+Complications can also be renamed when circumstances change. If a character already trapped in a net is then pushed into quicksand, their complication might go from #trait[Tangled Up #d8] to #trait[Restrained #d10], changing the name to include all the problems limiting their ability to move and escape.
 
 
 === Stress
@@ -376,7 +376,7 @@ The ST can also "spend" peril dice from the peril pool, removing them from the d
 == Paradox
 During play, every character also maintains their own special challenge pool that represents the force of consensual reality fighting back against the enlightened will of the mage. This is their Paradox pool.
 
-When Paradox grows ST either steps up one of Paradox dice or adds a #d6 to Paradox, if the pool is empty two dice are added. A character grows their Paradox in multiple ways:
+When Paradox grows ST either steps up one of Paradox dice or adds a #d6 to Paradox -- two if the pool was empty. A character grows their Paradox in multiple ways:
 - Whenever they use vulgar magick, Paradox grows once and the player gains a #pp.
 
 - Whenever a Sleeper witnesses them use vulgar magick, Paradox grows twice and the player gains a #pp.
@@ -436,7 +436,7 @@ Some magical conditions, such as turning someone into a lawn chair, can get tric
 === Stealth Conditions
 Characters sneaking past guards or into rooms without being noticed is usually resolved with a simple test. However if the player intends to leverage that "stealthed" status in later actions, they might spend a #pp to gain the asset #trait[Stealthed] or #trait[In the Shadows]
 
-Alternately, a character might take action to distract sentries or other opponents. Their intent may be to strike while distracted or shepherd less-stealthy characters past. Such a distraction can also be handled with a test, this time inflicting #trait[Enthralled] stress, to represent the target's attention being focused elsewhere, or a temporary complication representing a specific distraction, such as #trait[Burning Police Car] #d8. Both the surprise attack and other characters' stealth attempts may then add the complication into their die pool.
+Alternately, a character might take action to distract sentries or other opponents. Their intent may be to strike while distracted or shepherd less-stealthy characters past. Such a distraction can also be handled with a test, this time inflicting #trait[Enthralled] stress, to represent the target's attention being focused elsewhere, or a temporary complication representing a specific distraction, such as #trait[Burning Police Car #d8]. Both the surprise attack and other characters' stealth attempts may then add the complication into their die pool.
 
 Both assets and complications are eliminated whenever they are no longer relevant. When a #trait[Stealthed] character reveals themself, the asset goes away. When the sentries are no longer distracted, the complication goes away.
 
@@ -444,7 +444,7 @@ The classic Rogue tactic of striking from the shadows can combine both a #trait[
 
 
 === Wealth Conditions
-The love of money is the root of all evil, but we live in a society where people must spend to survive. ST can freely offer characters an asset to represent wealth gained an adventure: #trait[Fat Wallet] #d6, #trait[Stolen Credit Card] #d8, #trait[Briefcase Full of Cash] #d10. Alternately, players may search a location and create an asset to represent something valuable they find.
+The love of money is the root of all evil, but we live in a society where people must spend to survive. ST can freely offer characters an asset to represent wealth gained an adventure: #trait[Fat Wallet #d6], #trait[Stolen Credit Card #d8], #trait[Briefcase Full of Cash #d10]. Alternately, players may search a location and create an asset to represent something valuable they find.
 
 Shopping is as simple as creating an asset with a test. Wealth assets can be added to these rolls, and on a success might be renamed (#trait[Slimmed Down Wallet]), stepped down, or eliminated, depending on circumstance.
 

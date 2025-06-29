@@ -15,16 +15,17 @@ Masters of mind, body, and spirit through the Arts of personal discipline.
 
 
 ==== Bonus Asset
+Choose a person who helped you significantly along the path of enlightenment, then gain that person as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[Athletics]/#trait[Do] #d6, #trait[Awareness] #d6, and #trait[Mysticism] #d6 as bonus specialities.
+Choose three specialities from #trait[Awareness #d6], #trait[Esoterica #d6], #trait[Martial Arts #d6], #trait[Meditation #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Representing the Seat of Mind, every member of the Brotherhood learns at least the basics of the Sphere, gaining #trait[Mind] #d6.
+Pursuers of harmony between mind, body and soul, the Akashayana hone their physical forms to perfections, so that an even greater, ever-sharp mind can sprout from this vessel.
 
-In rare cases an Akashic Brother may study and gain Life this way instead.
+Gain #trait[Mind #d6], or #trait[Life #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -35,16 +36,17 @@ Sacred singers who give a human Voice to the Divine Song.
 
 
 ==== Bonus Asset
+Choose one object or place that is instrumental to your faith, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[Music] #d6, #trait[Oratory] #d6, and #trait[Religious Ministry] #d6 as bonus specialities.
+Choose three specialities from #trait[Ceremony #d6], #trait[Empathy #d6], #trait[Music #d6], #trait[Theology #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Representing the Seat of Prime, Choristers take time to study the sacred Sphere, gaining #trait[Prime] #d6.
+A symphony of many in the worship of the resplendent and fractured One, the Celestial Chorus use their songs to bring forth divine Creation, commune with beings beyond or channel the heavenly wrath itself through light and lightning.
 
-Rarer a Chorister may choose to learn Forces, or Spirit this way instead.
+Gain #trait[Prime #d6], #trait[Forces #d6], or #trait[Spirit #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -55,16 +57,17 @@ Visionary seers who transcend limitations through sacred experience.
 
 
 ==== Bonus Asset
+Choose a place that helps you to unshackle yourself from the earthly drudgery, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[Narcology] #d6, #trait[Empathy] #d6, and #trait[Tantra] #d6 as bonus specialities.
+Choose three specialities from #trait[Artistry #d6], #trait[Awareness #d6], #trait[Empathy #d6], #trait[Pharmaceuticals #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Representing the Seat of Time, all Ecstatics pick up a level of understanding of the lie of perceived time, gaining #trait[Time] #d6.
+Breaking through the illusions of human perception, the Sahajiya use the spectrum of sensory experience to exist beyond time itself, merging and diffusing their consciousness with the whole world, their bodies becoming a canvas for the artistry unimaginable to the common folk.
 
-In some cases an Extatic may choose to learn Life, or Mind this way instead.
+Gain #trait[Time #d6], #trait[Life #d6], or #trait[Mind #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -75,16 +78,17 @@ Preservers and protectors of both the Spirit Ways and the Earthly cultures that 
 
 
 ==== Bonus Asset
+Choose an item that a spirit companion of yours elected to inhabit making it a Fetish, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[Healing] #d6, #trait[Mysticism] #d6, and #trait[Nature]/#trait[Technology] #d6 as bonus specialities.
+Choose three specialities from #trait[Etiquette #d6], #trait[Herbalism #d6], #trait[Mysticism #d6], #trait[Technology #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Representing the Seat of Spirit, Dreamspeakers learn to observe the Umbra, gaining #trait[Spirit] #d6.
+The bearers of enduring wisdom from ages past, the Kha'vadi hear the voice of the Earth through spiritual lamentation, communing with it to shape the animal, the stone and even the energy bringing modern technology alive in all their permutations.
 
-Sometimes a Dreamspeaker may choose to learn Force, Life, or Matter this way instead.
+Gain #trait[Spirit #d6], #trait[Forces #d6], #trait[Life #d6], or #trait[Matter #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -95,16 +99,17 @@ Disciples of mortality who purge corruption and bring merciful release from suff
 
 
 ==== Bonus Asset
+Choose a weapon or any other tool of choice you use to carry out your morbid responsibilities, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Esoterica #d6], #trait[Firearms #d6], #trait[Medicine #d6], #trait[Subterfuge #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Now representing the Seat of Death, Euthanatoi get acquainted with mortality and the Shadowlands, gaining #trait[Death] #d6.
+Guardians of the Wheel of Dharma, the Chakravanti take on the grim duties of its enforcers, taking ownership over domains of death and life, making sure nothing strays from its destined path.
 
-Sometimes a Euthanatos may choose to learn Life, or Fate this way instead.
+Gain #trait[Death #d6], #trait[Life #d6], or #trait[Fate #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -115,16 +120,17 @@ Dark romantics laughing in the face of ruin.
 
 
 ==== Bonus Asset
+Choose an object taken from an established magickal practice that you use in your Willworking, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Artistry #d6], #trait[Occultism #d6], #trait[Streetwise #d6], #trait[Subterfuge #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Representing the new Seat of Fate, Hollowers learn to see and pull on the strings of fortune, gaining #trait[Fate] #d6.
+Revelling in the absurd condition of humanity in the Universe, the Hollow Ones spit in the face of tradition and established order, embracing and directing the chaos of existence, in all of it's morbidity and explosive nature.
 
-Sometimes a Hollower may choose to learn Fate, Death or Forces this way instead.
+Gain #trait[Fate #d6], #trait[Death #d6] or #trait[Forces #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -135,16 +141,17 @@ Rigorous masters of High Magick and the Elemental Arts.
 
 
 ==== Bonus Asset
+Choose an effect that can be produced by any Initiate Practice that you have learned as a part of your training, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Academics #d6], #trait[Etiquette #d6], #trait[Ritual #d6], #trait[Science #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Holding the Seat of Forces, Hermetics learn to bend the elemental powers to their Awakened Will, gaining #trait[Forces] #d6.
+Excellence and knowledge made manifest, the Houses of the Order each wield great expertise in their fields of mystic art, though none shirk from the awe-inspiring displays of elemental prowess.
 
-Depending on the House they may chose to learn a different Sphere this way instead, such as Prime for House Bonisagus, Fate for Fortunae or Matter for Verditius.
+Gain #trait[Forces #d6] or any other Sphere appropriate for your House as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -155,16 +162,17 @@ Graceful saviours of scientific potential.
 
 
 ==== Bonus Asset
+Choose a place where you conduct your research and create your marvellous devices safe from Consensus infringement, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Academics #d6], #trait[Cosmology #d6], #trait[Craft #d6], #trait[Technology #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Holding the Seat of Matter, Etherites are knowledgeable in manipulation ans discerning of material objects, gaining #trait[Matter] #d6.
+A volatile mixture of misunderstood visionaries and inventors, the Society is famous for its marvellous artifices that wield impossible energies and treat conservation of mass as a suggestion.
 
-Sometimes an Etherite may choose to learn Forces, or Prime this way instead.
+Gain #trait[Matter #d6], #trait[Forces #d6], or #trait[Prime #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -175,16 +183,17 @@ Primal devotees of rough Nature and mystic blood.
 
 
 ==== Bonus Asset
+Choose an animal that is inhabited by a spirit with whom you are bound with in a familiar connection, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Animal Ken #d6], #trait[Brawl #d6], #trait[Herbalism #d6], #trait[Survival #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Occupying the Seat of Life, Verbenae are well acquainted with many secrets of living beings, gaining #trait[Life] #d6.
+Adherents of the Old Ways and primal Life made manifest, the Verbenae are in sacred connection with nature, drawing power and favour from living beings and primordial terror of the elements.
 
-Sometimes a Verbena may choose to learn Forces this way instead.
+Gain #trait[Life #d6] or #trait[Forces #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -195,16 +204,17 @@ Reality-hackers devoted to rebooting their world.
 
 
 ==== Bonus Asset
+Choose an informational system that you have access to and use for reality hacking, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Computer #d6], #trait[Enigmas #d6], #trait[Streetwise #d6], #trait[Technology #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Occupying the Seat of Correspondence, Virtual Adepts are experts when in comes to traversing the great Digital Web connecting the world, gaining #trait[Correspondence] #d6, though they understand the Sphere as Data.
+Anarchist visionaries cracking the code to reality, Virtual Adepts disregard facades of space and natural order, going into the informational backdoors of reality to erase any degree of separation between objects and their motive energies.
 
-Sometimes an Adept may choose to learn Forces this way instead.
+Gain #trait[Correspondence #d6] or #trait[Forces #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -220,14 +230,17 @@ Perfectors of the human machine.
 
 
 ==== Bonus Asset
+Choose one hypertech Device that you created or integrated into your body, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Craft #d6], #trait[Cybernetics #d6], #trait[Science #d6], #trait[Technology #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Forces, Matter, or Time
+Operating beyond the bleeding edge of technology, Iterators shackle the material world, the forces that animate it, as well as the flow of causality itself.
+
+Gain #trait[Forces #d6], #trait[Matter #d6] or #trait[Time #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -238,14 +251,17 @@ Custodians of social order and global stability.
 
 
 ==== Bonus Asset
+Choose one item that represents (or confirms, I'm unsure) your legal authority, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Enigmas #d6], #trait[Law #d6], #trait[Manipulation #d6], #trait[Melee #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Mind or Correspondence/Data
+The men behind the men, the NWO are the shepherds of humanity, who control both the masses, as well as the connections between them.
+
+Gain #trait[Mind #d6] or #trait[Correspondence #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -256,14 +272,17 @@ Innovators dedicated to the potential of organic life.
 
 
 ==== Bonus Asset
+Choose one biological modification that assists your experiments, which you developed during training, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Academics #d6], #trait[Medicine #d6], #trait[Pharmaceuticals #d6], #trait[Science #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Life or Prime
+The guiding hand of evolution, Progenitors shape life itself and bring forth creatures that never existed before.
+
+Gain #trait[Life #d6] or #trait[Prime #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -274,14 +293,17 @@ Masters of finance, status, and the power of wealth.
 
 
 ==== Bonus Asset
+Choose a business that you have appropriated as a Primal Venture, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Finances #d6], #trait[Law #d6], #trait[Leadership #d6], #trait[Subterfuge #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Entropy, Mind, or Primal Utility
+Money makes the world go around and the Syndicate are the money, finding value in everything that exists and had never existed, pulling the strings of weaker men, and exploiting the chaos of hypereconomics.
+
+Gain #trait[Entropy #d6], #trait[Mind #d6], or #trait[Prime #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
@@ -292,14 +314,17 @@ Explorers and protectors of extradimensional space.
 
 
 ==== Bonus Asset
+Choose a Device that shields you from a particular hazardous environment and assists in employing Enlightened procedures, and gain that as an asset rated at #d6.
 
 
 ==== Bonus Specialities
-Gain #trait[] #d6, #trait[] #d6, and #trait[] #d6 as bonus specialities.
+Choose three specialities from #trait[Cosmology #d6], #trait[Firearms #d6], #trait[Survival #d6], #trait[Technology #d6]. Gain them as bonus specialities.
 
 
 ==== Affinity Sphere
-Dimensional Science (Spirit), Correspondence, or Forces
+Brave explorers of the worlds beyond, Void Engineers are charting the expanses of dimensions real and not, and wielding the firepower to defend from threats without and within.
+
+Gain #trait[Spirit #d6], #trait[Correspondence #d6], or #trait[Forces #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX

@@ -63,7 +63,7 @@ Extras can be created as needed during play. Analog STCs and Challenge Pools wor
 
 
 ==== Extras
-An extra is a nameless character in a scene who has just one trait describing their role in the story, like #trait[Bored Cop] #d10 or #trait[Suspicious Neighbour] #d6. This trait is added to other dice pools (such as the peril pool) rather than rolled on its own. When extras take a complication or stress larger than their trait die, they are taken out. Most extras are invented during play rather than created in advance.
+An extra is a nameless character in a scene who has just one trait describing their role in the story, like #trait[Bored Cop #d10] or #trait[Suspicious Neighbour #d6]. This trait is added to other dice pools (such as the peril pool) rather than rolled on its own. When extras take a complication or stress larger than their trait die, they are taken out. Most extras are invented during play rather than created in advance.
 
 
 ==== Analog STCs
@@ -155,11 +155,11 @@ The dice in each challenge's main trait (like its mob trait or boss trait) are j
 === Militia Leader's Bunker (Challenge Pool)
 _Hideout for incendiary insurgents and inconsistent ideologies._
 
-POOL: #trait[Fortified Compound] #d10#d10#d10
+POOL: #trait[Fortified Compound #d10#d10#d10]
 
-#trait[Too Many Guns] #d6
+#trait[Too Many Guns #d6]
 
-#trait[Special Forces Rejects] #d4
+#trait[Special Forces Rejects #d4]
 
 #sfx[All-Out Attack:] Spend a #pp to target multiple opponents when you roll to inflict #trait[Damaged]. For each additional target, add #d6 and keep an extra effect die.
 
@@ -167,11 +167,11 @@ POOL: #trait[Fortified Compound] #d10#d10#d10
 === Spirits of Winter (Mob)
 _They're coming._
 
-MOB TRAIT: #trait[Hungry Ghosts] #d8#d8#d8
+MOB TRAIT: #trait[Hungry Ghosts #d8#d8#d8]
 
-#trait[Life-Stealing Chill] #d6
+#trait[Life-Stealing Chill #d6]
 
-#trait[Invisible Until They Strike] #d6
+#trait[Invisible Until They Strike #d6]
 
 #sfx[Overwhelming Tenacity:] When you roll to inflict #trait[Drained], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.
 
@@ -179,13 +179,13 @@ MOB TRAIT: #trait[Hungry Ghosts] #d8#d8#d8
 === Corrupt Federal Agent (Boss)
 _They love other people's secrets._
 
-BOSS TRAIT: #trait[Nosy Investigator] #d6#d6#d6#d6
+BOSS TRAIT: #trait[Nosy Investigator #d6#d6#d6#d6]
 
-#trait[Persistence] #d6
+#trait[Persistence #d6]
 
-#trait[Knows Everyone] #d8
+#trait[Knows Everyone #d8]
 
-#trait[Forged Warrants] #d10
+#trait[Forged Warrants #d10]
 
 #sfx[This Just Got Real:] When you roll to inflict #trait[Demoralised], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.
 
@@ -194,24 +194,24 @@ BOSS TRAIT: #trait[Nosy Investigator] #d6#d6#d6#d6
 === Off-the-Grid Vampire (STC)
 _Bloodsucking nocturnal marauder._
 
-Shadow Roles: #trait[Speaker] #d8, #trait[Soldier] #d10
+Shadow Roles: #trait[Speaker #d8], #trait[Soldier #d10]
 
-#trait[Illusion] #d10
+#trait[Illusion #d10]
 
-#trait[Underground Lair] #d6
+#trait[Underground Lair #d6]
 
-#trait[Unquestioning Blood Cultists] #d8
+#trait[Unquestioning Blood Cultists #d8]
 
-#trait[Overgrown Claws and Fangs] #d8
+#trait[Overgrown Claws and Fangs #d8]
 
-#trait[Centuries-old Undead] #d8
+#trait[Centuries-old Undead #d8]
 
 #sfx[Claws & Fangs:] Reveal your natural weapons to add #d6 to your pool and step up any stress inflicted.
 
-#sfx[Eternal Hunger (Limit):] Each day at sunset, step down all stress except #trait[Drained], then take #trait[Drained] #d6 unless you've slumbered since the last sunset.
+#sfx[Eternal Hunger (Limit):] Each day at sunset, step down all stress except #trait[Drained], then take #trait[Drained #d6] unless you've slumbered since the last sunset.
 
-#sfx[Relentless Thirst:] Each time you inflict #trait[Drained] stress on a living human or Night Folk, apply the same effect die as recovery to your own #trait[Drained] stress. When you increase a creature's #trait[Drained] to #d12 or larger, it takes #trait[Damaged] #d12 as well.
+#sfx[Relentless Thirst:] Each time you inflict #trait[Drained] stress on a living human or Night Folk, apply the same effect die as recovery to your own #trait[Drained] stress. When you increase a creature's #trait[Drained] to #d12 or larger, it takes #trait[Damaged #d12] as well.
 
-#sfx[Undead Might:] Take #trait[Drained] #d6 to step down your #trait[Damaged], to gain a #pp, or to step up #trait[Soldier] until the scene ends. You can never recover #trait[Drained] stress except via SFX.
+#sfx[Undead Might:] Take #trait[Drained #d6] to step down your #trait[Damaged], to gain a #pp, or to step up #trait[Soldier] until the scene ends. You can never recover #trait[Drained] stress except via SFX.
 
 #sfx[Vampiric Weaknesses (Limit):] Step down your roles whenever the sun is up. When you take #trait[Drained] stress from sunlight, stakes, fire, or faith, step up that stress, gain a #pp, and shut down #sfx[Undead Fortitude] until you sleep continuously for at least eight hours.
