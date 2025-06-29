@@ -16,7 +16,10 @@ Gear rules and SFX in the Emporium of the Speaking Lands: Miriam Robern
 
 The Arcanist's Toolkit: Riley Routh
 
-Special thanks to: Vecna and the entire Cortex Prime discord for the input, brainstorming, advice and help.
+Special thanks to:
+SirKnightBush, my dearest friend, Emily Butterfly, and Leland Waywright/The Silent Bard for helping with creative writing and editing.
+
+Vecna and the entire Cortex Prime discord for the input, brainstorming, advice and help.
 
 
 = #title_text
