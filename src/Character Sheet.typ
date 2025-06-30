@@ -293,4 +293,4 @@
   )
 }
 
-#sheet(specialities: (Aqua: [], Ignis: []), signature_assets: (Raga: [], Ishoh: []))
+#sheet()
