@@ -18,8 +18,8 @@
   set page(
     background: context {
       let (num,) = counter(page).get()
-      let background_src = if calc.odd(num) { "../../assets/images/bg_left.jpg" } else {
-        "../../assets/images/bg_right.jpg"
+      let background_src = if calc.odd(num) { "/assets/images/bg_left.jpg" } else {
+        "/assets/images/bg_right.jpg"
       }
 
       place(image(background_src, width: 100%, height: 100%))

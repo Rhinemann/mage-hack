@@ -20,8 +20,8 @@
 #let front_cover = {
   page(
     background: {
-      place(image("../../assets/images/sidebar.jpg", width: 100%, height: 100%))
-      place(image("../../assets/images/Frame.png", width: 100%, height: 100%))
+      place(image("/assets/images/sidebar.jpg", width: 100%, height: 100%))
+      place(image("/assets/images/Frame.png", width: 100%, height: 100%))
     },
     paper: "us-letter",
     margin: 30mm,
@@ -33,7 +33,7 @@
 
     #v(1fr)
 
-    #image("../../assets/images/result_sharp.png", width: 80%)
+    #image("/assets/images/result_sharp.png", width: 80%)
 
     #v(1fr)
 

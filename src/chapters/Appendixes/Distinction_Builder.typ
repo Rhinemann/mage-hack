@@ -1,5 +1,5 @@
-#import "../../templates/interior_template.typ": *
-#import "../../templates/global.typ": *
+#import "/templates/interior_template.typ": *
+#import "/templates/global.typ": *
 
 #show table.cell.where(y: 0): strong
 #show table.cell.where(x: 0): strong

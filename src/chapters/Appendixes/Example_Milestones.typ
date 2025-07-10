@@ -1,5 +1,5 @@
-#import "../../templates/interior_template.typ": *
-#import "../../templates/global.typ": *
+#import "/templates/interior_template.typ": *
+#import "/templates/global.typ": *
 
 // #show list: set block(breakable: false)
 
