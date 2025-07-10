@@ -13,6 +13,7 @@
 #include "chapters/What_is_Mage.typ"
 #include "chapters/Characters_and_Traits.typ"
 #include "chapters/Factions.typ"
+#include "chapters/Magick.typ"
 #include "chapters/Evolving_Characters.typ"
 #include "chapters/ST_Rules.typ"
 
