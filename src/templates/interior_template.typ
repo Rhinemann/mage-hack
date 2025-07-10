@@ -9,11 +9,7 @@
     number-type: "lining",
   )
 
-  set par(
-    leading: 0.5em,
-    linebreaks: "optimized",
-    spacing: 1em,
-  )
+  set par(leading: 0.5em, linebreaks: "optimized", spacing: 0.7em, first-line-indent: (amount: 1em, all: true))
 
   set page(
     background: context {
@@ -40,8 +36,7 @@
     columns: column_number,
   )
 
-  // set terms(hanging-indent: 1em, separator: [: ])
-  set columns(gutter: 3em)
+  set columns(gutter: 1em)
   set list(marker: "\u{1F71A}")
 
   show table: set align(center)
@@ -73,12 +68,6 @@
   show strong: set text(fill: purple)
   show link: strong
   show link: underline
-
-  show par: it => {
-    set block(breakable: false)
-
-    block[#it]
-  }
 
 
   heading(level: 1, chapter_name)
