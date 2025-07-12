@@ -156,7 +156,7 @@ When the ST rolls a hitch, it's called an opportunity. When the ST rolls an oppo
 
 #colbreak()
 == ST Plot Points
-When an ST activates a hitch, or when a PC gains a #pp from using #sfx[Hinder] or a Limit, those plot points come from an infinite pile of plot points no one at the table needs to worry about monitoring or controlling. When players activate a ST opportunity, these #pp go back to that pile.
+When an ST activates a hitch, or when a PC gains a #pp from using _*Hinder*_ or a Limit, those plot points come from an infinite pile of plot points no one at the table needs to worry about monitoring or controlling. When players activate a ST opportunity, these #pp go back to that pile.
 
 However, when the ST wants to spend plot points to help a STC, they instead spend dice from their peril pool.
 
@@ -288,7 +288,7 @@ Complications and stress can be downright crippling. Getting rid of complication
 
 
 === Downtime
-During a scene when characters have a chance to recover -- by resting or some other form of self-care and recovery -- all stress usually dice step down. However, mages have the #sfx[Avatar Reserve] Limit, which means they can only step down their #trait[Drained] stress using SFX.
+During a scene when characters have a chance to recover -- by resting or some other form of self-care and recovery -- all stress usually dice step down. However, mages have the _*Avatar Reserve*_ Limit, which means they can only step down their #trait[Drained] stress using SFX.
 
 
 === Expiring Complications
@@ -316,7 +316,7 @@ At the start of a new session, all complications and stresses are removed -- unl
 
 #colbreak()
 == SFX & Dice Tricks
-Your character gains SFX, special effects that give you added influence over the story. These reflect your character's extraordinary abilities or their powerful role in the narrative. Many SFX require you to spend plot points to activate them. Other SFX allow you to impose a disadvantage on your character in order to earn #pp or another reward. For example, the #sfx[Hinder] SFX lets you earn a #pp by rolling a smaller die.
+Your character gains SFX, special effects that give you added influence over the story. These reflect your character's extraordinary abilities or their powerful role in the narrative. Many SFX require you to spend plot points to activate them. Other SFX allow you to impose a disadvantage on your character in order to earn #pp or another reward. For example, the _*Hinder*_ SFX lets you earn a #pp by rolling a smaller die.
 
 Using an SFX is always a choice; you are never compelled to activate your character's SFX, unless that SFX is a Limit. A Limit is an SFX which can be activated by the ST.
 
@@ -406,7 +406,7 @@ Hitches might occasionally result in other conditions, as the ST determines. Cha
 
 Botches can grow Paradox immensely, but they can also be opportunities for mistargeted, uncontrolled magickal effects going terribly awry.
 
-Other complications can interfere with performing magick, depending on the mage's instruments. A mage relying on voice and vocalisations who is #trait[Silenced] on #trait[Gagged], one who uses movement and gestures but has her fingers #trait[Bound], or one who writes the code to reality but had #trait[Electronics Taken Away] has those complications rolled against her in tests to perform magickal effects. Equivalent complications might afflict mages with different practices. A player might also #sfx[Hinder] a distinction to recognize the limitations of her training -- and pick up a sweet #pp for her trouble.
+Other complications can interfere with performing magick, depending on the mage's instruments. A mage relying on voice and vocalisations who is #trait[Silenced] on #trait[Gagged], one who uses movement and gestures but has her fingers #trait[Bound], or one who writes the code to reality but had #trait[Electronics Taken Away] has those complications rolled against her in tests to perform magickal effects. Equivalent complications might afflict mages with different practices. A player might also _*Hinder*_ a distinction to recognize the limitations of her training -- and pick up a sweet #pp for her trouble.
 
 
 === Tactical Conditions

@@ -76,4 +76,4 @@
 }
 
 #let trait(body) = smallcaps[*#body*]
-#let sfx(body) = [_*#body*_]
+#let sfx(title, body) = [_*#title:*_ #body]

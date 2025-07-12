@@ -7,7 +7,7 @@
 
 #show figure.caption: it => {
   set text(10pt)
-  align(left, sfx(it.body))
+  align(left, strong(emph(it.body)))
 }
 
 #set figure.caption(position: top)

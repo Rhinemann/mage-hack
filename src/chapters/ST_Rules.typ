@@ -15,9 +15,9 @@ While you might have a rough plan, avoid all expectations as to how a scene migh
 
 
 === Scene Distinctions
-Each scene can be framed with up to three scene distinctions, special traits that any character in the scene can include in their rolls (if a character has distinctions of their own, their player chooses whether to use a scene distinction or one of their character distinctions for each roll). Scene distinctions are rated at #d8, and can be used to earn plot points with #sfx[Hinder].
+Each scene can be framed with up to three scene distinctions, special traits that any character in the scene can include in their rolls (if a character has distinctions of their own, their player chooses whether to use a scene distinction or one of their character distinctions for each roll). Scene distinctions are rated at #d8, and can be used to earn plot points with _*Hinder*_.
 
-As a special rule, a character can include both a personal distinction and a scene distinction in the same roll, as long as one of the two distinctions is #sfx[Hindered].
+As a special rule, a character can include both a personal distinction and a scene distinction in the same roll, as long as one of the two distinctions is _*Hindered*_.
 
 
 == Scale
@@ -126,7 +126,7 @@ A mob is a challenge pool variant representing a group of opposing characters or
 
 Instead of stepping down its dice, mobs take complications like STCs. When a complication steps up past the Mob Trait's die size, the mob loses a die from that trait and the complication is eliminated. When Mob Trait loses its last die, it is taken out.
 
-A mob also has signature assets in addition to its mob dice (like those of a minor STC), which it can add to its rolls. Mobs can also have SFX, and most have at least one SFX like #sfx[All-Out Attack], #sfx[Area Spell], or #sfx[Impossible to Ignore] that allow the mob to target multiple characters on its action.
+A mob also has signature assets in addition to its mob dice (like those of a minor STC), which it can add to its rolls. Mobs can also have SFX, and most have at least one SFX like _*All-Out Attack*_, _*Area Spell*_, or _*Impossible to Ignore*_ that allow the mob to target multiple characters on its action.
 
 
 ==== Bosses
@@ -161,7 +161,10 @@ POOL: #trait[Fortified Compound #d10#d10#d10]
 
 #trait[Special Forces Rejects #d4]
 
-#sfx[All-Out Attack:] Spend a #pp to target multiple opponents when you roll to inflict #trait[Damaged]. For each additional target, add #d6 and keep an extra effect die.
+#sfx(
+  "All-Out Attack",
+  [Spend a #pp to target multiple opponents when you roll to inflict #trait[Damaged]. For each additional target, add #d6 and keep an extra effect die.],
+)
 
 
 === Spirits of Winter (Mob)
@@ -173,7 +176,10 @@ MOB TRAIT: #trait[Hungry Ghosts #d8#d8#d8]
 
 #trait[Invisible Until They Strike #d6]
 
-#sfx[Overwhelming Tenacity:] When you roll to inflict #trait[Drained], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.
+#sfx(
+  "Overwhelming Tenacity",
+  [When you roll to inflict #trait[Drained], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.],
+)
 
 
 === Corrupt Federal Agent (Boss)
@@ -187,7 +193,10 @@ BOSS TRAIT: #trait[Nosy Investigator #d6#d6#d6#d6]
 
 #trait[Forged Warrants #d10]
 
-#sfx[This Just Got Real:] When you roll to inflict #trait[Demoralised], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.
+#sfx(
+  "This Just Got Real",
+  [When you roll to inflict #trait[Demoralised], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.],
+)
 
 
 #colbreak()
@@ -206,12 +215,24 @@ Shadow Roles: #trait[Speaker #d8], #trait[Soldier #d10]
 
 #trait[Centuries-old Undead #d8]
 
-#sfx[Claws & Fangs:] Reveal your natural weapons to add #d6 to your pool and step up any stress inflicted.
+#sfx("Claws & Fangs", [Reveal your natural weapons to add #d6 to your pool and step up any stress inflicted.])
 
-#sfx[Eternal Hunger (Limit):] Each day at sunset, step down all stress except #trait[Drained], then take #trait[Drained #d6] unless you've slumbered since the last sunset.
+#sfx(
+  "Eternal Hunger (Limit)",
+  [Each day at sunset, step down all stress except #trait[Drained], then take #trait[Drained #d6] unless you've slumbered since the last sunset.],
+)
 
-#sfx[Relentless Thirst:] Each time you inflict #trait[Drained] stress on a living human or Night Folk, apply the same effect die as recovery to your own #trait[Drained] stress. When you increase a creature's #trait[Drained] to #d12 or larger, it takes #trait[Damaged #d12] as well.
+#sfx(
+  "Relentless Thirst",
+  [Each time you inflict #trait[Drained] stress on a living human or Night Folk, apply the same effect die as recovery to your own #trait[Drained] stress. When you increase a creature's #trait[Drained] to #d12 or larger, it takes #trait[Damaged #d12] as well.],
+)
 
-#sfx[Undead Might:] Take #trait[Drained #d6] to step down your #trait[Damaged], to gain a #pp, or to step up #trait[Soldier] until the scene ends. You can never recover #trait[Drained] stress except via SFX.
+#sfx(
+  "Undead Might",
+  [Take #trait[Drained #d6] to step down your #trait[Damaged], to gain a #pp, or to step up #trait[Soldier] until the scene ends. You can never recover #trait[Drained] stress except via SFX.],
+)
 
-#sfx[Vampiric Weaknesses (Limit):] Step down your roles whenever the sun is up. When you take #trait[Drained] stress from sunlight, stakes, fire, or faith, step up that stress, gain a #pp, and shut down #sfx[Undead Fortitude] until you sleep continuously for at least eight hours.
+#sfx(
+  "Vampiric Weaknesses (Limit)",
+  [Step down your roles whenever the sun is up. When you take #trait[Drained] stress from sunlight, stakes, fire, or faith, step up that stress, gain a #pp, and shut down _*Undead Fortitude*_ until you sleep continuously for at least eight hours.],
+)
