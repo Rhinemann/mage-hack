@@ -364,6 +364,28 @@ Gain #trait[Matter #d6], #trait[Forces #d6], or #trait[Prime #d6] as an Affinity
 
 
 ==== Faction SFX
+#sfx(
+  "Trust Me, I'm an Engineer",
+  [When using magick spend a #pp to turn a vulgar effect into a coincidental one if you are being observed by uneducated Sleepers, then shut down this SFX. Activate an opportunity to recover.],
+)
+
+#sfx(
+  "It's Gonna Blow",
+  [Double your Sphere when overloading, boosting or otherwise push the limits of one of the gadgets and tools that you use. Grow Paradox once immediately.],
+)
+
+#sfx(
+  "How It's Made",
+  [Spend a #pp either when modifying an existing tool or jury-rigging a new one for an effect not normally possible using it to gain a #d8 asset ],
+)
+
+#sfx("Auxiliary Operational Mode", [])
+
+#sfx("We Need More Funding", [])
+
+// “Auxiliary Operational Mode” — multiple redundancies may seem like a bad idea, but when some simpletons try to muck up your efforts, switching it up will throw a wrench in their plans!.. Though, your efficiency experiences a nosedive. When your Magick gets counterspelled or unweaved, spend a PP to (idk the system, remove a die? step down an opposing die?). However, it will also step down your effect die (or whatever, something along these lines.
+
+// “We need more funding!” — you don't roll with the Technocracy any longer, but hypereconomics do make life easier. Even Enlightened Science is not free from worldly concerns, but maybe you can spin the Primal Utility in your favour just this once? Spending 1 PP allows you to add a number of dice equal to either Resources or Influence to a Ritual cast (or step up? idk) by improving the material conditions of your experiments or making relevant persons more pliable.
 
 
 #colbreak()
