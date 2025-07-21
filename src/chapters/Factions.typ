@@ -371,7 +371,7 @@ Gain #trait[Matter #d6], #trait[Forces #d6], or #trait[Prime #d6] as an Affinity
 
 #sfx(
   "It's Gonna Blow",
-  [Double your Sphere when overloading, boosting or otherwise push the limits of one of the gadgets and tools that you use. Grow Paradox once immediately.],
+  [Double your Sphere when overloading, boosting or otherwise pushing the limits of one of the gadgets and tools that you use. Grow Paradox once immediately.],
 )
 
 #sfx(
@@ -379,9 +379,15 @@ Gain #trait[Matter #d6], #trait[Forces #d6], or #trait[Prime #d6] as an Affinity
   [Spend a #pp either when modifying an existing tool or jury-rigging a new one for an effect not normally possible using it to gain a #d8 asset ],
 )
 
-#sfx("Auxiliary Operational Mode", [])
+#sfx(
+  "Auxiliary Operational Mode (Gear)",
+  [Step down the highest die in your pool to step up an effect die when someone is attempting to unweave or counterspell the magick enacted using your gadgets and devices.],
+)
 
-#sfx("We Need More Funding", [])
+#sfx(
+  "We Need More Funding",
+  [Consume an asset representing wealth improving the material conditions of your experiments or making relevant persons more pliable to double a die when performing a ritual.],
+)
 
 // “Auxiliary Operational Mode” — multiple redundancies may seem like a bad idea, but when some simpletons try to muck up your efforts, switching it up will throw a wrench in their plans!.. Though, your efficiency experiences a nosedive. When your Magick gets counterspelled or unweaved, spend a PP to (idk the system, remove a die? step down an opposing die?). However, it will also step down your effect die (or whatever, something along these lines.
 
