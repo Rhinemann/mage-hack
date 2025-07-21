@@ -1,3 +1,7 @@
 #!/bin/bash
 
-typst c --root . --font-path assets -- src/Mage\ Conversion.typ target/Mage\ Conversion.pdf
+source_file="${1-src/Mage Conversion.typ}"
+basename="${source_file##*/}"
+target_file="${2-target/${basename%.*}.pdf}"
+
+typst c --root src --font-path src/assets/fonts -- "$source_file" "$target_file"
