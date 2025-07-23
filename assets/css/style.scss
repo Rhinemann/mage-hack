@@ -6,14 +6,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=New+Rocker&display=swap');
 
 body, p {
-    font-family: 'Cortex', 'Cormorant Garamond', 'Open Sans', sans-serif;
+    font-family: 'Cormorant Garamond', 'Open Sans', sans-serif;
+}
+
+p {
+    font-size: large;
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Cortex', 'New Rocker', 'Open Sans', sans-serif;
-}
-
-.header-level-1, .header-level-2, .header-level-3, .header-level-4, .header-level-5, .header-level-6 {
-    font-style: normal;
+    font-family: 'New Rocker', 'Open Sans', sans-serif;
 }
 
