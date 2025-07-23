@@ -3,21 +3,7 @@
 
 @import "{{ site.theme }}";
 
-@font-face {
-    font-family: "Cortex";
-    src: url(../src/assets/fonts/CortexSymbology-Regular.ttf) format('truetype');
-}
-
-@font-face {
-    font-family: "New Rocker";
-    src: url(../src/assets/fonts/NewRocker-Regular.ttf) format('truetype');
-}
-
-@font-face {
-    font-family: "Cormorant Garamond";
-    src: 
-        url(../src/assets/fonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf), format('truetype');
-}
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=New+Rocker&display=swap');
 
 body, p {
     font-family: 'Cortex', 'Cormorant Garamond', 'Open Sans', sans-serif;
