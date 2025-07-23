@@ -58,12 +58,8 @@
   show heading.where(level: 2): set text(size: 20pt)
   show heading.where(level: 3): set text(size: 16pt)
   show heading.where(level: 4): set text(size: 14pt, fill: purple.lighten(25%))
-  show heading: it => {
-    set text(font: ("XWGXSC+CortexSymbology", "New Rocker"))
-    set block(above: 1.5em, below: 0.5em)
-
-    it
-  }
+  show heading: set text(font: ("XWGXSC+CortexSymbology", "New Rocker"))
+  show heading: set block(above: 1.5em, below: 0.5em)
 
   show strong: set text(fill: purple)
   show link: strong

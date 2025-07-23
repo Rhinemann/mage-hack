@@ -3,7 +3,7 @@
 
 
 #show: chapter.with(chapter_name: "What is Mage?")
-#title_content is a tabletop roleplaying game of urban fantasy, gothic punk, ambition, freedom, power and shifting realities built on rules inspired by _Cortex_. The simple yet extremely powerful and encompassing rules will allow you to experience a familiar world of _Mage_ with new and exciting rules that are closer to modern narrative games.
+#title_content is a tabletop roleplaying game of urban fantasy, gothic punk, ambition, freedom, power and shifting realities built on rules inspired by _Cortex Prime_. The simple yet extremely powerful and encompassing rules will allow you to experience a familiar world of _Mage_ with new and exciting rules that are closer to modern narrative games.
 
 In a tabletop roleplaying game such as this one, players each take a role of a character or multiple. #title_content characters exist in a world much like ours, but darker, painted in gothic tones and punk sounds. The shadows are darker, the urban decay stronger, and the inequalities highlighted. Mages, vampires, demons, werewolves and countless occult creatures inhabit the shadows. They walk among mortals and pretend to be them, all while navigating their own complex worlds of intrigue, politics, secret wars and mysteries.
 
@@ -62,6 +62,7 @@ After rolling, you add two of the die results together for your total. The total
 So if my highest rolls were a 6 on a #d6 and a 6 on a #d10, I'd probably decide to add the two together for a total of 12.
 
 
+#colbreak()
 === Your Effect Die
 After choosing die results for your total, you pick one of the other dice you rolled to be your effect die. This choice doesn't affect whether you succeed or fail. It's somewhat like rolling for damage in the original system is separate from your attack roll.
 
@@ -80,8 +81,9 @@ If you win, the size of your effect die (not the number it rolled) determines ho
 For example, if you roll to hit someone with a weapon, your total determines whether you hit (like comparing an attack roll to armour class in the world's most popular RPG), and your effect die would be how much damage you inflict. Your total tells you whether the story goes your way; your effect die tells you how far it goes.
 
 
+#colbreak()
 === An Example of Play
-Lydia, a fashionista Hermetic mage with small stature and large personality, is going home late in the evening after shopping for fabric, but a suspicious man is following her. You describe Lydia grabbing a burning spider amulet on her neck, recalling Pattern classifications, and whispering a perceptive spell to read the man's aura.
+Lydia, a fashionista Hermetic mage of small height and large personality, is going home late in the evening after shopping for fabric, but a suspicious man is following her. You describe Lydia grabbing a burning spider amulet on her neck, recalling Pattern classifications, and whispering a perceptive spell to read the man's aura.
 
 The ST asks you for a dice roll to see if the succeeds. You roll her traits #trait[Scout #d6], #trait[Alertness #d8], #trait[Spider in the Web #d8], and #trait[Prime #d6], getting 4 and 7 on #d8\s, 3 and 2 on #d6\s.
 
@@ -101,6 +103,7 @@ Playing a tabletop RPG can become a bad experience if everyone involved isn't on
 You should also use appropriate safety tools, such as #link("https://www.dicebreaker.com/categories/roleplaying-game/opinion/lines-and-veils-rpg-safety-tools")[Lines and Veils], the #link("https://docs.google.com/document/d/1SB0jsx34bWHZWbnNIVVuMjhDkrdFGo1_hSC2BWPlI3A")[X-Card by John Stavropoulos] or Script Change by #link("https://thoughty.itch.io/script-change")[Beau Jágr Sheldon]. Script Change is especially recommended, because the framework it provides can improve the experience of playing a tabletop RPG even when content concerns aren't an issue. What's important is choosing the tools that work for you and your group.
 
 
+#colbreak()
 === Sessions, Scenes, & Beats
 Games are played in sessions. A session is just however long you and your group gather to play at a time, whether in-person or online.
 
@@ -113,6 +116,7 @@ Player actions take place in units of time called beats. A beat is simply how lo
 The most basic kind of die roll is a test. You say you want to do something, and if it requires a roll, but it isn't directly against another significant character (or PC), the ST rolls peril pool against you. (Peril pool will be further explained in the Storyteller chapter.)
 
 
+#colbreak()
 === Action Order
 Normally, a player can just roll a test or describe their character's actions whenever it makes sense, as part of the game's ongoing conversation. When it's helpful to organize things a bit more, the ST can move things into action order.
 
@@ -123,6 +127,7 @@ Normally, a player can just roll a test or describe their character's actions wh
 - Whoever goes last in a round chooses who goes first in the next round, which can be themself!
 
 
+#colbreak()
 === Plot Points
 This game uses a special currency called plot points (abbreviated #pp), which you can spend to affect the story. You'll likely earn and spend plot points all the time. Every player gets at least one #pp at the start of each session.
 
@@ -154,8 +159,8 @@ If every die in a pool hitches it's called a botch, and it means ST can use the 
 When the ST rolls a hitch, it's called an opportunity. When the ST rolls an opportunity, you can spend a #pp to step up an existing asset or step down a complication.
 
 
-#colbreak()
-== ST Plot Points
+// #colbreak()
+=== ST Plot Points
 When an ST activates a hitch, or when a PC gains a #pp from using _*Hinder*_ or a Limit, those plot points come from an infinite pile of plot points no one at the table needs to worry about monitoring or controlling. When players activate a ST opportunity, these #pp go back to that pile.
 
 However, when the ST wants to spend plot points to help a STC, they instead spend dice from their peril pool.
@@ -189,6 +194,7 @@ You might simply roll to change your situation, such as by opening a locked door
 You might also roll to step down or end a complication; this is called recovery, and the rules for it are explained later.
 
 
+#colbreak()
 === Heroic Success
 When you succeed on a roll, if your total beats the opposing roll by 5 or more, you've scored a heroic success. This means that you not only achieve what you set out to do, but surpass your own expectations in doing so. For every 5 by which you beat the opposing roll, your effect die steps up by one size.
 
@@ -218,6 +224,7 @@ If a complication on any character would step up to a die size larger than #d12,
 When you are taken out, you are unable to influence the story -- one way or another, you've been overwhelmed and can no longer take actions. When someone gets banished into the Umbra, is blown away by a tornado, knocked out by a brigand, or is petrified by magic, they've been taken out. Being taken out usually only lasts until the end of the scene.
 
 
+#colbreak()
 === Stepping Up Complications
 An important rule of complications is that an existing one can be stepped up by further actions that inflict the same complication. So, if you already have a #trait[On Fire #d6] complication, and someone adds fuel to the blaze or fires a phosphorous round at you, that complication could step up to #d8. Each time another roll worsens your complication, its effect die steps it up. If the effect die is larger than the complication's rating, the complication steps up to that effect die's size.
 
@@ -226,6 +233,7 @@ When naming a complication, it is best to use a name that leaves room for things
 Complications can also be renamed when circumstances change. If a character already trapped in a net is then pushed into quicksand, their complication might go from #trait[Tangled Up #d8] to #trait[Restrained #d10], changing the name to include all the problems limiting their ability to move and escape.
 
 
+#colbreak()
 === Stress
 The most common forms of complications are called stress. These are the kinds of consequences that befall characters all the time. While they work just like complications in all other respects, they have their own rules for when they go away.
 
@@ -303,7 +311,7 @@ When the ST rolls an opportunity, you can spend a #pp to step down a complicatio
 === Recovery Rolls
 Other characters can try to help you recover. (Generally, you can't recover your own stress unless you have an SFX that allows it.)
 
-To do so, the helping character rolls a test against a difficulty of #d8#d8 plus the complication or stress die that they are trying to help you with.
+To do so, the helping character rolls a test against a difficulty of #d8#d8 or peril, per ST's choice, plus the complication or stress die that they are trying to help you with.
 
 On a success, they either step down your complication or stress, if their effect die is equal or smaller to its die, or remove the complication or stress entirely, if their effect die is larger.
 
@@ -319,8 +327,6 @@ At the start of a new session, all complications and stresses are removed -- unl
 Your character gains SFX, special effects that give you added influence over the story. These reflect your character's extraordinary abilities or their powerful role in the narrative. Many SFX require you to spend plot points to activate them. Other SFX allow you to impose a disadvantage on your character in order to earn #pp or another reward. For example, the _*Hinder*_ SFX lets you earn a #pp by rolling a smaller die.
 
 Using an SFX is always a choice; you are never compelled to activate your character's SFX, unless that SFX is a Limit. A Limit is an SFX which can be activated by the ST.
-
-Some SFX allow you to add your own complication to your dice pool. A complication included in a roll can't also be included in the opposing dice pool, so using such an SFX also prevents the other side from using that complication against you.
 
 
 === Doubling Dice
@@ -379,17 +385,17 @@ During play, every character also maintains their own special challenge pool tha
 When Paradox grows ST either steps up one of Paradox dice or adds a #d6 to Paradox -- two if the pool was empty. A character grows their Paradox in multiple ways:
 - Whenever they use vulgar magick, Paradox grows once and the player gains a #pp.
 
-- Whenever a Sleeper witnesses them use vulgar magick, Paradox grows twice and the player gains a #pp.
+- Whenever they use vulgar magick in front of Sleeper witnesses, Paradox grows twice and the player gains 2 #pp\s.
 
 - Whenever they roll a hitch using magick, the Storyteller may grow Paradox as per peril rules, paying for it as normal.
 
 - Special circumstances: Certain special circumstances like encounters with Mad Ones may grow Paradox in unusual ways as well.
 
-Paradox gets to roll against the character (as described in the ST section) if they performed magick and their Paradox isn't empty. If Paradox succeeds they get to inflict a complication or stress, representing the form Backlash takes, be it Quiet, Burn, a Paradox flaw or spirit.
+Paradox gets to roll against the character (as described in the ST section) if their Paradox grew. If Paradox succeeds, they get to inflict a complication, representing the form Backlash takes, be it Quiet, Burn, a Paradox flaw or spirit.
 
 If a PC accumulates enough Paradox, then the ST may spend from the peril pool to put them in a Paradox realm.
 
-The PC can reduce Paradox by rolling against it, taking an action on their turn to steel themselves before the might of reality hitting them. Success depletes the Paradox dice, and results in a Paradox flaw that has a relatively harmless effect.
+The PC can reduce Paradox by rolling against it, taking an action on their turn to steel themselves before the might of reality hitting them. Success depletes the Paradox dice, and results in a Paradox flaw that has a relatively harmless effect not represented by a complication.
 
 
 #colbreak()
@@ -397,18 +403,20 @@ The PC can reduce Paradox by rolling against it, taking an action on their turn 
 Characters may find themselves experiencing all kinds of conditions: getting turned into a lawn chair, using magick to turn invisible, having a pursuer shoot out one of your tires, gaining increased confidence from an inspiring speech, and the like. In #title_content, these kinds of conditions are modelled with assets, complications, and stress.
 
 
+#colbreak()
 === Spellcasting Conditions
 As a default, hitches on rolls to use magick almost always inflict Paradox on the caster.
 
-Sometimes mages use Quintessence to make their magicks blaze with reality, brilliance, and power, imposing their Will over the world. #trait[Drained] stress describes their Avatar's reserves dwindling.
+Sometimes mages use Quintessence to make their magicks blaze with reality, brilliance, and power when imposing their Will over the world. #trait[Drained] stress describes their Avatar's reserves dwindling.
 
 Hitches might occasionally result in other conditions, as the ST determines. Channelling hitched lightning might shock you as well, for instance, and inflict #trait[Damaged], and a hitched prophecy might fill one with dread, inflicting #trait[Demoralised] instead.
 
 Botches can grow Paradox immensely, but they can also be opportunities for mistargeted, uncontrolled magickal effects going terribly awry.
 
-Other complications can interfere with performing magick, depending on the mage's instruments. A mage relying on voice and vocalisations who is #trait[Silenced] on #trait[Gagged], one who uses movement and gestures but has her fingers #trait[Bound], or one who writes the code to reality but had #trait[Electronics Taken Away] has those complications rolled against her in tests to perform magickal effects. Equivalent complications might afflict mages with different practices. A player might also _*Hinder*_ a distinction to recognize the limitations of her training -- and pick up a sweet #pp for her trouble.
+Other complications can interfere with performing magick, depending on the mage's instruments. A mage relying on voice and vocalisations who is #trait[Silenced] on #trait[Gagged], one who uses movement and gestures but has their fingers #trait[Bound], or one who writes the code to reality but had #trait[Electronics Taken Away] has those complications rolled against their in tests to perform magickal effects. Equivalent complications might afflict mages with different practices. A player might also _*Hinder*_ a distinction to recognize the limitations of their training -- and pick up a sweet #pp for their trouble.
 
 
+#colbreak()
 === Tactical Conditions
 A simple test can inflict complications such as #trait[Surrounded], #trait[Outflanked], or #trait[Exposed], or create assets like #trait[Covering Fire], #trait[In Position], or #trait[Got the Drop On You]. If an asset applies to multiple characters, spend a #pp to let everybody in the group use it.
 
@@ -423,6 +431,7 @@ Intimidation both on and off the battlefield is neatly handled by inflicting #tr
 The trade-off is that, in most situations, #trait[Demoralised] stress is likely easier to recover than "more serious" conditions like #trait[Damaged], which might require skilled help, specialized tools, or magick. Any character can offer encouragement to any other character as an action intended to recover #trait[Demoralised] stress. Characters can even attempt to psych themselves up and recover their own stress.
 
 
+#colbreak()
 === Magical Conditions
 A whole raft of magical conditions can simply be flashy ways of inflicting basic stress. A fascination charm inflicts #trait[Enthralled]. A Prime effect draining your pattern of energy inflicts #trait[Drained]. And of course fireballs inflict #trait[Damaged].
 
@@ -433,6 +442,7 @@ Mages may also spend a #pp to keep an extra effect die. This way you can inflict
 Some magical conditions, such as turning someone into a lawn chair, can get tricky. Here the intent is not to complicate their later actions, but to remove the character from the scene entirely. Such a complication may need to be rephrased as an active but unfinished process, like #trait[Becoming a Lawn Chair].
 
 
+#colbreak()
 === Stealth Conditions
 Characters sneaking past guards or into rooms without being noticed is usually resolved with a simple test. However if the player intends to leverage that "stealthed" status in later actions, they might spend a #pp to gain the asset #trait[Stealthed] or #trait[In the Shadows]
 
@@ -443,6 +453,7 @@ Both assets and complications are eliminated whenever they are no longer relevan
 The classic Rogue tactic of striking from the shadows can combine both a #trait[Stealthed] asset and a distracting complication, which is one of the reasons this tactic is so popular and effective.
 
 
+#colbreak()
 === Wealth Conditions
 The love of money is the root of all evil, but we live in a society where people must spend to survive. ST can freely offer characters an asset to represent wealth gained an adventure: #trait[Fat Wallet #d6], #trait[Stolen Credit Card #d8], #trait[Briefcase Full of Cash #d10]. Alternately, players may search a location and create an asset to represent something valuable they find.
 
@@ -453,7 +464,8 @@ Like any other temporary asset, wealth assets only last for one session. A windf
 If a wealth is stored away or saved up, it doesn't disappear, but either it's no longer relevant to the immediate story and therefore is no longer worth a die, or the character should spend the 5 XP required to gain it as a signature asset, representing more permanent wealth or a useful purchase they intend to carry with them on their adventures.
 
 
-=== How to Be a Great Player
+#colbreak()
+== How to Be a Great Player
 As a #title_content player, part of your job is to respond to the challenges the GM lays down as well as interact with fellow player characters. The game works best when you go hard: describe your actions with cinematic energy. Instead of "I strike the zombie with lightning", you can draw your oaken want inscribed with sacred name of Baraquiel, the angel of lightning and speak the Latin incantation of Creo Fulmen to put the dead back to rest, slap the gun out of the vampire's hand, or any number of other options. There's no increased risk to your character when you get creative, so let your imagination run wild.
 
 One enthusiastically descriptive player is entertaining, but the good stuff is when the whole table starts riffing off each other's antics. Keep an eye out for opportunities to interact and open yourself up to others piling on to your fun. Be vocal: say "I need to shake this #trait[Demoralised] stress!" or "I'm gonna pin them in place with a complication, so you can finish them off!" The game works better -- both tactically and narratively -- if everybody is a part of everybody else's stories.

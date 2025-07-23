@@ -22,6 +22,7 @@ SirKnightBush, my dearest friend, Emily Butterfly, and Leland Waywright/The Sile
 Vecna and the entire Cortex Prime discord for the input, brainstorming, advice and help.
 
 
+#colbreak()
 = #title_text
 This is a tabletop roleplaying game inspired by rules originally published as #smallcaps[Cortex Lite], that was designed as a "generic" tabletop RPG to be used in any setting.
 

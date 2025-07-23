@@ -9,7 +9,7 @@ A #d4 trait is underdeveloped or problematic, a #d6 is healthy and reliable, a #
 
 
 == Character Creation
-To create your fledgling Other character, you first choose your Kind, representing what variety of supernatural being you are. Once that is done, you populate five trait sets -- distinctions, attributes, roles, specialities, signature assets, and Spheres -- and assign a die rating to each trait in those sets.
+To create your neophyte mage character, you populate six trait sets -- distinctions, attributes, roles, specialities, signature assets, and Spheres -- and assign a die rating to each trait in those sets.
 
 For traits like roles, when making a new character, you are given an array of die ratings for each set -- such as #d10, #d8, #d6, #d6, #d4 -- and you assign one of these ratings to each trait in the set. So a character's roles might be #trait[Scholar #d6], #trait[Scoundrel #d4], #trait[Scout #d10], #trait[Soldier #d8], and #trait[Speaker #d6].
 
@@ -17,16 +17,16 @@ When distributing these ratings, it is usually easiest to choose which of the tr
 
 
 == Faction & Focus
-When creating a character, choose one Faction, which grants you SFX and Limits. Choosing a Faction should be your first decision because it defines many things about your character. The playable factions detailed in this document are: the Council of Nine Mystic Traditions and the Technocratic Union. Details on each appear in the Factions section. If you aren't affiliated with any Faction you are known as an Orphan, an unaffiliated mage.
+When creating a character, choose one Faction, which grants you SFX and Limits to unlock when growing your character. Choosing a Faction should be your first decision because it defines many things about your character. The playable factions detailed in this document are: the Council of Nine Mystic Traditions and the Technocratic Union. Details on each appear in the Factions section. If you aren't affiliated with any Faction you are known as an Orphan, an unaffiliated mage.
 
-Once you choose a Faction, you should also choose a focus, which describes the way you understand the reality and how you enforce your Awakened Will upon the world. focus has three parts making it up:
+Once you choose a Faction, you should also define your focus, which describes the way you understand the reality and how you enforce your Awakened Will upon the world. Focus has three parts making it up:
 - A model for understanding how the world works. That's your paradigm.
 
 - A system or multiple systems that allow to apply the paradigm in the real world. That's your practice.
 
 - A number of tools, techniques and processes that prepare an act of magick in accordance with your practice, normally seven of them. Those are your instruments.
 
-Later in the book examples of Foci will be given, but those are not exhaustive, so you should feel free to define your focus yourself.
+Later in the book examples of foci will be given, but those are not exhaustive, so you should feel free to define your focus yourself.
 
 
 #colbreak()
@@ -47,7 +47,7 @@ Distinctions aren't necessarily permanent features of your character forever. Ch
 Define your character by picking three distinctions, as follows:
 - One _background_ distinction that includes some description of the character's identity in the mortal world along with a personality trait or some other idiosyncrasy. Most mages started life as normal humans, so this distinction often defines who the PC was before they joined the society of mages, but that is not all of them, some may have rather magickal upbringing, though that's quite rare. Examples might include #trait[Dazzling Seamstress], #trait[Brilliant Overthinker Graduate], #trait[Pessimistic Radio Technician], #trait[Transformed Tree], or #trait[Burnt Our Child Star].
 
-- One _Faction_ distinction, that includes the faction of mages you belong to, as well as your role in it. Your focus should be included in the distinction, or added to the description. Some examples are #trait[Chronicler of a Celestial Chorus Chantry], #trait[House Bonisagus Youngest Member], #trait[A Promising NWO Operative], or #trait[House Verditius Wondercrafter].
+- One _Faction_ distinction, that includes the faction of mages you belong to, as well as your role in it. Some examples are #trait[Chronicler of a Celestial Chorus Chantry], #trait[House Bonisagus Youngest Member], #trait[A Promising NWO Operative], or #trait[House Verditius Wondercrafter].
 
 - One _drive_ distinction summing up a belief, focus, motivation, calling, paradigm, or mission that is central to your character. Some examples include #trait[Must Protect My Family in Secret], #trait[Achieve Perfection in All I Am], #trait[Keep the Wheel of Dharma Spinning], or #trait[Find Out About my Sister's Disappearance].
 
@@ -55,6 +55,8 @@ Each of your distinctions is rated #d8.
 
 For more inspiration when creating distinctions, including lists and optional die rolls, see Appendix A: Distinction Builder.
 
+
+#colbreak()
 === Hindering Distinctions
 Every distinction benefits from the Hinder SFX, your character's first SFX. Hinder
 
@@ -103,7 +105,6 @@ The five roles can be used any time they apply:
 
 Sometimes more than one role might apply. Sneak up on a poacher with #trait[Scout] or #trait[Scoundrel] sums up your knack for trickery, crime, spying, sleight of hand, defeating security measures like traps or alarms.? Give battlefield orders with #trait[Soldier] or #trait[Speaker]? In those cases, choose the one your character favours.
 
-
 === Character Creation: Roles
 Assign the following die ratings to your five roles, in any order: #d10, #d8, #d6, #d6, #d4.
 
@@ -114,12 +115,12 @@ Specialities are narrow skills that supplement the broad areas of expertise defi
 
 For example, you might use #trait[Soldier] to display your general prowess with a weapon, but you might also have a specialty that you add when using certain types of weapons, such as #trait[Athletics #d6] or #trait[Weaponry #d8]. When you follow a trail through a dense forest, your dice pool might not only include #trait[Scout] but also an extra die for your #trait[Nature] specialty.
 
-A list of 17 suggested specialities is provided, but like distinctions, specialities can also be free-form traits you create yourself. Specialities should never be as broad as roles; as a general rule, a specialty should apply to about half as many situations as a basic role would (or less).
+Specialities are free-form traits you create yourself. Specialities should never be as broad as roles; as a general rule, a specialty should apply to about half as many situations as a basic role would (or less).
 
 Though specialities are like more focused versions of roles, there are no limits on what role you must use to include a specialty that suits your action. Returning to the above example, if you show off your skill with a knife to intimidate someone into answering your questions, your pool might include both your #trait[Speaker] role and an #trait[Athletics] or #trait[Weaponry] specialty.
 
 
-#colbreak()
+// #colbreak()
 === Character Creation: Specialities
 You can choose to start a new character with either two or three specialty traits. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
 
@@ -183,7 +184,6 @@ Most signature assets break down into one of five categories: things, creatures,
 - _*Edges*_ are supernatural capabilities you can access via your magickal powers, such as psychic powers, exceptional senses, frequently-used spells, sacred rituals, or more powerful versions of the magickal powers available to every Awakened. Examples include #trait[Mind Reading], #trait[Locator Spell], #trait[Telekinesis], #trait[Chain Lightning Rote], #trait[Ritual of Flame Immunity], #trait[Levitation], #trait[For Conjuration], #trait[Vorpal Claws], #trait[Fox Transformation], etc. Anything that you and your ST agree suits your mage is fair game.
 
 
-// === TODO Resonance
 === Character Creation: Signature Assets
 You choose to start your new character with either two or three of these additional signature assets. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
 
@@ -216,8 +216,10 @@ Magick is represented by ten spheres, acknowledged, even if begrudgingly and by 
 
 While those names are the ones understood by Traditions as the lingua franca of magic, every Faction has their own terminology and understanding for them, so you may feel free to rename the Spheres on your character sheet, so long as the rules themselves are maintained.
 
-=== Practices
-Magick is divided into  Practices by mages, each Practice describes broad kinds of effects a Mage can produce. You unlock more Practices as your Sphere increases:
+
+#colbreak()
+=== Techniques
+Magick is divided into  Techniques by mages, each Technique describes broad kinds of effects a Mage can produce. You unlock more Techniques as your Sphere increases:
 
 
 ==== Initiate #d6
@@ -239,8 +241,8 @@ Magick is divided into  Practices by mages, each Practice describes broad kinds 
 - _*Unraveling*_ - significantly damaging and degrading Sphere's phenomena or inflicting severe damage using the Sphere.
 
 ==== Master #d12 #d12
-- _*Making*_ - weaving phenomena out of pure Quintessence by combining Patterning Practices of Prime and another Sphere.
-- _*Unmaking*_ - reducing a target to nothing by combining Unravelling Practices of Prime and another Sphere.
+- _*Making*_ - weaving phenomena out of pure Quintessence by combining Patterning Techniques of Prime and another Sphere.
+- _*Unmaking*_ - reducing a target to nothing by combining Unravelling Techniques of Prime and another Sphere.
 
 
 === Spending Quintessence
@@ -261,6 +263,7 @@ There are other, more specialised ways of regaining Quintessence, but every mage
 )
 
 
+#colbreak()
 === Character Creation: Magick
 You choose to start your new character with either two or three of Sphere ratings. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
 
@@ -277,10 +280,10 @@ Some SFX are tagged as _*(Gear)*_. These generally require you to have the equip
 
 
 === Character Creation: SFX
-Your character begins play with all the SFX specified for mages, in addition to the _*Hinder*_.
+Your character begins play with _*Avatar Reserve*_ and _*Channel Quintessence*_, in addition to the _*Hinder*_.
 
 
-=== Character Creation: Limits
+//TODO === Character Creation: Limits
 // Your character gains the Limits called out for their Faction & Focus.
 // You choose and gain one Limit from among those listed in Appendix B: General SFX and Limits. /* TODO Appendix B */
 
@@ -301,6 +304,7 @@ Once XP is gained, it can be spent between sessions to change or improve your tr
 (Theoretically, you could choose to send your character on a new version of the same journey by starting the same milestone over again, if you feel it captures an aspect of your character that you'd like to explore more deeply, but it's usually more interesting to move on to a new one.)
 
 
+#colbreak()
 === Character Creation: Milestones
 All new characters start play with two milestones. Unless you and your ST agree on alternate milestones, you start with the default _Goal-Driven_ and _Levelling Up_ milestones listed below.
 
@@ -346,7 +350,7 @@ After all traits, SFX, and Milestones are set, choose just one of the following 
 
 
 === Orphan Bonus
-If you do are an Orphan, you can choose two of the listed bonus enhancements to add to your character, instead of just one.
+If you do are an Orphan, you can take a Bonus Enhancement twice, instead of just once, but you are unable to gain Faction SFX.
 
 
 #colbreak()
