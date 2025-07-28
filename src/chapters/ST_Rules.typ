@@ -161,10 +161,7 @@ POOL: #trait[Fortified Compound #d10#d10#d10]
 
 #trait[Special Forces Rejects #d4]
 
-#sfx(
-  "All-Out Attack",
-  [Spend a #pp to target multiple opponents when you roll to inflict #trait[Damaged]. For each additional target, add #d6 and keep an extra effect die.],
-)
+_*All-Out Attack:*_ Spend a #pp to target multiple opponents when you roll to inflict #trait[Damaged]. For each additional target, add #d6 and keep an extra effect die.
 
 
 === Spirits of Winter (Mob)
@@ -176,10 +173,7 @@ MOB TRAIT: #trait[Hungry Ghosts #d8#d8#d8]
 
 #trait[Invisible Until They Strike #d6]
 
-#sfx(
-  "Overwhelming Tenacity",
-  [When you roll to inflict #trait[Drained], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.],
-)
+_*Overwhelming Tenacity:*_ When you roll to inflict #trait[Drained], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.
 
 
 === Corrupt Federal Agent (Boss)
@@ -193,10 +187,7 @@ BOSS TRAIT: #trait[Nosy Investigator #d6#d6#d6#d6]
 
 #trait[Forged Warrants #d10]
 
-#sfx(
-  "This Just Got Real",
-  [When you roll to inflict #trait[Demoralised], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.],
-)
+_*This Just Got Real:*_ When you roll to inflict #trait[Demoralised], spend a #pp to affect multiple targets. For each additional target, add #d6 and keep an extra effect die.
 
 
 #colbreak()
@@ -215,24 +206,12 @@ Shadow Roles: #trait[Speaker #d8], #trait[Soldier #d10]
 
 #trait[Centuries-old Undead #d8]
 
-#sfx("Claws & Fangs", [Reveal your natural weapons to add #d6 to your pool and step up any stress inflicted.])
+_*Claws & Fangs:*_ Reveal your natural weapons to add #d6 to your pool and step up any stress inflicted.
 
-#sfx(
-  "Eternal Hunger (Limit)",
-  [Each day at sunset, step down all stress except #trait[Drained], then take #trait[Drained #d6] unless you've slumbered since the last sunset.],
-)
+_*Eternal Hunger (Limit):*_ Each day at sunset, step down all stress except #trait[Drained], then take #trait[Drained #d6] unless you've slumbered since the last sunset.
 
-#sfx(
-  "Relentless Thirst",
-  [Each time you inflict #trait[Drained] stress on a living human or Night Folk, apply the same effect die as recovery to your own #trait[Drained] stress. When you increase a creature's #trait[Drained] to #d12 or larger, it takes #trait[Damaged #d12] as well.],
-)
+_*Relentless Thirst:*_ Each time you inflict #trait[Drained] stress on a living human or Night Folk, apply the same effect die as recovery to your own #trait[Drained] stress. When you increase a creature's #trait[Drained] to #d12 or larger, it takes #trait[Damaged #d12] as well.
 
-#sfx(
-  "Undead Might",
-  [Take #trait[Drained #d6] to step down your #trait[Damaged], to gain a #pp, or to step up #trait[Soldier] until the scene ends. You can never recover #trait[Drained] stress except via SFX.],
-)
+_*Undead Might:*_ Take #trait[Drained #d6] to step down your #trait[Damaged], to gain a #pp, or to step up #trait[Soldier] until the scene ends. You can never recover #trait[Drained] stress except via SFX.
 
-#sfx(
-  "Vampiric Weaknesses (Limit)",
-  [Step down your roles whenever the sun is up. When you take #trait[Drained] stress from sunlight, stakes, fire, or faith, step up that stress, gain a #pp, and shut down _*Undead Fortitude*_ until you sleep continuously for at least eight hours.],
-)
+_*Vampiric Weaknesses (Limit):*_ Step down your roles whenever the sun is up. When you take #trait[Drained] stress from sunlight, stakes, fire, or faith, step up that stress, gain a #pp, and shut down _*Undead Fortitude*_ until you sleep continuously for at least eight hours.
