@@ -204,6 +204,15 @@ Gain #trait[Spirit #d6], #trait[Forces #d6], #trait[Life #d6], or #trait[Matter 
 
 
 ==== Faction SFX
+_*Embolden the Spirits:*_ When using magick step up a die in your pool but 1s and 2s count as hitches as inhabitants of the other side get rowdy and unrestrained from your magick.
+
+_*Quell The Spirits:*_ When dealing and negotiating with spirits take #trait[Enthralled #d6] to reroll a die in your roll.
+
+_*One of Their Own:*_ Spend a #pp to create a #d8 asset representing a friendly local spirit willing to help you.
+
+_*Dimensional Vagabond:*_ When stepping sideways spend a #pp to double a die in your pool.
+
+_*Storied History:*_ When interacting with spirits spend a #pp to introduce a details about the entity you're interacting with, whether it be past dealings, past connections, forgotten oath, etc represented by a #d8 asset.
 
 
 #colbreak()
