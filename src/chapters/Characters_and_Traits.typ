@@ -60,7 +60,7 @@ For more inspiration when creating distinctions, including lists and optional di
 === Hindering Distinctions
 Every distinction benefits from the Hinder SFX, your character's first SFX. Hinder
 
-#sfx("Hinder", [Roll this distinction as a #d4 to earn a #pp.])
+_*Hinder:*_ Roll this distinction as a #d4 to earn a #pp.
 
 Hinder is best used in situations where a distinction would actually make things harder for the character instead of easier (such as an #trait[Awkward Teen] trying to intimidate someone), or when no distinction really applies to what you're trying to do (“I'm a #trait[Doctor], not an engineer!”). Since Hinder earns you a #pp, which can be spent to include extra dice in your total, this allows you to accept a temporary disadvantage now in order to succeed more spectacularly later on.
 
@@ -248,19 +248,13 @@ Magick is divided into  Techniques by mages, each Technique describes broad kind
 === Spending Quintessence
 With the weight of Paradox growing stronger as they pull on threads of reality, and side-effects of a spell gone awry any use of magick can take a toll on a mage, but sometimes you may chose to exert yourself further, expending some of your reserve of Quintessence to make your workings blaze with truth and power of creation. You can do so with _*Avatar Reserve*_ SFX that every mage benefits from.
 
-#sfx(
-  "Avatar Reserve",
-  [Gain a #pp, then take #trait[Drained #d6] at the end of the current beat. You can never recover #trait[Drained] stress except via SFX.],
-)
+_*Avatar Reserve:*_ Gain a #pp, then take #trait[Drained #d6] at the end of the current beat. You can never recover #trait[Drained] stress except via SFX.
 
 
 === Recovering Quintessence
 There are other, more specialised ways of regaining Quintessence, but every mage benefits from _*Channel Quintessence*_ SFX.
 
-#sfx(
-  "Channel Quintessence",
-  [In a scene with a free source of quintessence, channel it to step down your #trait[Drained], then shut down this SFX. Activate an opportunity to recover.],
-)
+_*Channel Quintessence:*_ In a scene with a free source of quintessence, channel it to step down your #trait[Drained], then shut down this SFX. Activate an opportunity to recover.
 
 
 #colbreak()

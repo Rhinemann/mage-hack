@@ -364,30 +364,15 @@ Gain #trait[Matter #d6], #trait[Forces #d6], or #trait[Prime #d6] as an Affinity
 
 
 ==== Faction SFX
-#sfx(
-  "Trust Me, I'm an Engineer",
-  [When using magick spend a #pp to turn a vulgar effect into a coincidental one if you are being observed by uneducated Sleepers, then shut down this SFX. Activate an opportunity to recover.],
-)
+_*Trust Me, I'm an Engineer:*_ When using magick spend a #pp to turn a vulgar effect into a coincidental one if you are being observed by uneducated Sleepers, then shut down this SFX. Activate an opportunity to recover.
 
-#sfx(
-  "It's Gonna Blow",
-  [Double your Sphere when overloading, boosting or otherwise pushing the limits of one of the gadgets and tools that you use. Grow Paradox once immediately.],
-)
+_*It's Gonna Blow:*_ Double your Sphere when overloading, boosting or otherwise pushing the limits of one of the gadgets and tools that you use. Grow Paradox once immediately.
 
-#sfx(
-  "How It's Made",
-  [Spend a #pp either when modifying an existing tool or jury-rigging a new one for an effect not normally possible using it to gain a #d8 asset ],
-)
+_*How It's Made:*_ Spend a #pp either when modifying an existing tool or jury-rigging a new one for an effect not normally possible using it to gain a #d8 asset related to the effect.
 
-#sfx(
-  "Auxiliary Operational Mode (Gear)",
-  [Step down the highest die in your pool to step up an effect die when someone is attempting to unweave or counterspell the magick enacted using your gadgets and devices.],
-)
+_*Auxiliary Operational Mode (Gear):*_ Step down the highest die in your pool to step up an effect die when someone is attempting to unweave or counterspell the magick enacted using your gadgets and devices.
 
-#sfx(
-  "We Need More Funding",
-  [Consume an asset representing wealth improving the material conditions of your experiments or making relevant persons more pliable to double a die when performing a ritual.],
-)
+_*We Need More Funding:*_ Consume an asset representing wealth improving the material conditions of your experiments or making relevant persons more pliable to double a die when performing a ritual.
 
 
 #colbreak()
