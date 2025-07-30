@@ -325,6 +325,15 @@ Gain #trait[Forces #d6] or any other Sphere appropriate for your House as an Aff
 
 
 ==== Faction SFX
+_*Conjured Elemental:*_ Spend a #pp to create a #d8 asset, representing an elemental creature summoned to aid you until the end of the scene or you banish it.
+
+_*Prepared Caster:*_ Double a Sphere on a roll that includes a magickal asset you rolled to create in a previous scene. After the roll is resolved, either spend a #pp or step down the asset.
+
+_*Rote Memorization:*_ When your roll includes an asset representing a rote, add #d6 and step up your effect die.
+
+_*Erudite Researcher (Gear):*_ When you spend an hour or more with good sources (a library, a meticulous ledger, accurate maps, informed and cooperative experts, etc.) add #d6 and step up your effect die on rolls to create research-based assets.
+
+_*Rods, Staves, & Wands (Gear):*_ When your roll using magic to inflict stress or a complication includes an asset that is a rod, staff, or wand, add #d6 and step up your effect die.
 
 
 #colbreak()
