@@ -9,6 +9,8 @@ Choose one of the factions described in the following pages to define your chara
 // TODO (Description goes here.)
 The Council of Nine Mystic Traditions seek a return to the days of High Magick or a new dawn of mystic potential. Bitter enemies of the Technocracy, they appear to have been losing the battle for reality.
 
+#{ par(lorem(100)) * 2 }
+
 
 #colbreak()
 === Akashayana/Akashic Brotherhood
@@ -58,6 +60,7 @@ Gain #trait[Mind #d6], or #trait[Life #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -106,6 +109,7 @@ Gain #trait[Prime #d6], #trait[Forces #d6], or #trait[Spirit #d6] as an Affinity
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -154,6 +158,7 @@ Gain #trait[Time #d6], #trait[Life #d6], or #trait[Mind #d6] as an Affinity Sphe
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -255,6 +260,7 @@ Gain #trait[Death #d6], #trait[Life #d6], or #trait[Fate #d6] as an Affinity Sph
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -277,6 +283,7 @@ Gain #trait[Fate #d6], #trait[Death #d6] or #trait[Forces #d6] as an Affinity Sp
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -435,6 +442,7 @@ Gain #trait[Life #d6] or #trait[Forces #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -479,12 +487,15 @@ Gain #trait[Correspondence #d6] or #trait[Forces #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
 == Technocracy
 // TODO (Description goes here.)
 The Technocratic Union enforces global order under their Enlightened guidance and protection. Dedicated to wiping out Reality Deviants, they've spent over 500 years at war with the mystic Traditions.
+
+#lorem(100)
 
 
 #colbreak()
@@ -531,6 +542,7 @@ Gain #trait[Forces #d6], #trait[Matter #d6] or #trait[Time #d6] as an Affinity S
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -575,6 +587,7 @@ Gain #trait[Mind #d6] or #trait[Correspondence #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -620,6 +633,7 @@ Gain #trait[Life #d6] or #trait[Prime #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -664,6 +678,7 @@ Gain #trait[Entropy #d6], #trait[Mind #d6], or #trait[Prime #d6] as an Affinity 
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
 
 
 #colbreak()
@@ -710,3 +725,4 @@ Gain #trait[Spirit #d6], #trait[Correspondence #d6], or #trait[Forces #d6] as an
 
 
 ==== Faction SFX
+#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
