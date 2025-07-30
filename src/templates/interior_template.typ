@@ -1,42 +1,45 @@
 #import "global.typ": gold, par_indent, purple, title_text
 
-#let chapter(chapter_name: "", column_number: 2, body) = {
+#let chapter(chapter_name: "", column_number: 2, outlined: true, body) = {
   set text(
     font: ("XWGXSC+CortexSymbology", "Cormorant Garamond"),
-    size: 12pt,
+    size: 9pt,
     lang: "en",
     hyphenate: false,
     number-type: "lining",
   )
 
-  set par(leading: 0.5em, linebreaks: "optimized", spacing: 0.7em, first-line-indent: (amount: 1em, all: true))
+  set par(leading: 0.4em, spacing: 1em, linebreaks: "optimized")
+  show par: it => {
+    block(it, breakable: false)
+  }
 
   set page(
     background: context {
       let (num,) = counter(page).get()
-      let background_src = if calc.odd(num) { "/assets/images/bg_left.jpg" } else {
-        "/assets/images/bg_right.jpg"
+      let background_src = if calc.even(num) { "/assets/images/bg_left_A5.jpg" } else {
+        "/assets/images/bg_right_A5.jpg"
       }
 
-      place(image(background_src, width: 100%, height: 100%))
+      place(image(background_src))
     },
-    paper: "us-letter",
-    margin: (top: 70pt, bottom: 90pt, inside: 40pt, outside: 80pt),
+    "a5",
+    margin: (top: 65pt, bottom: 70pt, inside: 20pt, outside: 55pt),
     footer: context {
-      set text(font: "New Rocker", size: 12pt)
+      set text(font: "New Rocker", size: 9pt)
       let (num,) = counter(page).get()
 
       if calc.odd(num) {
-        align(left)[#num #h(1em) #smallcaps(title_text)]
+        align(left)[#num #h(.5em) #smallcaps(title_text)]
       } else {
-        align(right)[#smallcaps(chapter_name) #h(1em) #num]
+        align(right)[#smallcaps(chapter_name) #h(.5em) #num]
       }
     },
     footer-descent: 20%,
     columns: column_number,
   )
 
-  set columns(gutter: 1em)
+  set columns(gutter: 2em)
   set list(marker: "\u{1F71A}")
 
   show table: set align(center)
@@ -54,19 +57,20 @@
     emph(it)
   }
 
-  show heading.where(level: 1): set text(size: 24pt, fill: purple)
-  show heading.where(level: 2): set text(size: 20pt)
-  show heading.where(level: 3): set text(size: 16pt)
-  show heading.where(level: 4): set text(size: 14pt, fill: purple.lighten(25%))
+  // show heading.where(level: 2): set text(size: 16pt)
+  // show heading.where(level: 3): set text(size: 14pt)
+  // show heading.where(level: 4): set text(size: 12pt, fill: purple.lighten(25%))
+  show heading.where(level: 1): set text(size: 18pt, fill: purple)
+  show heading.where(level: 4): set text(fill: purple.lighten(25%))
   show heading: set text(font: ("XWGXSC+CortexSymbology", "New Rocker"))
-  show heading: set block(above: 1.5em, below: 0.5em)
+  show heading: set block(above: 1.2em)
 
   show strong: set text(fill: purple)
   show link: strong
   show link: underline
 
 
-  heading(level: 1, chapter_name)
+  heading(level: 1, outlined: outlined, chapter_name)
 
   body
 }

@@ -1,8 +1,10 @@
-#import "/templates/cover.typ": front_cover
+#import "/templates/cover.typ": back_cover, front_cover
 
 #set document(title: "Mage: The Ascension Primed by Cortex", author: "Rhinemann");
 
 #front_cover
+
+#page("a5")[]
 
 #counter(page).update(1)
 
@@ -19,3 +21,5 @@
 
 #include "chapters/Appendixes/Distinction_Builder.typ"
 #include "chapters/Appendixes/Example_Milestones.typ"
+
+#back_cover

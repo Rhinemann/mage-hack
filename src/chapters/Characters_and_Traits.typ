@@ -45,7 +45,7 @@ Distinctions aren't necessarily permanent features of your character forever. Ch
 #colbreak()
 === Character Creation: Distinctions
 Define your character by picking three distinctions, as follows:
-- One _background_ distinction that includes some description of the character's identity in the mortal world along with a personality trait or some other idiosyncrasy. Most mages started life as normal humans, so this distinction often defines who the PC was before they joined the society of mages, but that is not all of them, some may have rather magickal upbringing, though that's quite rare. Examples might include #trait[Dazzling Seamstress], #trait[Brilliant Overthinker Graduate], #trait[Pessimistic Radio Technician], #trait[Transformed Tree], or #trait[Burnt Our Child Star].
+- One _background_ distinction that includes some description of the character's identity in the mortal world along with a personality trait or some other idiosyncrasy. Most mages started life as normal humans, so this distinction often defines who the PC was before they joined the society of mages, but some may have a magickal upbringing, though that's rare. Examples might include #trait[Dazzling Seamstress], #trait[Brilliant Overthinker Graduate], #trait[Pessimistic Radio Technician], #trait[Transformed Tree], or #trait[Burnt Our Child Star].
 
 - One _Faction_ distinction, that includes the faction of mages you belong to, as well as your role in it. Some examples are #trait[Chronicler of a Celestial Chorus Chantry], #trait[House Bonisagus Youngest Member], #trait[A Promising NWO Operative], or #trait[House Verditius Wondercrafter].
 
@@ -56,7 +56,6 @@ Each of your distinctions is rated #d8.
 For more inspiration when creating distinctions, including lists and optional die rolls, see Appendix A: Distinction Builder.
 
 
-#colbreak()
 === Hindering Distinctions
 Every distinction benefits from the Hinder SFX, your character's first SFX. Hinder
 
@@ -88,7 +87,7 @@ Assign the either of the following die rating arrays to your six attributes, in 
 - or #d10, #d10, #d8, #d6, #d6, #d4.
 
 
-#colbreak()
+
 == Roles
 Your character has five role traits -- #trait[Scholar], #trait[Scoundrel], #trait[Scout], #trait[Soldier], and #trait[Speaker]. While attributes represent your inherent qualities, each role trait represents a thematic grouping of experience, training, and skill. Your largest rated role usually corresponds to how you best contribute to a group, whereas for smaller rated roles, you're often better off relying on more proficient allies.
 
@@ -109,7 +108,7 @@ Sometimes more than one role might apply. Sneak up on a poacher with #trait[Scou
 Assign the following die ratings to your five roles, in any order: #d10, #d8, #d6, #d6, #d4.
 
 
-#colbreak()
+// #colbreak()
 == Specialities
 Specialities are narrow skills that supplement the broad areas of expertise defined by your roles. Whenever a specialty applies, you roll it in addition to the appropriate role.
 
@@ -120,7 +119,6 @@ Specialities are free-form traits you create yourself. Specialities should never
 Though specialities are like more focused versions of roles, there are no limits on what role you must use to include a specialty that suits your action. Returning to the above example, if you show off your skill with a knife to intimidate someone into answering your questions, your pool might include both your #trait[Speaker] role and an #trait[Athletics] or #trait[Weaponry] specialty.
 
 
-// #colbreak()
 === Character Creation: Specialities
 You can choose to start a new character with either two or three specialty traits. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
 
@@ -184,6 +182,7 @@ Most signature assets break down into one of five categories: things, creatures,
 - _*Edges*_ are supernatural capabilities you can access via your magickal powers, such as psychic powers, exceptional senses, frequently-used spells, sacred rituals, or more powerful versions of the magickal powers available to every Awakened. Examples include #trait[Mind Reading], #trait[Locator Spell], #trait[Telekinesis], #trait[Chain Lightning Rote], #trait[Ritual of Flame Immunity], #trait[Levitation], #trait[For Conjuration], #trait[Vorpal Claws], #trait[Fox Transformation], etc. Anything that you and your ST agree suits your mage is fair game.
 
 
+// #colbreak()
 === Character Creation: Signature Assets
 You choose to start your new character with either two or three of these additional signature assets. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
 
@@ -251,13 +250,13 @@ With the weight of Paradox growing stronger as they pull on threads of reality, 
 _*Avatar Reserve:*_ Gain a #pp, then take #trait[Drained #d6] at the end of the current beat. You can never recover #trait[Drained] stress except via SFX.
 
 
+#colbreak()
 === Recovering Quintessence
 There are other, more specialised ways of regaining Quintessence, but every mage benefits from _*Channel Quintessence*_ SFX.
 
 _*Channel Quintessence:*_ In a scene with a free source of quintessence, channel it to step down your #trait[Drained], then shut down this SFX. Activate an opportunity to recover.
 
 
-#colbreak()
 === Character Creation: Magick
 You choose to start your new character with either two or three of Sphere ratings. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
 
@@ -277,9 +276,8 @@ Some SFX are tagged as _*(Gear)*_. These generally require you to have the equip
 Your character begins play with _*Avatar Reserve*_ and _*Channel Quintessence*_, in addition to the _*Hinder*_.
 
 
-//TODO === Character Creation: Limits
-// Your character gains the Limits called out for their Faction & Focus.
-// You choose and gain one Limit from among those listed in Appendix B: General SFX and Limits. /* TODO Appendix B */
+=== Character Creation: Limits
+You choose and gain one Limit from among those listed in Appendix B: General SFX and Limits. /* TODO Appendix B */
 
 
 #colbreak()
@@ -287,11 +285,11 @@ Your character begins play with _*Avatar Reserve*_ and _*Channel Quintessence*_,
 As you play, your character can gain Experience Points (XP), which can be used to change or augment your traits. You earn XP using milestones, lists of actions or events that advance your character's story and give them a chance to grow.
 
 A character has two milestones at a time. A milestone usually has three levels, each of which provides a different amount of XP and can be tapped for XP at certain times:
-- A 1 XP level that you can hit once per beat;
+- A _*1 XP*_ level that you can hit once per beat;
 
-- A 3 XP level that you can hit once per scene;
+- A _*3 XP*_ level that you can hit once per scene;
 
-- And a 10 XP level that you can hit once per session.
+- And a _*10 XP*_ level that you can hit once per session.
 
 Once XP is gained, it can be spent between sessions to change or improve your traits, gain new traits, or unlock other benefits. After you complete the 10 XP level, you remove that milestone and replace it, starting a brand new milestone.
 
@@ -338,7 +336,7 @@ After all traits, SFX, and Milestones are set, choose just one of the following 
 
 - Upgrade a #d6 Sphere of your choice to #d8
 
-// - Choose and gain one of the SFX listed in Appendix B: General SFX and Limits. /* TODO Appendix B */
+- Choose and gain one of the SFX listed in Appendix B: General SFX and Limits. /* TODO Appendix B */
 
 - Choose and gain one of your Faction SFX.
 
@@ -347,6 +345,5 @@ After all traits, SFX, and Milestones are set, choose just one of the following 
 If you do are an Orphan, you can take a Bonus Enhancement twice, instead of just once, but you are unable to gain Faction SFX.
 
 
-#colbreak()
 == Completing Your Character
 Once you have determined and recorded your distinctions, attributes, roles, specialities, signature assets, SFX, Limits, and milestones, you have all the mechanical elements of your character in place. If you haven't already, you need to choose your character's name and pronouns. Once this is done, your character is complete!

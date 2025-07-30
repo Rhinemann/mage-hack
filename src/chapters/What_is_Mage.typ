@@ -10,20 +10,17 @@ In a tabletop roleplaying game such as this one, players each take a role of a c
 
 #colbreak()
 == Who Are You?
-You play as a mage, a person who can reshape reality through the sheer force of will. In a moment of clarity you Awakened to your potential and the true, mutable nature of reality, and such you are able to change the very reality with your belief and Awakened Will.
+You are a mage, a person who can reshape reality through sheer force of will. In a moment of clarity you Awakened to your potential and the mutable nature of reality, and such you are able to change the very world with your belief and action.
 
-And you are not the only one. The world is filled with others just like you, forming spanning conspiracies and secret cultures. Mages walk among mortals and monsters, waging the age-old secret war over reality itself. Mystic mages of Crafts and Traditions combat the march of technology stewarded by the Technocracy and their vision of global progress, as reality is defined by the collective belief of humanity.
+And you are not the only one. The world is filled with mages like you. They walk among mortals and monsters, waging the age-old secret war over reality. Mystic mages of Crafts and Traditions combat the march of technology stewarded by the Technocracy and their vision of global progress, as reality is defined by the collective belief of humanity.
 
-But as you can see by the very device you're reading this on, Technocracy is the dominant force in the world, who in their success calcified reality and human belief more and more, forcing every mage into the shadows, lest they be rendered apart by the static, opposing forces of human beliefs for performing the wonders of magick and hypertechnology in clear view.
+But, as you can see by the very device you're reading this on, Technocracy has been winning, and in their success calcified reality and human belief more and more, forcing every mage into the shadows, lest they be rendered apart by the opposing force of human disbelief for performing the wonders of magick and hypertechnology in clear view.
 
-And now you are one of those extraordinary people, so who will you be in this world of mystery and strife?
+You are one of those extraordinary people, who will _you_ be in this world of mystery and strife?
 
 
 == How to play Mage
-This section is inspired by and remixes some of the player-facing rules from #smallcaps[Cortex Lite] and #smallcaps[MoonLite], you can get the games for free at\
-https://xineink.itch.io/lite\
-and\
-https://xineink.itch.io/v1e1
+This section is inspired by and remixes some of the player-facing rules from #link("https://xineink.itch.io/lite", smallcaps[Cortex Lite]) and #link("https://xineink.itch.io/v1e1", smallcaps[MoonLite]).
 
 
 #pagebreak()
@@ -62,7 +59,6 @@ After rolling, you add two of the die results together for your total. The total
 So if my highest rolls were a 6 on a #d6 and a 6 on a #d10, I'd probably decide to add the two together for a total of 12.
 
 
-#colbreak()
 === Your Effect Die
 After choosing die results for your total, you pick one of the other dice you rolled to be your effect die. This choice doesn't affect whether you succeed or fail. It's somewhat like rolling for damage in the original system is separate from your attack roll.
 
@@ -97,6 +93,7 @@ The man's total against her is 10, and since 11 is higher, Lydia wins. She gets 
 If that explanation all made sense, then you know how to play #title_content. Everything else in the system fits into, bolts onto, or adds a twist to this single mechanic. The rest of this section breaks down more advanced rules that build on those fundamentals.
 
 
+#colbreak()
 === Session Zero and Safety Tools
 Playing a tabletop RPG can become a bad experience if everyone involved isn't on the same page about the topics and themes they'll be exploring in play. The best way to align those expectations is usually having a formal process, making sure everyone has a chance to be heard and set appropriate boundaries. That process can be a part of a "Session Zero", a conversation before actual play begins that can also provide a chance to make characters together, discuss the game, build anticipation, and decide what kind of content should or shouldn't be a part of the game.
 
@@ -179,7 +176,7 @@ Also, if you assign effect dice to multiple targets that each have their own dic
 When you step up a #d12 effect die, you gain an extra #d6 effect die for that roll.
 
 
-#colbreak()
+#pagebreak()
 == Effect Dice
 When you succeed on a roll, your effect die usually becomes an asset (a new temporary trait that benefits someone) or a complication (a new temporary trait that makes things harder for someone).
 
@@ -218,13 +215,14 @@ Here's a sample list of complications that you might inflict (or suffer) during 
 Unlike other traits that run from #d4 to #d12, #d4 complications do not exist in #title_content. When you take a new complication, if it would be #d4 or smaller, it becomes a #d6. When an existing complication would step down to less than #d6, it just goes away.
 
 
+// #colbreak()
 === Taken Out
 If a complication on any character would step up to a die size larger than #d12, the complication stays at #d12, but that character is taken out.
 
 When you are taken out, you are unable to influence the story -- one way or another, you've been overwhelmed and can no longer take actions. When someone gets banished into the Umbra, is blown away by a tornado, knocked out by a brigand, or is petrified by magic, they've been taken out. Being taken out usually only lasts until the end of the scene.
 
 
-#colbreak()
+// #colbreak()
 === Stepping Up Complications
 An important rule of complications is that an existing one can be stepped up by further actions that inflict the same complication. So, if you already have a #trait[On Fire #d6] complication, and someone adds fuel to the blaze or fires a phosphorous round at you, that complication could step up to #d8. Each time another roll worsens your complication, its effect die steps it up. If the effect die is larger than the complication's rating, the complication steps up to that effect die's size.
 
@@ -395,7 +393,7 @@ Paradox gets to roll against the character (as described in the ST section) if t
 
 If a PC accumulates enough Paradox, then the ST may spend from the peril pool to put them in a Paradox realm.
 
-The PC can reduce Paradox by rolling against it, taking an action on their turn to steel themselves before the might of reality hitting them. Success depletes the Paradox dice, and results in a Paradox flaw that has a relatively harmless effect not represented by a complication.
+The PC can reduce Paradox like any challenge, taking an action on their turn to steel themselves before the might of reality hitting them. Success results in a Paradox flaw that has a relatively harmless effect.
 
 
 #colbreak()

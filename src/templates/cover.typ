@@ -6,8 +6,8 @@
 
   show text: it => { box()[#it] }
 
-  let small_f_size = 25pt
-  let big_f_size = 80pt
+  let small_f_size = 15pt
+  let big_f_size = 50pt
   let line_width = measure(width: auto, text(size: big_f_size)[#upper()[Mage]]).width + 10mm
 
   text(size: small_f_size)[#smallcaps[Primed by Cortex]]
@@ -20,23 +20,55 @@
 #let front_cover = {
   page(
     background: {
-      place(image("/assets/images/sidebar.jpg", width: 100%, height: 100%))
-      place(image("/assets/images/Frame.png", width: 100%, height: 100%))
+      place(image("/assets/images/cover.jpg"))
     },
-    paper: "us-letter",
-    margin: 30mm,
+    "a5",
+    margin: (top: 20mm, bottom: 25mm, x: 0mm),
   )[
-    #set text(font: "New Rocker", size: 20pt, fill: white, bottom-edge: "bounds", top-edge: "bounds")
+    #set text(font: "New Rocker", size: 13pt, fill: white, bottom-edge: "bounds", top-edge: "bounds")
     #set align(center)
 
     #logo
 
     #v(1fr)
 
-    #image("/assets/images/result_sharp.png", width: 80%)
+    #image("/assets/images/result_sharp.png", width: 60%)
 
     #v(1fr)
 
-    A guide to Cortex Prime system conversion of the game
+    A guide to Cortex Prime system conversion
   ]
 }
+
+#let back_cover = page(
+  background: {
+    place(image("/assets/images/silk_A5.jpg"))
+  },
+  "a5",
+  margin: 10mm,
+)[
+  #set text(font: "Cormorant Garamond", size: 12pt, fill: white)
+  #set align(center)
+  #show: strong
+
+  #v(15mm)
+  We are mages, people with the power to change the world.
+
+  Reality is outs to command and bend.
+
+  Not all of us know what to do with our powers.\
+  Even fever can ever realise the extent of our might.
+
+  Those that do are Heroes, Gods, Monsters and Tyrants.
+
+  In our world blessed few Awaken. Add even fewer do so without consequences and in peace.
+
+  And so reality is up for grabs. Where do you stand?
+
+  And will you Fall... or Ascend?
+
+
+  #v(1fr)
+
+  #logo
+]

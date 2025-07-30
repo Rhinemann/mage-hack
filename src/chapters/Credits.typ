@@ -1,12 +1,14 @@
 #import "/templates/interior_template.typ": chapter
 #import "/templates/global.typ": title_content, title_text
 
-#show: chapter.with(chapter_name: "Credits")
+#show: chapter.with(chapter_name: "Credits", outlined: false)
 #title_content is written, designed, and developed by Rhinemann
 
 Design inspirations and thanks to:
 
 #smallcaps[Cortex Lite]: Jeremy Forbing, Miriam Robern, Jasmine Barlow, and Lynn Jones
+
+#smallcaps[TorchLite]: Jeremy Forbing, Miriam Robern, Jasmine Barlow, and Lynn Jones
 
 #smallcaps[MoonLite]: Jeremy Forbing
 
@@ -23,7 +25,7 @@ Vecna and the entire Cortex Prime discord for the input, brainstorming, advice a
 
 
 #colbreak()
-= #title_text
+#heading(level: 1, outlined: false, title_text)
 This is a tabletop roleplaying game inspired by rules originally published as #smallcaps[Cortex Lite], that was designed as a "generic" tabletop RPG to be used in any setting.
 
 #title_content is compatible with _Cortex Prime_ roleplaying game system.

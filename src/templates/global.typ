@@ -11,4 +11,4 @@
 #let pp = text(purple, "\u{24C5}")
 
 #let title_content = text([Mage: The Ascension Primed by Cortex], font: "New Rocker")
-#let title_text = "Mage: The Ascension Primed by Cortex"
+#let title_text = "Mage: The Ascension Conversion"
