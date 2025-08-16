@@ -33,27 +33,15 @@ Later in the book examples of foci will be given, but those are not exhaustive, 
 == Distinctions
 Much of your character is defined by three distinctions, words or brief phrases describing core aspects of their identity. Each distinction is rated #d8. While attributes and roles describe what your character is good at, distinctions summarize who your character is.
 
-Another difference between distinctions and some other trait sets is that you name your own distinctions, rather than assigning ratings to predefined traits. A young hermetic wizard might have the distinctions #trait[Brilliant Overthinker Graduate], #trait[Hermetic Ceremonial Mage], and #trait[Achieve Perfection in All I Am], while his weathered grandmother, who's also secretly a mage might have #trait[Dazzling Seamstress], #trait[House Verditius Wondercrafter], and #trait[Must Protect My Family in Secret].
+Another difference between distinctions and some trait sets is that you name your distinctions, instead of assigning ratings to predefined traits.
+
+- #trait[Background] is your first distinction, it includes some description of the character's identity in the mortal world along with a personality trait or some other idiosyncrasy. Most mages started life as normal humans, so this distinction often defines who the PC was before they joined the society of mages, but some may have a magickal upbringing, though that's rare. Examples might include #trait[Dazzling Seamstress], #trait[Brilliant Overthinker Graduate], #trait[Pessimistic Radio Technician], #trait[Transformed Tree], or #trait[Burnt Our Child Star].
+
+- #trait[Faction] distinction includes the faction of mages you belong to, as well as your role in it. Some examples are #trait[Chronicler of a Celestial Chorus Chantry], #trait[House Bonisagus Youngest Member], #trait[A Promising NWO Operative], or #trait[House Verditius Wondercrafter].
+
+- #trait[Drive] distinction sums up a belief, focus, motivation, calling, paradigm, or mission that is central to your character. Some examples include #trait[Must Protect My Family in Secret], #trait[Achieve Perfection in All I Am], #trait[Keep the Wheel of Dharma Spinning], or #trait[Find Out About my Sister's Disappearance].
 
 Together, your three distinctions should sum up your overall character concept. If your character were the protagonist of a book, movie, or video game, and you were describing them to a friend, your distinctions would feature prominently. Distinctions spell out how your character is different from others, and they impact every action you take.
-
-
-=== Changing Distinctions
-Distinctions aren't necessarily permanent features of your character forever. Characters often evolve during play. These changes can be expressed through distinctions as well. See Spending XP later for rules to rewrite your distinctions.
-
-
-#colbreak()
-=== Character Creation: Distinctions
-Define your character by picking three distinctions, as follows:
-- One _background_ distinction that includes some description of the character's identity in the mortal world along with a personality trait or some other idiosyncrasy. Most mages started life as normal humans, so this distinction often defines who the PC was before they joined the society of mages, but some may have a magickal upbringing, though that's rare. Examples might include #trait[Dazzling Seamstress], #trait[Brilliant Overthinker Graduate], #trait[Pessimistic Radio Technician], #trait[Transformed Tree], or #trait[Burnt Our Child Star].
-
-- One _Faction_ distinction, that includes the faction of mages you belong to, as well as your role in it. Some examples are #trait[Chronicler of a Celestial Chorus Chantry], #trait[House Bonisagus Youngest Member], #trait[A Promising NWO Operative], or #trait[House Verditius Wondercrafter].
-
-- One _drive_ distinction summing up a belief, focus, motivation, calling, paradigm, or mission that is central to your character. Some examples include #trait[Must Protect My Family in Secret], #trait[Achieve Perfection in All I Am], #trait[Keep the Wheel of Dharma Spinning], or #trait[Find Out About my Sister's Disappearance].
-
-Each of your distinctions is rated #d8.
-
-For more inspiration when creating distinctions, including lists and optional die rolls, see Appendix A: Distinction Builder.
 
 
 === Hindering Distinctions
@@ -61,7 +49,21 @@ Every distinction benefits from the Hinder SFX, your character's first SFX. Hind
 
 _*Hinder:*_ Roll this distinction as a #d4 to earn a #pp.
 
-Hinder is best used in situations where a distinction would actually make things harder for the character instead of easier (such as an #trait[Awkward Teen] trying to intimidate someone), or when no distinction really applies to what you're trying to do (“I'm a #trait[Doctor], not an engineer!”). Since Hinder earns you a #pp, which can be spent to include extra dice in your total, this allows you to accept a temporary disadvantage now in order to succeed more spectacularly later on.
+Hinder is best used in situations where a distinction would actually make things harder for the character instead of easier (such as an #trait[Awkward Teen] trying to intimidate someone), or when no distinction really applies to what you're trying to do (“I'm a #trait[Doctor], not an engineer!”).
+
+Since Hinder earns you a #pp, which can be spent to include extra dice in your total, this allows you to accept a temporary disadvantage now in order to succeed more spectacularly later on.
+
+
+=== Changing Distinctions
+Distinctions aren't necessarily permanent features of your character forever. Characters often evolve during play. These changes can be expressed through distinctions as well. See Spending XP later for rules to rewrite your distinctions.
+
+
+=== Character Creation: Distinctions
+Define your character by picking three distinctions, as follows:
+
+Each of your distinctions is rated #d8.
+
+For more inspiration when creating distinctions, including lists and optional die rolls, see Appendix A: Distinction Builder.
 
 
 #colbreak()
