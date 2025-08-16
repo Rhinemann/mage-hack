@@ -37,7 +37,7 @@ During play, everybody contributes to the story, but at some point you break out
 === Traits & Dice
 Each character has a number of traits, which are things -- qualities, abilities, skills, useful items, or magick -- that can help them accomplish their goals.
 
-Each trait is rated with one of five die sizes, each represented in this text with a symbol: a 4-sided die or #d4, a six-sided die or #d6, an 8-sided die or #d8, a 10-sided die or #d10, or a 12-sided die or #d12. Each trait in a set is rated with a die size: #d4, #d6, #d8, #d10, or #d12. Generally, larger die sizes make a trait more effective, so #d6 is better than #d4.
+Each trait is rated with one of five die sizes, each represented in this text with a symbol: a 4-sided die or #d4, a 6-sided die or #d6, an 8-sided die or #d8, a 10-sided die or #d10, or a 12-sided die or #d12. Each trait in a set is rated with a die size: #d4, #d6, #d8, #d10, or #d12. Generally, larger die sizes make a trait more effective, so #d6 is better than #d4.
 
 
 #colbreak()
