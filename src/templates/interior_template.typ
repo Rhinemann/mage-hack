@@ -23,19 +23,19 @@
 
       place(image(background_src))
     },
-    "a5",
-    margin: (top: 65pt, bottom: 70pt, inside: 20pt, outside: 55pt),
+    paper: "a5",
+    margin: (y: 65pt, inside: 20pt, outside: 55pt),
     footer: context {
-      set text(font: "New Rocker", size: 9pt)
+      set text(font: "Cormorant Garamond", size: 9pt)
       let (num,) = counter(page).get()
 
-      if calc.odd(num) {
-        align(left)[#num #h(.5em) #smallcaps(title_text)]
+      if calc.even(num) {
+        align(left)[#num #h(1em) #smallcaps(title_text)]
       } else {
-        align(right)[#smallcaps(chapter_name) #h(.5em) #num]
+        align(right)[#smallcaps(chapter_name) #h(1em) #num]
       }
     },
-    footer-descent: 20%,
+    footer-descent: 10%,
     columns: column_number,
   )
 
@@ -57,11 +57,10 @@
     emph(it)
   }
 
-  // show heading.where(level: 2): set text(size: 16pt)
-  // show heading.where(level: 3): set text(size: 14pt)
-  // show heading.where(level: 4): set text(size: 12pt, fill: purple.lighten(25%))
   show heading.where(level: 1): set text(size: 18pt, fill: purple)
-  show heading.where(level: 4): set text(fill: purple.lighten(25%))
+  show heading.where(level: 2): set text(size: 14pt)
+  show heading.where(level: 3): set text(size: 13pt)
+  show heading.where(level: 4): set text(size: 12pt, fill: purple.lighten(25%))
   show heading: set text(font: ("XWGXSC+CortexSymbology", "New Rocker"))
   show heading: set block(above: 1.2em)
 
