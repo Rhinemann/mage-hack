@@ -69,6 +69,7 @@ For more inspiration when creating distinctions, including lists and optional di
 #colbreak()
 == Attributes
 Another of your character's three major trait sets is your attributes, they represent the inherent characteristics your character possesses, there are six and for any situation there is at least one attribute that applies:
+
 - #trait[Agility] includes manual dexterity, swiftness, deftness, reflexes, balance, and hand-eye coordination.
 
 - #trait[Alertness] includes perception, intuition, attention, sensory acuity, and overall awareness of your environment.
@@ -91,9 +92,10 @@ Assign the either of the following die rating arrays to your six attributes, in 
 
 
 == Roles
-Your character has five role traits -- #trait[Scholar], #trait[Scoundrel], #trait[Scout], #trait[Soldier], and #trait[Speaker]. While attributes represent your inherent qualities, each role trait represents a thematic grouping of experience, training, and skill. Your largest rated role usually corresponds to how you best contribute to a group, whereas for smaller rated roles, you're often better off relying on more proficient allies.
+Your character has five roles. While attributes represent your inherent qualities, each role trait represents a thematic grouping of experience, training, and skill.
 
-The five roles can be used any time they apply:
+Your largest rated role usually corresponds to how you best contribute to a group, whereas for smaller rated roles, you're often better off relying on more proficient allies. Among the roles one can be used in any situation:
+
 - #trait[Scholar] represents academic knowledge, including education, lore, the sciences, deduction, and research.
 
 - #trait[Scoundrel] sums up your knack for trickery, crime, spying, sleight of hand, defeating security measures like traps or alarms.
@@ -104,7 +106,8 @@ The five roles can be used any time they apply:
 
 - #trait[Speaker] includes communication, group dynamics, leadership, empathy, and various forms of self- expression, such as oratory, performance, and art.
 
-Sometimes more than one role might apply. Sneak up on a poacher with #trait[Scout] or #trait[Scoundrel] sums up your knack for trickery, crime, spying, sleight of hand, defeating security measures like traps or alarms.? Give battlefield orders with #trait[Soldier] or #trait[Speaker]? In those cases, choose the one your character favours.
+Sometimes multiple roles might apply. Sneak up on a poacher with #trait[Scout] or #trait[Scoundrel]? Give battlefield orders with #trait[Soldier] or #trait[Speaker]? In those cases, choose the one your character prefers.
+
 
 === Character Creation: Roles
 Assign the following die ratings to your five roles, in any order: #d10, #d8, #d6, #d6, #d4.
@@ -114,86 +117,28 @@ Assign the following die ratings to your five roles, in any order: #d10, #d8, #d
 == Specialities
 Specialities are narrow skills that supplement the broad areas of expertise defined by your roles. Whenever a specialty applies, you roll it in addition to the appropriate role.
 
-For example, you might use #trait[Soldier] to display your general prowess with a weapon, but you might also have a specialty that you add when using certain types of weapons, such as #trait[Athletics #d6] or #trait[Weaponry #d8]. When you follow a trail through a dense forest, your dice pool might not only include #trait[Scout] but also an extra die for your #trait[Nature] specialty.
+For example, you might use #trait[Soldier] to display your general prowess with a weapon, but you might also have a specialty that you add when using certain types of weapons, such as #trait[Firearms #d6] or #trait[Weaponry #d8]. When you follow a trail through a dense forest, your dice pool might not only include #trait[Scout] but also an extra die for your #trait[Nature #d6] specialty.
 
-Specialities are free-form traits you create yourself. Specialities should never be as broad as roles; as a general rule, a specialty should apply to about half as many situations as a basic role would (or less).
+Specialities are free-form traits you create yourself. Specialities should never be as broad as roles; as a general rule, a specialty should apply to about a third as many situations as a basic role would (or less).
 
 Though specialities are like more focused versions of roles, there are no limits on what role you must use to include a specialty that suits your action. Returning to the above example, if you show off your skill with a knife to intimidate someone into answering your questions, your pool might include both your #trait[Speaker] role and an #trait[Athletics] or #trait[Weaponry] specialty.
 
 
 === Character Creation: Specialities
-You can choose to start a new character with either two or three specialty traits. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
+The faction you belong to adds a one or more specialities rated at #d6 to your character.
 
-The faction you belong to adds one or more bonus specialities to your character as well.
+Next you can choose add either two or three specialities to a new character. If you choose two, one is rated at #d8 and the other is a #d6; if you choose three, all three are rated at #d6.
 
-
-/* === Suggested Specialities
-#trait[Athletics]
-
-#trait[Composure]
-
-#trait[Crime]
-
-#trait[Deception]
-
-#trait[Education]
-
-#trait[Empathy]
-
-#trait[Healing]
-
-#trait[Institutions]
-
-#trait[Investigation]
-
-#trait[Journeys]
-
-#trait[Media]
-
-#trait[Mysticism]
-
-#trait[Nature]
-
-#trait[Presence]
-
-#trait[Stealth]
-
-#trait[Tools]
-
-#trait[Weaponry] */
-
-
-#colbreak()
-== Signature Assets
-Signature assets are assets that have become permanent traits for a character, playing an ongoing and essential part in their story. Usually, they cover anything that gives you an advantage but isn't covered by your other trait sets.
-
-// TODO Resonance?
-// One special signature asset that others have is their masque, the supernatural power they use to conceal their true nature from mortal onlookers.
-
-Note that your signature assets do not include all of your character's gear or other advantages. When something is an asset, it just means that it's so important to your character's story that you gain an extra die when using it.
-
-Most signature assets break down into one of five categories: things, creatures, places, people, and edges. Example signature assets for each category are listed below.
-- _*Things*_ are the most common form of signature asset, including items or equipment that you own, carry, or have access to. Examples include #trait[Magic Carpet], #trait[1971 Dodge Challenger], #trait[Enchanted Dagger], #trait[My Family's Heirloom Sword], #trait[Divining Rod], #trait[Chainsaw], etc.
-
-- _*Creatures*_ include pets, mounts, animal companions, familiars, and the like. Examples include #trait[Racehorse], #trait[Well-Trained Cat], #trait[My Cat Snowball], #trait[Raven Familiar], #trait[Semi-Domesticated Wolf], etc.
-
-- _*Places*_ represent advantages gained from being in or having knowledge of a certain location. Examples include #trait[Seaside Hideout], #trait[Private Library], #trait[Special Forces Bar], #trait[Umbran Demesne], #trait[Hidden Glade], #trait[Panic Room], #trait[Basement Sanctum], #trait[Penthouse], #trait[Uncle's Army Surplus Store], etc.
-
-- _*People*_ are minor STCs who can be relied upon to help you, at least occasionally. Examples include #trait[My Apprentice], #trait[Hired Bodyguard], #trait[Blackmailed Senator], #trait[Master Mage Mentor], #trait[Fence Who Doesn't Ask Questions], #trait[Mob Informant], #trait[Witch Boyfriend], #trait[Psychic Little Sister], etc.
-
-- _*Edges*_ are supernatural capabilities you can access via your magickal powers, such as psychic powers, exceptional senses, frequently-used spells, sacred rituals, or more powerful versions of the magickal powers available to every Awakened. Examples include #trait[Mind Reading], #trait[Locator Spell], #trait[Telekinesis], #trait[Chain Lightning Rote], #trait[Ritual of Flame Immunity], #trait[Levitation], #trait[For Conjuration], #trait[Vorpal Claws], #trait[Fox Transformation], etc. Anything that you and your ST agree suits your mage is fair game.
-
-
-// #colbreak()
-=== Character Creation: Signature Assets
-You choose to start your new character with either two or three of these additional signature assets. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
-
-The faction you belong to adds an additional signature asset to your character as well.
+You can add a #d6 to the bonus speciality to step it up to #d8.
 
 
 #colbreak()
 == Magick
-Magick is represented by ten spheres, acknowledged, even if begrudgingly and by different names, by all Factions in the Awakened world. Whenever you are creating a magickal effect you roll an appropriate Sphere. If your effect requires multiple Spheres you must have all of them at the appropriate ranks, but you only roll one Sphere of your choice from those required.
+Magick is represented by ten spheres, acknowledged, even if begrudgingly and by different names, by all factions in the Awakened world.
+
+Whenever you are creating a magickal effect you roll an appropriate Sphere.
+
+If your effect requires multiple Spheres you must have all of them at the appropriate ranks, but you only roll one Sphere of your choice from those required.
 
 - #trait[Correspondence] the element of connection between apparently different things.
 
@@ -220,12 +165,12 @@ While those names are the ones understood by Traditions as the lingua franca of 
 
 #colbreak()
 === Techniques
-Magick is divided into  Techniques by mages, each Technique describes broad kinds of effects a Mage can produce. You unlock more Techniques as your Sphere increases:
+Magick is divided into  Techniques by mages, each Technique describes broad kinds of effects a Mage can produce. You unlock more Techniques as your Sphere rating increases:
 
 
 ==== Initiate #d6
 - _*Compelling*_ - subtle and minor influence of targets that could have occurred naturally.
-- _*Unveiling*_ - uncovering information about an effect target.
+- _*Unveiling*_ - uncovering information about a target of magick.
 
 ==== Apprentice #d8
 - _*Ruling*_ - control of effect targets without altering their properties and abilities.
@@ -260,9 +205,38 @@ _*Channel Quintessence:*_ In a scene with a free source of quintessence, channel
 
 
 === Character Creation: Magick
-You choose to start your new character with either two or three of Sphere ratings. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
+The faction you belong to gives you a Sphere rated at #d6. This is your affinity Sphere, the Sphere you feel most connected to and understanding of.
 
-The faction you belong to adds an additional Sphere to your character as well. If the Sphere your Faction provides is at #d6 -- step it up, if it is at #d8 -- choose another Sphere.
+In addition you choose to add either two or three Sphere ratings to your new character. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
+
+You can add a #d6 to the affinity Sphere to step it up to #d8.
+
+
+#colbreak()
+== Signature Assets
+Signature assets are assets that have become permanent traits for a character, playing an ongoing and essential part in their story. Usually, they cover anything that gives you an advantage but isn't covered by your other trait sets.
+
+Note that your signature assets do not include all of your character's gear or other advantages. When something is an asset, it just means that it's so important to your character's story that you gain an extra die when using it.
+
+Most signature assets break down into one of five categories: things, creatures, places, people, and edges. Example signature assets for each category are listed below.
+- _*Things*_ are the most common form of signature asset, including items or equipment that you own, carry, or have access to. Examples include #trait[Magic Carpet], #trait[1971 Dodge Challenger], #trait[Enchanted Dagger], #trait[My Family's Heirloom Sword], #trait[Divining Rod], #trait[Chainsaw], etc.
+
+- _*Creatures*_ include pets, mounts, animal companions, familiars, and the like. Examples include #trait[Racehorse], #trait[Well-Trained Cat], #trait[My Cat Snowball], #trait[Raven Familiar], #trait[Semi-Domesticated Wolf], etc.
+
+- _*Places*_ represent advantages gained from being in or having knowledge of a certain location. Examples include #trait[Seaside Hideout], #trait[Private Library], #trait[Special Forces Bar], #trait[Umbran Demesne], #trait[Hidden Glade], #trait[Panic Room], #trait[Basement Sanctum], #trait[Penthouse], #trait[Uncle's Army Surplus Store], etc.
+
+- _*People*_ are minor STCs who can be relied upon to help you, at least occasionally. Examples include #trait[My Apprentice], #trait[Hired Bodyguard], #trait[Blackmailed Senator], #trait[Master Mage Mentor], #trait[Fence Who Doesn't Ask Questions], #trait[Mob Informant], #trait[Witch Boyfriend], #trait[Psychic Little Sister], etc.
+
+- _*Edges*_ are supernatural capabilities you can access via your magickal powers, such as psychic powers, exceptional senses, frequently-used spells, sacred rituals, or more powerful versions of the magickal powers available to every Awakened. Examples include #trait[Mind Reading], #trait[Locator Spell], #trait[Telekinesis], #trait[Chain Lightning Rote], #trait[Ritual of Flame Immunity], #trait[Levitation], #trait[For Conjuration], #trait[Vorpal Claws], #trait[Fox Transformation], etc. Anything that you and your ST agree suits your mage is fair game.
+
+
+// #colbreak()
+=== Character Creation: Signature Assets
+The faction you belong to adds a signature asset to your character.
+
+Additionally you choose to add either two or three of these additional signature assets to your new character. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
+
+You can add a #d6 to the signature asset gained from the Faction to step it up to #d8.
 
 
 #colbreak()
