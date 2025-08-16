@@ -373,7 +373,7 @@ Whenever the ST would add a new die to the peril pool, they can instead choose t
 
 When the ST adds a peril die, they may also describe something that has happened in the scene to make life more complicated for one or more player characters.
 
-The ST can also "spend" peril dice from the peril pool, removing them from the doom pool to activate certain special rules during play (as described in the ST section). For example, the ST can spend peril dice as if they were plot points for STCs, which is the main way peril dice are spent.
+The ST can also "spend" peril dice from the peril pool, removing them from the peril pool to activate certain special rules during play (as described in the ST section). For example, the ST can spend peril dice as if they were plot points for STCs, which is the main way peril dice are spent.
 
 
 #colbreak()
@@ -389,7 +389,7 @@ When Paradox grows ST either steps up one of Paradox dice or adds a #d6 to Parad
 
 - Special circumstances: Certain special circumstances like encounters with Mad Ones may grow Paradox in unusual ways as well.
 
-Paradox gets to roll against the character (as described in the ST section) if their Paradox grew. If Paradox succeeds, they get to inflict a complication, representing the form Backlash takes, be it Quiet, Burn, a Paradox flaw or spirit.
+Paradox gets to roll against the character (as described in the ST section for Challenges) if their Paradox grew. If Paradox succeeds, they get to inflict a complication, representing the form Backlash takes, be it Quiet, Burn, a Paradox flaw or spirit.
 
 If a PC accumulates enough Paradox, then the ST may spend from the peril pool to put them in a Paradox realm.
 
