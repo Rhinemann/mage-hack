@@ -266,8 +266,8 @@ The faction you belong to adds an additional Sphere to your character as well. I
 
 
 #colbreak()
-== SFX & Limits
-Each character has a handful of SFX, reflecting special capabilities associated with their Faction & Focus distinction as well as their Awakened nature. A PC also has at least one Limit. A Limit is a special type of SFX that imposes a disadvantage on your character in order to earn them #pp or another reward. Whenever you gain an SFX or Limit that isn't specific to your Faction, you can rename it to better suit your character.
+== SFX
+Each character has a handful of SFX, reflecting special capabilities associated with their Faction & Focus distinction as well as their Awakened nature. Whenever you gain an SFX or Limit that isn't specific to your Faction, you can rename it to better suit your character.
 
 Non-stress complications named in SFX (such as #trait[Over-Indulged] or #trait[On Fire]) are mere suggestions and can always be swapped for something more creative or appropriate to the moment.
 
@@ -275,11 +275,124 @@ Some SFX are tagged as _*(Gear)*_. These generally require you to have the equip
 
 
 === Character Creation: SFX
-Your character begins play with _*Avatar Reserve*_ and _*Channel Quintessence*_, in addition to the _*Hinder*_.
+Your character begins play with _*Avatar Reserve*_ and _*Channel Quintessence*_, in addition to _*Hinder*_.
+
+
+#colbreak()
+== Limits
+A Limit is a special type of SFX that imposes a disadvantage on your character in order to earn them #pp or another reward.
+
+Every PC has at least one Limit.
+
+
+=== ST Activation
+Unlike normal SFX, Limits can be activated by the ST as well as the player. Even when the ST does so, you still make all the choices and earn all the rewards listed for that Limit. For example, the _*We've Got History*_ Limit lets you earn a #pp by revealing that a STC was formerly your friend, ally, or lover. If the ST activates the Limit, you still decide whether the STC in question was your friend, or your ally, or your lover, and you still earn the #pp. The Limit says you also take #trait[#d6 Demoralised] or #trait[Enthralled] stress, but it is you who decides which of those two stresses you take, not the ST.
+
+
+#colbreak()
+=== Reveals
+Some Limits allow you to reveal information about the scene or setting. When you do so, your character explains a fact about the story that is true, a fact you create just like the ST would. Just as the ST might have a STC say “These thugs all have tattoos from the Cult of the Crimson Covenant”, which establishes a truth about the world for everyone at the table, you have your character say something similar. Either way, the revelation changes the story, editing the narrative of your current scene to make the information you revealed true.
+
+In the fiction of the game, what your character reveals is based on their existing knowledge or current observations. As a player at the table, however, you actually get to invent these new details for your character to share, creating new information that changes the story.
+
+Some GMs and players prefer not to use these kinds of Limits. If your group doesn't want them, you can ignore Limits that call for player reveals.
+
+All the Limits that explicitly require a player reveal are marked with an asterisk (\*).
+
+
+#colbreak()
+==== Limits List
+_*All the Hard Work (Limit):*_ When you expend exhausting effort to solve someone else's problem, take #trait[Drained #d6] to earn a #pp. If you actually receive fair compensation for it, gain another #pp.
+
+_*Ammunition (Limit):*_ Earn a #pp and step down an asset for a ranged weapon, representing a need to conserve ammunition. Whenever the GM activates a hitch on a roll you make with the stepped down asset, they can choose to shut down the asset instead of giving you a complication. Whether the asset is stepped down or shut down, recover it when you refresh your ammo supply.
+
+_*Bleeding Heart (Limit):*_ When you expose yourself to danger by showing compassion, earn a #pp and take a #trait[Mistrusted #d6] complication.
+
+_*Bound by Tradition (Limit):*_ When you pay deference to an ancient, exalted, or royal being, or when you detract from your larger goals by adhering to tradition, take #trait[Enthralled #d6] to earn a #pp.
+
+_*Code of Conduct (Limit):*_ When you take an action that violates the honourable code of behaviour you have pledged to live by, earn a #pp and take #trait[Demoralised #d6].
+
+_*Compulsive Secrecy (Limit):*_ When you keep a secret even though doing so is detrimental to your larger goals, take a related #d6 complication to earn a #pp.
+
+_*Conspicuous (Limit):*_ When your actions or your flamboyant use of supernatural powers attract unwanted attention, take #trait[Exposed #d6] complication to earn a #pp.
+
+_*Country Mouse (Limit):*_ When in an urban area, take a related #d6 complication or #trait[Demoralised #d6] to earn a #pp.
+
+_*Curiosity (Limit):*_ Take a #d6 complication related to indulging your curiosity in a dangerous situation to earn a #pp.
+
+_*Dark Omens (Limit):*_ Earn a #pp by revealing how the current situation is more dangerous than it seems and/or how a past tragedy is on the verge of repeating itself. You then take #trait[Demoralised #d6] or #trait[Enthralled #d6].
+
+_*Deeply Flawed (Limit):*_ When you use _*Hinder*_ on a roll, after the roll is resolved, you can step up one existing stress you have to earn a #pp.
+
+_*Dig Too Deep (Limit):*_ When you've started something and it's probably a bad idea to keep working at it, but you stick with it anyway, take a #trait[Stubborn #d6] complication to earn a #pp.
+
+_*Distressingly Familiar (Limit):*_ Reveal a detrimental detail about a situation, location, creature, or faction that you've encountered before to earn a #pp, then take a related #d6 complication.
+
+_*Eager for Attention (Limit):*_ When you perform for an audience or show off in front of strangers, take #trait[Enthralled #d6] to earn a #pp.
+
+_*Easy Way Out (Limit):*_ When you are tempted to give into fear, desire, social pressure, or the instinct to acquire more power, take #trait[Demoralised #d6] or #trait[Enthralled #d6] to earn a #pp.
+
+_*Encumbered (Limit):*_ When your body armour or other heavy gear interferes with your movement, gain a related complication at #d6 to earn a #pp.
+
+_*Guilty Conscience (Limit):*_ When you act against your own sense of morality, take #trait[Demoralised #d6] (if you feel bad about it) or add #d6 to the peril pool (if you don't), then earn a #pp.
+
+_*Hair-Trigger Temper (Limit):*_ When you perceive someone as having deceived, insulted, or goaded you, take #trait[Enthralled #d6] or an #trait[Enraged #d6] complication to earn a #pp.
+
+_*Hard on My Gear (Limit):*_ Shut down a signature asset to earn a #pp. To restore it, succeed on a special test against the ST.
+
+_*Head in the Clouds (Limit):*_ When you are distracted by a torrent of information provided by your magic, research, or supernatural insights, take #trait[Enthralled #d6] to earn a #pp.
+
+_*Hoarder (Limit):*_ When you could trade or spend money to make things easier, but you refuse, take a #trait[Possessive #d6] complication to earn a #pp.
+
+_*I'll Guard the Henhouse (Limit):*_ When you play up the air of danger that surrounds you, take a #trait[Mistrusted #d6] complication to earn a #pp.
+
+_*It Can't Be This Easy (Limit):*_ Earn a #pp by revealing why an opponent must have already anticipated your current course of action and/or why your seeming moment of victory is only temporary. You then take #trait[Demoralised #d6] or #trait[Enthralled #d6].
+
+_*Misunderstood (Limit):*_ When you feel the burden of others' assumptions about you, take #trait[Demoralised #d6] or a #trait[Mistrusted #d6] complication to earn a #pp.
+
+_*Need for Control (Limit):*_ When someone you expected to comply disobeys your direct order, take #trait[Demoralised #d6] or #trait[Enraged #d6] stress to earn a #pp.
+
+_*No Angel (Limit):*_ Earn a #pp by revealing how a past misdeed has come back to haunt you in the current scene, or that you must now separate from the group to deal with the fallout from a bad choice you made. You then take #trait[Demoralised #d6] or #trait[Enthralled #d6] stress.
+
+_*Not Safe Yet (Limit):*_ Earn a #pp by revealing why you and your allies cannot yet escape or stop and rest, and/or that you've become aware of someone following or watching you. You then take #trait[Demoralised #d6] or #trait[Enthralled #d6] stress.
+
+_*Outrage (Limit):*_ When you loudly condemn someone who has broken your culture's traditions or disrespected you, earn a #pp and take a #trait[Enraged #d6].
+
+_*Perfectionist (Limit):*_ When you fail at something, take #trait[Demoralised #d6] or #trait[Enthralled #d6] stress to earn a #pp. (This is in addition to any stress you take from a failed dice roll.)
+
+_*Rebellious Instincts (Limit):*_ When you indulge in an act of rebellion detrimental to your larger goals, take a related #d6 complication or #trait[Enraged #d6] to earn a PP.
+
+_*Righteous Urgency (Limit):*_ Earn a #pp when you reveal how a situation is likely to harm vulnerable people, how you must address an affront to your beliefs, or why you feel compelled to help someone who deserves punishment. You then take your choice of #trait[Demoralised #d6], #trait[Enthralled #d6], or #trait[Enraged #d6].
+
+_*Sacred Ground (Limit):*_ Whenever you enter a space sacred to your culture or belief system, take #trait[Enthralled #d6] to earn a #pp.
+
+_*Seeing Beyond Mundane Reality (Limit):*_ When you attempt to focus all your attention on something, take #trait[Enthralled #d6] representing distracting visions or skewed perceptions to earn a #pp.
+
+_*Seeing Red (Limit):*_ When anger prompts you to focus all your attention on a single object or person, take #trait[Enthralled #d6] to step down all your other complications and stresses.
+
+_*Shady Backstory (Limit):*_ Earn a #pp by revealing that a STC or group knows a dangerous secret, or that they are after you for a past crime or perceived betrayal. You then take #trait[Demoralised #d6] or #trait[Enthralled #d6].
+
+_*Split Allegiances (Limit):*_ Choose a second faction in addition to your existing one. You don't gain the faction's bonus signature asset or specialities, but you can choose from its faction SFX when gaining new SFX. When you are torn between your two allegiances, take a related #d6 complication to earn a #pp.
+
+_*Sworn Enemy (Limit):*_ Earn a #pp by revealing that a misdeed committed by a STC or faction now urgently requires you to bring them to justice, take vengeance on them, or save someone they endangered. You then take #trait[Enthralled #d6] or an #trait[Enraged #d6].
+
+_*The Road Goes Ever On (Limit):*_ When your homesickness threatens to overwhelm you, or you complain about your lack of creature comforts, take #trait[Demoralised #d6] to earn a #pp.
+
+_*Underdeveloped Powers (Limit):*_ When your dice pool includes a Sphere, remove the largest die from your pool to earn a #pp.
+
+_*Unwanted Attention (Limit):*_ When you arrive somewhere new, earn a #pp and gain a #d6 complication related to someone you hadn't met before already deciding they hate you, they want to use you, or they have unreciprocated affection towards you. Instead of just going away at the end of the scene, the complication automatically goes away at the end of the session.
+
+_*Wanderlust (Limit):*_ When your urge to go experience new places threatens to overwhelm you, take #trait[Enthralled #d6] to earn a #pp.
+
+_*We've Got History (Limit):*_ After a new STC is introduced, you can earn a #pp by revealing that the STC was once your friend, ally, or lover, until you parted on very bad terms. You then take #trait[Demoralised #d6] or #trait[Enthralled #d6].
+
+_*Weapon Focus (Limit):*_ Whenever you are unarmed or have a complication that impairs your use of a weapon, shut down a related (Gear) SFX to earn a #pp. Recover at the start of the next scene.
+
+_*Working On It (Limit):*_ Earn a #pp by revealing that you can't complete an urgent task because you are missing something crucial that's difficult to obtain or because you need much more time than is currently feasible. Then take #trait[Demoralised #d6] or #trait[Enthralled #d6].
 
 
 === Character Creation: Limits
-You choose and gain one Limit from among those listed in Appendix B: General SFX and Limits. /* TODO Appendix B */
+You choose and gain one Limit from those listed above.
 
 
 #colbreak()
@@ -338,7 +451,9 @@ After all traits, SFX, and Milestones are set, choose just one of the following 
 
 - Upgrade a #d6 Sphere of your choice to #d8
 
-- Choose and gain one of the SFX listed in Appendix B: General SFX and Limits. /* TODO Appendix B */
+- Choose and gain one of the SFX listed in Appendix B: General SFX. /* TODO Appendix B */
+
+- Choose and gain one of the Limits listed in the Limit List.
 
 - Choose and gain one of your Faction SFX.
 
