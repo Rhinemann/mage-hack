@@ -1,6 +1,6 @@
 #import "/templates/cover.typ": back_cover, front_cover
 
-#set document(title: "Mage: The Ascension Primed by Cortex", author: "Rhinemann");
+#set document(title: "Mage: The Ascension Conversion", author: "Rhinemann");
 
 #front_cover
 
