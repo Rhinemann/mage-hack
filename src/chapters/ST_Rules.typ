@@ -14,12 +14,14 @@ To frame a new scene, the ST makes decisions based on the story so far. They det
 While you might have a rough plan, avoid all expectations as to how a scene might end or what the player will choose to do. Include elements you think will spur the PCs into action, but the goal isn't to move players along a predetermined track; play to find out what happens.
 
 
+#colbreak()
 === Scene Distinctions
 Each scene can be framed with up to three scene distinctions, special traits that any character in the scene can include in their rolls (if a character has distinctions of their own, their player chooses whether to use a scene distinction or one of their character distinctions for each roll). Scene distinctions are rated at #d8, and can be used to earn plot points with _*Hinder*_.
 
 As a special rule, a character can include both a personal distinction and a scene distinction in the same roll, as long as one of the two distinctions is _*Hindered*_.
 
 
+#colbreak()
 == Scale
 Sometimes, a creature or other part of the story differs from the player characters in power or size so dramatically that it commands an innate advantage (or disadvantage, if it is smaller or weaker). When necessary, an extra trait known as scale is assigned.
 
@@ -30,7 +32,7 @@ When a character or other part of the story rolls against a PC of a different sc
 A #d4 scale is likely never going to be rolled (since there is no lower rating), but it exists to represent creatures with a level of power or size far beneath the scale of normal humans. A small child or animal, or a similarly smaller and/or weaker creature, would have a #d4 scale. As a result, a PC would add a #d6 scale die to its rolls against such a creature, though in general the ST shouldn't bother having a PC make such a roll.
 
 
-// #colbreak()
+#colbreak()
 == Spending Peril Dice
 The ST can remove dice from the peril pool, “spending” them for a number of uses during play, including:
 
@@ -70,6 +72,7 @@ An extra is a nameless character in a scene who has just one trait describing th
 These are created much the same way you'd make a player character, although they can be simplified from that format. For example, instead of defining every trait in a trait set, they might only have the traits they are likely to use. Analog STCs may have whatever number of SFX or Limits seem appropriate (though generally not more than the ST can easily keep track of). They are taken out with stress or complications in the same way as a PC.
 
 
+#colbreak()
 ==== As Challenge Pools
 A challenge pool is something the PCs have to deal with, and not only can it represent a STC, but also a hazard, dilemma, crisis, or anything else that could be an obstacle to the characters' progress. Challenge pools are the basic building blocks of #title_content adventures, and they are described in their own section.
 
@@ -91,6 +94,7 @@ Challenge pools are the basic structure around which #title_content adventures a
 The core of every challenge is a pool of dice that the players will step down and remove as they address the situation. This is its Challenge trait. The challenge remains a driving element of the story until the last die is removed from its pool.
 
 
+#colbreak()
 ==== Opposing The Challenge Pool
 Player characters can use their action to reduce the challenge pool. When they do so, the entire challenge pool is rolled as a reaction against them. Usually, a PC tries to reduce the challenge pool by inflicting some kind of complication or stress on it.
 
@@ -101,6 +105,7 @@ Trying to reduce a challenge pool is risky, however. Failing a roll to do so inf
 Also, when a player hitches against a challenge pool, instead of giving the player a #pp, the ST may spend a die from the pool's challenge trait to turn the hitched die into a complication on the PC.
 
 
+#colbreak()
 ==== Challenge Pool Actions
 The PCs face challenge pools in action order, and once every PC has had a turn, the challenge pool gets a turn as well. Usually, it rolls to inflict stress or create a complication, but it can also roll to create an asset for itself (which becomes a new challenge die).
 
@@ -113,6 +118,7 @@ Finally, the ST can use the pool's turn to spend a die from the challenge trait 
 If a challenge pool works against a STC, or vice-versa, or if STCs work against each other, the ST has two choices. They can let a PC roll determine the outcome, or they can simply decide what happens. GMs never roll dice against themselves.
 
 
+#colbreak()
 === Building Challenges
 The ST creates the challenge pool by choosing three to six dice of the same size, from #d6 to #d12. Die size describes difficulty, while the number of dice roughly determines how long the challenge will last.
 
@@ -134,9 +140,10 @@ A boss is a variation that represents one STC meant to challenge multiple PCs at
 
 
 ==== Organization
-A organization works much like a mob, but it is a much larger group operating on a level beyond what any single individual (even a mage) can do. Secret societies, military forces, spy networks, organized crime, oligarch families, corporations, covert rebellions, insidious cults, police forces, and occult conspiracies are examples of organizations. A organization possesses a scale trait of #d8 or higher, giving it a powerful advantage when acting against the PCs. An organization has a Org Dice trait just like a mob has a Mob Dice trait.
+A organization works much like a mob, but it is a much larger group operating on a level beyond what any single individual (even a mage) can do. Secret societies, military forces, spy networks, organized crime, oligarch families, corporations, covert rebellions, insidious cults, police forces, and occult conspiracies are examples of organizations. An organization possesses a scale trait of #d8 or higher, giving it a powerful advantage when acting against the PCs. An organization has an Org Dice trait just like a mob has a Mob Dice trait.
 
 
+#colbreak()
 ==== Levelling Challenges
 Tailoring dice ratings is more art than science. A challenge pool with fewer dice takes less time than a challenge pool with more. A challenge pool of larger dice will take more time still and will also require the PCs to tap more resources and push harder to bring down those dice. Larger ratings of signature assets, which rarely change, make the challenge harder still.
 
@@ -164,6 +171,7 @@ POOL: #trait[Fortified Compound #d10#d10#d10]
 _*All-Out Attack:*_ Spend a #pp to target multiple opponents when you roll to inflict #trait[Damaged]. For each additional target, add #d6 and keep an extra effect die.
 
 
+#colbreak()
 === Spirits of Winter (Mob)
 _They're coming._
 
