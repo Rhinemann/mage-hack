@@ -208,15 +208,7 @@ Gain #trait[Spirit #d6], #trait[Forces #d6], #trait[Life #d6], or #trait[Matter 
 
 
 ==== Faction SFX
-_*Embolden the Spirits:*_ When using magick step up a die in your pool but 1s and 2s count as hitches as inhabitants of the other side get rowdy and unrestrained from your magick.
-
-_*Quell The Spirits:*_ When dealing and negotiating with spirits take #trait[Enthralled #d6] to reroll a die in your roll.
-
-_*One of Their Own:*_ Spend a #pp to create a #d8 asset representing a friendly local spirit willing to help you.
-
-_*Dimensional Vagabond:*_ When stepping sideways spend a #pp to double a die in your pool.
-
-_*Storied History:*_ When interacting with spirits spend a #pp to introduce a details about the entity you're interacting with, whether it be past dealings, past connections, forgotten oath, etc represented by a #d8 asset.
+Dreamspeakers have _*Dimensional Vagabond*_, _*Embolden the Spirits*_, _*One of Their Own*_, _*Quell The Spirits*_, and _*Storied History*_ from Appendix B: SFX List as their Faction SFX
 
 
 #colbreak()
@@ -331,15 +323,7 @@ Gain #trait[Forces #d6] or any other Sphere appropriate for your House as an Aff
 
 
 ==== Faction SFX
-_*Conjured Elemental:*_ Spend a #pp to create a #d8 asset, representing an elemental creature summoned to aid you until the end of the scene or you banish it.
-
-_*Prepared Caster:*_ Double a Sphere on a roll that includes a magickal asset you rolled to create in a previous scene. After the roll is resolved, either spend a #pp or step down the asset.
-
-_*Rote Memorization:*_ When your roll includes an asset representing a rote, add #d6 and step up your effect die.
-
-_*Erudite Researcher (Gear):*_ When you spend an hour or more with good sources (a library, a meticulous ledger, accurate maps, informed and cooperative experts, etc.) add #d6 and step up your effect die on rolls to create research-based assets.
-
-_*Rods, Staves, & Wands (Gear):*_ When your roll using magic to inflict stress or a complication includes an asset that is a rod, staff, or wand, add #d6 and step up your effect die.
+Hermetics have _*Conjured Elemental*_, _*Prepared Caster*_, _*Rote Memorization*_, _*Erudite Researcher (Gear)*_, and _*Rods, Staves, & Wands (Gear)*_ from Appendix B: SFX List as their Faction SFX.
 
 
 #colbreak()
@@ -388,15 +372,7 @@ Gain #trait[Matter #d6], #trait[Forces #d6], or #trait[Prime #d6] as an Affinity
 
 
 ==== Faction SFX
-_*Trust Me, I'm an Engineer:*_ When using magick spend a #pp to turn a vulgar effect into a coincidental one if you are being observed by uneducated Sleepers, then shut down this SFX. Activate an opportunity to recover.
-
-_*It's Gonna Blow:*_ Double your Sphere when overloading, boosting or otherwise pushing the limits of one of the gadgets and tools that you use. Grow Paradox once immediately.
-
-_*How It's Made:*_ Spend a #pp either when modifying an existing tool or jury-rigging a new one for an effect not normally possible using it to gain a #d8 asset related to the effect.
-
-_*Auxiliary Operational Mode (Gear):*_ Step down the highest die in your pool to step up an effect die when someone is attempting to unweave or counterspell the magick enacted using your gadgets and devices.
-
-_*We Need More Funding:*_ Consume an asset representing wealth improving the material conditions of your experiments or making relevant persons more pliable to double a die when performing a ritual.
+Etherites have _*Trust Me, I'm an Engineer*_, _*It's Gonna Blow*_, _*How It's Made*_, _*Auxiliary Operational Mode (Gear)*_, and _*We Need More Funding*_ from Appendix B: SFX List as their Faction SFX.
 
 
 #colbreak()
