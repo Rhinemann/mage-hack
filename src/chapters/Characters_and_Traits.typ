@@ -425,15 +425,11 @@ After all traits, SFX, and Milestones are set, choose just one of the following 
 
 - Upgrade a #d6 Sphere of your choice to #d8
 
-- Choose and gain one of the SFX listed in Appendix B: General SFX. /* TODO Appendix B */
-
-- Choose and gain one of the Limits listed in the Limit List.
-
-- Choose and gain one of your Faction SFX.
+- Choose and gain one of the SFX listed in Appendix B: SFX List.
 
 
 === Orphan Bonus
-If you do are an Orphan, you can take a Bonus Enhancement twice, instead of just once, but you are unable to gain Faction SFX.
+If you do are an Orphan, you can take a Bonus Enhancement twice, instead of just once, but you are have no Faction SFX.
 
 
 == Completing Your Character
