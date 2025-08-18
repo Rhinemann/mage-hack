@@ -3,7 +3,9 @@
 
 
 #show: chapter.with(chapter_name: "Factions")
-Choose one of the factions described in the following pages to define your character's alliances and their place among their fellow mages. A faction grants your character a signature asset, one or more specialities, and access to a specialized list of faction SFX. Though a faction does not grant a free SFX, during character creation you can use the bonus enhancement all PCs receive to gain one of your faction SFX.
+Choose one of the factions described in the following pages to define your character's alliances and their place among their fellow mages. A faction grants your character a signature asset, one or more specialities, and access to a list of faction SFX that your character can acquire more easily than general SFX.
+
+Though a faction does not grant a free SFX, during character creation you can use the bonus enhancement all PCs receive to gain one of your faction SFX.
 
 == Traditions
 // TODO (Description goes here.)
