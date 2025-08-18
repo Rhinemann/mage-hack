@@ -259,7 +259,7 @@ Gain #trait[Death #d6], #trait[Life #d6], or #trait[Fate #d6] as an Affinity Sph
 
 
 ==== Faction SFX
-#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
+
 
 
 #colbreak()
@@ -282,7 +282,7 @@ Gain #trait[Fate #d6], #trait[Death #d6] or #trait[Forces #d6] as an Affinity Sp
 
 
 ==== Faction SFX
-#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
+
 
 
 #colbreak()
