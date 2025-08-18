@@ -109,7 +109,7 @@ Gain #trait[Prime #d6], #trait[Forces #d6], or #trait[Spirit #d6] as an Affinity
 
 
 ==== Faction SFX
-#{ par([_*#lorem(3):*_ #lorem(15)]) * 5 }
+Choristers have _*Abjure the Unholy*_, _*Acolyte Militant*_, _*Aura of Faith*_, _*Blessed Orator*_, and _*Divine Providence*_ from Appendix B: SFX List as their Faction SFX.
 
 
 #colbreak()
