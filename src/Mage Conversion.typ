@@ -20,6 +20,7 @@
 #include "chapters/ST_Rules.typ"
 
 #include "chapters/Appendixes/Distinction_Builder.typ"
+#include "chapters/Appendixes/SFX_List.typ"
 #include "chapters/Appendixes/Example_Milestones.typ"
 
 #back_cover
