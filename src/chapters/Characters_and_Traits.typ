@@ -17,7 +17,7 @@ When distributing these ratings, it is usually easiest to choose which of the tr
 
 
 == Faction & Focus
-When creating a character, choose one Faction, which grants you SFX and Limits to unlock when growing your character. Choosing a Faction should be your first decision because it defines many things about your character. The playable factions detailed in this document are: the Council of Nine Mystic Traditions and the Technocratic Union. Details on each appear in the Factions section. If you aren't affiliated with any Faction you are known as an Orphan, an unaffiliated mage.
+When creating a character, choose one Faction, which grants you SFX and Limits to unlock when growing your character. Choosing a Faction should be your first decision because it defines many things about your character. The playable factions detailed in this document are: the Council of Ten Mystic Traditions and the Technocratic Union. Details on each appear in the Factions section. If you aren't affiliated with any Faction you are known as an Orphan, an unaffiliated mage.
 
 Once you choose a Faction, you should also define your focus, which describes the way you understand the reality and how you enforce your Awakened Will upon the world. Focus has three parts making it up:
 - A model for understanding how the world works. That's your paradigm.
