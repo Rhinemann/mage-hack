@@ -254,6 +254,8 @@ Five kinds of stress are used in #title_content: #trait[Damaged] stress, #trait[
 
 #trait[Drained] stress is lack of energy, fatigue or burnout for Sleepers, but for mages it is also depletion of their Avatar of Quintessence, the force of creation they can use to bolster their reality-altering magick.
 
+Supernatural creatures like mages can never recover #trait[Drained] stress except via SFX.
+
 #trait[Enthralled] stress is when you are fascinated, tempted, distracted, charmed, smitten, mind-controlled, or just caught up in your own thoughts.
 
 #trait[Enraged] stress is anger, wrath, and aggression.

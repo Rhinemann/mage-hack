@@ -194,7 +194,7 @@ Magick is divided into  Techniques by mages, each Technique describes broad kind
 === Spending Quintessence
 With the weight of Paradox growing stronger as they pull on threads of reality, and side-effects of a spell gone awry any use of magick can take a toll on a mage, but sometimes you may chose to exert yourself further, expending some of your reserve of Quintessence to make your workings blaze with truth and power of creation. You can do so with _*Avatar Reserve*_ SFX that every mage benefits from.
 
-_*Avatar Reserve:*_ Gain a #pp, then take #trait[Drained #d6] at the end of the current beat. You can never recover #trait[Drained] stress except via SFX.
+_*Avatar Reserve:*_ Gain a #pp, then take #trait[Drained #d6] at the end of the current beat.
 
 
 #colbreak()
