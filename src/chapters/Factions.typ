@@ -13,25 +13,18 @@ The Council of Ten Mystic Traditions, or simply the Traditions, are the default 
 The council has traditionally maintained a seat for each Sphere, with certain Traditions (the Solificati and Ahl-i-Batin) leaving the council, only to be replaced by newer Traditions (the Sons of Ether and Virtual Adepts), and gain a new one with the introduction of the Death Sphere (Hollow Ones).
 
 
-#colbreak()
+#pagebreak()
 === Akashayana/Akashic Brotherhood
 The Akashic Brotherhood, also known as the Akashayana Sangha ("Order of the Vehicle of Akasha") or just the Akashayana, is a Tradition of mages masters of mind, body, and spirit pursuing the arts of personal discipline.
 
-They believe that mind, body and spirit are all part of the larger whole of the person, just like at the same time that person is part of the whole of the universe. In other words, conflict, is an illusion, and the same can be said of identity and dispute, so when mind and body harmonize, the soul follow them. By honing their bodies, these mages make a temple for the mind that ultimately brings the comprehension of the spirit. The Brotherhood uses simple tools --- exercise, meditation, practice and study --- to refine the simple man into a brother of knowledge.
-
-
-==== Organization
-The Brotherhood is essentially led by the Kannagara, monastic ascetics of the Phoenix Robe sect. Today, however, lots of power resides with the Shi-Ren ("Benevolent Aristocracy"), a faction of politically active traditionalists who want to expand Akashic influence in world affairs. Tradition mages in the West most often encounter warriors of the Vajrapani (derisively called "Warring Fists") and the eclectic iconoclasts of the Li-Hai, who seek enlightenment through heroic experience.
-
-
-==== Initiation
-At temples, ashrams, and dojos across the world, Sifus (Masters) and Sihings (Adepts) accept disciples who display open minds and serious purpose. Each teacher typically teaches only one pupil at a time. Akashic doctrine maintains that every person must find his or her way to enlightenment; as a result, Akashayana receive very little guidance or encouragement. Many frustrated pupils give up on this Path; those who persist, however, cultivate impeccable fitness of mind, heart, and body.
+They believe that mind, body and spirit are all part of the larger whole of the person, just like at the same time that person is part of the whole of the universe. In other words, conflict, is an illusion, and the same can be said of identity and dispute, so when mind and body harmonize, the soul follows them. By honing their bodies, these mages make a temple for the mind that ultimately brings the comprehension of the spirit. The Brotherhood uses simple tools --- exercise, meditation, practice and study --- to refine the simple man into a brother of knowledge.
 
 
 ==== Focus
-"Magick" is actually self-perfection and cosmic harmony. To master such Arts in the proper Way (Do), a person must expand awareness in all things, clarify thoughts, focus the body, and subdue emotional confusion. Asian alchemy, craftwork, faith, yoga, social dominion, and martial arts training allow a Brother to channel life energy (_chi_) toward astounding feats of physical, mental, and energetic achievement. As a result, common paradigms include _Bring Back the Golden Age_, _Everything's an Illusion_, _It's All Good_, and occasionally _Might is Right_.
+"Magick" is actually self-perfection and cosmic harmony. To master such Arts in the proper Way (Do), a person must expand awareness in all things, clarify thoughts, focus the body, and subdue emotional confusion. Asian alchemy, craftwork, faith, yoga, social dominion, and martial arts training allow a Brother to channel life energy (_chi_) toward astounding feats of physical, mental, and energetic achievement. /* As a result, common paradigms include _Bring Back the Golden Age_, _Everything's an Illusion_, _It's All Good_, and occasionally _Might is Right_. */
 
 
+#colbreak()
 ==== Bonus Asset
 Choose a person who helped you significantly along the path of enlightenment, then gain that person as an asset rated at #d6.
 
@@ -47,29 +40,23 @@ Gain #trait[Mind #d6], or #trait[Life #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
+// TODO
 
 
-#colbreak()
+#pagebreak()
 === Celestial Chorus
 The Celestial Chorus is a Tradition of mages united by their efforts to touch the Divine as well as their belief in the One and Prime from which all things originate.
 
-Closely tied to the God of Abrahamic faiths (although its beliefs actually originate from the Ancient Egyptian monotheistic god Aten), the One represents the source of all Creation and all Creation is believed to be a part of the One. Humans in particular carry shards of the divine within them, though it is known by many names: the divine flame, the soul, the Avatar. It is this connection which the Celestial Chorus believes enables them to clearly hear the One's song and to shape Creation. While their faith is essentially monotheistic, it is accepted that the Divine has many facets and can be expressed through any number of names, religions, and creeds.
+Closely tied to the God of Abrahamic faiths (although its beliefs actually originate from the Ancient Egyptian monotheistic god Aten), the One represents the source of all Creation and all Creation is believed to be a part of the One. Humans in particular carry shards of the divine within them, though it is known by many names: the divine flame, the soul, the Avatar. It is this connection which the Celestial Chorus believes enables them to clearly hear the One's song and to shape Creation.
 
-Members of many faiths and denominations (including a variety of soft polytheists) come together in worship and service of the One, accepting that each person has their own path to the One. Of course, this ideal remains a work in progress and the Singers' history has been one of divisions and compromises, holy wars and martyrs, sacrifice and rejuvenation.
-
-
-==== Organization
-Hierarchical since the Roman Republic, the Chorus is led by its Curia, a 17-member synod of Chancellors and associated finance officers, tribunes, notaries, and liturgical commissioners. The most respected (or best connected) Chancellor holds the ceremonial position of Pontifex Maximus. Each Chancellor commands a territorial staff of Exarchs, sometimes called bishops. Exarchs supervise local leaders called Presbyters (priests or elders), who present this Tradition's human face.
-
-
-==== Initiation
-Presbyters seek recruits through social outreach in church organizations. Some worshippers spontaneously Awaken through powerful religious experiences, particularly those involving music. Each new apprentice, or Catechumen, undertakes rigorous instruction from an experienced mage called a Præcept. Like many forms of religious training, this instruction involves matters of doctrine, personal discipline, and -- obviously -- lots of singing lessons.
+While their faith is essentially monotheistic, it is accepted that the Divine has many facets , so members of many faiths and denominations (including a variety of soft polytheists) come together in worship and service of the One, accepting that each person has their own path to the One, despite the Singers' history of martyrs, holy wars, division and compromise, sacrifice and resurrection.
 
 
 ==== Focus
-The Arts flow not from personal achievement or intent but from faith, unity, and harmony with the Divine Will. Singing -- especially many voices joined in harmony -- provides this Tradition's oldest and most important instrument. Chorister magick tends to manifest in light, fire, warmth, harmonic vibrations, and sublime music. _Faith_ and _High Ritual_ form the core of Celestial Chorus practices, so the group's paradigms include _Creation is Divine and Alive_, _Divine Order and Earthly Chaos_, and, of course, _It's All Good -- Have Faith_.
+The Arts flow not from personal achievement or intent but from faith, unity, and harmony with the Divine Will. Singing -- especially many voices joined in harmony -- provides this Tradition's oldest and most important instrument. Chorister magick tends to manifest in light, fire, warmth, harmonic vibrations, and sublime music. Faith and High Ritual form the core of Celestial Chorus practices. /* , so the group's paradigms include _Creation is Divine and Alive_, _Divine Order and Earthly Chaos_, and, of course, _It's All Good -- Have Faith_. */
 
 
+#colbreak()
 ==== Bonus Asset
 Choose one object or place that is instrumental to your faith, and gain that as an asset rated at #d6.
 
@@ -95,20 +82,10 @@ The Cult of Ecstasy (also known as Sahajiya, a term derived from the Sanskrit wo
 To achieve that, the Cult uses things like drugs, music and sex, but they are just means to an end. The objective is to achieve a mental state that transcends the physical world, a trance that allows the mage to see beyond his normal experience and go outside all the lines that keep most people and mages penned in. Cultists take the word ecstasy in its original meaning: a sudden, intense rush of feeling that catapults the subject into an altered state. It does not have to be a pleasant feeling, but given a choice, most Cultists definitely prefer it that way. The Cult of Ecstasy breaks down barriers and self-imposed limitations to give people a rush of eye-opening experience.
 
 
-==== Organization
-Informal and nomadic, this Tradition's loose structure reflects its focus on individual transcendence. It has several subsects but few leaders as such. Cultists tend to congregate at festivals, raves, concerts, and other tribal gatherings, mingling with "sleepwalkers" who tread the line between Sleeper culture and full Awakening. For the most part, this group favours influence over organization. Each Ecstatic is encouraged to follow his or her own Path, so long as that Path doesn't violate the sacred nature of other people. The only rigid element in the Sahajiya Path is the Code of Ananda and its emphasis on compassionate respect. Everything else is negotiable.
-
-
-==== Initiation
-_Five Steps to Ecstasy_: 1: Surrender your fear; 2: Focus your intentions; 3. Open yourself; 4. Attune yourself; 5: Repeat Step 1. To help a new Ecstatic into Step 1, a mentor challenges that person to leap beyond his fears and then use his intentions to fly instead of fall. Diksham -- the mentor/ student covenant -- provides a safe space for the initiate to learn magick and control. Often, mentors and students become lovers, opening a channel of intimacy and trust that goes beyond mere sex. That's not a rule, though, and compulsion is considered the worst sin an Ecstatic can commit.
-
-After initiation and initial training, a mentor often pulls away from her student, trusting him to find his own way. She'll provide advice or secondary helpers, but she refuses to become a crutch. In order to grow along this Path, a mage must shape his own triumphs and mistakes.
-
-
 ==== Focus
-"Get out of your own way" sums up the Ecstatic paradigm. To touch the Lakashim ("Divine Pulse"), a person must blow open the doors of inhibition and fear. Magick is the communion between a focused mind and the Lakashim -- a dance of possibilities directed by crazy wisdom. To perform it, an Ecstatic guides Ojas (life force) energy with conscious but flexible intentions. Ideally, a mage operates in a flux state in which neither time nor inhibitions block the life force -- aware of what she's doing and yet open enough to do anything.
+"Get out of your own way" sums up the Ecstatic paradigm. To touch the Lakashim ("Divine Pulse"), a person must blow open the doors of inhibition and fear. Magick is the communion between a focused mind and the Lakashim -- a dance of possibilities directed by crazy wisdom. To perform it, an Ecstatic guides life force with conscious but flexible intentions. Ideally, a mage operates in a flux state in which neither time nor inhibitions block the life force -- aware of what they're doing and yet open enough to do anything.
 
-The Cult's infamous substances and stimulations are meant to blow open mental doors and blast away obstacles to Enlightenment. That's the theory, anyway. In reality, those same tools can become obstacles in their own right. Smart Ecstatics, then, keep shifting their tools around to avoid stagnation and dependence on "the same old shit". Crazy wisdom is the core of this group's many practices, which include everything from gutter magick, yoga, and martial arts to cybernetic hypertech. And so, paradigms include _Creation's Divine and Alive_, _Everything is Chaos_, _It's All Good_, and quite often _Everything's an Illusion_.
+The Cult's infamous substances and stimulations are meant to blast away any obstacles to Enlightenment, at least in theory. In reality, those same tools can become obstacles in their own right. Smart Ecstatics, then, keep shifting their tools around to avoid stagnation and constraints. Crazy wisdom is the core of this group's many practices, which include everything from gutter magick, yoga, and martial arts to cybernetic hypertech. /* And so, paradigms include _Creation's Divine and Alive_, _Everything is Chaos_, _It's All Good_, and quite often _Everything's an Illusion_. */
 
 
 ==== Bonus Asset
@@ -126,10 +103,10 @@ Gain #trait[Time #d6], #trait[Life #d6], or #trait[Mind #d6] as an Affinity Sphe
 
 
 ==== Faction SFX
+// TODO
 
 
-
-#colbreak()
+#pagebreak()
 === Dreamspeakers/Kha'vadi
 The Dreamspeakers (also known as Kha'vadi) are a Tradition of mages consisting of individuals who practice shamanism, communing with spirits as part of their magic and existing as intermediaries between the Mortal World and the Spirit World.
 
@@ -138,28 +115,17 @@ It is one of the most diverse Traditions, with those representing the ancient cu
 As the Gauntlet has grown thicker and the Spirit World more dangerous, the shamans' duties have become increasingly harder. But whereas other mages tend to overlook matters of spirit and Sleepers forget them altogether, the Dreamspeakers were born to walk the middle ground; to see and hear what others do not, and to fill roles still very much needed in the modern world.
 
 
-==== Organization
-Although the shamanic Path tends to be solitary, medicine-people can be quite social. And so, this Tradition combines a respect for autonomy with the supportive network of a tribe. For centuries, many Dreamspeakers preferred to wander their own roads; in recent years, however, the group has returned to the community-centred focus of many pre-imperial cultures. Separation, after all, has been a liability. With stronger bonds between them, the 'Speakers share a greater voice.
-
-In previous ages, Dreamspeakers met in distant corners of the spirit world -- even forming Realms where the Old Ways remained untouched. Recently, however, the Unbroken Folk have turned their focus to the material world, meeting in both rural and urban settings, often gathering at powwows, hip-hop shows, block parties, and neotribal festivals. Social media groups, too, provide meeting grounds for the new breed of Dreamspeakers. In all cases, the previous solitude has shifted toward a more social focus.
-
-Even so, Kha'vadi remain distinctly informal. Elders are respected by their younger peers, but youthful vigour feeds the future and earns its own sort of respect. The long-winded titles favoured by the  Council sound stupid to the average 'Speaker. Deeds and wisdom speak louder than laws.
-
-
-==== Initiation
-Like his Tradition, a Dreamspeaker survives apparent death. Part of his initiation involves ritual (sometimes literal) demise; that passing brings the shaman into the spirit realm, where he faces trials and challenges. Assuming he survives that ordeal, the kaimi ("initiate") becomes a so-cha ("disciple") and returns to the mortal world with fresh insight and greater vision.
-
-
 ==== Focus
 Medicine, not magick, is the essence of Dreamspeaker Arts. An avatar is Howahkan: the mysterious voice that speaks to those who are ready to hear it. Sorcery is an egotistical and ultimately destructive Path that leads people away from the Good Road of harmony with the World Spirit. To reach past the illusions of mortal life, one must listen to Creation's heartbeat, face death, and remain open to the voice through which all life speaks.
 
-Practice-wise, 'Speakers favor medicine-work, craftwork, shamanism, crazy wisdom, and faith. A few pursue cybernetics, yoga, Voudoun, and witchcraft, but their companions often shun them. Common paradigms include _A World of Gods and Monsters_, _Creation's Divine and Alive_, _Bring Back the Golden Age_, and sometimes _Might is Right_.
+Practice-wise, 'Speakers favor medicine-work, craftwork, shamanism, crazy wisdom, and faith. A few pursue cybernetics, yoga, Voudoun, and witchcraft, but their companions often shun them. /* Common paradigms include _A World of Gods and Monsters_, _Creation's Divine and Alive_, _Bring Back the Golden Age_, and sometimes _Might is Right_. */
 
 
 ==== Bonus Asset
 Choose an item that a spirit companion of yours elected to inhabit making it a Fetish, and gain that as an asset rated at #d6.
 
 
+#colbreak()
 ==== Bonus Specialities
 Choose three specialities from #trait[Etiquette #d6], #trait[Herbalism #d6], #trait[Mysticism #d6], #trait[Technology #d6]. Gain them as bonus specialities.
 
@@ -174,33 +140,26 @@ Gain #trait[Spirit #d6], #trait[Forces #d6], #trait[Life #d6], or #trait[Matter 
 Dreamspeakers have _*Dimensional Vagabond*_, _*Embolden the Spirits*_, _*One of Their Own*_, _*Quell The Spirits*_, and _*Storied History*_ from Appendix B: SFX List as their Faction SFX
 
 
-#colbreak()
+#pagebreak()
 === Euthanatoi/Chakravanti
 The Euthanatoi, also known as the Chakravanti ("People of the Wheel") or the Niyamavanti ("People of our Rule") are a Tradition of mages intimately devoted to the forces of death, rebirth, destiny, and karma in the world. They represent a collection of thanatotic cultists, necromancers, priests of fate, assassins, scholars, gamblers and healers.
 
-Euthanatos mages embrace the role of death in the world as that which cleanses and makes way for future growth. Most believe in the reincarnation of souls, meaning death in one life is not to be feared and in fact may be crucial to one's spiritual development. Even those who do not share this belief recognize a continuous cycle of death and rebirth throughout life, and accept that at times death may be necessary to end suffering. These mages guard the moment between life and death. Heretical reincarnationists, they see Creation as a spinning Wheel of Death and Rebirth. When something --- or someone --- interferes with the Wheel's motion, the obstacle should be removed. The method of removal may be as simple as a kind word or as final as murder.
+Euthanatos mages embrace the role of death in the world as that which cleanses and makes way for future growth. Most believe in the reincarnation of souls, meaning death in one life is not to be feared and in fact may be crucial to one's spiritual development. Even those who do not share this belief recognize a continuous cycle of death and rebirth throughout life, and accept that at times death may be necessary to end suffering. These mages guard the moment between life and death. Guardians of reincarnation, they see Creation as a spinning Wheel of Death and Rebirth. When something, or someone, interferes with it, the obstacle should be removed. The method of removal may be as simple as a kind word or as final as murder.
 
-Most controversially, many Euthanatos see it as their duty to push this cycle forward, removing sources of disease, corruption, and misery from the world in order to quicken the turn of the Wheel of Ages. This means judging when a person's moral degradation has grown too harmful to themselves or others to be allowed to continue, and when it is appropriate to deliver the Good Death. Euthanatos are not cavalier about this responsibility, and are painfully aware of the risk of Jhor, but they know their work is necessary and that they are the only ones for it. To the Euthanatoi, theirs is a sacred duty, one that must be carried out, but is so strenuous and terrible that only the most strong-willed can perform it. It is not so much that they take on a right, as they take on a burden: responsibility for pain, for release and for renewal.
+Most controversially, many Euthanatos see it as their duty to push this cycle forward, removing sources of disease, corruption, and misery from the world in order to quicken the turn of the Wheel of Ages. This means judging when a person's moral degradation has grown too harmful to themselves or others to be allowed to continue, and when it is appropriate to deliver the Good Death.
 
-
-==== Organization
-Like their Verbena and Ecstatic allies, the Chakravanti pursue a sometimes sinister Path that other mages often fear and rarely understand. Yet among the Traditions, this group is perhaps the most ethical. Their awful responsibility demands no less. The group's strict code -- the Dharmachakra, or "Eight-Spoked Wheel of the Law" -- emphasizes the Cycle (Samsara); unity of all things (Advaita); acceptance of mortality (Kala); responsible guardianship (Pravitra); self-control (Dama); compassion (Daya); avoidance of temptation (Tapas); and the personal experience of death and rebirth (Punarjanman). Although the group itself lacks rigid hierarchies, all members of this Tradition are expected to know and follow this code, on pain of final death and removal from the Wheel.
-
-This strict code requires strong bonds between mentors and initiates. As a result, although the death-Tradition contains many different sects, the relationship between a teacher (Acarya) and her student (Chatra) is essential. The Chatra swears a Vrata ("life-oath") to both his mentor and to the Tradition as a whole. Breaking that oath disgraces not only the student but the teacher as well... and compels the Acarya to hunt her student down for punishment.
-
-
-==== Initiation
-Each Thanatoic mage undergoes the Diksha: a ritualized physical death. Returning from the Shadowlands, that person undergoes a long apprenticeship that includes memorizing the Niyama and learning the many arts of healing, fate, and murder. Such apprenticeships can last for years and typically involve quests, tests, and challenges in which the student confronts the awful implications of his Path. Without that awareness, after all, a "death-mage" is exactly what people think he is: a monster who's everything this Tradition has sworn to destroy.
+Euthanatos are not cavalier about this responsibility, and are painfully aware of the risks, but they know their work is necessary and that they are the only ones for it. To the Euthanatoi, their duty is sacred, one that must be carried out, but is so strenuous and terrible that only the most strong-willed can perform it. It is not so much that they take on a right, as they take on a burden: responsibility for pain, for release and for renewal.
 
 
 ==== Focus
-As masters of life, death, Fate, and Fortune, the Euthanatoi view magick as an extension of the Cycle. By turning the Wheel, these mages control probability as well as the forces of mortality. That turning focuses on the cyclical nature of existence, and so a Chakravat uses practices and instruments like crazy wisdom, faith, High Ritual, medicine-work, reality hacking, martial arts, shamanism, and occasionally Voudoun to direct those energies toward the desired end. Yoga has an essential place in this Tradition's Arts. _Divine Order and Earthly Chaos_ might be the group's most common paradigm; others include _Everything's an Illusion_, _Creation's Divine and Alive_, and even, believe it or not, _It's All Good -- Have Faith_.
+As masters of life, death, Fate, and Fortune, the Euthanatoi view magick as an extension of the Cycle. By turning the Wheel, these mages control probability as well as the forces of mortality. That turning focuses on the cyclical nature of existence, and so a Chakravat uses practices and instruments like crazy wisdom, faith, High Ritual, medicine-work, reality hacking, martial arts, shamanism, and occasionally Voudoun to direct those energies toward the desired end. Yoga has an essential place in this Tradition's Arts. /* _Divine Order and Earthly Chaos_ might be the group's most common paradigm; others include _Everything's an Illusion_, _Creation's Divine and Alive_, and even, believe it or not, _It's All Good -- Have Faith_. */
 
 
 ==== Bonus Asset
 Choose a weapon or any other tool of choice you use to carry out your morbid responsibilities, and gain that as an asset rated at #d6.
 
 
+#colbreak()
 ==== Bonus Specialities
 Choose three specialities from #trait[Esoterica #d6], #trait[Firearms #d6], #trait[Medicine #d6], #trait[Subterfuge #d6]. Gain them as bonus specialities.
 
@@ -212,12 +171,18 @@ Gain #trait[Death #d6], #trait[Life #d6], or #trait[Fate #d6] as an Affinity Sph
 
 
 ==== Faction SFX
+// TODO
 
 
-
-#colbreak()
+#pagebreak()
 === Hollow Ones
-Dark romantics laughing in the face of ruin.
+The Hollow Ones is the Tradition of cast-aways of modern society, those who reject establishment and the flawed order it brings, united by the ideals of Art and True Romance, but disparate in its forms.
+
+Long considered a Lost Tradition, the Hollow Ones dwell in the underbelly of the world, among the undesirables and dregs who couldn't find purchase elsewhere, in societies both mundane and hidden. These Hollow Men focus on earthly matters, rejecting the notions of Ascension that the world of Awakened finds itself bogged down in. It is no surprise then that the Tradition lacks any kind of centralised Paradigm, instead using whatever mystic practice they can get their hands of, modifying or deliberately bastardising them in the process. No Hollow One is alike, expressing their void in their own way and in this they find unity of purpose.
+
+
+==== Focus
+Darklings use whatever they've got to work with -- typically things discarded by society. Broken toys, occult goodies, and symbols and behaviors that so-called respectable people shun make potent tools in the hands of a Hollow mage. Belief-wise, that hollow image is appropriately symbolic: these folks tend to see themselves as vessels of life and death, pouring their Arts out or carrying those cosmic forces from place to place. Magick, then, comes from the proper comprehension and intentional use of the energies that, in most people, are simply wasted. /* _Everything is Chaos, an Illusion, or a Mistake_, probably on a _One-Way Trip to Oblivion_. Some Hollowers insist that _It's All Good_, but they're the minority. */ Chaos and gutter magick are near-universal among the Hollow Ones. Although such Arts don't actually nurture chaos, they thrive in the chaos of our age.
 
 
 ==== Bonus Asset
@@ -235,28 +200,20 @@ Gain #trait[Fate #d6], #trait[Death #d6] or #trait[Forces #d6] as an Affinity Sp
 
 
 ==== Faction SFX
+// TODO
 
 
-
-#colbreak()
+#pagebreak()
 === Order of Hermes
 The Order of Hermes is one of the pillars of the Traditions. A Fellowship during the Dark Ages, it draws upon a potent fundus of magical knowledge and has shaped occult history to great deals.
 
 Its failings, however, are equally grand. Hubris runs strong within the elitist Order, and with the Reckoning, many of their traditional ways are challenged. Old, carefully hoarded secrets are gone forever in many cases, while mystical items and powerful patrons are destroyed or locked away beyond the hostile Gauntlet. The survivors on Earth can only hope to remember their teachings and learn all that they can. The Order will survive, but it may not be the same Order that it once was.
 
 
-==== Organization
-The Order is rigidly hierarchical, disciplinarian, and regulated. The Code of Hermes and its Peripheral Corrigenda dictate behavior, protocol, rules for certámen challenges, and the proper inscriptions for Chantry doorways. Thirteen Houses still exist as factions in the Order's endless, brutal infighting. Some Houses predate the Norman Conquest (Bonisagus, Flambeau, Quaesitor, Tytalus, Verditius, and the catch-all Ex Miscellanea); others are newer, even quite recent (Fortunae, Hong Lei, Ngoma, Shaea, Skopos, Solificati, and Xaos).
-
-
-==== Initiation
-Recruited from academia, esoteric religious orders, science, or the military, a student must survive a punishing apprenticeship under an unforgiving mentor (a mater or pater). The Order recognizes nine Degrees of mystic advancement: Neophyte, Zelator, Practicus, Initiate, Initiate Exemptus, Adept, Adept Major, Magister Scholae, and Magister Mundi. The training aims to provoke, by the conclusion of the Third Degree, a gradual Awakening more akin to a process than to a single jolting moment.
-
-
 ==== Focus
 A Hermetic mage commands nothing less than the keys to the universe. And so, these consummate scholars master ancient and arcane rituals through constant study and intense practice. Tapping elemental currents through incantations, signs, seals, paraphernalia, and secret languages, the Hermetics are -- by necessity -- secretive and suspicious. They command tremendous power, after all, and their rivals lurk everywhere.
 
-Alchemy, dominion, and High Ritual form core practices within the Order's ranks. No Hermetic mage lacks such training. Certain Hermetics add chaos magick, the Art of Desire, hypertech, craftwork, weird science, yoga, and occasional malficia to that core, pursuing such paradigms as A Mechanistic Cosmos, Divine_ Order and Earthly Chaos_, _Might is Right_, _Tech Holds All Answers_ and, naturally, _Bring Back the Golden Age_.
+Alchemy, dominion, and High Ritual form core practices within the Order's ranks. No Hermetic mage lacks such training. Certain Hermetics add chaos magick, the Art of Desire, hypertech, craftwork, weird science, yoga, and occasional maleficia to that core./* , pursuing such paradigms as A Mechanistic Cosmos, Divine_ Order and Earthly Chaos_, _Might is Right_, _Tech Holds All Answers_ and, naturally, _Bring Back the Golden Age_. */
 
 
 ==== Bonus Asset
@@ -277,25 +234,18 @@ Gain #trait[Forces #d6] or any other Sphere appropriate for your House as an Aff
 Hermetics have _*Conjured Elemental*_, _*Prepared Caster*_, _*Rote Memorization*_, _*Erudite Researcher (Gear)*_, and _*Rods, Staves, & Wands (Gear)*_ from Appendix B: SFX List as their Faction SFX.
 
 
-#colbreak()
+#pagebreak()
 === Society of Ether/Sons of Ether
 The Sons of Ether (renamed the Society of Ether in the Modern Nights) are a group of technomancers aligned to the Council of Ten. Originally part of the Order of Reason and the Technocracy, they abandoned their former compatriots after the Union aided the expulsion of the Luminiferous Ether from the Consensus. Since then, the Sons have adopted several outdated technologies and incorporated them into their Paradigm.
-
-
-==== Organization
-Etherites, despite their boisterous talk about society, are often fractious and competitive. Fellowship exists as an avenue for seeking praise; criticism merely prods you to go back to the lab and do better next time. Although many Etherites bury themselves in research for weeks on end with very little companionship, they eventually seek the company of their peers, no matter how obsessive their work becomes.
-
-
-==== Initiation
-Prospective Etherites tend to be selected by true Scientists, based on some sign or evidence of latent genius. These prospective initiates receive a test designed to force them to confront the implications of their ideas. Most often, the would-be Scientist is left to discover a copy of the Kitab-al-Alacir, whose concepts often serve to Awaken the spark of bigger, brighter accomplishments to come.
 
 
 ==== Focus
 Science! Or, more accurately, an imaginative grasp of natural principles channeled through established physical and energetic technologies. Earthier than their Virtual Adept colleagues, these technomancers prefer to employ Science that can be seen, held, demonstrated, and confirmed even by the eyes of fools. To that end, Etherite Science is showy, romantic, and gracefully futuristic, even if that future looks more like classic science fiction than like mundane science fact.
 
-As a practice, an Etherite may use anything that seems to work. Most Scientists, however, favor gloriously esoteric variations on alchemy, craftwork, cybernetics, hypertech, reality hacking, and, of course, weird science. Paradigms focus largely around concepts like _A Mechanistic Cosmos_, _Everything is Data_, _Might is Right_, and _Everything's an Illusion_, but they usually boil down to _Tech Holds All the Answers_.
+As a practice, an Etherite may use anything that seems to work. Most Scientists, however, favor gloriously esoteric variations on alchemy, craftwork, cybernetics, hypertech, reality hacking, and, of course, weird science. /* Paradigms focus largely around concepts like _A Mechanistic Cosmos_, _Everything is Data_, _Might is Right_, and _Everything's an Illusion_, but they usually boil down to _Tech Holds All the Answers_. */
 
 
+#colbreak()
 ==== Bonus Asset
 Choose a place where you conduct your research and create your marvellous devices safe from Consensus infringement, and gain that as an asset rated at #d6.
 
@@ -314,7 +264,7 @@ Gain #trait[Matter #d6], #trait[Forces #d6], or #trait[Prime #d6] as an Affinity
 Etherites have _*Trust Me, I'm an Engineer*_, _*It's Gonna Blow*_, _*How It's Made*_, _*Auxiliary Operational Mode (Gear)*_, and _*We Need More Funding*_ from Appendix B: SFX List as their Faction SFX.
 
 
-#colbreak()
+#pagebreak()
 === Verbena
 The Verbena is a Tradition of mages dedicated to preserving the ancient crafts and wisdom passed down over the ages by witches and warlocks, druids and druidesses, mystics, and priests and priestesses of the Old Gods.
 
@@ -323,20 +273,10 @@ Though modern Verbena have some similarities to Wiccans, they are inheritors of 
 Of all the Traditions, the Verbena are perhaps most challenged by the changes brought to the world by advancing technology and expanding civilizations. Each member must find a way to apply the lessons and practices of the old ways to the modern world, or be seen by both mages and mortals as merely a fringe practitioner of a dying craft.
 
 
-==== Organization
-Covens -- often numbering 13, nine, seven, or three -- make up this group's foundation. Solitary Verbenae exist, but most members of this Tradition prefer to work in groups. Women probably outnumber men overall, and they're granted more respect here than in most other groups. Many female mages gravitate toward this Tradition for that reason. Two leaders (taking priest and priestess roles although both might be male, female, or transgender) govern the larger covens, with a single witch in charge of three-person groups. Covens tend to favor older members over younger ones, and old-school covens can be quite autocratic. Although disputes often get resolved through votes, those votes might involve ordeals, tests, or combat.
-
-This Tradition respects strong bloodlines. And so, whenever possible, Verbena covens follow family lineage. Each coven has a grove, though that grove might be a garden in the leader's back yard. Large meetings occur eight times a year, during the two equinoxes, the two solstices, and on Imbolc (Feb. 2), Beltane (May 1), Lammas (Aug. 1), and Samhain (Oct. 31). Plenty of Verbenae also gather at Christmas (Dec. 25) and on July 1, especially as shifts of climate and culture blur the distinction between Nature's seasonal cycles.
-
-
-==== Initiation
-Verbena newcomers undergo a ritual death and rebirth. An intense period of study, testing, and meditation climaxes in a distressing ordeal -- sometimes illusionary, often real. If and when the coven members are satisfied with the initiate's trustworthiness and dedication, they call the elements as witnesses. As they were during the Burning Times, most Verbenae remain loyal unto death.
-
-
 ==== Focus
-Verbena Arts concentrate on doing a lot with very little. Their tools are practical as well as symbolic, with uses that reach back to antiquity. "Pagan" in every sense of that word, these magicks hold deep ties to Nature. Shape-changing, transformation, healing and injury, divination, purification, growth and withering, natural cycles, and the tricky ways of Fate are witch-folk specialties.
+Verbena Arts concentrate on doing a lot with very little. Their tools are practical as well as symbolic, with uses that reach back to antiquity. "Pagan" in every sense of that word, these magicks hold deep ties to Nature. Shape-changing, transformation, healing and injury, divination, purification, growth and withering, natural cycles, and the tricky ways of Fate are witch-folk specialities.
 
-To all Verbenae, _Creation's Divine and Alive_. Because Creation, life, and divinity aren't particularly nice, other common Verbena paradigms include _A World of Gods and Monsters_, _Might is Right_, _Bring Back the Golden Age_, and _Everything is Chaos_. Witchcraft is the group's core practice, with certain individuals favoring Voudoun, dominion, weird science, chaos magick, yoga, martial arts, High Ritual, cybernetics, the Art of Desire, craftwork, medicine-work, and even organic hypertech.
+/* To all Verbenae, _Creation's Divine and Alive_. Because Creation, life, and divinity aren't particularly nice, other common Verbena paradigms include _A World of Gods and Monsters_, _Might is Right_, _Bring Back the Golden Age_, and _Everything is Chaos_. */ Witchcraft is the group's core practice, with certain individuals favouring Voudoun, dominion, weird science, chaos magick, yoga, martial arts, High Ritual, cybernetics, the Art of Desire, craftwork, medicine-work, and even organic hypertech.
 
 
 ==== Bonus Asset
@@ -364,16 +304,8 @@ The Virtual Adepts (also known as the Mercurial Elite) are the second youngest m
 Digital anarchists, hackers of reality and technology, brilliant mathematicians and many more, they are some of the biggest enemies of Technocracy. Virtual Adepts are the ones who subvert and take apart the systems under Technocratic control to learn their function and and counter them.
 
 
-==== Organization
-Merit-respecting anarchists, Adepts avoid standard organization and loathe conventional hierarchies. In the '90s, they based respect on eliteness: a form of peer recognition won through attitude and accomplishment. Though the tradition has matured and diversified since then, an Adept's personal achievements -- rather than titles or seniority -- still mean everything in this group's esteem. Cleverness, wit, technological creativity, and an astute sense of sociological reform mean more than a snappy handle or a keen online icon. There's a special reverence for Adepts who tear down oppressive social structures... and a vituperative loathing for ones who support such structures in Meatspace or the online world.
-
-
-==== Initiation
-Virtual Adepts have a socially brutal initiation process. The idea of physical deprivation, master-apprentice challenges, or meditative spirit quests strikes them as absurd. Instead, Adepts typically give their aspirants and initiates cryptic missions to sabotage authoritarian structures, steal classified data, and create amusing pranks that undermine corrupt bastards and expose pompous windbags. At some critical juncture, the initiate gets left to fend for herself; a suitably imaginative (and hopefully stylish) resolution to the problem earns the accolades of peers and a place among the Adepts. In short, then, most Adepts enter the group through the grand Internet tradition of trolling.
-
-
 ==== Focus
-_Everything is Data_. Thus, in this _Mechanistic Cosmos_, every tool or practice an Adept employs focuses on shaping, altering, manipulating, gathering, storing, collating, influencing, or destroying information. Such tools range from the obvious computer gear (generations ahead of conventionally available tech), clouds, holograms, implants, nanotech, energy drinks, and sense-altering stimuli to the understated chic of dark hoodies, manga-influenced haircuts, fashionable androgyny, and provocative masks. All Adepts, however, keep the implements of their technomagick handy. For many Adepts, computers are a more important part of one's identity than any attire or accessory. An Adept's personal devices are almost always the most heavily customized and stylized elements of that Adept's ensemble.
+/* _Everything is Data_. Thus, in this _Mechanistic Cosmos_, */ Every tool or practice an Adept employs focuses on shaping, altering, manipulating, gathering, storing, collating, influencing, or destroying information. Such tools range from the obvious computer gear (generations ahead of conventionally available tech), clouds, holograms, implants, nanotech, energy drinks, and sense-altering stimuli to the understated chic of dark hoodies, manga-influenced haircuts, fashionable androgyny, and provocative masks. All Adepts, however, keep the implements of their technomagick handy. For many Adepts, computers are a more important part of one's identity than any attire or accessory. An Adept's personal devices are almost always the most heavily customized and stylized elements of that Adept's ensemble.
 
 Perhaps the most accomplished reality hackers alive, this Mercurial Elite also employs various forms of cybernetics, hypertech, weird science, martial arts, chaos magick, gutter magick, and sometimes shamanism, Voudoun, crazy wisdom, or witchcraft with a technological flair.
 
@@ -393,7 +325,7 @@ Gain #trait[Correspondence #d6] or #trait[Forces #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
-
+// TODO
 
 
 #colbreak()
@@ -405,33 +337,22 @@ They were initially founded as the Order of Reason in 1325, a group dedicated to
 Now the Technocratic Union enforces global order under their Enlightened guidance and protection. Dedicated to wiping out Reality Deviants, they've spent over 500 years at war with the mystic Traditions, wonder and nonconformity.
 
 
-#colbreak()
+#pagebreak()
 === Iteration X
 The Iteration X are engineers, technicians, inventors, and the mighty production forge of the Technocracy. Experts in technology that is beyond any scientific understanding of the Masses, they use advanced theories of physics, hypertech, AI to expand the boundaries of inorganic sciences, and improve the human condition with the cold, calculated efficiency of steel, microchip, and cybernetic implant.
-
-
-==== Organization
-Iterators employ chains of command that dictate missions with mathematical precision. Ideally, the operatives and their Convention work as parts of a larger machine, setting aside autonomy and ego. Both agents and supervisors are expected to perform to their utmost ability, sacrificing themselves, when necessary, for the greater good.
-
-Among the lower ranks, Socially Conditioned Iterators work exclusively with one another, refining their teamwork and proving their value. Successful agents gradually achieve free will, greater trust, upgrades, enhancements, and cross-Convention assignments that reward efficient flexibility. Experienced Iterators learn to critique and question their superiors but also to wait until the right moment to do so. For most Iterators, gray areas are unacceptable; instead, each action becomes a binary choice, swiftly evaluated as either success or failure.
-
-Repeated failures condemn an Iterator to serve time as part of a mindless machine. The lowest-ranking operatives are little more than tools, and a powerful cyborg who cannot manage his resources must temporarily surrender his autonomy to more efficient external management.
-
-
-==== Initiation
-Sophisticated calculations (that is, Time-based Procedures) help Iteration X recruiters find likely personnel before those people reach Enlightenment. Soldiers, scientists, mathematicians, philosophers, and even people with profound physical handicaps all provide suitable personnel, so long as they can accept an essential role in a greater whole. Previously Awakened recruits are rare, but they can be Socially Conditioned to accept assimilation. Once a potential initiate has been removed from the distracting imperfections of the Masses, a complex process of indoctrination, surgery, and enhancement shapes each Iterator into an effective and often Enlightened operative. Failed experiments, meanwhile, get deconstructed into Kamrads and Ciphers, creating an army of obedient workers and soldiers who act in unison toward programmed goals.
 
 
 ==== Focus
 The core of Iteration X science comes from the synergy between organic, mechanical, social, mathematical, and psychological elements. And so, cybernetics, craftwork and hypertech forge the foundation of this group's practices. Innovative Iterators employ martial arts, social dominion, hypereconomics, and reality hacking -- after all, even perfection must be flexible! A few even hold a demi-religious faith in the ultimate potential of The Machine; these days, though, they don't often discuss that out loud.
 
-_A Mechanistic Cosmos_ presents the obvious paradigm for Iteration X. Clearly, _Tech Holds All Answers_. Math-inclined members of this Convention assure their comrades that _Everything is Data_. This group has no use for "fuzzy" paradigms, so the Sphere of Dimensional Science is an extremely rare discipline among its ranks.
+// _A Mechanistic Cosmos_ presents the obvious paradigm for Iteration X. Clearly, _Tech Holds All Answers_. Math-inclined members of this Convention assure their comrades that _Everything is Data_. This group has no use for "fuzzy" paradigms, so the Sphere of Dimensional Science is an extremely rare discipline among its ranks.
 
 
 ==== Bonus Asset
 Choose one hypertech Device that you created or integrated into your body, and gain that as an asset rated at #d6.
 
 
+#colbreak()
 ==== Bonus Specialities
 Choose three specialities from #trait[Craft #d6], #trait[Cybernetics #d6], #trait[Science #d6], #trait[Technology #d6]. Gain them as bonus specialities.
 
@@ -443,30 +364,19 @@ Gain #trait[Forces #d6], #trait[Matter #d6] or #trait[Time #d6] as an Affinity S
 
 
 ==== Faction SFX
+// TODO
 
 
-
-#colbreak()
+#pagebreak()
 === New World Order
 The New World Order, often shortened to N.W.O., are the secret police force within the Technocracy, dedicated on shaping and guiding information in progress with the Collective Will of the Masses. The New World Order is responsible for much of processing of Reality Deviants and advancing the goals of the Time Table.
 
 
-==== Organization
-Reflecting that three-pronged strategy, the NWO employs three primary Methodologies to implement its goals. The Operative group sends agents -- typically the Black Suits, though it employs less obvious agents too -- into the field to address threats and collect intelligence. The Ivory Tower handles administration and implementation throughout the entire Technocracy and also disseminates controlled truths through Sleeper academia. Meanwhile, the Watchers collect information, simultaneously circulating messages of control and complacency among the Masses so as to minimize chaos and dissent. All three agencies report to upper-echelon supervisors, who direct operations from safe distance.
-
-Meanwhile, two other Methodologies -- Q Division and the Feed -- provide support for the other operations. Technically a cross-Convention imperative, Q Division provides the field gear for Technocratic agents (NWO and otherwise), and the Feed assesses and guides the growing power of the Internet and its many social technologies. Within all NWO divisions, an ascending order of seniority (Black Suits/ Gray Suits/ White Suits) reflects what the Order calls the "purification of genius" and the formality of control.
-
-
-==== Initiation
-By reviewing standardized academic and vocational tests, scanning databases, and coordinating covert surveillance efforts, the Ivory Tower selects potential recruits. Generally, a new recruit dies to his oldlife and enters a newlife as a NWO trainee. Other recruits get converted from among the Union's enemies, by way of the Order's sophisticated Social Conditioning techniques.
-
-Because these tactics can be very resource-intensive, the NWO bolsters its ranks with clones: unEnlightened constructs trained to act in unison, empowered with a telepathic hive mind, and chemically altered to disintegrate upon death. As a matter of course, the NWO subjects its agents to varying degrees of indoctrination and social conditioning, depending on individual performance and their roles out there in the field.
-
-
 ==== Focus
-In _A World of Gods and Monsters_, _Might is Right_ and _Tech Holds All Answers_. Social dominion and the command of consciousness -- that is, the influence, harnessing, programming, and reprogramming of the homo sapiens mind -- provides the cornerstone of this New World Order's techniques. To that end, psychic training, information manipulation, perceptual conditioning, and symbolic connections (like a man wearing a formal black suit and carrying a badge) provide the essential tools for NWO Procedures. Physical media constitute the second level of manipulation, with the third and most brutal level -- force -- channeled through guns, armor, gadgets, hypertech vehicles, advanced weaponry, and the martial arts training all operatives receive. Paranoia, however, is the Order's strongest weapon. If people believe you can do something, after all, their belief tilts reality in your favor before you even begin to act.
+/* In _A World of Gods and Monsters_, _Might is Right_ and _Tech Holds All Answers_. */ Social dominion and the command of consciousness -- that is, the influence, harnessing, programming, and reprogramming of the homo sapiens mind -- provides the cornerstone of this New World Order's techniques. To that end, psychic training, information manipulation, perceptual conditioning, and symbolic connections (like a man wearing a formal black suit and carrying a badge) provide the essential tools for NWO Procedures. Physical media constitute the second level of manipulation, with the third and most brutal level -- force -- channelled through guns, armour, gadgets, hypertech vehicles, advanced weaponry, and the martial arts training all operatives receive. Paranoia, however, is the Order's strongest weapon. If people believe you can do something, after all, their belief tilts reality in your favour before you even begin to act.
 
 
+#colbreak()
 ==== Bonus Asset
 Choose one item that represents (or confirms, I'm unsure) your legal authority, and gain that as an asset rated at #d6.
 
@@ -482,30 +392,21 @@ Gain #trait[Mind #d6] or #trait[Correspondence #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
+// TODO
 
 
-
-#colbreak()
+#pagebreak()
 === Progenitors
 The Progenitors are doctors and medicians within the Technocracy, dedicating themselves to biological sciences. Masters of the Sphere of Life, they employ the tools of genetic manipulation, hyper-advanced surgical techniques and sophisticated drugs to constantly push the envelope of medicine. They sometimes work closely with Iteration X, especially in the fields of cybertechnology and artificial body parts.
 
 
-==== Organization
-Throughout its various Methodologies (Pharmacopoeists, Genegineers, FACADE Engineers, and the cross-disciplinary Damage Control), this Convention follows an academic hierarchy. UnEnlightened facilitators (janitors, lab assistants, receptionists) provide support for the ascending ranks of Students, Research Associates, Primary Investigators, Research Directors, and the mysterious Administrators. A ruthless but unEnlightened contingent of field and street operatives (backed up by the Conventions' considerably more capable collection of clones, constructs, Victors, biomodified agents, and bestial projects) provides muscle when needed. The most versatile Progenitor agents learn techniques and Procedures from all of these disciplines, developing formidable arsenals of scientific knowledge.
-
-Advancement through those ranks demands constant study, research, and innovation. Students must pass many tests, eventually providing and defending a thesis that demonstrates her mastery of Enlightened Science. Success means promotion to progressively higher levels, levels at which the various scientists contend for grants and resources. Investigators spend copious amounts of time working with teams of other agents to prove their loyalty and usefulness to the Technocracy. As one would expect, if they can't publish successful results for the Union, they might perish for their failure.
-
-
-==== Initiation
-This Convention prefers to find potential recruits before they Awaken. Working with the Ivory Tower, Progenitor supervisors analyze standardized tests and search databases to find clever scholars with budding potential. (Recruiting Progenitors after their Awakening is more difficult… but the Union offers answers for troubled minds.) Promising recruits get tagged before medical school, sponsored with scholarships, and offered a chance for something more. If a recruit accepts, she receives training above and beyond what the Masses can offer; if she refuses, then the entire episode gets wiped from her mind and she just has a bad quarter, defined only by hazy recollections and a lingering feeling that she missed something grand. In the worst cases, the student ODs on recreational drugs or suffers stress-based suicide. The Progenitors hate to waste good material, but life isn't always fair.
-
-
 ==== Focus
-The intricate enigmas and potential of organic life provide the foundation of Progenitor techniques. Upon that framework, an individual Progenitor can build a wide variety of innovations. Although specific applications must be scientifically defensible (even if extremely loosely so), the Progenitors employ a dizzying variety of theories and Procedures. That said, those weird science techniques typically demand the presence of a well-stocked lab and intricate, often time-consuming, labor. Any tool that a healer, scientist, or naturalist would use can yield miraculous results in the skillful hands of a trained Technocrat, but the Progenitors usually need time and space to work their miracles.
+The intricate enigmas and potential of organic life provide the foundation of Progenitor techniques. Upon that framework, an individual Progenitor can build a wide variety of innovations. Although specific applications must be scientifically defensible (even if extremely loosely so), the Progenitors employ a dizzying variety of theories and Procedures. That said, those weird science techniques typically demand the presence of a well-stocked lab and intricate, often time-consuming, labour. Any tool that a healer, scientist, or naturalist would use can yield miraculous results in the skilful hands of a trained Technocrat, but the Progenitors usually need time and space to work their miracles.
 
-To certain evolutionists, _Might is Right_, paradigm-wise. Most Progenitors, however, favor the agnostic Gaia-hypothesis approach to _Creation's Divine and Alive_. Cybernetics blend in with a hypertech approach to medicine-work, and the Convention's eclectic methods often seem like weird science by the standards of other Conventions.
+/* To certain evolutionists, _Might is Right_, paradigm-wise. Most Progenitors, however, favor the agnostic Gaia-hypothesis approach to _Creation's Divine and Alive_. */ Cybernetics blend in with a hypertech approach to medicine-work, and the Convention's eclectic methods often seem like weird science by the standards of other Conventions.
 
 
+#colbreak()
 ==== Bonus Asset
 Choose one biological modification that assists your experiments, which you developed during training, and gain that as an asset rated at #d6.
 
@@ -521,7 +422,7 @@ Gain #trait[Life #d6] or #trait[Prime #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
-
+// TODO
 
 
 #colbreak()
@@ -529,18 +430,10 @@ Gain #trait[Life #d6] or #trait[Prime #d6] as an Affinity Sphere.
 A political bloc-turned-Convention, the Syndicate is one of the most reviled Conventions, even within the Technocracy. They control the flow of money and trade among the Masses as well as in the Union. This leaves them in a very unpopular position and they are often blamed for perceived shortcomings. The Syndicate knows, however, that they are the glue which keeps the Union together and that the Technocracy could not function without them.
 
 
-==== Organization
-Organized like a corporation (or perhaps it's the other way around…), the Syndicate descends in a top-down pyramid. At the apex sits a CEO and 10 Vice Presidents of Operations (VPOs) who head the Board; from there, the various Chairmen (or Vision Men) answer to the Board, supervising each Construct and Symposium. Managers answer to these Chairmen, and Associates (or Magic Men) answer to the Managers. Those Associates comprise the lowest rank of unEnlightened Syndicate ops, with Providers (a.k.a. Our Friends or simply Staples) rounding out the lowest duties and handling most of the busywork at the bottom of that pyramid.
-
-
-==== Initiation
-Talent, hard work, industrious imagination, and a gift for playing hardball mean everything in this Convention. Recruits often come from offices or business schools where scouts watch for rising stars… especially ones who are deeply in debt, incredibly skillful, or both. After a series of interviews, the would-be recruit is tested, employed as a Provider, and groomed for ruthless acumen and personal responsibility. If and when a prospective Associate reveals that she controls money rather than letting money control her, she receives a promotion to the head division. There, she begins to learn the secrets of desire and the means to manipulate reality's bottom line.
-
-
 ==== Focus
 Ars Cupiditae, the Art of Desire, provides the heart of Syndicate methodology. Refined by the High Guild during the medieval period, this portfolio of techniques focuses on self-mastery and social psychology. Essentially, the practitioner disciplines his own body and mind, refines relationship techniques, and establishes a kingdom around himself that he gradually expands into an empire of subtle but compelling influence.
 
-Except in the most desperate circumstances, a Syndicate rep never resorts to vulgar Procedures; even then, those Adjustments employ high-tech weapons, martial arts, or other stylishly technological methods. Most often, a Syndicate Associate manipulates people and systems with subtle yet effective nudges -- phone calls, bribes, handshakes, perfumes, seductions, power lunches, PowerPoint presentations, hypereconomics, social domination, and so on -- that get other people to pull the trigger while the Associate tallies up the profits. _Might is Right_ in the Syndicate world; without it, civilization as we know it is on a _One-Way Trip to Oblivion_.
+Except in the most desperate circumstances, a Syndicate rep never resorts to vulgar Procedures; even then, those Adjustments employ high-tech weapons, martial arts, or other stylishly technological methods. Most often, a Syndicate Associate manipulates people and systems with subtle yet effective nudges -- phone calls, bribes, handshakes, perfumes, seductions, power lunches, PowerPoint presentations, hypereconomics, social domination, and so on -- that get other people to pull the trigger while the Associate tallies up the profits. /* _Might is Right_ in the Syndicate world; without it, civilization as we know it is on a _One-Way Trip to Oblivion_. */
 
 
 ==== Bonus Asset
@@ -558,7 +451,7 @@ Gain #trait[Entropy #d6], #trait[Mind #d6], or #trait[Prime #d6] as an Affinity 
 
 
 ==== Faction SFX
-
+// TODO
 
 
 #colbreak()
@@ -566,20 +459,13 @@ Gain #trait[Entropy #d6], #trait[Mind #d6], or #trait[Prime #d6] as an Affinity 
 Explorers of wild frontiers on earth and beyond it, Void Engineers are cataloguing, taming, and assimilating the discovered dimensions into a safely controlled cosmos for the Masses to exist in. The Void Engineers, in addition to being dimensional scientists and explorers, are the first line of defence the Technocracy puts between humanity and the horrors man was not meant to know.
 
 
-==== Organization
-Especially in the wake of the Dimensional Anomaly, Void Engineer groups follow military-style ranks: Technicians, Marines, and Cadets form the lowest echelon, graduating upward to become Enforcers (who guard the borders), Explorers (who chart new territory), Investigators (who pursue scientific inquiries), or Researchers (who develop new tech). Higher-ranking personnel within these levels assume command of individual units. At the highest level, a series of Coordinators handles the logistical and administrative responsibilities, overseeing the Convention as a whole. (Note: In an Avatar Storm metaplot, this Convention changes drastically; see Convention Book: Void Engineers for details.)
-
-
-==== Initiation
-Recruiting personnel from among top-level researchers, tech geeks with an eye for unconventional applications of science, and folks who feel disappointed by science program cutbacks, the Engineers bring their Cadets off-world to specially designed training and research facilities. From that point onward, a Cadet is considered initiated whether or not she ever achieves Enlightenment -- she's seen too much to ever be considered mundane again.
-
-
 ==== Focus
 As every Engineer knows, only Tech Holds All Answers in A World of Gods and Monsters. Without imposed order, Everything is Chaos. And so, hypertech melds with cybernetics, craftwork, cosmic reality hacking, and a formalized type of weird science.
 
-Mind-bending quantum physics, and the machines created to channel those physics, form the core of Wanderer beliefs. To that end, they adapt alien technologies and sanitized versions of ancient spiritual Arts, incorporated through reconciliation theories that bind those ideas and energies to scientific methods. In the Realms beyond Earth's limited reality sphere, Void Engineer technologies have all the subtlety of a big-budget science-fiction film. Blasters slide out of holsters, power-armor suits become essential, and titanic Universal craft (that is, spaceships) are the order of the day.
+Mind-bending quantum physics, and the machines created to channel those physics, form the core of Wanderer beliefs. To that end, they adapt alien technologies and sanitized versions of ancient spiritual Arts, incorporated through reconciliation theories that bind those ideas and energies to scientific methods. In the Realms beyond Earth's limited reality sphere, Void Engineer technologies have all the subtlety of a big-budget science-fiction film. Blasters slide out of holsters, power-armour suits become essential, and titanic Universal craft (that is, spaceships) are the order of the day.
 
 
+#colbreak()
 ==== Bonus Asset
 Choose a Device that shields you from a particular hazardous environment and assists in employing Enlightened procedures, and gain that as an asset rated at #d6.
 
@@ -595,4 +481,4 @@ Gain #trait[Spirit #d6], #trait[Correspondence #d6], or #trait[Forces #d6] as an
 
 
 ==== Faction SFX
-
+// TODO
