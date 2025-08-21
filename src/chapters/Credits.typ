@@ -23,6 +23,8 @@ SirKnightBush, my dearest friend, Emily Butterfly, and Leland Waywright/The Sile
 
 Vecna and the entire Cortex Prime discord for the input, brainstorming, advice and help.
 
+White Wolf Wiki for Mage faction descriptions.
+
 
 #colbreak()
 #heading(level: 1, outlined: false, title_text)
