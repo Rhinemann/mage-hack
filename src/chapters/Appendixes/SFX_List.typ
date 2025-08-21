@@ -117,6 +117,8 @@ _*Expert Healer:*_ When you roll to help an ally recover #trait[Damaged] or #tra
 
 _*Exploit Weakness:*_ Spend a #pp to double your target's stress die in your roll to inflict stress on them.
 
+_*Familiar Bond:*_ When you suffer Backlash you can step down your familiar asset to ignore it. If the Backlash effect die is larger than the asset shut it down instead. Recover the asset the same way as #trait[Drained] stress.
+
 _*Fence:*_ When you reveal that you've found a buyer for stolen goods or a seller of necessary (but probably stolen) goods, gain them as a #d8 asset as well as the complication #trait[Disreputable #d6].
 
 _*First Strike:*_ When you roll to inflict stress on a foe, if it's the first time you've rolled to inflict stress on that foe this scene, step up your effect die.
