@@ -49,6 +49,8 @@ _*Building Momentum:*_ When you succeed on a roll to inflict stress or complicat
 
 _*Burglar:*_ If you are about to be discovered somewhere you're not supposed to be, you may spend a #pp to gain a #d8 asset to conceal you.
 
+_*Burnt Offerings:*_ Step down an offering asset to earn a #pp or step down your #trait[Drained]. It's up to ST to decide if an asset is a worthy offering.
+
 _*Burst of Strength:*_ Spend a #pp or take #trait[Enraged #d6] to step up or on a roll related to feats of physical strength, raw muscle, or sheer physical might.
 
 _*Catch 'Em Flat-Footed:*_ When you roll to inflict stress on a target who hasn't yet taken a turn this scene, add #d8 and step up your effect die.
@@ -138,6 +140,8 @@ _*Guards & Wards:*_ Take #trait[Drained #d6] to step up when rolling to cast pro
 _*Have a Little Faith:*_ When you would take #trait[Demoralised] stress, spend a #pp to step down the stress you take. If this steps the stress down below #d6, you take no stress at all.
 
 _*Healing Touch:*_ Roll to create an asset related to healing magic, which lasts until the session ends or until it steps down below #d6. Step down the asset to step down the or of one creature you touch.
+
+_*Heart's Blood:*_ Take Damaged d6 to earn a #pp or step down your #trait[Drained].
 
 _*Heist Planner:*_ Immediately after you create an asset, spend a #pp to step up that asset by narrating a flashback to when and how you prepared for this contingency.
 
