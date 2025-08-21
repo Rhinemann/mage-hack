@@ -359,6 +359,12 @@ When an SFX lets you step down a stress or complication, it remains stepped down
 Some SFX let you add your own complication or stress to your dice pool for a roll. When you do so, the opposition doesn't get to roll that complication or stress against you -- you're already using it to your own advantage, so in that moment it isn't a disadvantage for you.
 
 
+=== SFX & Magick
+Some of the SFX allow you to perform magickal effects without rolling your Spheres, but to be able to unlock the SFX and use the effect created by it, you must have the narrative permissions by having the Sphere rating that would allow you to produce the effect normally.
+
+Also, all magick-related SFX are subject to all the rules Paradox, such as Paradox growth by vulgar magick, that are described further.
+
+
 #colbreak()
 == The Peril Pool
 During play, the ST maintains their own special, ongoing pool of dice that represents the overall ebb and flow of trouble and danger across the entire adventure. This is the peril pool, and when a player rolls a test, the ST usually rolls the peril pool to oppose them. Dice in the peril pool are called peril dice.
