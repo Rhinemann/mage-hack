@@ -392,7 +392,7 @@ Gain #trait[Mind #d6] or #trait[Correspondence #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
-// TODO
+NWO agents have _*Requisitions*_ from Appendix B: SFX List as their Faction SFX.
 
 
 #pagebreak()
