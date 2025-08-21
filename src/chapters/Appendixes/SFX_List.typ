@@ -225,6 +225,10 @@ _*Reliable Memory:*_ Spend a #pp to reroll a dice pool focused on memory or reca
 
 _*Reliable Specialty:*_ When you fail a roll that included a specialty of #d8 or larger, spend a #pp to reroll all your dice. Afterwards, shut down this SFX until the end of the scene.
 
+_*Requisitions:*_ Take a #trait[Indebted #d8] complication to create a #d8 Wonder asset you temporarily possess and shut down the SFX. Recover by recovering the complication.
+
+Note to STs, the complication shouldn't be too simple to recover.
+
 _*Righteous Condemnation:*_ When you criticize someone for improper, cruel, or unfaithful actions, you may spend a #pp to step down your #trait[Demoralised].
 
 _*Rods, Staves, & Wands (Gear):*_ When your roll using magic to inflict stress or a complication includes an asset that is a rod, staff, or wand, add #d6 and step up your effect die.
