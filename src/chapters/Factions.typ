@@ -354,7 +354,7 @@ Gain #trait[Life #d6] or #trait[Forces #d6] as an Affinity Sphere.
 
 
 ==== Faction SFX
-
+Verbenae have _*Balm*_, _*Beastform*_, _*Claws & Fangs*_, _*Healing Touch*_, and _*Oak & Mistletoe*_ from Appendix B: SFX List as their Faction SFX.
 
 
 #colbreak()
