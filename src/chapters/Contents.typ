@@ -19,6 +19,6 @@
 }
 
 
-#show: chapter.with(chapter_name: "Contents", outlined: false)
+#show: chapter.with(chapter_name: "Contents")
 #set par(leading: 0.6em)
-#outline(title: none)
+#outline(title: none, depth: 3)
