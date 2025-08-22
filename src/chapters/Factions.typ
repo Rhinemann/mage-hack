@@ -29,22 +29,24 @@ They believe that mind, body and spirit are all part of the larger whole of the 
 
 
 #colbreak()
-==== Bonus Asset
-Choose a person who helped you significantly along the path of enlightenment, then gain that person as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [A person who helped you significantly along the path of enlightenment],
+  [Bonus\ Specialities],
+  [
+    #trait[Awareness]\
+    #trait[Esoterica]\
+    #trait[Martial Arts]\
+    #trait[Meditation]
+  ],
 
-
-==== Bonus Specialities
-Choose three specialities from #trait[Awareness #d6], #trait[Esoterica #d6], #trait[Martial Arts #d6], #trait[Meditation #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-Pursuers of harmony between mind, body and soul, the Akashayana hone their physical forms to perfections, so that an even greater, ever-sharp mind can sprout from this vessel.
-
-Gain #trait[Mind #d6], or #trait[Life #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-// TODO
+  [Affinity Sphere], [#trait[Mind], or #trait[Life]],
+  [Faction SFX],
+  [
+    /* TODO */
+  ],
+)
 
 
 #pagebreak()
@@ -61,22 +63,28 @@ The Arts flow not from personal achievement or intent but from faith, unity, and
 
 
 #colbreak()
-==== Bonus Asset
-Choose one object or place that is instrumental to your faith, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [An object or a place that is instrumental to your faith],
+  [Bonus\ Specialities],
+  [
+    #trait[Ceremony]\
+    #trait[Empathy]\
+    #trait[Music]\
+    #trait[Theology]
+  ],
 
-
-==== Bonus Specialities
-Choose three specialities from #trait[Ceremony #d6], #trait[Empathy #d6], #trait[Music #d6], #trait[Theology #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-A symphony of many in the worship of the resplendent and fractured One, the Celestial Chorus use their songs to bring forth divine Creation, commune with beings beyond or channel the heavenly wrath itself through light and lightning.
-
-Gain #trait[Prime #d6], #trait[Forces #d6], or #trait[Spirit #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-Choristers have _*Abjure the Unholy*_, _*Acolyte Militant*_, _*Aura of Faith*_, _*Blessed Orator*_, and _*Divine Providence*_ from Appendix B: SFX List as their Faction SFX.
+  [Affinity Sphere], [#trait[Prime], #trait[Forces], or #trait[Spirit]],
+  [Faction SFX],
+  [
+    _*Abjure the Unholy*_\
+    _*Acolyte Militant*_\
+    _*Aura of Faith*_\
+    _*Blessed Orator*_\
+    _*Divine Providence*_
+  ],
+)
 
 
 #colbreak()
@@ -92,22 +100,24 @@ To achieve that, the Cult uses things like drugs, music and sex, but they are ju
 The Cult's infamous substances and stimulations are meant to blast away any obstacles to Enlightenment, at least in theory. In reality, those same tools can become obstacles in their own right. Smart Ecstatics, then, keep shifting their tools around to avoid stagnation and constraints. Crazy wisdom is the core of this group's many practices, which include everything from gutter magick, yoga, and martial arts to cybernetic hypertech. /* And so, paradigms include _Creation's Divine and Alive_, _Everything is Chaos_, _It's All Good_, and quite often _Everything's an Illusion_. */
 
 
-==== Bonus Asset
-Choose a place that helps you to unshackle yourself from the earthly drudgery, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [A place that helps you to unshackle yourself from the earthly drudgery],
+  [Bonus\ Specialities],
+  [
+    #trait[Artistry]\
+    #trait[Awareness]\
+    #trait[Empathy]\
+    #trait[Pharmaceuticals]
+  ],
 
-
-==== Bonus Specialities
-Choose three specialities from #trait[Artistry #d6], #trait[Awareness #d6], #trait[Empathy #d6], #trait[Pharmaceuticals #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-Breaking through the illusions of human perception, the Sahajiya use the spectrum of sensory experience to exist beyond time itself, merging and diffusing their consciousness with the whole world, their bodies becoming a canvas for the artistry unimaginable to the common folk.
-
-Gain #trait[Time #d6], #trait[Life #d6], or #trait[Mind #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-// TODO
+  [Affinity Sphere], [#trait[Time], #trait[Life], or #trait[Mind]],
+  [Faction SFX],
+  [
+    /* TODO */
+  ],
+)
 
 
 #pagebreak()
@@ -122,26 +132,31 @@ As the Gauntlet has grown thicker and the Spirit World more dangerous, the shama
 ==== Focus
 Medicine, not magick, is the essence of Dreamspeaker Arts. An avatar is Howahkan: the mysterious voice that speaks to those who are ready to hear it. Sorcery is an egotistical and ultimately destructive Path that leads people away from the Good Road of harmony with the World Spirit. To reach past the illusions of mortal life, one must listen to Creation's heartbeat, face death, and remain open to the voice through which all life speaks.
 
-Practice-wise, 'Speakers favor medicine-work, craftwork, shamanism, crazy wisdom, and faith. A few pursue cybernetics, yoga, Voudoun, and witchcraft, but their companions often shun them. /* Common paradigms include _A World of Gods and Monsters_, _Creation's Divine and Alive_, _Bring Back the Golden Age_, and sometimes _Might is Right_. */
+Practice-wise, 'Speakers favour medicine-work, craftwork, shamanism, crazy wisdom, and faith. A few pursue cybernetics, yoga, Voudoun, and witchcraft, but their companions often shun them. /* Common paradigms include _A World of Gods and Monsters_, _Creation's Divine and Alive_, _Bring Back the Golden Age_, and sometimes _Might is Right_. */
 
 
-==== Bonus Asset
-Choose an item that a spirit companion of yours elected to inhabit making it a Fetish, and gain that as an asset rated at #d6.
+==== Faction Bonus
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [An item that a spirit companion of yours elected to inhabit making it a Fetish.],
+  [Bonus\ Specialities],
+  [
+    #trait[Etiquette]\
+    #trait[Herbalism]\
+    #trait[Mysticism]\
+    #trait[Technology]
+  ],
 
-
-#colbreak()
-==== Bonus Specialities
-Choose three specialities from #trait[Etiquette #d6], #trait[Herbalism #d6], #trait[Mysticism #d6], #trait[Technology #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-The bearers of enduring wisdom from ages past, the Kha'vadi hear the voice of the Earth through spiritual lamentation, communing with it to shape the animal, the stone and even the energy bringing modern technology alive in all their permutations.
-
-Gain #trait[Spirit #d6], #trait[Forces #d6], #trait[Life #d6], or #trait[Matter #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-Dreamspeakers have _*Dimensional Vagabond*_, _*Embolden the Spirits*_, _*One of Their Own*_, _*Quell The Spirits*_, and _*Storied History*_ from Appendix B: SFX List as their Faction SFX
+  [Affinity Sphere], [#trait[Spirit], #trait[Forces], #trait[Life], or #trait[Matter]],
+  [Faction SFX],
+  [
+    _*Dimensional Vagabond*_\
+    _*Embolden the Spirits*_\
+    _*One of Their Own*_\
+    _*Quell The Spirits*_\
+    _*Storied History*_
+  ],
+)
 
 
 #pagebreak()
@@ -159,23 +174,24 @@ Euthanatos are not cavalier about this responsibility, and are painfully aware o
 As masters of life, death, Fate, and Fortune, the Euthanatoi view magick as an extension of the Cycle. By turning the Wheel, these mages control probability as well as the forces of mortality. That turning focuses on the cyclical nature of existence, and so a Chakravat uses practices and instruments like crazy wisdom, faith, High Ritual, medicine-work, reality hacking, martial arts, shamanism, and occasionally Voudoun to direct those energies toward the desired end. Yoga has an essential place in this Tradition's Arts. /* _Divine Order and Earthly Chaos_ might be the group's most common paradigm; others include _Everything's an Illusion_, _Creation's Divine and Alive_, and even, believe it or not, _It's All Good -- Have Faith_. */
 
 
-==== Bonus Asset
-Choose a weapon or any other tool of choice you use to carry out your morbid responsibilities, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [A weapon or any other tool of choice you use to carry out your morbid responsibilities],
+  [Bonus\ Specialities],
+  [
+    #trait[Esoterica]\
+    #trait[Firearms]\
+    #trait[Medicine]\
+    #trait[Subterfuge]
+  ],
 
-
-#colbreak()
-==== Bonus Specialities
-Choose three specialities from #trait[Esoterica #d6], #trait[Firearms #d6], #trait[Medicine #d6], #trait[Subterfuge #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-Guardians of the Wheel of Dharma, the Chakravanti take on the grim duties of its enforcers, taking ownership over domains of death and life, making sure nothing strays from its destined path.
-
-Gain #trait[Death #d6], #trait[Life #d6], or #trait[Fate #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-// TODO
+  [Affinity Sphere], [#trait[Death], #trait[Life], or #trait[Fate]],
+  [Faction SFX],
+  [
+    /* TODO */
+  ],
+)
 
 
 #pagebreak()
@@ -189,22 +205,24 @@ Long considered a Lost Tradition, the Hollow Ones dwell in the underbelly of the
 Darklings use whatever they've got to work with -- typically things discarded by society. Broken toys, occult goodies, and symbols and behaviors that so-called respectable people shun make potent tools in the hands of a Hollow mage. Belief-wise, that hollow image is appropriately symbolic: these folks tend to see themselves as vessels of life and death, pouring their Arts out or carrying those cosmic forces from place to place. Magick, then, comes from the proper comprehension and intentional use of the energies that, in most people, are simply wasted. /* _Everything is Chaos, an Illusion, or a Mistake_, probably on a _One-Way Trip to Oblivion_. Some Hollowers insist that _It's All Good_, but they're the minority. */ Chaos and gutter magick are near-universal among the Hollow Ones. Although such Arts don't actually nurture chaos, they thrive in the chaos of our age.
 
 
-==== Bonus Asset
-Choose an object taken from an established magickal practice that you use in your Willworking, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [An object taken from an established magickal practice that you use in your Willworking],
+  [Bonus\ Specialities],
+  [
+    #trait[Artistry]\
+    #trait[Occultism]\
+    #trait[Streetwise]\
+    #trait[Subterfuge]
+  ],
 
-
-==== Bonus Specialities
-Choose three specialities from #trait[Artistry #d6], #trait[Occultism #d6], #trait[Streetwise #d6], #trait[Subterfuge #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-Revelling in the absurd condition of humanity in the Universe, the Hollow Ones spit in the face of tradition and established order, embracing and directing the chaos of existence, in all of it's morbidity and explosive nature.
-
-Gain #trait[Fate #d6], #trait[Death #d6] or #trait[Forces #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-// TODO
+  [Affinity Sphere], [#trait[Fate], #trait[Death] or #trait[Forces]],
+  [Faction SFX],
+  [
+    /* TODO */
+  ],
+)
 
 
 #pagebreak()
@@ -220,22 +238,30 @@ A Hermetic mage commands nothing less than the keys to the universe. And so, the
 Alchemy, dominion, and High Ritual form core practices within the Order's ranks. No Hermetic mage lacks such training. Certain Hermetics add chaos magick, the Art of Desire, hypertech, craftwork, weird science, yoga, and occasional maleficia to that core./* , pursuing such paradigms as A Mechanistic Cosmos, Divine_ Order and Earthly Chaos_, _Might is Right_, _Tech Holds All Answers_ and, naturally, _Bring Back the Golden Age_. */
 
 
-==== Bonus Asset
-Choose an effect that can be produced by any Initiate Practice that you have learned as a part of your training, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [An effect that can be produced by any Sphere at],
+  [Bonus\ Specialities],
+  [
+    #trait[Academics]\
+    #trait[Etiquette]\
+    #trait[Ritual]\
+    #trait[Science]
+  ],
+
+  [Affinity Sphere], [#trait[Forces] or any other Sphere appropriate for your House],
+  [Faction SFX],
+  [
+    _*Conjured Elemental*_\
+    _*Prepared Caster*_\
+    _*Rote Memorization*_\
+    _*Erudite Researcher (Gear)*_\
+    _*Rods, Staves, & Wands (Gear)*_
+  ],
+)
 
 
-==== Bonus Specialities
-Choose three specialities from #trait[Academics #d6], #trait[Etiquette #d6], #trait[Ritual #d6], #trait[Science #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-Excellence and knowledge made manifest, the Houses of the Order each wield great expertise in their fields of mystic art, though none shirk from the awe-inspiring displays of elemental prowess.
-
-Gain #trait[Forces #d6] or any other Sphere appropriate for your House as an Affinity Sphere.
-
-
-==== Faction SFX
-Hermetics have _*Conjured Elemental*_, _*Prepared Caster*_, _*Rote Memorization*_, _*Erudite Researcher (Gear)*_, and _*Rods, Staves, & Wands (Gear)*_ from Appendix B: SFX List as their Faction SFX.
 
 
 #pagebreak()
@@ -250,22 +276,30 @@ As a practice, an Etherite may use anything that seems to work. Most Scientists,
 
 
 #colbreak()
-==== Bonus Asset
-Choose a place where you conduct your research and create your marvellous devices safe from Consensus infringement, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset],
+  [A place where you conduct your research and create your marvellous devices safe from Consensus infringement],
 
+  [Bonus Specialities],
+  [
+    #trait[Academics]\
+    #trait[Cosmology]\
+    #trait[Craft]\
+    #trait[Technology]
+  ],
 
-==== Bonus Specialities
-Choose three specialities from #trait[Academics #d6], #trait[Cosmology #d6], #trait[Craft #d6], #trait[Technology #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-A volatile mixture of misunderstood visionaries and inventors, the Society is famous for its marvellous artifices that wield impossible energies and treat conservation of mass as a suggestion.
-
-Gain #trait[Matter #d6], #trait[Forces #d6], or #trait[Prime #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-Etherites have _*Trust Me, I'm an Engineer*_, _*It's Gonna Blow*_, _*How It's Made*_, _*Auxiliary Operational Mode (Gear)*_, and _*We Need More Funding*_ from Appendix B: SFX List as their Faction SFX.
+  [Affinity Sphere], [#trait[Matter], #trait[Forces], or #trait[Prime]],
+  [Faction SFX],
+  [
+    _*Trust Me, I'm an Engineer*_\
+    _*It's Gonna Blow*_\
+    _*How It's Made*_\
+    _*Auxiliary Operational Mode (Gear)*_\
+    _*We Need More Funding*_
+  ],
+)
 
 
 #pagebreak()
@@ -283,22 +317,28 @@ Verbena Arts concentrate on doing a lot with very little. Their tools are practi
 /* To all Verbenae, _Creation's Divine and Alive_. Because Creation, life, and divinity aren't particularly nice, other common Verbena paradigms include _A World of Gods and Monsters_, _Might is Right_, _Bring Back the Golden Age_, and _Everything is Chaos_. */ Witchcraft is the group's core practice, with certain individuals favouring Voudoun, dominion, weird science, chaos magick, yoga, martial arts, High Ritual, cybernetics, the Art of Desire, craftwork, medicine-work, and even organic hypertech.
 
 
-==== Bonus Asset
-Choose an animal that is inhabited by a spirit with whom you are bound with in a familiar connection, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [An animal that is inhabited by a spirit with whom you are bound with in a familiar connection],
+  [Bonus\ Specialities],
+  [
+    #trait[Animal Ken]\
+    #trait[Brawl]\
+    #trait[Herbalism]\
+    #trait[Survival]
+  ],
 
-
-==== Bonus Specialities
-Choose three specialities from #trait[Animal Ken #d6], #trait[Brawl #d6], #trait[Herbalism #d6], #trait[Survival #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-Adherents of the Old Ways and primal Life made manifest, the Verbenae are in sacred connection with nature, drawing power and favour from living beings and primordial terror of the elements.
-
-Gain #trait[Life #d6] or #trait[Forces #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-Verbenae have _*Balm*_, _*Beastform*_, _*Claws & Fangs*_, _*Healing Touch*_, and _*Oak & Mistletoe*_ from Appendix B: SFX List as their Faction SFX.
+  [Affinity Sphere], [#trait[Life] or #trait[Forces]],
+  [Faction SFX],
+  [
+    _*Balm*_\
+    _*Beastform*_\
+    _*Claws & Fangs*_\
+    _*Healing Touch*_\
+    _*Oak & Mistletoe*_
+  ],
+)
 
 
 #colbreak()
@@ -314,22 +354,24 @@ Digital anarchists, hackers of reality and technology, brilliant mathematicians 
 Perhaps the most accomplished reality hackers alive, this Mercurial Elite also employs various forms of cybernetics, hypertech, weird science, martial arts, chaos magick, gutter magick, and sometimes shamanism, Voudoun, crazy wisdom, or witchcraft with a technological flair.
 
 
-==== Bonus Asset
-Choose an informational system that you have access to and use for reality hacking, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [An informational system that you have access to and use for reality hacking],
+  [Bonus Specialities],
+  [
+    #trait[Computer]\
+    #trait[Enigmas]\
+    #trait[Streetwise]\
+    #trait[Technology]
+  ],
 
-
-==== Bonus Specialities
-Choose three specialities from #trait[Computer #d6], #trait[Enigmas #d6], #trait[Streetwise #d6], #trait[Technology #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-Anarchist visionaries cracking the code to reality, Virtual Adepts disregard facades of space and natural order, going into the informational backdoors of reality to erase any degree of separation between objects and their motive energies.
-
-Gain #trait[Correspondence #d6] or #trait[Forces #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-// TODO
+  [Affinity Sphere], [#trait[Correspondence] or #trait[Forces]],
+  [Faction SFX],
+  [
+    /* TODO */
+  ],
+)
 
 
 #colbreak()
@@ -352,23 +394,25 @@ The core of Iteration X science comes from the synergy between organic, mechanic
 // _A Mechanistic Cosmos_ presents the obvious paradigm for Iteration X. Clearly, _Tech Holds All Answers_. Math-inclined members of this Convention assure their comrades that _Everything is Data_. This group has no use for "fuzzy" paradigms, so the Sphere of Dimensional Science is an extremely rare discipline among its ranks.
 
 
-==== Bonus Asset
-Choose one hypertech Device that you created or integrated into your body, and gain that as an asset rated at #d6.
-
-
 #colbreak()
-==== Bonus Specialities
-Choose three specialities from #trait[Craft #d6], #trait[Cybernetics #d6], #trait[Science #d6], #trait[Technology #d6]. Gain them as bonus specialities.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [A hypertech Device that you created or integrated into your body],
+  [Bonus Specialities],
+  [
+    #trait[Craft]\
+    #trait[Cybernetics]\
+    #trait[Science]\
+    #trait[Technology]
+  ],
 
-
-==== Affinity Sphere
-Operating beyond the bleeding edge of technology, Iterators shackle the material world, the forces that animate it, as well as the flow of causality itself.
-
-Gain #trait[Forces #d6], #trait[Matter #d6] or #trait[Time #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-// TODO
+  [Affinity Sphere], [#trait[Forces], #trait[Matter] or #trait[Time]],
+  [Faction SFX],
+  [
+    /* TODO */
+  ],
+)
 
 
 #pagebreak()
@@ -381,22 +425,24 @@ The New World Order, often shortened to N.W.O., are the secret police force with
 
 
 #colbreak()
-==== Bonus Asset
-Choose one item that represents (or confirms, I'm unsure) your legal authority, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [An item that represents  your legal authority],
+  [Bonus Specialities],
+  [
+    #trait[Enigmas]\
+    #trait[Law]\
+    #trait[Manipulation]\
+    #trait[Melee]
+  ],
 
-
-==== Bonus Specialities
-Choose three specialities from #trait[Enigmas #d6], #trait[Law #d6], #trait[Manipulation #d6], #trait[Melee #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-The men behind the men, the NWO are the shepherds of humanity, who control both the masses, as well as the connections between them.
-
-Gain #trait[Mind #d6] or #trait[Correspondence #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-NWO agents have _*Requisitions*_ from Appendix B: SFX List as their Faction SFX.
+  [Affinity Sphere], [#trait[Mind] or #trait[Correspondence]],
+  [Faction SFX],
+  [
+    _*Requisitions*_
+  ],
+)
 
 
 #pagebreak()
@@ -411,22 +457,24 @@ The intricate enigmas and potential of organic life provide the foundation of Pr
 
 
 #colbreak()
-==== Bonus Asset
-Choose one biological modification that assists your experiments, which you developed during training, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [A biological modification that assists your experiments, which you developed during training],
+  [Bonus Specialities],
+  [
+    #trait[Academics]\
+    #trait[Medicine]\
+    #trait[Pharmaceuticals]\
+    #trait[Science]
+  ],
 
-
-==== Bonus Specialities
-Choose three specialities from #trait[Academics #d6], #trait[Medicine #d6], #trait[Pharmaceuticals #d6], #trait[Science #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-The guiding hand of evolution, Progenitors shape life itself and bring forth creatures that never existed before.
-
-Gain #trait[Life #d6] or #trait[Prime #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-// TODO
+  [Affinity Sphere], [#trait[Life] or #trait[Prime]],
+  [Faction SFX],
+  [
+    /* TODO */
+  ],
+)
 
 
 #colbreak()
@@ -440,22 +488,24 @@ Ars Cupiditae, the Art of Desire, provides the heart of Syndicate methodology. R
 Except in the most desperate circumstances, a Syndicate rep never resorts to vulgar Procedures; even then, those Adjustments employ high-tech weapons, martial arts, or other stylishly technological methods. Most often, a Syndicate Associate manipulates people and systems with subtle yet effective nudges -- phone calls, bribes, handshakes, perfumes, seductions, power lunches, PowerPoint presentations, hypereconomics, social domination, and so on -- that get other people to pull the trigger while the Associate tallies up the profits. /* _Might is Right_ in the Syndicate world; without it, civilization as we know it is on a _One-Way Trip to Oblivion_. */
 
 
-==== Bonus Asset
-Choose a business that you have appropriated as a Primal Venture, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset], [A business that you have appropriated as a Primal Venture],
+  [Bonus Specialities],
+  [
+    #trait[Finances]\
+    #trait[Law]\
+    #trait[Leadership]\
+    #trait[Subterfuge]
+  ],
 
-
-==== Bonus Specialities
-Choose three specialities from #trait[Finances #d6], #trait[Law #d6], #trait[Leadership #d6], #trait[Subterfuge #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-Money makes the world go around and the Syndicate are the money, finding value in everything that exists and had never existed, pulling the strings of weaker men, and exploiting the chaos of hypereconomics.
-
-Gain #trait[Entropy #d6], #trait[Mind #d6], or #trait[Prime #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-// TODO
+  [Affinity Sphere], [#trait[Entropy], #trait[Mind], or #trait[Prime]],
+  [Faction SFX],
+  [
+    /* TODO */
+  ],
+)
 
 
 #colbreak()
@@ -470,19 +520,23 @@ Mind-bending quantum physics, and the machines created to channel those physics,
 
 
 #colbreak()
-==== Bonus Asset
-Choose a Device that shields you from a particular hazardous environment and assists in employing Enlightened procedures, and gain that as an asset rated at #d6.
+==== Faction Bonuses
+#table(
+  columns: (50pt, 1fr),
+  [Bonus Asset],
+  [A Device that shields you from a particular hazardous environment and assists in employing Enlightened procedures],
 
+  [Bonus Specialities],
+  [
+    #trait[Cosmology]\
+    #trait[Firearms]\
+    #trait[Survival]\
+    #trait[Technology]
+  ],
 
-==== Bonus Specialities
-Choose three specialities from #trait[Cosmology #d6], #trait[Firearms #d6], #trait[Survival #d6], #trait[Technology #d6]. Gain them as bonus specialities.
-
-
-==== Affinity Sphere
-Brave explorers of the worlds beyond, Void Engineers are charting the expanses of dimensions real and not, and wielding the firepower to defend from threats without and within.
-
-Gain #trait[Spirit #d6], #trait[Correspondence #d6], or #trait[Forces #d6] as an Affinity Sphere.
-
-
-==== Faction SFX
-// TODO
+  [Affinity Sphere], [#trait[Spirit],\ #trait[Correspondence] , or #trait[Forces]],
+  [Faction SFX],
+  [
+    /* TODO */
+  ],
+)
