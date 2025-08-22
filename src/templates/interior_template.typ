@@ -75,3 +75,6 @@
 }
 
 #let trait(body) = smallcaps[*#body*]
+#let hitch(body) = text(red, body)
+#let total(body) = text(green, body)
+
