@@ -1,14 +1,18 @@
 #import "/templates/interior_template.typ": *
 #import "/templates/global.typ": *
 
+#set table(align: horizon + left)
 
 #show: chapter.with(chapter_name: "Factions")
-Choose one of the factions described in the following pages to define your character's alliances and their place among their fellow mages. A faction grants your character a signature asset, one or more specialities, and access to a list of faction SFX that your character can acquire more easily than general SFX.
+Choose one of the factions described in the following pages to define your character's alliances, training, and their place among their fellow mages.
+
+During character creation a faction you choose grants your character a signature asset rated at #d6, three specialities of your choice from the list provided by the faction rated at #d6, one Sphere you choose from those provided, and access to a list of faction SFX that your character can acquire more easily during character advancement than general SFX.
 
 Though a faction does not grant a free SFX, during character creation you can use the bonus enhancement all PCs receive to gain one of your faction SFX.
 
+#colbreak()
 == Traditions
-The Council of Ten Mystic Traditions, or simply the Traditions, are the default player characters and protagonists in the #title_content. The Traditions are a collection of magical traditions united by a common theory of magical Spheres, as well as a common purpose: the defense of magic and myth against the oppressive, static and safe Technocratic paradigm of predictability and control.
+The Council of Ten Mystic Traditions, or simply the Traditions, are the default player characters and protagonists in the #title_content. The Traditions are a collection of magical traditions united by a common theory of magical Spheres, as well as a common purpose: the defence of magic and myth against the oppressive, static and safe Technocratic paradigm of predictability and control.
 
 The council has traditionally maintained a seat for each Sphere, with certain Traditions (the Solificati and Ahl-i-Batin) leaving the council, only to be replaced by newer Traditions (the Sons of Ether and Virtual Adepts), and gain a new one with the introduction of the Death Sphere (Hollow Ones).
 
