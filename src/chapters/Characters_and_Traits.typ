@@ -8,14 +8,6 @@ Your character is a protagonist in the story you tell in the game, as well as yo
 A #d4 trait is underdeveloped or problematic, a #d6 is healthy and reliable, a #d8 is excellent and noteworthy, a #d10 is extraordinary and powerful, and a #d12 is world-class, the absolute pinnacle of your potential and capabilities.
 
 
-== Character Creation
-To create your neophyte mage character, you populate six trait sets -- distinctions, attributes, roles, specialities, signature assets, and Spheres -- and assign a die rating to each trait in those sets.
-
-For traits like roles, when making a new character, you are given an array of die ratings for each set -- such as #d10, #d8, #d6, #d6, #d4 -- and you assign one of these ratings to each trait in the set. So a character's roles might be #trait[Scholar #d6], #trait[Scoundrel #d4], #trait[Scout #d10], #trait[Soldier #d8], and #trait[Speaker #d6].
-
-When distributing these ratings, it is usually easiest to choose which of the traits is most significant, the one the character will rely on most and for which they would likely be most well-known to others. Assign the largest die rating to that one. Then choose their second best trait, one they are still really great with and can rely on, even if it isn't the most important one, and assign the second largest die rating to it. Then keep assigning in order from best to worst.
-
-
 == Faction & Focus
 When creating a character, choose one Faction, which grants you SFX and Limits to unlock when growing your character. Choosing a Faction should be your first decision because it defines many things about your character. The playable factions detailed in this document are: the Council of Ten Mystic Traditions and the Technocratic Union. Details on each appear in the Factions section. If you aren't affiliated with any Faction you are known as an Orphan, an unaffiliated mage.
 
@@ -58,14 +50,6 @@ Since Hinder earns you a #pp, which can be spent to include extra dice in your t
 Distinctions aren't necessarily permanent features of your character forever. Characters often evolve during play. These changes can be expressed through distinctions as well. See Spending XP later for rules to rewrite your distinctions.
 
 
-=== Character Creation: Distinctions
-Define your character by picking three distinctions, as follows:
-
-Each of your distinctions is rated #d8.
-
-For more inspiration when creating distinctions, including lists and optional die rolls, see Appendix A: Distinction Builder.
-
-
 #colbreak()
 == Attributes
 Another of your character's three major trait sets is your attributes, they represent the inherent characteristics your character possesses, there are six and for any situation there is at least one attribute that applies:
@@ -81,14 +65,6 @@ Another of your character's three major trait sets is your attributes, they repr
 - #trait[Charisma] includes presence, bearing, persuasiveness, social graces, force of personality, and personal magnetism.
 
 - #trait[Composure] includes willpower, self- control, tenacity, discipline, determination, resolve, and the ability to keep your emotions hidden or in-check.
-
-
-=== Character Creation: Attributes
-Assign the either of the following die rating arrays to your six attributes, in any order:
-- #d10, #d8, #d8, #d6, #d6, #d6,
-- #d8, #d8, #d8, #d8, #d6, #d6
-- or #d10, #d10, #d8, #d6, #d6, #d4.
-
 
 
 == Roles
@@ -109,10 +85,6 @@ Your largest rated role usually corresponds to how you best contribute to a grou
 Sometimes multiple roles might apply. Sneak up on a poacher with #trait[Scout] or #trait[Scoundrel]? Give battlefield orders with #trait[Soldier] or #trait[Speaker]? In those cases, choose the one your character prefers.
 
 
-=== Character Creation: Roles
-Assign the following die ratings to your five roles, in any order: #d10, #d8, #d6, #d6, #d4.
-
-
 // #colbreak()
 == Specialities
 Specialities are narrow skills that supplement the broad areas of expertise defined by your roles. Whenever a specialty applies, you roll it in addition to the appropriate role.
@@ -122,14 +94,6 @@ For example, you might use #trait[Soldier] to display your general prowess with 
 Specialities are free-form traits you create yourself. Specialities should never be as broad as roles; as a general rule, a specialty should apply to about a third as many situations as a basic role would (or less).
 
 Though specialities are like more focused versions of roles, there are no limits on what role you must use to include a specialty that suits your action. Returning to the above example, if you show off your skill with a knife to intimidate someone into answering your questions, your pool might include both your #trait[Speaker] role and an #trait[Athletics] or #trait[Weaponry] specialty.
-
-
-=== Character Creation: Specialities
-The faction you belong to adds a one or more specialities rated at #d6 to your character.
-
-Next you can choose add either two or three specialities to a new character. If you choose two, one is rated at #d8 and the other is a #d6; if you choose three, all three are rated at #d6.
-
-You can add a #d6 to the bonus speciality to step it up to #d8.
 
 
 #colbreak()
@@ -204,14 +168,6 @@ There are other, more specialised ways of regaining Quintessence, but every mage
 _*Channel Quintessence:*_ In a scene with a free source of quintessence, channel it to step down your #trait[Drained], then shut down this SFX. Activate an opportunity to recover.
 
 
-=== Character Creation: Magick
-The faction you belong to gives you a Sphere rated at #d6. This is your affinity Sphere, the Sphere you feel most connected to and understanding of.
-
-In addition you choose to add either two or three Sphere ratings to your new character. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
-
-You can add a #d6 to the affinity Sphere to step it up to #d8.
-
-
 #colbreak()
 == Signature Assets
 Signature assets are assets that have become permanent traits for a character, playing an ongoing and essential part in their story. Usually, they cover anything that gives you an advantage but isn't covered by your other trait sets.
@@ -230,15 +186,6 @@ Most signature assets break down into one of five categories: things, creatures,
 - _*Edges*_ are supernatural capabilities you can access via your magickal powers, such as psychic powers, exceptional senses, frequently-used spells, sacred rituals, or more powerful versions of the magickal powers available to every Awakened. Examples include #trait[Mind Reading], #trait[Locator Spell], #trait[Telekinesis], #trait[Chain Lightning Rote], #trait[Ritual of Flame Immunity], #trait[Levitation], #trait[For Conjuration], #trait[Vorpal Claws], #trait[Fox Transformation], etc. Anything that you and your ST agree suits your mage is fair game.
 
 
-// #colbreak()
-=== Character Creation: Signature Assets
-The faction you belong to adds a signature asset to your character.
-
-Additionally you choose to add either two or three of these additional signature assets to your new character. If you choose two, one is rated at #d8 and the other is #d6; if you choose three, all three are rated at #d6.
-
-You can add a #d6 to the signature asset gained from the Faction to step it up to #d8.
-
-
 #colbreak()
 == SFX
 Each character has a handful of SFX, reflecting special capabilities associated with their Faction & Focus distinction as well as their Awakened nature. Whenever you gain an SFX or Limit that isn't specific to your Faction, you can rename it to better suit your character.
@@ -246,10 +193,6 @@ Each character has a handful of SFX, reflecting special capabilities associated 
 Non-stress complications named in SFX (such as #trait[Over-Indulged] or #trait[On Fire]) are mere suggestions and can always be swapped for something more creative or appropriate to the moment.
 
 Some SFX are tagged as _*(Gear)*_. These generally require you to have the equipment described in the SFX in order to use some or all of the options that SFX offers.
-
-
-=== Character Creation: SFX
-Your character begins play with _*Avatar Reserve*_ and _*Channel Quintessence*_, in addition to _*Hinder*_.
 
 
 #colbreak()
@@ -330,26 +273,9 @@ Your character begins play with _*Avatar Reserve*_ and _*Channel Quintessence*_,
 
 
 === Character Creation: Limits
-You choose and gain one Limit from those listed above.
+You choose and gain one Limit from those listed in Appendix B: SFX & Limits.
 
 
-#colbreak()
-== Milestones
-As you play, your character can gain Experience Points (XP), which can be used to change or augment your traits. You earn XP using milestones, lists of actions or events that advance your character's story and give them a chance to grow.
-
-A character has two milestones at a time. A milestone usually has three levels, each of which provides a different amount of XP and can be tapped for XP at certain times:
-- A _*1 XP*_ level that you can hit once per beat;
-
-- A _*3 XP*_ level that you can hit once per scene;
-
-- And a _*10 XP*_ level that you can hit once per session.
-
-Once XP is gained, it can be spent between sessions to change or improve your traits, gain new traits, or unlock other benefits. After you complete the 10 XP level, you remove that milestone and replace it, starting a brand new milestone.
-
-(Theoretically, you could choose to send your character on a new version of the same journey by starting the same milestone over again, if you feel it captures an aspect of your character that you'd like to explore more deeply, but it's usually more interesting to move on to a new one.)
-
-
-#colbreak()
 === Character Creation: Milestones
 All new characters start play with two milestones. Unless you and your ST agree on alternate milestones, you start with the default _Goal-Driven_ and _Levelling Up_ milestones listed below.
 
@@ -370,13 +296,8 @@ All new characters start play with two milestones. Unless you and your ST agree 
 - _*10 XP*_ when you recover from stress of #d12 or larger, or when an asset you created for someone else helps defeat a challenge that has at least one trait at #d12.
 
 
-#colbreak()
-== Bonus Enhancement
-Once your other traits are determined, the rules grant you one final bonus, an enhancement to make sure your character is as close as possible to your vision for them.
-
-
 === Character Creation: Bonus Enhancement
-After all traits, SFX, and Milestones are set, choose just one of the following added bonus enhancements, then adjust your character accordingly:
+After all traits, SFX, and Milestones are set, choose just one of the following added bonus enhancements to make sure your character is as close as possible to your vision for them, then adjust your character accordingly:
 - Add a new #d6 specialty
 
 - Add a new #d6 signature asset
@@ -389,12 +310,8 @@ After all traits, SFX, and Milestones are set, choose just one of the following 
 
 - Upgrade a #d6 Sphere of your choice to #d8
 
-- Choose and gain one of the SFX listed in Appendix B: SFX List.
+- Choose and gain one of the SFX listed in Appendix B: SFX & Limits.
 
 
-=== Orphan Bonus
-If you do are an Orphan, you can take a Bonus Enhancement twice, instead of just once, but you are have no Faction SFX.
-
-
-== Completing Your Character
-Once you have determined and recorded your distinctions, attributes, roles, specialities, signature assets, SFX, Limits, and milestones, you have all the mechanical elements of your character in place. If you haven't already, you need to choose your character's name and pronouns. Once this is done, your character is complete!
+=== Completing Your Character
+Once you have determined and recorded your distinctions, attributes, roles, specialities, signature assets, Spheres, SFX, Limits, and milestones, you have all the mechanical elements of your character in place. If you haven't already, you need to choose your character's name and pronouns, and give them a description. Once this is done, your character is complete!
