@@ -1,6 +1,8 @@
 #import "/templates/interior_template.typ": *
 #import "/templates/global.typ": *
 
+#let h_nobreak = sym.hyph.nobreak
+
 
 #show: chapter.with(chapter_name: "What is Mage?")
 #title_content is a tabletop roleplaying game of urban fantasy, gothic punk, ambition, freedom, power and shifting realities built on rules inspired by _Cortex Prime_. The simple yet extremely powerful and encompassing rules will allow you to experience a familiar world of _Mage_ with new and exciting rules that are closer to modern narrative games.
@@ -33,59 +35,73 @@ The characters portrayed by everybody else are called player characters, or PCs.
 === Rolling Dice
 During play, everybody contributes to the story, but at some point you break out dice, introducing just enough randomness so no one knows what will happen until events unfold during play.
 
+When you want your character to do something, if there's nothing getting in your way, you just do it. If there is opposition (such as an opponent, difficult circumstances, a harsh environment, or a time limit), you roll the dice to figure out if you succeed or fail.
+
 
 === Traits & Dice
-Each character has a number of traits, which are things -- qualities, abilities, skills, useful items, or magick -- that can help them accomplish their goals.
+Your character is a protagonist in the story you tell in the game, as well as your primary means of interacting with both the world and the rules. Their traits and die ratings help you figure out who your character is and what they can do.
 
-Each trait is rated with one of five die sizes, each represented in this text with a symbol: a 4-sided die or #d4, a 6-sided die or #d6, an 8-sided die or #d8, a 10-sided die or #d10, or a 12-sided die or #d12. Each trait in a set is rated with a die size: #d4, #d6, #d8, #d10, or #d12. Generally, larger die sizes make a trait more effective, so #d6 is better than #d4.
+Each trait is rated between d4 and d12, each represented in this text with a symbol: #d4 -- a 4#h_nobreak\sided die, #d6 -- a 6#h_nobreak\sided die, #d8 -- an 8#h_nobreak\sided die, #d10 -- a 10#h_nobreak\sided die, or #d12 -- a 12#h_nobreak\sided die.
+
+A #d4 trait is underdeveloped or problematic, a #d6 is healthy and reliable, a #d8 is excellent and noteworthy, a #d10 is extraordinary and powerful, and a #d12 is world-class, the absolute pinnacle of your potential and capabilities.
 
 
-#colbreak()
-=== Trait Sets
-Traits are organized into trait sets.
-
-Examples of trait sets used in #title_content are roles (#trait[Scholar], #trait[Scoundrel], #trait[Scout], #trait[Soldier], and #trait[Speaker]) and assets (items or other factors that provide an advantage, such as #trait[Ornate Revolver] or #trait[Private Library]). One example trait set for a character might be the roles #trait[Scholar #d10], #trait[Scoundrel #d6], #trait[Scout #d4], #trait[Soldier #d6], and #trait[Speaker #d8].
-
-When you want your character to do something, if there's nothing getting in your way, you just do it. If there is opposition (such as an opponent, difficult circumstances, a harsh environment, or a time limit), you roll the dice for certain traits to figure out if you succeed or fail.
+Traits are organized into trait sets, that are: distinctions, attributes, roles, specialities, signature assets, and Spheres that will be expanded on later.
 
 
 === Your Dice Pool
-When you roll, you pick the most relevant trait from each set and roll the die for each of those traits, all together in one pool of dice. (An example dice pool might be #trait[Scholar #d10], #trait[Physics #d6], #trait[Forces #d8], and #trait[Chain Lightning #d6] to strike an enemy down with the force of a conjured lightning.)
+Whenever you roll, you must take a distinction, an attribute, and a role, one each from corresponding sets in one pool of dice.
+
+In cases where another one of your traits may help you may also add one speciality, as many assets as are appropriate, a Sphere if you are performing magick to your dice pool.
 
 
 === Your Total
-After rolling, you add two of the die results together for your total. The total is often, but not always, the two highest results.
+After rolling all your dice, you add two of the die results of your choice that aren't 1 together for your total. The total is often, but not always, the two highest results.
 
-So if my highest rolls were a 6 on a #d6 and a 6 on a #d10, I'd probably decide to add the two together for a total of 12.
+Your total affects whether you succeed or fail at an action, so the higher the total the better.
 
 
 === Your Effect Die
-After choosing die results for your total, you pick one of the other dice you rolled to be your effect die. This choice doesn't affect whether you succeed or fail. It's somewhat like rolling for damage in the original system is separate from your attack roll.
+After choosing die results for your total, you pick one of the other dice you rolled to be your effect die. The number rolled doesn't matter, as long as it isn't one, what matters is the die rating itself.
 
-If I rolled #d6#d6#d8#d10 for my dice pool, and used the results I rolled on the #d6 and the #d10 for my total, I'd use one of the remaining #d8 as my effect die.
+Effect die doesn't affect whether you succeed or fail, instead determining how successful your action was, so the higher your effect die the more successful you were.
 
 
 === Opposition
-When you roll, another player (often the Storyteller, ST) builds their own dice pool and rolls it. You compare your roll's total to theirs, and the higher roll succeeds.
+When you roll, another player (often the Storyteller, ST) builds their own dice pool and rolls it, taking their own total and effect die. You compare your roll's total to theirs, and the higher roll succeeds.
 
-If I roll and get a total of 12 and the opposition gets a 8, I win. The player who rolls first sets the bar for how difficult the roll should be, so that player wins ties.
+The player who rolls first sets the bar for how difficult the roll should be, so the initiating player wins ties.
 
 
 === Success
 If you win, the size of your effect die (not the number it rolled) determines how big of an effect your success had. You might say, "My effect die is #d8."
 
-For example, if you roll to hit someone with a weapon, your total determines whether you hit (like comparing an attack roll to armour class in the world's most popular RPG), and your effect die would be how much damage you inflict. Your total tells you whether the story goes your way; your effect die tells you how far it goes.
+For example, if you roll to hit someone with a weapon, your total determines whether you hit (like comparing an attack roll to armour class in the world's most popular RPG), and your effect die would be how much damage you inflict.
+
+Your total tells you whether the story goes your way; your effect die tells you how far it goes.
 
 
 #colbreak()
 === An Example of Play
-Lydia, a fashionista Hermetic mage of small height and large personality, is going home late in the evening after shopping for fabric, but a suspicious man is following her. You describe Lydia grabbing a burning spider amulet on her neck, recalling Pattern classifications, and whispering a perceptive spell to read the man's aura.
+Lydia, a fashionista Hermetic mage of small height and large personality, is going home late in the evening after shopping for fabric, but a suspicious man is following her. The player describes Lydia grabbing a burning spider amulet on her neck, recalling Pattern classifications, and whispering a perceptive spell to read the man's aura.
 
-The ST asks you for a dice roll to see if the succeeds. You roll her traits #trait[Scout #d6], #trait[Alertness #d8], #trait[Spider in the Web #d8], and #trait[Prime #d6], getting 4 and 7 on #d8\s, 3 and 2 on #d6\s.
+The ST asks them for a dice roll to see if the succeeds. The decide to roll her traits #trait[Scout #d6], #trait[Alertness #d8], #trait[House Verditius Wondercrafter #d8], and #trait[Prime #d6], getting 4 and 7 on #d8\s, 3 and 2 on #d6\s.
 
-You pick 4 and 7 to add together for a total of 11. You use one of the remaining #d6\s as your effect die.
+They pick 4 and 7 to add together for a total of 11, and use one of the remaining #d6\s as the effect die.
 
 The man's total against her is 10, and since 11 is higher, Lydia wins. She gets to keep that #d8 effect as her read in the man. Her eyes fall upon the man, the spell pierces a strange film concealing him, and Lydia sees the bright, yet pale reddish-pink aura of a vampire on the hunt, she's in trouble.
+
+
+#figure(
+  table(
+    columns: (1fr, 1fr),
+    align: horizon + center,
+    [Lydia's roll], [Opposition's roll],
+    text(font: "Dicier Flat", 14pt, [2_ON_D6 *3_ON_D6* #total[4_ON_D8 7_ON_D8]]),
+    text(font: "Dicier Flat", 14pt, [*3_ON_D8* #total[6_ON_D8 4_ON_D8]]),
+  ),
+  caption: [Example roll, dice added to total are green, effect die is purple],
+)
 
 
 #pagebreak()
@@ -132,11 +148,24 @@ The most important uses of plot points include:
 
 - You can spend a #pp to instantly create a #d6 asset.
 
-- When you add up die results for your total, you can spend one #pp to add in the result from one additional die, increasing your total.
+- When you add up die results for your total, you can spend a #pp to add in the result from one additional die, increasing your total.
+
+- When choosing an effect die, you can spend a #pp to keep an additional effect die as a different effect on the same target or to inflict the same effect on multiple targets.
 
 - You can spend a #pp to make an asset useful to a whole group of people instead of just one.
 
 - When an asset would go away at the end of a scene or session, you can spend a #pp to keep it, starting the next scene or session with the asset still in play.
+
+The main ways of earning plot points are:
+- Rolling a distinction at #d4 as per _*Hinder*_.
+
+- Getting a 1 on a die and getting a #pp from the Storyteller.
+
+- Activating a Limit.
+
+- Performing obvious magick in front of mortal witnesses.
+
+All of these ways of earning #pp\s will be explained further later on in the book.
 
 Unless specified otherwise, you can spend plot points at any time, even when it isn't your beat or turn.
 
@@ -145,35 +174,25 @@ Any unspent plot points are lost at the end of a session, so it's best not to ho
 The ST doesn't have plot points, but they can influence the story in a similar way by using the dice in their peril pool.
 
 
-#colbreak()
-=== Hitches
+=== Hitches & Botches
 When you roll 1 on a die, you can't count that die towards your total or use it for your effect die.
 
-A die that rolls a 1 is called a hitch. When you roll a hitch, the ST can grant you a plot point to add a die to their peril pool. The more hitches you roll, the larger the die.
+A die that rolls a 1 is called a hitch. When you roll a hitch, the ST can decide grant you a #pp to add a die to their peril pool. The more hitches you roll, the larger the die added. You can't refuse the #pp offered.
 
-If every die in a pool hitches it's called a botch, and it means ST can use the hitches without paying you a plot point.
+If every die in a pool hitches it's called a botch, and it means ST can use all the hitches without paying you a plot point.
 
 When the ST rolls a hitch, it's called an opportunity. When the ST rolls an opportunity, you can spend a #pp to step up an existing asset or step down a complication.
 
 
-// #colbreak()
+=== Heroic Success
+When you succeed on a roll, if your total beats the opposing roll by 5 or more, you've scored a heroic success. This means that you not only achieve what you set out to do, but surpass your own expectations in doing so. For every 5 by which you beat the opposing roll, your effect die steps up by one size.
+
+
+#colbreak()
 === ST Plot Points
 When an ST activates a hitch, or when a PC gains a #pp from using _*Hinder*_ or a Limit, those plot points come from an infinite pile of plot points no one at the table needs to worry about monitoring or controlling. When players activate a ST opportunity, these #pp go back to that pile.
 
 However, when the ST wants to spend plot points to help a STC, they instead spend dice from their peril pool.
-
-
-#colbreak()
-=== Extra Effects
-When you want to achieve multiple outcomes from a single roll (including affecting more than one target), you can do so by spending plot points to keep extra effect dice beyond the first.
-
-For each #pp spent, you can choose one extra die from your roll to become an effect die. You can't choose hitches or dice that are already effect dice or part of your total. If you run out of dice to choose from, you can't keep more effect dice.
-
-Each effect die must do enact a different effect. For example if you are fighting a duo of Technocratic automata in an Umbral realm, you can use two effect dice to assign a #trait[Stepping Sideways] complication to each automaton, or to assign both #trait[Stepping Sideways] and a #trait[Short-circuiting] complication to the same automaton, but you can't use extra effect dice to assign #trait[Stepping Sideways] to the same automaton more than once with the same roll.
-
-Also, if you assign effect dice to multiple targets that each have their own dice to roll, each target gets their own opposition roll against you. Only those you beat take the effect.
-
-When you step up a #d12 effect die, you gain an extra #d6 effect die for that roll.
 
 
 #pagebreak()
@@ -191,13 +210,20 @@ You might simply roll to change your situation, such as by opening a locked door
 You might also roll to step down or end a complication; this is called recovery, and the rules for it are explained later.
 
 
-#colbreak()
-=== Heroic Success
-When you succeed on a roll, if your total beats the opposing roll by 5 or more, you've scored a heroic success. This means that you not only achieve what you set out to do, but surpass your own expectations in doing so. For every 5 by which you beat the opposing roll, your effect die steps up by one size.
-
-
 === Comparing Effect Dice
 Even when you fail a roll against someone, your effect die still matters. If your roll fails, but your effect die is larger than the opposition's effect die, the opposition's effect die steps down.
+
+
+=== Extra Effects
+When you want to achieve multiple outcomes from a single roll (including affecting more than one target), you can do so by spending plot points to keep extra effect dice beyond the first.
+
+For each #pp spent, you can choose one extra die from your roll to become an effect die. You can't choose hitches or dice that are already effect dice or part of your total. If you run out of dice to choose from, you can't keep more effect dice.
+
+Each effect die must do enact a different effect. For example if you are fighting a duo of Technocratic automata in an Umbral realm, you can use two effect dice to assign a #trait[Stepping Sideways] complication to each automaton, or to assign both #trait[Stepping Sideways] and a #trait[Short-circuiting] complication to the same automaton, but you can't use extra effect dice to assign #trait[Stepping Sideways] to the same automaton more than once with the same roll.
+
+Also, if you assign effect dice to multiple targets that each have their own dice to roll, each target gets their own opposition roll against you. Only those you beat take the effect.
+
+When you step up a #d12 effect die, you gain an extra #d6 effect die for that roll.
 
 
 === There's Always an Effect
@@ -472,7 +498,7 @@ If a wealth is stored away or saved up, it doesn't disappear, but either it's no
 
 #colbreak()
 == How to Be a Great Player
-As a #title_content player, part of your job is to respond to the challenges the GM lays down as well as interact with fellow player characters. The game works best when you go hard: describe your actions with cinematic energy. Instead of "I strike the zombie with lightning", you can draw your oaken want inscribed with sacred name of Baraquiel, the angel of lightning and speak the Latin incantation of Creo Fulmen to put the dead back to rest, slap the gun out of the vampire's hand, or any number of other options. There's no increased risk to your character when you get creative, so let your imagination run wild.
+As a #title_content player, part of your job is to respond to the challenges the ST lays down as well as interact with fellow player characters. The game works best when you go hard: describe your actions with cinematic energy. Instead of "I strike the zombie with lightning", you can draw your oaken want inscribed with sacred name of Baraquiel, the angel of lightning and speak the Latin incantation of Creo Fulmen to put the dead back to rest, slap the gun out of the vampire's hand, or any number of other options. There's no increased risk to your character when you get creative, so let your imagination run wild.
 
 One enthusiastically descriptive player is entertaining, but the good stuff is when the whole table starts riffing off each other's antics. Keep an eye out for opportunities to interact and open yourself up to others piling on to your fun. Be vocal: say "I need to shake this #trait[Demoralised] stress!" or "I'm gonna pin them in place with a complication, so you can finish them off!" The game works better -- both tactically and narratively -- if everybody is a part of everybody else's stories.
 

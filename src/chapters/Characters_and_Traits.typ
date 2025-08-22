@@ -3,9 +3,7 @@
 
 
 #show: chapter.with(chapter_name: "Characters & Traits")
-Your character is a protagonist in the story you tell in the game, as well as your primary means of interacting with both the world and the rules. Their traits and die ratings help you figure out who your character is and what they can do.
-
-A #d4 trait is underdeveloped or problematic, a #d6 is healthy and reliable, a #d8 is excellent and noteworthy, a #d10 is extraordinary and powerful, and a #d12 is world-class, the absolute pinnacle of your potential and capabilities.
+In this chapter you will learn what your mage is made of, what traits constitute him, and how he can influence the story with his dice.
 
 
 == Faction & Focus
@@ -97,7 +95,7 @@ Though specialities are like more focused versions of roles, there are no limits
 
 
 #colbreak()
-== Magick
+== Spheres
 Magick is represented by ten spheres, acknowledged, even if begrudgingly and by different names, by all factions in the Awakened world.
 
 Whenever you are creating a magickal effect you roll an appropriate Sphere.
