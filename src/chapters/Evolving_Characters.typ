@@ -5,6 +5,21 @@
 #show: chapter.with(chapter_name: "Evolving Characters")
 During play, your character will change. Some changes will be temporary; others will last the rest of your character's career.
 
+// #colbreak()
+== Milestones
+As you play, your character can gain Experience Points (XP), which can be used to change or augment your traits. You earn XP using milestones, lists of actions or events that advance your character's story and give them a chance to grow.
+
+A character has two milestones at a time. A milestone usually has three levels, each of which provides a different amount of XP and can be tapped for XP at certain times:
+- A _*1 XP*_ level that you can hit once per beat;
+
+- A _*3 XP*_ level that you can hit once per scene;
+
+- And a _*10 XP*_ level that you can hit once per session.
+
+Once XP is gained, it can be spent between sessions to change or improve your traits, gain new traits, or unlock other benefits. After you complete the 10 XP level, you remove that milestone and replace it, starting a brand new milestone.
+
+(Theoretically, you could choose to send your character on a new version of the same journey by starting the same milestone over again, if you feel it captures an aspect of your character that you'd like to explore more deeply, but it's usually more interesting to move on to a new one.)
+
 
 == Changing Milestones
 By default, once you hit the 10 XP level of a milestone, the entire milestone is closed; after the session ends, the closed milestone is replaced with a new one. (In some cases, the ST may allow this “replacement” to just be a fresh copy of the milestone.)
