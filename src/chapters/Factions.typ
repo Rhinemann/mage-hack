@@ -6,7 +6,7 @@
 #show: chapter.with(chapter_name: "Factions")
 Choose one of the factions described in the following pages to define your character's alliances, training, and their place among their fellow mages.
 
-During character creation a faction you choose grants your character a signature asset rated at #d6, three specialities of your choice from the list provided by the faction rated at #d6, one Sphere you choose from those provided, and access to a list of faction SFX that your character can acquire more easily during character advancement than general SFX.
+During character creation a faction you choose grants your character a signature asset, three specialities of your choice from the list provided by the faction, one Sphere you choose from those provided, all rated at #d6, as well as access to a list of faction SFX that your character can acquire more easily during character advancement than general SFX.
 
 Though a faction does not grant a free SFX, during character creation you can use the bonus enhancement all PCs receive to gain one of your faction SFX.
 
