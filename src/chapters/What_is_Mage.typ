@@ -125,8 +125,8 @@ Each session is divided into units of story and action called scenes, just like 
 Player actions take place in units of time called beats. A beat is simply how long it takes to complete one action or one piece of a larger action (including both the die roll to do something and the roll opposing it).
 
 
-=== Tests
-The most basic kind of die roll is a test. You say you want to do something, and if it requires a roll, but it isn't directly against another significant character (or PC), the ST rolls peril pool against you. (Peril pool will be further explained in the Storyteller chapter.)
+// === Tests
+// The most basic kind of die roll is a test. You say you want to do something, and if it requires a roll, but it isn't directly against another significant character (or PC), the ST rolls peril pool against you. (Peril pool will be further explained in the Storyteller chapter.)
 
 
 #colbreak()
@@ -188,11 +188,11 @@ When the ST rolls a hitch, it's called an opportunity. When the ST rolls an oppo
 When you succeed on a roll, if your total beats the opposing roll by 5 or more, you've scored a heroic success. This means that you not only achieve what you set out to do, but surpass your own expectations in doing so. For every 5 by which you beat the opposing roll, your effect die steps up by one size.
 
 
-#colbreak()
-=== ST Plot Points
-When an ST activates a hitch, or when a PC gains a #pp from using _*Hinder*_ or a Limit, those plot points come from an infinite pile of plot points no one at the table needs to worry about monitoring or controlling. When players activate a ST opportunity, these #pp go back to that pile.
+// #colbreak()
+// === ST Plot Points
+// When an ST activates a hitch, or when a PC gains a #pp from using _*Hinder*_ or a Limit, those plot points come from an infinite pile of plot points no one at the table needs to worry about monitoring or controlling. When players activate a ST opportunity, these #pp go back to that pile.
 
-However, when the ST wants to spend plot points to help a STC, they instead spend dice from their peril pool.
+// However, when the ST wants to spend plot points to help a STC, they instead spend dice from their peril pool.
 
 
 #pagebreak()
@@ -289,18 +289,18 @@ Supernatural creatures like mages can never recover #trait[Drained] stress excep
 
 #colbreak()
 == Assets
-An asset is a temporary trait that grants an advantage. When you create an asset, you choose whether it is for you or for another character. Usually, only the character you choose can use it.
+An asset is a temporary trait that grants an advantage. When you create an asset, you choose whether it is for you or for another character. Unless stated otherwise, only the character you choose can use it.
 
 Sometimes, an asset becomes permanent, making it an ongoing advantage that a character uses all the time. Such assets are called signature assets.
 
 
-=== Multiple Assets
+// === Multiple Assets
 A default rule for assets is that, unlike other types of traits, more than one asset can be added to the same dice pool, as long as each asset is being applied to the activity for which the player is rolling.
 
 Assets are possibly the most basic trait in the game, but there are a lot of ways this versatile trait can feature in your fantasy game.
 
 
-=== Creating Assets
+// === Creating Assets
 You can create an asset with a test. Your effect die becomes the rating of the asset, which you may use for the rest of the scene. Here's some assets that you might create during play: #trait[Conjured Thunder], #trait[Covered by Terrain], #trait[Suggestive Appearance], #trait[Expansive Reconnaissance].
 
 
@@ -320,13 +320,9 @@ When you step down an asset in this way or make it unavailable, it remains so un
 == Recovery
 Complications and stress can be downright crippling. Getting rid of complications or stress is called recovery.
 
+Free-form complications go away at the end of a scene or when they are no longer narratively appropriate. While stress is "stickier" and recovering is takes downtime: a scene when characters have a chance to recover -- by resting or some other form of self-care and recovery -- all stress dice except #trait[Drained] step down.
 
-=== Downtime
-During a scene when characters have a chance to recover -- by resting or some other form of self-care and recovery -- all stress usually dice step down. However, mages have the _*Avatar Reserve*_ Limit, which means they can only step down their #trait[Drained] stress using SFX.
-
-
-=== Expiring Complications
-Complications go away at the end of a scene or when they are no longer narratively appropriate.
+#trait[Drained] can only be recovered by downtime or other means when you have access to free Quintessence or special magickal practices.
 
 
 === Seizing an Opportunity
