@@ -104,9 +104,7 @@ If your effect requires multiple Spheres you must have all of them at the approp
 
 - #trait[Correspondence] the element of connection between apparently different things.
 
-- #trait[Death] the ending of things, absence, inevitable destruction, and decay.
-
-- #trait[Fate] the principle of chance, destiny and possibility.
+- #trait[Entropy] the principle of chance, fate and mortality.
 
 - #trait[Forces] the understanding of elemental energies.
 
@@ -125,32 +123,20 @@ If your effect requires multiple Spheres you must have all of them at the approp
 While those names are the ones understood by Traditions as the lingua franca of magic, every Faction has their own terminology and understanding for them, so you may feel free to rename the Spheres on your character sheet, so long as the rules themselves are maintained.
 
 
-#colbreak()
-=== Techniques
-Magick is divided into  Techniques by mages, each Technique describes broad kinds of effects a Mage can produce. You unlock more Techniques as your Sphere rating increases:
+=== Ranks
+Your magical capabilities are determined by your Sphere rating and are separated into five ranks of increasing power and complexity.
 
+- Perception #d6: An initiate grasps the essential principles and begins to perceive the ways in which that Sphere behaves. They can't alter anything just yet, but can put their observations to good use.
 
-==== Initiate #d6
-- _*Compelling*_ - subtle and minor influence of targets that could have occurred naturally.
-- _*Unveiling*_ - uncovering information about a target of magick.
+- Manipulation #d8: The mage begins to use the Sphere to make small alterations in their local reality. Although not yet able to perform dramatic Effects, they gain a small degree of control over the Sphere's principles, but for many tasks, a small degree of control is all you need.
 
-==== Apprentice #d8
-- _*Ruling*_ - control of effect targets without altering their properties and abilities.
-- _*Shielding*_ - protection against a particular phenomenon under the Sphere's purview.
-- _*Veiling*_ - concealing a target from detection, at well as concealing something else against a particular phenomenon under the Sphere's purview.
+- Control #d10: Achieving a greater level of accomplishment, the mage can make notable changes to elements connected with the Sphere. Remarkable feats become possible, and the mage approaches the realm of true wizardry.
 
-==== Disciple #d10
-- _*Fraying*_ - degrading Sphere's phenomena or using the Sphere to directly damage a target.
-- _*Perfecting*_ - strengthening, improving, healing and enhancing targets.
-- _*Weaving*_ - alteration of nearly any property of a phenomenon  without transforming it into something completely different.
+- Command #d12: An impressive command of the Sphere in question allows the mage to perform dramatic feats. Even when such Effects aren't obviously magick, they attain significant influence over the principles associated with that Sphere.
 
-==== Adept #d12
-- _*Patterning*_ - transforming a target into anything else within the Sphere or another Sphere with a combined Patterning effect.
-- _*Unraveling*_ - significantly damaging and degrading Sphere's phenomena or inflicting severe damage using the Sphere.
+- Mastery #d12 #d12: Magnificent feats become possible with such dominion within the Sphere. Literally godlike miracles greet the master of a Sphere, and Reality literally shapes itself to their whim.
 
-==== Master #d12 #d12
-- _*Making*_ - weaving phenomena out of pure Quintessence by combining Patterning Techniques of Prime and another Sphere.
-- _*Unmaking*_ - reducing a target to nothing by combining Unravelling Techniques of Prime and another Sphere.
+The further explanations of magickal powers may be found later in the dedicated chapter on magick as describing them briefly is borderline impossible.
 
 
 === Spending Quintessence
@@ -159,7 +145,6 @@ With the weight of Paradox growing stronger as they pull on threads of reality, 
 _*Avatar Reserve:*_ Gain a #pp, then take #trait[Drained #d6] at the end of the current beat.
 
 
-#colbreak()
 === Recovering Quintessence
 There are other, more specialised ways of regaining Quintessence, but every mage benefits from _*Channel Quintessence*_ SFX.
 
