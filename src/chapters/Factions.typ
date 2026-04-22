@@ -186,7 +186,7 @@ As masters of life, death, Fate, and Fortune, the Euthanatoi view magick as an e
     #trait[Subterfuge]
   ],
 
-  [Affinity Sphere], [#trait[Death], #trait[Life], or #trait[Fate]],
+  [Affinity Sphere], [#trait[Entropy], #trait[Life], or #trait[Spirit]],
   [Faction SFX],
   [
     /* TODO */
@@ -217,7 +217,7 @@ Darklings use whatever they've got to work with -- typically things discarded by
     #trait[Subterfuge]
   ],
 
-  [Affinity Sphere], [#trait[Fate], #trait[Death] or #trait[Forces]],
+  [Affinity Sphere], [Any],
   [Faction SFX],
   [
     /* TODO */

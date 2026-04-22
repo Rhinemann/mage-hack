@@ -134,7 +134,7 @@ Your magical capabilities are determined by your Sphere rating and are separated
 
 - Command #d12: An impressive command of the Sphere in question allows the mage to perform dramatic feats. Even when such Effects aren't obviously magick, they attain significant influence over the principles associated with that Sphere.
 
-- Mastery #d12 #d12: Magnificent feats become possible with such dominion within the Sphere. Literally godlike miracles greet the master of a Sphere, and Reality literally shapes itself to their whim.
+- Mastery #d12 [todo]: Magnificent feats become possible with such dominion within the Sphere. Literally godlike miracles greet the master of a Sphere, and Reality literally shapes itself to their whim.
 
 The further explanations of magickal powers may be found later in the dedicated chapter on magick as describing them briefly is borderline impossible.
 
@@ -178,7 +178,6 @@ Non-stress complications named in SFX (such as #trait[Over-Indulged] or #trait[O
 Some SFX are tagged as _*(Gear)*_. These generally require you to have the equipment described in the SFX in order to use some or all of the options that SFX offers.
 
 
-#colbreak()
 == Limits
 A Limit is a special type of SFX that imposes a disadvantage on your character in order to earn them #pp or another reward.
 
@@ -189,7 +188,6 @@ Every PC has at least one Limit.
 Unlike normal SFX, Limits can be activated by the ST as well as the player. Even when the ST does so, you still make all the choices and earn all the rewards listed for that Limit. For example, the _*We've Got History*_ Limit lets you earn a #pp by revealing that a STC was formerly your friend, ally, or lover. If the ST activates the Limit, you still decide whether the STC in question was your friend, or your ally, or your lover, and you still earn the #pp. The Limit says you also take #trait[#d6 Demoralised] or #trait[Enthralled] stress, but it is you who decides which of those two stresses you take, not the ST.
 
 
-#colbreak()
 === Reveals
 Some Limits allow you to reveal information about the scene or setting. When you do so, your character explains a fact about the story that is true, a fact you create just like the ST would. Just as the ST might have a STC say “These thugs all have tattoos from the Cult of the Crimson Covenant”, which establishes a truth about the world for everyone at the table, you have your character say something similar. Either way, the revelation changes the story, editing the narrative of your current scene to make the information you revealed true.
 
@@ -293,7 +291,9 @@ After all traits, SFX, and Milestones are set, choose just one of the following 
 
 - Upgrade a #d6 Sphere of your choice to #d8
 
-- Choose and gain one of the SFX listed in Appendix B: SFX & Limits.
+- Choose and gain one of the SFX listed in Appendix B: SFX & Limits.\
+
+If your character is an Orphan you apply two Bonus Enhancements to partly compensate for the lack of faction bonuses and represent your non-standard development as a mage.
 
 
 === Completing Your Character
