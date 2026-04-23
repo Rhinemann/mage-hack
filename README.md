@@ -8,3 +8,8 @@ This is a conversion of Mage: the Ascension roleplaying game, based on the 20th 
 
 # The Book
 <p align="center"><a href="https://rhinemann.github.io/mage-hack/target/Mage Conversion.pdf" type="application/pdf"><img src="target/cover.webp" alt="Rules"></a></p>
+
+TODO:
+- [ ] Implement Resonance. Three tracks, ranked, can be used for or against the character.
+- [ ] Distinctions Background => Sleeper, Faction => Awakened.
+
